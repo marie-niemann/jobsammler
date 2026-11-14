@@ -39,7 +39,7 @@ Alle Einstellungen stehen im Ordner [`config/`](config/). Ändern geht direkt au
 3. Ändern.
 4. Rechts oben auf **Commit changes…** klicken und noch einmal **Commit changes** bestätigen.
 
-Ab dem nächsten Lauf gilt die Änderung. Willst du sie sofort sehen, starte einen Lauf von Hand (siehe oben).
+Nach dem Speichern startet automatisch ein neuer Lauf. Nach etwa 5–10 Minuten siehst du das Ergebnis in `data/neu.md`.
 
 **Wichtig bei diesen Dateien:** Die Einrückung (Leerzeichen am Zeilenanfang) muss stimmen, und jeder
 Listeneintrag beginnt mit `- `. Am einfachsten kopierst du eine bestehende Zeile und änderst nur den Text.

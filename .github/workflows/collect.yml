@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 4 * * *"   # täglich 04:17 UTC = 05:17 Uhr Winterzeit / 06:17 Uhr Sommerzeit in Deutschland
   workflow_dispatch:        # von Hand startbar über "Run workflow"
+  push:                     # und sofort nach jeder Änderung an Einstellungen oder Programm
+    paths:
+      - "config/**"
+      - "sources/**"
+      - "collect.py"
+      - ".github/workflows/collect.yml"
 
 permissions:
   contents: write           # damit der Lauf data/ ins Repository schreiben darf
