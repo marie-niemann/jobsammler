@@ -19,6 +19,6 @@ jobs:
       - run: |
           git config user.name "jobsammler-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add recherche/check_boersen.json
+          git add recherche/dwdl_beispiel.html
           git commit -m "Prüfung radioszene/dwdl" || echo "nichts neu"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
