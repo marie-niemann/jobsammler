@@ -1,16 +1,16 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T14:13:33+01:00",
+ "gestartet": "2026-11-14T14:22:18+01:00",
  "dauerSekunden": 108,
- "offen": 24,
+ "offen": 22,
  "neuHeute": 0,
- "geschlossenHeute": 0,
- "geschlossenInDatei": 0,
+ "geschlossenHeute": 2,
+ "geschlossenInDatei": 2,
  "offenProQuelle": {
   "RADIOSZENE": 6,
-  "DWDL.de": 5,
   "Arbeitsagentur": 5,
   "newsroom.de": 4,
+  "DWDL.de": 3,
   "BR": 1,
   "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
@@ -18,8 +18,8 @@
  },
  "offenProRolle": {
   "host": 11,
-  "leitung": 6,
   "format": 4,
+  "leitung": 4,
   "casting": 2,
   "musik": 1
  },
@@ -55,7 +55,7 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 23,
+   "stellen": 21,
    "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
@@ -78,7 +78,7 @@
     },
     "DWDL.de": {
      "gesamt": 108,
-     "passend": 5,
+     "passend": 3,
      "beispiele": [
       "Executive Producer:in Development (m/w/d) | FILMREIF TV GmbH | Hamburg",
       "Head of IT und Media Technology (m/w/d) | Home Shopping Europe GmbH | Ismaning bei München",
@@ -289,7 +289,7 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1034,
+    "titel passt zu keiner rolle": 1035,
     "ausgeschlossen (Titel: praktik)": 184,
     "ausgeschlossen (Titel: performance marketing)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
@@ -299,9 +299,9 @@
     "ausgeschlossen (Titel: content marketing)": 4,
     "ausgeschlossen (Titel: ausbildung)": 46,
     "ausgeschlossen (Titel: trainee)": 12,
-    "ausgeschlossen (Titel: online marketing)": 25,
+    "ausgeschlossen (Titel: online marketing)": 24,
     "ausgeschlossen (Titel: online-marketing)": 13,
-    "ort passt nicht": 11,
+    "ort passt nicht": 13,
     "ausgeschlossen (Titel: volontariat)": 17,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
