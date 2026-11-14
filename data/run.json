@@ -1,16 +1,16 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T14:22:18+01:00",
- "dauerSekunden": 108,
- "offen": 22,
+ "gestartet": "2026-11-14T14:24:39+01:00",
+ "dauerSekunden": 107,
+ "offen": 20,
  "neuHeute": 0,
  "geschlossenHeute": 2,
- "geschlossenInDatei": 2,
+ "geschlossenInDatei": 4,
  "offenProQuelle": {
   "RADIOSZENE": 6,
   "Arbeitsagentur": 5,
-  "newsroom.de": 4,
   "DWDL.de": 3,
+  "newsroom.de": 2,
   "BR": 1,
   "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
@@ -18,8 +18,8 @@
  },
  "offenProRolle": {
   "host": 11,
-  "format": 4,
   "leitung": 4,
+  "format": 2,
   "casting": 2,
   "musik": 1
  },
@@ -55,12 +55,12 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 21,
+   "stellen": 19,
    "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
-     "passend": 7,
+     "passend": 5,
      "beispiele": [
       "Accountant Kreditoren & Debitoren (m/w/d) | newsroom.de | Ahrensburg",
       "Praktikant/Werkstudent (m/w/d) Marketing-Kommunikation | newsroom.de | Ulm",
@@ -301,7 +301,7 @@
     "ausgeschlossen (Titel: trainee)": 12,
     "ausgeschlossen (Titel: online marketing)": 24,
     "ausgeschlossen (Titel: online-marketing)": 13,
-    "ort passt nicht": 13,
+    "ort passt nicht": 15,
     "ausgeschlossen (Titel: volontariat)": 17,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,

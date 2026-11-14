@@ -1,8 +1,8 @@
-# Alle offenen Stellen (22)
+# Alle offenen Stellen (20)
 
 Stand: 14.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (11)](#moderation--host-vor-der-kamera-11) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (4)](#shows--formate-entwickeln-4) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
+**Rollen:** [Moderation & Host vor der Kamera (11)](#moderation--host-vor-der-kamera-11) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
 
 ## Moderation & Host vor der Kamera (11)
 
@@ -55,7 +55,7 @@ Stand: 14.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
   NDR Karriere-Feed · Hamburg
   <sub>Quelle: NDR Karriere-Feed · veröffentlicht 2025-06-17 · gefunden am 2026-11-14</sub>
 
-## Shows & Formate entwickeln (4)
+## Shows & Formate entwickeln (2)
 
 - **[Executive Producer:in Development (m/w/d)](https://www.dwdl.de/jobboerse/43499_filmreiftvgmbh.html)** 🆕  
   FILMREIF TV GmbH · Hamburg
@@ -63,12 +63,6 @@ Stand: 14.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[TV-Autor/in - Realisator/in (m/w/d) | Reportage, Dokumentation & Formatentwicklung](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003733811-S)** 🆕  
   Novo Film GmbH · Hannover
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-09-20 · gefunden am 2026-11-14</sub>
-- **[Executive Producer (m/w/d) für ein Prime-Time-Entertainment-Format](https://www.newsroom.de/jobs/aktuelle-jobs/film-tv-radio-10/executive-producer-mwd-fuer-ein-prime-time-entertainment-format-571125/)** 🆕  
-  newsroom.de · Köln
-  <sub>Quelle: newsroom.de · veröffentlicht 2026-10-29 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (casting)</sub>
-- **[Producer (m/w/d) für ein Prime-Time-Entertainment-Format](https://www.newsroom.de/jobs/aktuelle-jobs/film-tv-radio-10/producer-mwd-fuer-ein-prime-time-entertainment-format-571126/)** 🆕  
-  newsroom.de · Köln
-  <sub>Quelle: newsroom.de · veröffentlicht 2026-10-29 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (tour)</sub>
 
 ## Leitung Redaktion / Show (4)
 
