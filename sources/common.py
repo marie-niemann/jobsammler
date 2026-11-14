@@ -212,6 +212,9 @@ class Places:
         return {"ok": False, "rang": 99, "ort": text_loc, "remote": False, "hinweis": ""}
 
 
+GIG_ROLES = {"host", "digital", "radio", "casting", "musik"}
+
+
 class Filter:
     """Alle Regeln zusammen. evaluate() gibt (Eintrag-Ergänzung, Grund fürs Aussortieren) zurück."""
 
@@ -236,7 +239,10 @@ class Filter:
         role = self.matcher.guess(title)
         if not role:
             return None, "titel passt zu keiner rolle"
-        pl = self.places.judge(locations, title, text, remote_flag, company)
+        # Kurze Einsätze (Casting, Drehtag, Event ...) zählen nur bei Rollen vor Kamera/Mikro/Bühne.
+        # Bei Producer-, Redaktions- oder Leitungsstellen steht "Casting" oft nur als Aufgabe im Text.
+        gig_text = text if role in GIG_ROLES else ""
+        pl = self.places.judge(locations, title, gig_text, remote_flag, company)
         if not pl["ok"]:
             return None, "ort passt nicht"
         spec = self.roles[role]
