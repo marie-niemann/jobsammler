@@ -1,0 +1,2032 @@
+{
+ "zeit": "2026-11-14 11:51 UTC",
+ "check": {
+  "ARD Programmdirektion RSS": {
+   "url": "https://www.ard.de/die-ard/ard-programmdirektion/uebersicht-ard-programmdirektion-jobs-100~rss2.xml",
+   "final": "https://www.ard.de/die-ard/ard-programmdirektion/uebersicht-ard-programmdirektion-jobs-100~rss2.xml",
+   "status": 200,
+   "ctype": "application/xml;charset=UTF-8",
+   "laenge": 6239,
+   "anzahl": 5,
+   "titel": [
+    "Freie Stellen in der ARD-Programmdirektion",
+    "Karriere in der ARD – Ausbildungs-, Job- und Stellenangebote",
+    "Kontakt zur ARD-Programmdirektion",
+    "ARD-Zuschauerservice",
+    "Presseservice"
+   ],
+   "hosts": [
+    "blogs.law.harvard.edu",
+    "images.ard.de",
+    "purl.org",
+    "recruitingapp-5685.de.umantis.com",
+    "www.ard.de"
+   ],
+   "feeds": [
+    ">\n  <channel>\n    <title>Karriere + Jobs</title>\n    <link>https://www.ard.de/die-ard/ard-programmdirektion/uebersicht-ard-programmdirektion-jobs-100.html</link>\n    <description>Die aktuellen Beiträge der Seite https://www.ard.de/die-ard/ard-programmdirektion/uebersicht-ard-programmdirektion-jobs-100.html</description>\n    <language>de</language>\n    <copyright>ARD</copyright>\n    <lastBuildDate>Mon, 18 May 2026 11:46:55 +0200</lastBuildDate>\n    <pubDate>Mon, 18 May 2026 11:46:55 +0200</pubDate>\n    <docs>http://blogs.law.harvard.edu/tech/rss</docs>\n    <ttl>90</ttl>\n    <dc:publisher>ard.de</dc:publisher>\n    <dc:language>de</dc:language>\n    <dc:rights>ARD</dc:rights>\n    <dc:date>2026-05-18T09:46:52Z</dc:date>\n    <dc:source>ard.de</dc:source>\n    <item>\n      <title>Freie Stellen in der ARD-Programmdirektion</title>\n      <link>https://recruitingapp-5685.de.umantis.com/Jobs/1?lang=ger&amp;ContentOnly=</link>\n      <description>Die ARD-Programmdirektion in München sucht Mitarbeiter_innen (w/m/d) in folgenden Bereichen.</description>\n      <pubDate>Tue, 13 Jan 2026 15:23:38 +0100</pubDate>\n      <guid>ard-a19bc496-cbca-4143-960b-ca4fd6cf104e</guid>\n      <dc:date>2026-01-13T14:23:38Z</dc:date>\n      <content:encoded><![CDATA[<p> <a href=",
+    "?>\n<rss version=",
+    "http://purl.org/rss/1.0/modules/content/"
+   ],
+   "anfang": ""
+  },
+  "NDR Karriere RSS": {
+   "url": "https://www.ndr.de/der_ndr/karriere/index~rss2.xml",
+   "final": "https://www.ndr.de/der_ndr/karriere/index~rss2.xml",
+   "status": 200,
+   "ctype": "application/xml;charset=UTF-8",
+   "laenge": 13113,
+   "anzahl": 12,
+   "titel": [
+    "Wir machen Medien. Gemeinsam mit dir.",
+    "Der NDR als Arbeitgeber",
+    "Unsere Benefits",
+    "Standorte des NDR",
+    "Jobbörse für freie Mitarbeit",
+    "Ausbildung im NDR",
+    "Angebote für Musiker:innen und Sänger:innen",
+    "FAQ: Bewerbung beim NDR",
+    "Dein Draht zum NDR: Bewerbung &amp; Karriere",
+    "Provider-, Vendor- und Contractmanager*in Netzwerk",
+    "Sachbearbeiter*in im Gremienbüro",
+    "Praktikum für Erwachsene im Notenarchiv"
+   ],
+   "hosts": [
+    "blogs.law.harvard.edu",
+    "images.ndr.de",
+    "jobs.ndr.de",
+    "purl.org",
+    "www.ndr.de"
+   ],
+   "feeds": [
+    ">\n  <channel>\n    <title>Karriere im NDR</title>\n    <link>https://www.ndr.de/der_ndr/karriere</link>\n    <description>Die aktuellen Beiträge der Seite https://www.ndr.de/der_ndr/karriere</description>\n    <language>de</language>\n    <copyright>Norddeutscher Rundfunk (NDR)</copyright>\n    <lastBuildDate>Mon, 09 Nov 2026 17:49:57 +0100</lastBuildDate>\n    <pubDate>Mon, 09 Nov 2026 17:49:57 +0100</pubDate>\n    <docs>http://blogs.law.harvard.edu/tech/rss</docs>\n    <ttl>90</ttl>\n    <dc:publisher>ndr.de</dc:publisher>\n    <dc:language>de</dc:language>\n    <dc:rights>Norddeutscher Rundfunk (NDR)</dc:rights>\n    <dc:date>2026-11-13T13:44:48Z</dc:date>\n    <dc:source>ndr.de</dc:source>\n    <item>\n      <title>Wir machen Medien. Gemeinsam mit dir.</title>\n      <link>https://jobs.ndr.de/Jobs/1?lang=ger&amp;ContentOnly=</link>\n      <description>Wir machen Medien. Gemeinsam mit dir.</description>\n      <pubDate>Fri, 27 Jun 2025 18:49:20 +0200</pubDate>\n      <guid>9a87bbd6-c2b0-4f07-abe7-b404f7510174</guid>\n      <dc:date>2025-06-27T16:49:20Z</dc:date>\n      <content:encoded><![CDATA[<p> <a href=",
+    "?>\n<rss version=",
+    "http://purl.org/rss/1.0/modules/content/"
+   ],
+   "anfang": ""
+  },
+  "MDR Karriere RSS": {
+   "url": "https://www.mdr.de/karriere/index~rss2.xml",
+   "final": "https://www.mdr.de/karriere/index~rss2.xml",
+   "status": 200,
+   "ctype": "application/xml;charset=UTF-8",
+   "laenge": 13599,
+   "anzahl": 13,
+   "titel": [
+    "Das bietet der MDR als Arbeitgeber seinen Mitarbeitenden",
+    "Stellenangebote",
+    "Beschäftigungsangebote und Minijobs für Studierende und Aushilfen",
+    "Freie Mitarbeit",
+    "Berufsausbildung und Duales Studium",
+    "Redaktions- und Regionalvolontariat",
+    "Medien-Praktika für Schüler und Studenten",
+    "Der MDR bei LinkedIn",
+    "Der MDR bei XING",
+    "Der MDR bei kununu",
+    "Der MDR auf Instagram",
+    "Der MDR bei Facebook",
+    "Der MDR erklärt in Leichter Sprache"
+   ],
+   "hosts": [
+    "blogs.law.harvard.edu",
+    "images.mdr.de",
+    "purl.org",
+    "www.facebook.com",
+    "www.instagram.com",
+    "www.kununu.com",
+    "www.linkedin.com",
+    "www.mdr.de",
+    "www.xing.com"
+   ],
+   "feeds": [
+    ">\n  <channel>\n    <title>Karriere beim MDR: Stellenangebote, Ausbildungsplätze und Beschäftigungsangebote</title>\n    <link>https://www.mdr.de/karriere</link>\n    <description>Die aktuellen Beiträge der Seite https://www.mdr.de/karriere</description>\n    <language>de</language>\n    <copyright>Mitteldeutscher Rundfunk</copyright>\n    <lastBuildDate>Mon, 02 Nov 2026 09:51:16 +0100</lastBuildDate>\n    <pubDate>Mon, 02 Nov 2026 09:51:16 +0100</pubDate>\n    <docs>http://blogs.law.harvard.edu/tech/rss</docs>\n    <ttl>90</ttl>\n    <dc:publisher>mdr.de</dc:publisher>\n    <dc:language>de</dc:language>\n    <dc:rights>Mitteldeutscher Rundfunk</dc:rights>\n    <dc:date>2010-07-22T13:32:22Z</dc:date>\n    <dc:source>mdr.de</dc:source>\n    <item>\n      <title>Das bietet der MDR als Arbeitgeber seinen Mitarbeitenden</title>\n      <link>https://www.mdr.de/karriere/der-mdr-als-arbeitgeber-100.html</link>\n      <description>Der MDR ist ein lebendiges, offenes Unternehmen. Seinen Mitarbeitenden bietet er sichere Arbeitsplätze, vielfältige Sozialleistungen, tariflich geregelte Vergütung, flexible Arbeitszeitmodelle und vieles mehr.</description>\n      <pubDate>Fri, 14 Aug 2026 12:12:56 +0200</pubDate>\n      <guid>mdr-e0358328-3c3d-4fb6-ae00-92b4da045daf</guid>\n      <dc:date>2026-08-14T10:12:56Z</dc:date>\n      <content:encoded><![CDATA[<p> <a href=",
+    "?>\n<rss version=",
+    "http://purl.org/rss/1.0/modules/content/"
+   ],
+   "anfang": ""
+  },
+  "SWR Stellen RSS": {
+   "url": "https://www.swr.de/~rss/unternehmen/karriere/stellenangebote-110.xml",
+   "final": "https://www.swr.de/~rss/unternehmen/karriere/stellenangebote-110.xml",
+   "status": 200,
+   "ctype": "text/xml;charset=UTF-8",
+   "laenge": 12105,
+   "anzahl": 13,
+   "titel": [
+    "Betriebswirtschaft | Administration",
+    "Handwerk | Medienproduktion",
+    "IT | Technik",
+    "Journalismus | Redaktion",
+    "Klangkörper",
+    "Marketing | Gestaltung",
+    "Jobs SWR Media Services",
+    "Unsere Benefits - Was wir bieten",
+    "Barrierefreiheit",
+    "Praktika im SWR",
+    "Ausbildungsberufe",
+    "Mitarbeitende",
+    "Karriereblog"
+   ],
+   "hosts": [
+    "images.swr.de",
+    "search.yahoo.com",
+    "www.swr.de",
+    "www.swrmediaservices.de",
+    "www.w3.org"
+   ],
+   "feeds": [
+    " xmlns:atom=",
+    "?>\n<rss version=",
+    "application/rss+xml",
+    "http://search.yahoo.com/mrss/",
+    "https://www.swr.de/~rss/unternehmen/karriere/stellenangebote-110.xml"
+   ],
+   "anfang": ""
+  },
+  "HR Karriere RSS": {
+   "url": "https://www.hr.de/karriere/index.rss",
+   "final": "https://www.hr.de/karriere/index.rss",
+   "status": 200,
+   "ctype": "application/rss+xml;charset=UTF-8",
+   "laenge": 2595,
+   "anzahl": 1,
+   "titel": [
+    "Berufsinformationstag mit hr und FAZ"
+   ],
+   "hosts": [
+    "blogs.law.harvard.edu",
+    "hessenschau.de",
+    "purl.org",
+    "www.hr.de"
+   ],
+   "feeds": [
+    ">\n<channel>\n<title>Karriere im Hessischen Rundfunk: Jobs und Stellenangebote</title>\n<link>https://www.hr.de/karriere/index.html</link>\n<description>Willkommen auf den Karriereseiten des Hessischen Rundfunks! Aktuelle Jobs, Stellenangebote und Tipps für Bewerbungen.</description>\n<language>de-de</language>\n<copyright>Copyright - 2015 hr.de</copyright>\n<managingEditor>technikteam@hr.de (Technikteam)</managingEditor>\n<webMaster>technikteam@hr.de (Technikteam)</webMaster>\n<pubDate>Tue, 15 Sep 2026 16:45:47 +0200</pubDate>\n<lastBuildDate>Tue, 15 Sep 2026 16:45:47 +0200</lastBuildDate>\n<docs>https://blogs.law.harvard.edu/tech/rss</docs>\n<ttl>10</ttl>\n<item>\n<title>Berufsinformationstag mit hr und FAZ</title>\n<link><![CDATA[https://www.hr.de/karriere/alle-angebote/berufsinformationstag-mit-hr-und-faz-v1,berufsinformationstag_2026_mit_hr_und_faz-100.html]]></link>\n<description>Welche Wege führen in die Medien – und wie verändern Multimedia und Social Media den Beruf? Antworten, Einblicke und jede Menge Gelegenheit zum Austausch gibt es beim Berufsinformationstag „Dein Start in die Medien“ am 14. Oktober 2026 in Frankfurt. Der Tag wird von Netzwerk Journalismus e.V. zusammen mit dem Hessischen Rundfunk, der FAZ und dem Medienhaus der EKHN gestaltet. Die Teilnahme ist kostenlos, eine Anmeldung erforderlich.</description>\n<pubDate>Tue, 15 Sep 2026 16:11:39 +0200</pubDate>\n<guid isPermaLink=",
+    "?>\n<rss xmlns:content="
+   ],
+   "anfang": ""
+  },
+  "BR Karriere RSS": {
+   "url": "https://www.br.de/extra/karriere/karriere-ausbildung-werkstudenten-duales-studium-jobs-stellenmarkt-stellenangebote-100~rss.xml",
+   "final": "https://www.br.de/extra/karriere/karriere-ausbildung-werkstudenten-duales-studium-jobs-stellenmarkt-stellenangebote-100~rss.xml",
+   "status": 200,
+   "ctype": "text/xml",
+   "laenge": 13226,
+   "anzahl": 14,
+   "titel": [
+    "BR als Arbeitgeber: Aus Ãberzeugung beim BR",
+    "Das bieten wir: Die Benefits des Bayerischen Rundfunks",
+    "Der BR in Zahlen: Programme, Finanzen, Mitarbeitende und mehr",
+    "Journalismus &amp; Redaktion",
+    "Medienproduktion",
+    "IT &amp; Technik",
+    "Organisation &amp; Recht",
+    "Chor &amp; Orchester",
+    "Ausbildung",
+    "Duales Studium",
+    "Volontariate",
+    "Praktika",
+    "Trainee-Programme",
+    "Werkstudierende"
+   ],
+   "hosts": [
+    "purl.org",
+    "www.br.de",
+    "www.tagesschau.de",
+    "www.w3.org"
+   ],
+   "feeds": [
+    "http://purl.org/rss/1.0/",
+    "http://purl.org/rss/1.0/modules/syndication/",
+    "http://www.tagesschau.de/rss/1.0/modules/metaplus/1.2.0/",
+    "https://www.br.de/extra/karriere/karriere-ausbildung-werkstudenten-duales-studium-jobs-stellenmarkt-stellenangebote-100~rss.xml"
+   ],
+   "anfang": ""
+  },
+  "Deutschlandradio RSS": {
+   "url": "https://www.deutschlandradio.de/ausbildung-und-karriere-100.rss",
+   "final": "https://www.deutschlandradio.de/ausbildung-und-karriere-100.rss",
+   "status": 200,
+   "ctype": "application/rss+xml;charset=UTF-8",
+   "laenge": 3515,
+   "anzahl": 3,
+   "titel": [
+    "Stellenangebote",
+    "Angebote für freie Mitarbeit",
+    "Nachwuchsprogramme"
+   ],
+   "hosts": [
+    "bilder.deutschlandfunk.de",
+    "www.deutschlandradio.de",
+    "www.w3.org"
+   ],
+   "feeds": [
+    ">\n  <channel>\n    <title>Ausbildung und Karriere</title>\n    <link>https://www.deutschlandradio.de/ausbildung-und-karriere-100.html</link>\n    <atom:link rel=",
+    ">angebot-fuer-freie-mitarbeit-102</guid>\n  <pubDate>Wed, 15 Nov 2023 14:07:00 +0100</pubDate>\n</item> <!--/esi/rss-feed-index-doc.rss?drsearch%3Aprops=%7B%22itemReference%22%3A%7B%22__typename%22%3A%22SophoraReference%22%2C%22sophoraReferenceId%22%3A%229c8083b7-517e-4a24-8a61-6238dbef2eda%22%7D%7D-->\n    <item>\n  <title>Nachwuchsprogramme</title>\n  <link>https://www.deutschlandradio.de/nachwuchsprogramme-100.html</link>\n  <description>\n    <![CDATA[<img src=",
+    ">stellenangebote-100</guid>\n  <pubDate>Tue, 30 Nov 2021 10:32:00 +0100</pubDate>\n</item> <!--/esi/rss-feed-index-doc.rss?drsearch%3Aprops=%7B%22itemReference%22%3A%7B%22__typename%22%3A%22SophoraReference%22%2C%22sophoraReferenceId%22%3A%22d78df55b-4ca3-4bcb-b159-69dbd8f4d86d%22%7D%7D-->\n    <item>\n  <title>Angebote für freie Mitarbeit</title>\n  <link>https://www.deutschlandradio.de/angebot-fuer-freie-mitarbeit-102.html</link>\n  <description>\n    <![CDATA[Hier finden Sie Angebote zur freien Mitarbeit in unseren Redaktionen in Köln und Berlin.<br clear=",
+    "?>\n<rss xmlns:atom=",
+    "application/rss+xml",
+    "https://www.deutschlandradio.de/ausbildung-und-karriere-100.rss"
+   ],
+   "anfang": ""
+  },
+  "rbb Karriere RSS": {
+   "url": "https://www.rbb-online.de/unternehmen/karriere/rss.html",
+   "final": "https://www.rbb-online.de/unternehmen/karriere/rss.html",
+   "status": 200,
+   "ctype": "text/html;charset=utf-8",
+   "laenge": 33042,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "schema.org",
+    "www.antennebrandenburg.de",
+    "www.ard.de",
+    "www.ardmediathek.de",
+    "www.fritz.de",
+    "www.inforadio.de",
+    "www.radiodrei.de",
+    "www.radioeins.de",
+    "www.rbb-online.de",
+    "www.rbb24.de",
+    "www.rbb888.de",
+    "www1.wdr.de"
+   ],
+   "feeds": [
+    " />\n<title>\nRSS-Feeds  | rbb</title>\n\n\n\n\n\n\n\n\n\n<meta name=",
+    "/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/RSS-Feed.jpg.jpg/size=966x543.jpg",
+    "/content/rbb/rbb/unternehmen/karriere/rss",
+    "/unternehmen/karriere/rss.htm/listall=on/print=true.html",
+    "> \n\t\n\t\t\n\t\t\n\t\tRSS-Feeds\n\t</span>\n</h3>\n<ul class=",
+    "><p>Diese Feeds halten Sie über neue Stellenausschreibungen des rbb auf dem Laufenden - sortiert nach Zielgruppen.</p>\n</div>\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<a name=",
+    ">https://www.rbb-online.de/unternehmen/karriere/rss.html</textarea>\n\t\t\t\t\t\t\t\t</fieldset>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t<div class=",
+    "Abonnieren Sie die aktuellen Stellenausschreibungen des rbb als RSS-Feed - damit Sie kein Jobangebot verpassen.",
+    "RSS-Feeds",
+    "https://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/RSS-Feed.jpg.jpg/size=966x543.jpg",
+    "https://www.rbb-online.de/unternehmen/karriere/jobs/rss-absolventen.xml/allitems=true/feed=rss/path=middleColumnList!teaserbox.xml",
+    "https://www.rbb-online.de/unternehmen/karriere/jobs/rss-alle.xml/allitems=true/feed=rss/path=middleColumnList!teaserbox.xml",
+    "https://www.rbb-online.de/unternehmen/karriere/jobs/rss-berufserfahrene.xml/allitems=true/feed=rss/path=middleColumnList!teaserbox.xml",
+    "https://www.rbb-online.de/unternehmen/karriere/jobs/rss-schueler.xml/allitems=true/feed=rss/path=middleColumnList!teaserbox.xml",
+    "https://www.rbb-online.de/unternehmen/karriere/jobs/rss-studierende.xml/allitems=true/feed=rss/path=middleColumnList!teaserbox.xml"
+   ],
+   "anfang": " RSS-Feeds | rbb Zum Inhalt springen rbb Metanavigation ausklappen 8&deg;C Wetter Berlin 8 &deg;C Cottbus 8 &deg;C Frankfurt (Oder) 7 &deg;C Neuruppin 6 &deg;C Angerm&uuml;nde 6 &deg;C Potsdam 7 &deg;C Wetter in Berlin und Brandenburg Suche Suchbegriff Zurücksetzen Suchen Suchvorschläge Ergebnisse rbb24 Radio &amp; Podcast Fernsehen Mediathek Der rbb Der rbb Über uns Presse Karriere Dialog Kontakt"
+  },
+  "ZDF Karriere RSS": {
+   "url": "https://www.zdf.de/rss/zdf/unternehmen/karriere",
+   "final": "https://www.zdf.de/rss/zdf/unternehmen/karriere",
+   "status": 200,
+   "ctype": "application/xml",
+   "laenge": 8812,
+   "anzahl": 18,
+   "titel": [
+    "Trainee &quot;Medienrecherche&quot; oder &quot;Sport&quot;",
+    "Sch&#252;lerpraktika",
+    "Ein ZDF f&#252;r alle",
+    "Volontariat Bildmischer/in",
+    "Mit dem ZDF und der Uni zum Master",
+    "",
+    "Freie Mitarbeit beim ZDF",
+    "Benefits",
+    "",
+    "Praktikum",
+    "Studentische Aushilfen",
+    "Juristische Wahlstation",
+    "Duales Studium",
+    "Berufskraftfahrer/in",
+    "Kaufleute AV-Medien",
+    "&#220;ber 140 Berufsbilder. Eine Adresse.",
+    "Stellenausschreibungen",
+    "karriere.zdf.de"
+   ],
+   "hosts": [
+    "purl.org",
+    "search.yahoo.com",
+    "www.georss.org",
+    "www.itunes.com",
+    "www.opengis.net",
+    "www.w3.org",
+    "www.zdf.de"
+   ],
+   "feeds": [
+    " xmlns:atom=",
+    " xmlns:georss=",
+    ">\n<channel>\n    <title>Karriere</title>\n    <link>https://www.zdf.de/rss/zdf/unternehmen/karriere</link>\n    <atom:link href=",
+    "application/rss+xml",
+    "http://purl.org/rss/1.0/modules/content/",
+    "http://purl.org/rss/1.0/modules/taxonomy/",
+    "http://search.yahoo.com/mrss/"
+   ],
+   "anfang": ""
+  },
+  "newsroom Jobs RSS": {
+   "url": "https://www.newsroom.de/rss/jobs-feed/",
+   "final": "https://www.newsroom.de/rss/jobs-feed/",
+   "status": 200,
+   "ctype": "text/xml;charset=utf-8",
+   "laenge": 2857360,
+   "anzahl": 1000,
+   "titel": [
+    "Praktikant/Werkstudent (m/w/d) Marketing-Kommunikation",
+    "Praktikant*in Enterprise Tech-Kommunikation (Pflicht-Praktikum)",
+    "Sachbearbeiter (m/w/d) Digitale Kommunikation",
+    "Marketing &amp; Digitale Kommunikation (m/w/d)",
+    "Referent/Referentin (m/w/d) - &#xD6;ffentlichkeitsarbeit, Online-Kommunikation, Protokoll, Orden",
+    "Mitarbeiter Marketing, Kommunikation und &#xD6;ffentlichkeitsarbeit (m/w/d)",
+    "Dein Einstieg im Vertrieb - Junior Sales Consultant (m/w/d) in der Personalberatung - Quereinstieg m&#xF6;glich",
+    "Performance Marketing Manager - Social Media / Events (m/w/d)",
+    "Veranstaltungsleitung (w/m/d) Museumsevents im Mercedes-Benz Museum",
+    "Eventmanager - Veranstaltungsplanung / Corporate Events (m/w/d)",
+    "Multimedia-Redakteur (m/w/d) f&#xFC;r unser Content-Marketing-Team",
+    "Technischer Redakteur / Grafiker (m/w/d)",
+    "Sales Manager (m/w/d)",
+    "Praktikum Internationales Marketing (all genders)",
+    "Praktikum im Marketing | Kampagnen, Kooperation &amp; Media",
+    "Event Manager &#x2013; Europe (m/f/d)",
+    "Marketing-/Vertriebsstratege (m/w/d)",
+    "Mitarbeiter (m/w/d) f&#xFC;r Vertrieb und Marketing im Innendienst",
+    "Digital Sales Manager/ Digital Marketing Manager (w/m/d)",
+    "PR-Volont&#xE4;r (m,w,d)",
+    "Senior Consultant PR &amp; Kommunikation",
+    "Communication Consultant (m/w/d) Deep Tech",
+    "Werkstudent (m/w/d)",
+    "PR-Manager (m/w/d) &#x2013; Kommunikation &amp; Beteiligung",
+    "Praktikant oder Werkstudent (m/w/d)"
+   ],
+   "hosts": [
+    "bewerbung.madsack.de",
+    "bnn.de",
+    "geranova.jobs.personio.de",
+    "go.fzj.de",
+    "rankings.statista.com",
+    "www.carrier.com",
+    "www.doccheck.com",
+    "www.ef.com",
+    "www.feri.de",
+    "www.gn-medien.de",
+    "www.huth-wenzel.de",
+    "www.iz.de",
+    "www.ndr.de",
+    "www.newsroom.de",
+    "www.noz-mhn.de",
+    "www.palm.de",
+    "www.pharmatechnik.de"
+   ],
+   "feeds": [
+    " und lernst, wie moderne Marketer K&#xFC;nstliche Intelligenz nutzen, um ihre t&#xE4;gliche Arbeit effizienter zu gestalten - und wie sich Sichtbarkeit im Zeitalter von generativer Suche neu definiert.&lt;/li&gt; &lt;/ul&gt;&lt;br /&gt;&lt;p&gt;Du hast ein abgeschlossenes Studium (BWL, Marketing, Medienwissenschaften o.&#xE4;.) oder eine vergleichbare Ausbildung - aber viel wichtiger ist uns dein Mindset!&lt;/p&gt; &lt;ul&gt;  &lt;li&gt;Du hast ein Faible f&#xFC;r Zahlen. Daten schrecken dich nicht ab, sie wecken deine Neugier.&lt;/li&gt;  &lt;li&gt;Du hast ein gutes Auge f&#xFC;rs Detail, arbeitest strukturiert und verlierst auch bei komplexen Aufgaben nicht den &#xDC;berblick.&lt;/li&gt;  &lt;li&gt;Du hast Lust auf eine steile Lernkurve, nimmst Feedback als Chance zum Wachstum und bringst dich proaktiv ins Team ein.&lt;/li&gt;  &lt;li&gt;Du hast idealerweise schon eine Idee, in welche Richtung es f&#xFC;r dich gehen k&#xF6;nnte - oder Lust, das gemeinsam mit uns herauszufinden.&lt;/li&gt;  &lt;li&gt;Erste Praktika oder Ber&#xFC;hrungspunkte im digitalen Marketing sind ein Plus, aber kein Muss.&lt;/li&gt;  &lt;li&gt;Deutsch flie&#xDF;end und sicheres Englisch.&lt;/li&gt; &lt;/ul&gt;&lt;br /&gt;&lt;ul&gt;  &lt;li&gt;Mentoring &amp; Training: Du nimmst an zahlreichen internen und externen Schulungen teil. Erfahrene Kollegen stehen dir permanent als Mentoren zur Seite.&lt;/li&gt;  &lt;li&gt;Fokus-Squads &amp; Teamspirit: Wir arbeiten in agilen, 6&#x2013;7-k&#xF6;pfigen Fokus-Squads direkt an unseren Kunden. Das bedeutet f&#xFC;r dich: kurze Wege, ein intensives Teamgef&#xFC;hl und gemeinsamer Erfolg, den ihr als Einheit feiert.&lt;/li&gt;  &lt;li&gt;Agenturleben, das Spa&#xDF; macht: Eine harmonische Zusammenarbeit, flache Hierarchien und Kollegen, die sich gegenseitig pushen. Dazu Teamevents, kostenlose Getr&#xE4;nke und Snacks.&lt;/li&gt;  &lt;li&gt;Flexibilit&#xE4;t: Auch als Trainee genie&#xDF;t du bei uns flexible Arbeitszeiten und die M&#xF6;glichkeit zum Homeoffice.&lt;/li&gt;  &lt;li&gt;Internationale Luft: Durch unser Netzwerk von 28 Partnerb&#xFC;ros arbeitest du in einem wirklich globalen Umfeld.&lt;/li&gt;  &lt;li&gt;Die Perspektive: Unser klares Ziel ist es, dich nach erfolgreichem Abschluss deines Traineeships als festen Junior Manager in deiner Spezialdisziplin in unser Team zu &#xFC;bernehmen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Verrate uns dabei gern, welche Disziplin dich am meisten reizt (oder ob du dich bewusst noch nicht festlegen willst).&lt;/p&gt; &lt;p&gt;Bei uns z&#xE4;hlt Vielfalt. Wir leben Inklusion, Respekt und Chancengleichheit.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;NWSR1_DE&lt;/p&gt;</description><city>Frankfurt am Main</city><link>https://www.newsroom.de/jobs/aktuelle-jobs/marketing-praktika-auszubildende-19/online-marketing-trainee-mwd-571029/</link></item><item id=",
+    "&gt;&#xDC;bersetzung von Marken- und Kampagnenzielen in klare Briefings f&#xFC;r Kreation, Media und Influencer Marketing &#x2013; inklusive konstruktivem Feedback auf Text und Gestaltung.&lt;/p&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;div&gt;&lt;strong&gt;Customer Voice:&lt;/strong&gt; Vertrete intern die Stimme des Kunden, indem Kundenfeedback gesammelt wird und weitergegeben, um Produktentwicklung und Strategie zu informieren.&lt;/div&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;span&gt;Provide market insight and field feedback to strengthen regional go-to-market planning and investment decisions.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Konzepte sch&#xE4;rfen.&lt;/strong&gt; Du hinterfragst Ideen, gibst Feedback auf Konzepte, Texte und Designs und stellst sicher, dass die Qualit&#xE4;t bis ins Detail stimmt.&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Kreative Feedbackschleifen.&lt;/strong&gt; Sie arbeiten mit unseren Designerinnen und Designern zusammen, damit Anzeigen auf dem aufbauen, was die Daten zeigen&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Kundenkontakt&lt;/strong&gt; - Du &#xFC;bernimmst den direkt Kontakt mit unseren Kunden, um unseren guten Service bereitzustellen und auf Kunden-Feedback einzugehen.&lt;/p&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Onboarding: &lt;/strong&gt;Strukturiertes 100-Tage-Onboarding, Welcome Days mit Werksbesichtigung, HARIBO-Buddy, regelm&#xE4;&#xDF;ige Feedbackgespr&#xE4;che&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&#xA0;&lt;/p&gt;&lt;p&gt;NWSR1_DE&lt;/p&gt;</description><city>Grafschaft (bei Bonn)</city><link>https://www.newsroom.de/jobs/aktuelle-jobs/marketing-praktika-auszubildende-19/praktikum-consumer-market-insights-marktforschung-mwd-570628/</link></item><item id=",
+    "&gt;&lt;strong&gt;Onboarding: &lt;/strong&gt;Strukturiertes 100-Tage-Onboarding, Welcome Days mit Werksbesichtigung, HARIBO-Buddy, regelm&#xE4;&#xDF;ige Feedbackgespr&#xE4;che&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&#xA0;&lt;/p&gt;&lt;p&gt;NWSR1_DE&lt;/p&gt;</description><city>Grafschaft (bei Bonn)</city><link>https://www.newsroom.de/jobs/aktuelle-jobs/marketing-praktika-auszubildende-19/praktikum-market-research-mwd-570714/</link></item><item id=",
+    "&gt;&lt;strong&gt;Strategie &amp; Roadmap entwickeln &lt;/strong&gt;-&#xA0;Du leitest aus Markt, Kundenfeedback und Unternehmenszielen eine klare Produktstrategie ab und &#xFC;bersetzt diese in eine fokussierte, realistische Roadmap.&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Teamentwicklung:&lt;/strong&gt;&lt;span&gt;&#xA0;Du bist Vorbild und Fels in der Brandung. Mit weekly 1:1s, regelm&#xE4;&#xDF;igen Feedbackgespr&#xE4;chen und individuellen Entwicklungspl&#xE4;nen erkennst du St&#xE4;rken und Entwicklungspotenziale. Du entwickelst deine Teammitglieder individuell, vom Junior bis zum Senior.&lt;/span&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Teamorientiert &amp; offen:&lt;/strong&gt;&lt;span&gt;&#xA0;Du teilst dein Wissen, gibst und nimmst Peer-to-Peer-Feedback &#xFC;ber alle Erfahrungslevel hinweg, ohne Gatekeeping, mit echtem Interesse an gemeinsamer Weiterentwicklung.&lt;/span&gt;&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Transparenz&lt;/strong&gt;: Du machst deine Recherchewege nachvollziehbar, trennst Fakten von Meinungen und setzt dich mit Fragen und Feedback unserer Community auseinander.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Das bringst du mit:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;Weiterentwicklung&lt;/strong&gt;&lt;br&gt;Eigene Ideen verwirklichen &#x2022; Individuelles Feedback &#x2022; Spannende Aufgaben&lt;/li&gt;&lt;li data-list-item-id=",
+    "&gt;&lt;strong&gt;regelm&#xE4;&#xDF;ige Entwicklungs- und Feedbackgespr&#xE4;che&lt;/strong&gt; zur individuellen F&#xF6;rderung&lt;/li&gt;&lt;li data-list-item-id="
+   ],
+   "anfang": ""
+  },
+  "ProSiebenSat.1 SF RSS": {
+   "url": "https://jobs.prosiebensat1.com/services/rss/job/?locale=de_DE&keywords=moderator",
+   "final": "https://jobs.prosiebensat1.com/services/rss/job/?locale=de_DE&keywords=moderator",
+   "status": 200,
+   "ctype": "application/rss+xml",
+   "laenge": 1004,
+   "anzahl": 1,
+   "titel": [
+    "Derzeit sind keine Stellen verfügbar - überprüfen Sie unsere sonstigen Angebote."
+   ],
+   "hosts": [
+    "jobs.prosiebensat1.com",
+    "www.w3.org"
+   ],
+   "feeds": [
+    " ?><rss version=",
+    " xmlns:atom=",
+    "><channel><atom:link href=",
+    "application/rss+xml"
+   ],
+   "anfang": ""
+  },
+  "ProSiebenSat.1 SF RSS alle": {
+   "url": "https://jobs.prosiebensat1.com/services/rss/job/?locale=de_DE",
+   "final": "https://jobs.prosiebensat1.com/services/rss/job/?locale=de_DE",
+   "status": 200,
+   "ctype": "application/rss+xml",
+   "laenge": 149542,
+   "anzahl": 20,
+   "titel": [
+    "Beauty Expert Munich Store (m/w/d) (München, DE, 80802)",
+    "Beauty Expert & Brow Specialist (m/w/d) (München, DE, 80802)",
+    "Portfolio Manager - Immobilien (m/w/d) (München, DE, 80802)",
+    "Marketing Manager - Live Entertainment (m/w/d) (Köln, DE, 50667)",
+    "Junior Sales Manager - Podcast (m/w/d) (Berlin, DE, 10117)",
+    "Senior Sales Manager - Podcast Network (m/w/d) (Frankfurt am Main, DE, 60329)",
+    "Werkstudent Media Marketing & Analytics (m/w/d) (München, DE, 80802)",
+    "Senior Sales Manager - News Podcast (m/w/d) (Frankfurt am Main, DE, 60329)",
+    "Future Opportunity - Fullstack Developer (m/f/d) (Porto, Portugal, PT)",
+    "Backend Developer - Java/Spring & SQL (m/f/d) 1 1 1 1 1 1 (Porto, Portugal, PT)",
+    "Praktikum Online Media taff (m/w/d) (München, DE, 80802)",
+    "Praktikum Redaktion taff (m/w/d) (München, DE, 80802)",
+    "Trainee Media Sales & Consulting (m/w/d) (München, DE, 80802)",
+    "Praktikum Creator & Social Impact (m/w/d) (München, DE, 80802)",
+    "Praktikum Live Communications - Eventmanagement (m/w/d) (München, DE, 80802)",
+    "Senior Sales  Manager (m/w/d) (München, DE, 80802)",
+    "Sales Manager - New Business (m/w/d) (München, DE, 80802)",
+    "Praktikum Marketing / Produkt Management Music & Live Entertainment (m/w/d) (München, DE, 80802)",
+    "Partner Manager (m/w/d) (München, DE, 80802)",
+    "Praktikum Redaktion Fiction (m/w/d) (München, DE, 80802)"
+   ],
+   "hosts": [
+    "careers.prosiebensat1.com",
+    "jobs.prosiebensat1.com",
+    "karriere.prosiebensat1.com",
+    "www.w3.org"
+   ],
+   "feeds": [
+    " ?><rss version=",
+    " xmlns:atom=",
+    "><channel><atom:link href=",
+    "><u><b>Das erwartet dich bei uns</b></u></H2>\r</div><div><ul>\n<li><strong>Mitmischen statt nur zuhören: </strong>Du bringst deine Themenideen in Redaktionskonferenzen ein, setzt sie um und gibst Feedback zur Sendung</li>\n<li><strong>Frühstart inklusive:</strong> Über aktuelle Themen behältst du den Überblick und erstellst aktuelle Quotenkurven</li>\n<li><strong>Reporter-Power:</strong> Du unterstützt bei Recherche, Material sichten, Dreh, Text, Schnitt &amp; Expertensuche – du bist überall dabei, wo Content entsteht</li>\n<li><strong>Eigeninitiative zählt: </strong>Drehs und Stories lieferst du selbstständig ab – Kreativität wird belohnt</li>\n</ul></div></div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.<br>\n<br>\nAusschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Sat, 14 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Portfolio-Manager-Immobilien-%28mwd%29-80802/1372481157/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Portfolio-Manager-Immobilien-%28mwd%29-80802/1372481157/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Marketing Manager - Live Entertainment (m/w/d) (Köln, DE, 50667)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Mon, 09 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Sales-Manager-New-Business-%28mwd%29-80802/1369526857/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Sales-Manager-New-Business-%28mwd%29-80802/1369526857/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Marketing / Produkt Management Music & Live Entertainment (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Sun, 08 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Partner-Manager-%28mwd%29-80802/1363917557/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Partner-Manager-%28mwd%29-80802/1363917557/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Redaktion Fiction (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Tue, 10 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Senior-Sales-Manager-%28mwd%29-80802/1367004957/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Senior-Sales-Manager-%28mwd%29-80802/1367004957/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Sales Manager - New Business (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br><br><em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br><br>Du hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>Wir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br><br><em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p></div></div></div>]]></description><pubDate>Fri, 13 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/Berlin-Junior-Sales-Manager-Podcast-%28mwd%29-10117/1374976657/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/Berlin-Junior-Sales-Manager-Podcast-%28mwd%29-10117/1374976657/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Senior Sales Manager - Podcast Network (m/w/d) (Frankfurt am Main, DE, 60329)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br><br><em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br><br>Du hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>Wir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br><br><em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p></div></div></div>]]></description><pubDate>Fri, 13 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/Frankfurt-am-Main-Senior-Sales-Manager-News-Podcast-%28mwd%29-60329/1374995457/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/Frankfurt-am-Main-Senior-Sales-Manager-News-Podcast-%28mwd%29-60329/1374995457/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Future Opportunity - Fullstack Developer (m/f/d) (Porto, Portugal, PT)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring bei München und unser vielseitiges Portfolio.<br><br><em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br><br>Du hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>Wir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br><br><em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p></div></div></div>]]></description><pubDate>Fri, 13 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/Frankfurt-am-Main-Senior-Sales-Manager-Podcast-Network-%28mwd%29-60329/1374993657/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/Frankfurt-am-Main-Senior-Sales-Manager-Podcast-Network-%28mwd%29-60329/1374993657/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Werkstudent Media Marketing & Analytics (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group mit Sitz in Unterföhring beim München und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Thu, 12 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Trainee-Media-Sales-&amp;-Consulting-%28mwd%29-80802/1377411557/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Trainee-Media-Sales-&amp;-Consulting-%28mwd%29-80802/1377411557/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Creator & Social Impact (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Sat, 14 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/K%C3%B6ln-Marketing-Manager-Live-Entertainment-%28mwd%29-50667/1370342957/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/K%C3%B6ln-Marketing-Manager-Live-Entertainment-%28mwd%29-50667/1370342957/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Junior Sales Manager - Podcast (m/w/d) (Berlin, DE, 10117)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Thu, 12 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Praktikum-Online-Media-taff-%28mwd%29-80802/729130402/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Praktikum-Online-Media-taff-%28mwd%29-80802/729130402/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Redaktion taff (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style=",
+    ">hier</a> über die ProSiebenSat.1 Group und unser vielseitiges Portfolio.<br>\n<br>\n<em>Als Unterzeichner der Charta der Vielfalt, setzt sich ProSiebenSat.1 für ein vorurteilsfreies Arbeitsumfeld ein und fördert aktiv die Vielfalt sowie Chancengleichheit unter den Beschäftigten.<br>\n<br>\nDu hast eine Behinderung und möchtest dich bewerben? Dann bist du bei uns herzlich willkommen.<br>\nWir wissen, dass wir noch nicht gänzlich barrierefrei sind, aber wir arbeiten daran. Lass uns darüber reden, wie wir diese Barriere gemeinsam abschaffen und wenn nötig eine individuelle Lösung finden können.</em><br>\n<br>\n<em>Ausschließlich aus Gründen der besseren Lesbarkeit wird nur die männliche Form verwendet. Selbstverständlich sind immer alle Geschlechter angesprochen.</em></p>\n</div></div></div>]]></description><pubDate>Thu, 12 Nov 2026 2:00:00 GMT</pubDate><link>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Praktikum-Redaktion-taff-%28mwd%29-80802/729129402/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.prosiebensat1.com/job/M%C3%BCnchen-Praktikum-Redaktion-taff-%28mwd%29-80802/729129402/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Trainee Media Sales & Consulting (m/w/d) (München, DE, 80802)]]></title><description><![CDATA[<div><div style="
+   ],
+   "anfang": ""
+  },
+  "RTL SF RSS": {
+   "url": "https://jobsearch.createyourowncareer.com/RTL/services/rss/job/?locale=de_DE",
+   "final": "https://jobsearch.createyourowncareer.com/errorpage/?errortype=404",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 97387,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "berttest.valhalla12.stage.jobs2web.com",
+    "career5.successfactors.eu",
+    "createyourowncareer.de",
+    "csbep-srbertelsmann-prod.web.app",
+    "jobsearch.createyourowncareer.com",
+    "performancemanager5.successfactors.eu",
+    "policies.google.com",
+    "policy.pinterest.com",
+    "privacycenter.instagram.com",
+    "prod.createyourowncareer.com",
+    "twitter.com",
+    "www.adition.com",
+    "www.googletagmanager.com",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.w3.org",
+    "www.xing.com"
+   ],
+   "feeds": [],
+   "anfang": " Wir verwenden Cookies, um dir die bestm&ouml;gliche Erfahrung mit der Website bieten zu k&ouml;nnen. Deine&nbsp;Cookie-Einstellungen werden im lokalen Speicher deines&nbsp;Browsers gespeichert. Dazu geh&ouml;ren Cookies, die f&uuml;r die Website technisch notwendig sind. Dar&uuml;ber hinaus kannst du frei entscheiden, ob du Cookies akzeptierst, und dies jederzeit &auml;ndern. Du&nbsp;kannst auch "
+  },
+  "ZDF SF RSS": {
+   "url": "https://jobs.zdf.de/services/rss/job/?locale=de_DE",
+   "final": "https://jobs.zdf.de/services/rss/job/?locale=de_DE",
+   "status": 200,
+   "ctype": "application/rss+xml",
+   "laenge": 167140,
+   "anzahl": 20,
+   "titel": [
+    "Praktikum Team Wirtschaft (01/2027 - 04/2027) (Mainz)",
+    "Werkstudent*in HR Sport (Doku) (Mainz)",
+    "Medientechniker*in / Bildtechniker*in (Mainz)",
+    "Senior Accountant Kreditorenbuchhaltung mit Schwerpunkt Lizenzen (w/m/d) (Mainz)",
+    "Praktikum Studio Warschau (02/2027 - 06/2027) (Mainz)",
+    "Praktikum Landesstudio Hamburg (01/2027 - 06/2027) (Mainz)",
+    "Praktikum Redaktion Deutschland (01/2027 - 06/2027) (Mainz)",
+    "Schülerpraktikant*in ARTE (Mainz)",
+    "Partner Marketing Manager*in (Mainz)",
+    "Wahlstation Urheberrecht (09/2026 - 12/2027) (Mainz)",
+    "Werkstudent*in (FEY-Planungsteam) (Mainz)",
+    "Praktikum Redaktion Frontal (01/2027 - 06/2027) (Mainz)",
+    "Solutions Architect (m/w/d) für Broadcast- und Medien-IT-Infrastrukturen (Mainz)",
+    "Praktikant*in Redaktion Musik u. Theater (09/2027 - 10/2027) (Mainz)",
+    "Werkstudent*in (AID) (Mainz)",
+    "IT-Projektleiter*in M365 (Mainz)",
+    "Praktikum Redaktion ZDF Zeitgeschehen (04/2027 - 12/2027) (Mainz)",
+    "Wahlstation Justitiariat (01/2027 - 12/2027) (Mainz)",
+    "Teamlead (Hauptredaktion Kultur) (Mainz)",
+    "Praktikum Redaktion Das kleine Fernsehspiel (03/2027-04/2027) (Mainz)"
+   ],
+   "hosts": [
+    "jobs.zdf.de",
+    "presseportal.zdf.de",
+    "www.w3.org",
+    "www.youtube.com",
+    "www.zdf.de"
+   ],
+   "feeds": [
+    " ?><rss version=",
+    " xmlns:atom=",
+    "></p>\r\n<p><strong>Dein Recruiter Niklas Christ</strong></p>]]></description><pubDate>Wed, 11 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Sch%C3%BClerpraktikantin-ARTE/1376544655/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Sch%C3%BClerpraktikantin-ARTE/1376544655/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Partner Marketing Manager*in (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Dein Recruiter: Björn Henrich</strong></p>\r\n</div>]]></description><pubDate>Thu, 05 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Werkstudentin-%28AID%29/1375848155/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Werkstudentin-%28AID%29/1375848155/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[IT-Projektleiter*in M365 (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Dein Recruiter: Gordon Kasulke</strong></p>\r\n<p> </p>]]></description><pubDate>Thu, 05 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-IT-Projektleiterin-M365/1375828055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-IT-Projektleiterin-M365/1375828055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Redaktion ZDF Zeitgeschehen (04/2027 - 12/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Dein Recruiter: Gordon Kasulke</strong></p>]]></description><pubDate>Fri, 06 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Solutions-Architect-%28mwd%29-f%C3%BCr-Broadcast-und-Medien-IT-Infrastrukturen/1376058355/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Solutions-Architect-%28mwd%29-f%C3%BCr-Broadcast-und-Medien-IT-Infrastrukturen/1376058355/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikant*in Redaktion Musik u. Theater (09/2027 - 10/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Dein Recruiter: Gordon Kasulke</strong></p>]]></description><pubDate>Thu, 12 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Medientechnikerin-Bildtechnikerin/1376762455/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Medientechnikerin-Bildtechnikerin/1376762455/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Senior Accountant Kreditorenbuchhaltung mit Schwerpunkt Lizenzen (w/m/d) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Deine Recruiterin Susanne Zinke</strong></p>]]></description><pubDate>Tue, 03 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Praktikum-Redaktion-ZDF-Zeitgeschehen-%28042027-122027%29/1375481755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Praktikum-Redaktion-ZDF-Zeitgeschehen-%28042027-122027%29/1375481755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Wahlstation Justitiariat (01/2027 - 12/2027) (Mainz)]]></title><description><![CDATA[<table align=",
+    "></p>\r\n<p><strong>Deine Recruiterin: Sabrina Göttel</strong></p>\r\n</div>]]></description><pubDate>Mon, 09 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Werkstudentin-%28FEY-Planungsteam%29/1376286255/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Werkstudentin-%28FEY-Planungsteam%29/1376286255/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Redaktion Frontal (01/2027 - 06/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Deine Recruiterin: Sabrina Göttel</strong></p>]]></description><pubDate>Mon, 02 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Teamlead-%28Hauptredaktion-Kultur%29/1375313755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Teamlead-%28Hauptredaktion-Kultur%29/1375313755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Redaktion Das kleine Fernsehspiel (03/2027-04/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Deine Recruiterin: Sabrina Göttel</strong></p>]]></description><pubDate>Wed, 11 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Partner-Marketing-Managerin/1376602055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Partner-Marketing-Managerin/1376602055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Wahlstation Urheberrecht (09/2026 - 12/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Deine Recruiterin: Sina Huber</strong></p>\r\n<p> </p>\r\n</div>]]></description><pubDate>Fri, 13 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Werkstudentin-HR-Sport-%28Doku%29/1376902055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Werkstudentin-HR-Sport-%28Doku%29/1376902055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Medientechniker*in / Bildtechniker*in (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Ihr Recruiter Niklas Christ</strong></p>]]></description><pubDate>Thu, 05 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Praktikantin-Redaktion-Musik-u_-Theater-%28092027-102027%29/1375811755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Praktikantin-Redaktion-Musik-u_-Theater-%28092027-102027%29/1375811755/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Werkstudent*in (AID) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Ihr Recruiter: Björn Henrich</strong></p>\r\n<p> </p>]]></description><pubDate>Thu, 12 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Senior-Accountant-Kreditorenbuchhaltung-mit-Schwerpunkt-Lizenzen-%28wmd%29/1376683255/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Senior-Accountant-Kreditorenbuchhaltung-mit-Schwerpunkt-Lizenzen-%28wmd%29/1376683255/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Praktikum Studio Warschau (02/2027 - 06/2027) (Mainz)]]></title><description><![CDATA[<table style=",
+    "></p>\r\n<p><strong>Ihre Recruiterin Susanne Zinke</strong></p>]]></description><pubDate>Fri, 13 Nov 2026 0:00:00 GMT</pubDate><link>https://jobs.zdf.de/job/Mainz-Praktikum-Team-Wirtschaft-%28012027-042027%29/1376871055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</link><guid>https://jobs.zdf.de/job/Mainz-Praktikum-Team-Wirtschaft-%28012027-042027%29/1376871055/?feedId=null&amp;utm_source=J2WRSS&amp;utm_medium=rss&amp;utm_campaign=J2W_RSS</guid></item><item><title><![CDATA[Werkstudent*in HR Sport (Doku) (Mainz)]]></title><description><![CDATA[<table style="
+   ],
+   "anfang": ""
+  },
+  "ZDF Digital Personio": {
+   "url": "https://zdf-digital.jobs.personio.de/xml",
+   "final": "https://zdf-digital.jobs.personio.de/xml",
+   "status": 200,
+   "ctype": "text/xml",
+   "laenge": 62061,
+   "anzahl": 11,
+   "titel": [
+    "(Senior) Software Developer (m/w/d)",
+    "DevOps Engineer (m/w/d)",
+    "Erste*r Motion Designer*in Social Media (m/w/d)",
+    "IT-Security Analyst*in (m/w/d)",
+    "IT-Systemadministrator*in (m/w/d)",
+    "Motion Designer*in (m/w/d)",
+    "Produktionskoordinator*in Barrierefreie Medien (m/w/d)",
+    "QS-Engineer (m/w/d)",
+    "Redakteur*in Streaming Services Metadaten (m/w/d)",
+    "Social Media Redakteur*in (m/w/d)",
+    "Werkstudent*in Grafik- &amp; Motion-Design (m/w/d)"
+   ],
+   "hosts": [],
+   "feeds": [],
+   "anfang": ""
+  },
+  "ITV Studios Germany Personio": {
+   "url": "https://itv-studios-germany.jobs.personio.de/xml",
+   "final": "https://itv-studios-germany.jobs.personio.de/xml",
+   "status": 404,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 2472,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "assets.cdn.personio.de",
+    "personio.com",
+    "www.w3.org"
+   ],
+   "feeds": [],
+   "anfang": " Page Not Found 404 This career page does not exist Go to personio.com Career Page "
+  },
+  "btf Personio": {
+   "url": "https://btf-gmbh.jobs.personio.de/xml",
+   "final": "https://btf-gmbh.jobs.personio.de/xml",
+   "status": 404,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 2472,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "assets.cdn.personio.de",
+    "personio.com",
+    "www.w3.org"
+   ],
+   "feeds": [],
+   "anfang": " Page Not Found 404 This career page does not exist Go to personio.com Career Page "
+  },
+  "Banijay softgarden": {
+   "url": "https://banijay.softgarden.io/de/vacancies",
+   "final": "https://banijay.softgarden.io/de/vacancies",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 50655,
+   "anzahl": 27,
+   "titel": [
+    "Stellenangebote -> ./vacancies",
+    "Bereits Mitarbeiter? -> ./vacancies?-1.-jobSearch-jobSearchContainer-internalLink",
+    "Stellenangebote abonnieren -> ./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink",
+    "Berufskraftfahrer (m/w/d) Schwerpunkt Nahverkehr -> ../job/67430212/Berufskraftfahrer-m-w-d-Schwerpunkt-Nahverkehr?jobDbPVId=290578298&amp;l=de",
+    "Sales &amp; Business Development Manager (m/w/d) für TV- und Live-Events -> ../job/68736453/Sales-Business-Development-Manager-m-w-d-f%C3%BCr-TV-und-Live-Events?jobDbPVId=290571043&amp;l=de",
+    "Finanzbuchhalter (w/m/d) -> ../job/68344118/Finanzbuchhalter-w-m-d-?jobDbPVId=290504478&amp;l=de",
+    "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) -> ../job/35580236/Pflicht-Orientierungspraktikant-Redaktion-w-m-d-?jobDbPVId=290354178&amp;l=de",
+    "Werkstudent Creative Concepts &amp; Brand Partnerships (w/m/d) -> ../job/68664358/Werkstudent-Creative-Concepts-Brand-Partnerships-w-m-d-?jobDbPVId=290255668&amp;l=de",
+    "Werkstudent Product Management &amp; Brand Partnerships (w/m/d) -> ../job/68662868/Werkstudent-Product-Management-Brand-Partnerships-w-m-d-?jobDbPVId=290250558&amp;l=de",
+    "Technischer Betriebsleiter in der Veranstaltungstechnik (m/w/d) -> ../job/67976092/Technischer-Betriebsleiter-in-der-Veranstaltungstechnik-m-w-d-?jobDbPVId=290022448&amp;l=de",
+    "Initiativbewerbung (w/m/d) -> ../job/36715761/Initiativbewerbung-w-m-d-?jobDbPVId=290263483&amp;l=de",
+    "Projektleiter (m/w/d) -> ../job/67148100/Projektleiter-m-w-d-?jobDbPVId=290265123&amp;l=de",
+    "Werkstudent Produktionsassistenz – Social Media &amp; Content Production (w/m/d) -> ../job/68600442/Werkstudent-Produktionsassistenz-%E2%80%93-Social-Media-Content-Production-w-m-d-?jobDbPVId=289896732&am",
+    "Personaldisponent (m/w/d) in der Veranstaltungstechnik -> ../job/68599202/Personaldisponent-m-w-d-in-der-Veranstaltungstechnik?jobDbPVId=289889472&amp;l=de",
+    "Werkstattmitarbeiter(in)/Servicetechniker(in) im Bereich Veranstaltungstechnik (m/w/d) -> ../job/67430377/Werkstattmitarbeiter-in-Servicetechniker-in-im-Bereich-Veranstaltungstechnik-m-w-d-?jobDbPVId=289817922&",
+    "Senior Projektleitung Veranstaltungstechnik (m/w/d) für TV- und Live-Events -> ../job/67520632/Senior-Projektleitung-Veranstaltungstechnik-m-w-d-f%C3%BCr-TV-und-Live-Events?jobDbPVId=289817902&amp;l=",
+    "Initiativbewerbung -> ../job/21998687/Initiativbewerbung-?jobDbPVId=289019287&amp;l=de",
+    "Freelancer (Licht/Ton/Rigging) im Bereich Veranstaltungstechnik (m/w/d) -> ../job/38465579/Freelancer-Licht-Ton-Rigging-im-Bereich-Veranstaltungstechnik-m-w-d-?jobDbPVId=289019257&amp;l=de",
+    "Praktikum Social Media Redaktion (w/m/d) -> ../job/61474772/Praktikum-Social-Media-Redaktion-w-m-d-?jobDbPVId=288219746&amp;l=de",
+    "Mitarbeiter Lagerlogistik in der Veranstaltungstechnik (m/w/d) -> ../job/67490022/Mitarbeiter-Lagerlogistik-in-der-Veranstaltungstechnik-m-w-d-?jobDbPVId=287978496&amp;l=de",
+    "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) -> ../job/67429847/Fachkraft-f%C3%BCr-Veranstaltungstechnik-f%C3%BCr-Service-und-Lagert%C3%A4tigkeiten-m-w-d-?jobDbPVId=287",
+    "Redaktionsassistenz (w/m/d) -> ../job/67377845/Redaktionsassistenz-w-m-d-?jobDbPVId=287794511&amp;l=de",
+    "Jungredakteur/Redakteur Casting (w/m/d) -> ../job/67379225/Jungredakteur-Redakteur-Casting-w-m-d-?jobDbPVId=287794496&amp;l=de",
+    "(Studentische) Aushilfe Ticketing (w/m/d) – Event &amp; Gästeservice -> ../job/67466222/-Studentische-Aushilfe-Ticketing-w-m-d-%E2%80%93-Event-G%C3%A4steservice?jobDbPVId=284961482&amp;l=de",
+    "(Studentische) Aushilfe Ticketing (w/m/d) - Garderobe -> ../job/59388838/-Studentische-Aushilfe-Ticketing-w-m-d-Garderobe?jobDbPVId=246979273&amp;l=de"
+   ],
+   "hosts": [
+    "app.softgarden.io",
+    "banijay.softgarden.io",
+    "softgarden.com",
+    "static.softgarden.de",
+    "wicket.sourceforge.net"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "EndemolShine softgarden": {
+   "url": "https://endemolshine.softgarden.io/de/vacancies",
+   "final": "https://endemolshine.softgarden.io/de/vacancies",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 28182,
+   "anzahl": 7,
+   "titel": [
+    "Stellenangebote -> ./vacancies",
+    "Bereits Mitarbeiter? -> ./vacancies?-1.-jobSearch-jobSearchContainer-internalLink",
+    "Stellenangebote abonnieren -> ./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink",
+    "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) -> ../job/35580241/Pflicht-Orientierungspraktikant-Redaktion-w-m-d-?jobDbPVId=290354163&amp;l=de",
+    "Initiativbewerbungen (w/m/d) -> ../job/15643558/Initiativbewerbungen-w-m-d-?jobDbPVId=288617348&amp;l=de",
+    "Redaktionsassistenz (w/m/d) -> ../job/67377865/Redaktionsassistenz-w-m-d-?jobDbPVId=287794506&amp;l=de",
+    "Jungredakteur/Redakteur Casting (w/m/d) -> ../job/67379230/Jungredakteur-Redakteur-Casting-w-m-d-?jobDbPVId=287794501&amp;l=de"
+   ],
+   "hosts": [
+    "app.softgarden.io",
+    "endemolshine.softgarden.io",
+    "softgarden.com",
+    "static.softgarden.de",
+    "wicket.sourceforge.net"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "Radio Bremen softgarden": {
+   "url": "https://radiobremen.softgarden.io/de/vacancies",
+   "final": "https://radiobremen.softgarden.io/de/vacancies",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 25856,
+   "anzahl": 6,
+   "titel": [
+    "Stellenangebote -> ./vacancies",
+    "Bereits Mitarbeiter? -> ./vacancies?-1.-jobSearch-jobSearchContainer-internalLink",
+    "Stellenangebote abonnieren -> ./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink",
+    "Journalistisches Volontariat -> ../job/68628898/Journalistisches-Volontariat?jobDbPVId=290469693&amp;l=de",
+    "Volontariat Data &amp; Information Specialist (m/w/d) - Master-of-Advanced-Studies -> ../job/68495032/Volontariat-Data-Information-Specialist-m-w-d-Master-of-Advanced-Studies?jobDbPVId=289856032&amp;l=de",
+    "Initiativbewerbung -> ../job/62223359/Initiativbewerbung?jobDbPVId=281601968&amp;l=de"
+   ],
+   "hosts": [
+    "app.softgarden.io",
+    "softgarden.com",
+    "static.softgarden.de",
+    "wicket.sourceforge.net"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "SR softgarden": {
+   "url": "https://srjobs.softgarden.io/de/vacancies",
+   "final": "https://srjobs.softgarden.io/de/vacancies",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 28698,
+   "anzahl": 7,
+   "titel": [
+    "Stellenangebote -> ./vacancies",
+    "Bereits Mitarbeiter? -> ./vacancies?-1.-jobSearch-jobSearchContainer-internalLink",
+    "Stellenangebote abonnieren -> ./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink",
+    "Medientechniker/in (m/w/d) im Abspielzentrum -> ../job/68577752/Medientechniker-in-m-w-d-im-Abspielzentrum?jobDbPVId=289797132&amp;l=de",
+    "Social-Journalist/in (m/w/d) für &quot;caracho&quot; -> ../job/68571527/Social-Journalist-in-m-w-d-%E2%80%AF-f%C3%BCr-caracho-?jobDbPVId=289776847&amp;l=de",
+    "Musikjournalist/in (m/w/d) für den Programmbereich Kultur -> ../job/68427658/Musikjournalist-in-m-w-d-f%C3%BCr-den-Programmbereich-Kultur?jobDbPVId=289143383&amp;l=de",
+    "Verwaltungsstation/Wahlstation Rechtsanwaltsstation II für Rechtsreferendarinnen/Rechtsref -> ../job/47150595/Verwaltungsstation-Wahlstation-Rechtsanwaltsstation-II-f%C3%BCr-Rechtsreferendarinnen-Rechtsreferendare-"
+   ],
+   "hosts": [
+    "app.softgarden.io",
+    "softgarden.com",
+    "static.softgarden.de",
+    "wicket.sourceforge.net"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "Deutschlandradio softgarden": {
+   "url": "https://deutschlandradio.softgarden.io/de/vacancies",
+   "final": "https://deutschlandradio.softgarden.io/de/vacancies",
+   "status": 200,
+   "ctype": "text/html;charset=UTF-8",
+   "laenge": 26336,
+   "anzahl": 7,
+   "titel": [
+    "Deutschlandradio -> ./vacancies",
+    "Stellenangebote -> ./vacancies",
+    "Bereits Mitarbeiter? -> ./vacancies?-1.-jobSearch-jobSearchContainer-internalLink",
+    "Stellenangebote abonnieren -> ./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink",
+    "Redaktionsleitung Social Media (m/w/d) -> ../job/68625908/Redaktionsleitung-Social-Media-m-w-d-?jobDbPVId=290086788&amp;l=de",
+    "Praktikant/in (m/w/d) in der Abteilung Dokumentation und Archive -> ../job/2164165/Praktikant-in-m-w-d-in-der-Abteilung-Dokumentation-und-Archive?jobDbPVId=276867376&amp;l=de",
+    "Aushilfen (m/w/d) Redaktions-Assistenz, Sekretariat oder Sachbearbeitung - Funkhaus Köln o -> ../job/21417631/Aushilfen-m-w-d-Redaktions-Assistenz,-Sekretariat-oder-Sachbearbeitung-Funkhaus-K%C3%B6ln-oder-Berlin-?j"
+   ],
+   "hosts": [
+    "app.softgarden.io",
+    "softgarden.com",
+    "static.softgarden.de",
+    "wicket.sourceforge.net"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "rbb umantis": {
+   "url": "https://recruitingapp-5154.de.umantis.com/Jobs/All",
+   "final": "https://recruitingapp-5154.de.umantis.com/Jobs/All",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 128440,
+   "anzahl": 20,
+   "titel": [
+    "LEITUNG POSTPRODUKTION UND DESIGN (W/M/D) - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIA -> /Vacancies/2168/Description/1",
+    "Jetzt bewerben -> /Vacancies/2168/Application/CheckLogin/1",
+    "LEITUNG PRODUKTIONSBERATUNG, -LEITUNG UND DISPOSITION – SCHWERPUNKTE BERATUNG UND DISPOSIT -> /Vacancies/2169/Description/1",
+    "Jetzt bewerben -> /Vacancies/2169/Application/CheckLogin/1",
+    "LEITUNG AUFNAHME - SCHWERPUNKT EB-KAMERA (W/M/D) -> /Vacancies/2167/Description/1",
+    "Jetzt bewerben -> /Vacancies/2167/Application/CheckLogin/1",
+    "LEITUNG AUFNAHME - SCHWERPUNKT E-KAMERA (W/M/D) -> /Vacancies/2166/Description/1",
+    "Jetzt bewerben -> /Vacancies/2166/Application/CheckLogin/1",
+    "Leitung UX + Produktivität (w/m/d) -> /Vacancies/2162/Description/1",
+    "Jetzt bewerben -> /Vacancies/2162/Application/CheckLogin/1",
+    "Leitung Produktionsumgebung (w/m/d) -> /Vacancies/2161/Description/1",
+    "Jetzt bewerben -> /Vacancies/2161/Application/CheckLogin/1",
+    "Leitung Plattformumgebung (w/m/d) -> /Vacancies/2160/Description/1",
+    "Jetzt bewerben -> /Vacancies/2160/Application/CheckLogin/1",
+    "LEITUNG PLANUNG + STEUERUNG (W/M/D) -> /Vacancies/2159/Description/1",
+    "Jetzt bewerben -> /Vacancies/2159/Application/CheckLogin/1",
+    "LEITUNG DATENUMGEBUNG (W/M/D) -> /Vacancies/2158/Description/1",
+    "Jetzt bewerben -> /Vacancies/2158/Application/CheckLogin/1",
+    "LEITUNG BEFÄHIGUNG + SUPPORT (W/M/D) -> /Vacancies/2157/Description/1",
+    "Jetzt bewerben -> /Vacancies/2157/Application/CheckLogin/1"
+   ],
+   "hosts": [
+    "rbb.sharepoint.com"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "NDR umantis": {
+   "url": "https://jobs.ndr.de/Jobs/All",
+   "final": "https://jobs.ndr.de/Jobs/All",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 99436,
+   "anzahl": 21,
+   "titel": [
+    "Automatische Benachrichtigung &nbsp;Stellen-Abonnement einrichten -> /Vacancies/Register/CheckLogin/9999",
+    "Praktikum für Erwachsene im Notenarchiv -> /Vacancies/3256/Description/1",
+    "Jetzt bewerben -> /Vacancies/3256/Application/CheckLogin/1",
+    "Redakteur*in (Schwerpunkt No-Hate) -> /Vacancies/3343/Description/1",
+    "Jetzt bewerben -> /Vacancies/3343/Application/CheckLogin/1",
+    "Lead Designer*in -> /Vacancies/3332/Description/1",
+    "Jetzt bewerben -> /Vacancies/3332/Application/CheckLogin/1",
+    "Social-Media-Redakteur*in -> /Vacancies/3342/Description/1",
+    "Jetzt bewerben -> /Vacancies/3342/Application/CheckLogin/1",
+    "Sachbearbeiter*in im Gremienbüro -> /Vacancies/3339/Description/1",
+    "Jetzt bewerben -> /Vacancies/3339/Application/CheckLogin/1",
+    "Sachbearbeiter*in im Gremienbüro -> /Vacancies/3338/Description/1",
+    "Jetzt bewerben -> /Vacancies/3338/Application/CheckLogin/1",
+    "Redaktionsassistent*in -> /Vacancies/3333/Description/1",
+    "Jetzt bewerben -> /Vacancies/3333/Application/CheckLogin/1",
+    "Journalistisches Praktikum für Erwachsene im Landesfunkhaus Niedersachsen | Studio Oldenbu -> /Vacancies/3327/Description/1",
+    "Jetzt bewerben -> /Vacancies/3327/Application/CheckLogin/1",
+    "Abteilungsleiter*in Personalentwicklung -> /Vacancies/3330/Description/1",
+    "Jetzt bewerben -> /Vacancies/3330/Application/CheckLogin/1",
+    "Journalistisches Praktikum für Erwachsene im Landesfunkhaus Niedersachsen | Studio Braunsc -> /Vacancies/3323/Description/1",
+    "Jetzt bewerben -> /Vacancies/3323/Application/CheckLogin/1"
+   ],
+   "hosts": [
+    "www.ndr.de"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "BR umantis": {
+   "url": "https://jobs.br.de/Jobs/All",
+   "final": "https://jobs.br.de/Jobs/All",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 93705,
+   "anzahl": 20,
+   "titel": [
+    "Sachbearbeitung (w/m/d) im Vergabemanagement -> /Vacancies/1442/Description/1",
+    "Jetzt bewerben -> /Vacancies/1442/Application/CheckLogin/1",
+    "Praktikum (w/m/d) in der Redaktion quer -> /Vacancies/730/Description/1",
+    "Jetzt bewerben -> /Vacancies/730/Application/CheckLogin/1",
+    "Werkstudent (w/m/d) zur Unterstützung im Bereich Disposition BR Franken -> /Vacancies/1441/Description/1",
+    "Jetzt bewerben -> /Vacancies/1441/Application/CheckLogin/1",
+    "Controller (w/m/d) für die Hauptabteilung Planung -> /Vacancies/1440/Description/1",
+    "Jetzt bewerben -> /Vacancies/1440/Application/CheckLogin/1",
+    "Data / Integration Platform Engineer (w/m/d) -> /Vacancies/1424/Description/1",
+    "Jetzt bewerben -> /Vacancies/1424/Application/CheckLogin/1",
+    "Referent (m/w/d) Strategie, Prozessmanagement und Service-Governance -> /Vacancies/1427/Description/1",
+    "Jetzt bewerben -> /Vacancies/1427/Application/CheckLogin/1",
+    "Produktionsleitung (w/m/d) mit Schwerpunkt ARD-Auslandsstudios -> /Vacancies/1443/Description/1",
+    "Jetzt bewerben -> /Vacancies/1443/Application/CheckLogin/1",
+    "Assistenz (w/m/d) im Team des Verwaltungsdirektors -> /Vacancies/1446/Description/1",
+    "Jetzt bewerben -> /Vacancies/1446/Application/CheckLogin/1",
+    "Trainee (w/m/d) HR / Schwerpunkt Werkstudierende -> /Vacancies/1426/Description/1",
+    "Jetzt bewerben -> /Vacancies/1426/Application/CheckLogin/1",
+    "Praktikum (w/m/d) in der Community Redaktion von Bayern 3 -> /Vacancies/942/Description/1",
+    "Jetzt bewerben -> /Vacancies/942/Application/CheckLogin/1"
+   ],
+   "hosts": [],
+   "feeds": [],
+   "anfang": ""
+  },
+  "MDR umantis": {
+   "url": "https://recruitingapp-5280.de.umantis.com/Jobs/1?CompanyID=1",
+   "final": "https://recruitingapp-5280.de.umantis.com/Jobs/1?lang=ger&CompanyID=1&ContentOnly=",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 54501,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [],
+   "feeds": [],
+   "anfang": " MDR-Bewerbermanagement Stellen Zum Hauptinhalt springen Springe zur Suche Es wurden noch keine Einträge erfasst, die hier angezeigt werden könnten. Umantis "
+  },
+  "ARD umantis": {
+   "url": "https://recruitingapp-5685.de.umantis.com/Jobs/1",
+   "final": "https://recruitingapp-5685.de.umantis.com/Jobs/1?lang=ger&ContentOnly=",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 60424,
+   "anzahl": 1,
+   "titel": [
+    "Initiativbewerbung erstellen &nbsp;Initiativbewerbung erstellen -> /Vacancies/InitiativeApplication/CheckLogin/1"
+   ],
+   "hosts": [],
+   "feeds": [],
+   "anfang": ""
+  },
+  "WDR Bewerbung": {
+   "url": "https://bewerbung.wdr.de/index.php?ac=search_result",
+   "final": "https://bewerbung.wdr.de/index.php?ac=search_result",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 47053,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "karriere.wdr.de",
+    "wa.me",
+    "www.facebook.com",
+    "www.linkedin.com",
+    "www.xing.com",
+    "www1.wdr.de",
+    "x.com"
+   ],
+   "feeds": [
+    " aria-atomic=",
+    "/assets/images/favicons/browserconfig.xml",
+    "clipboard-feedback"
+   ],
+   "anfang": " Unsere Stellenangebote | Karriereportal | WDR Datenschutzerklärung Zur Bewerbung Zum Inhalt Zur Navigation Zur Startseite | Karriereportal | WDR Hauptnavigation Menü Stellenangebote (aktuell) Meine Karriere Übersicht Bewerbungsübersicht Korrespondenz Zugangsdaten Job Merker Job Abo Termine Talent-Profil Datenschutz Job Abo Anmelden Pflichtfelder sind mit einem (*) markiert. Benutzername Verwenden"
+  },
+  "Raab rexx": {
+   "url": "https://jobs.raab-entertainment.de/stellenangebote.html",
+   "final": "https://jobs.raab-entertainment.de/stellenangebote.html",
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 38140,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "jobs.raab-entertainment.de",
+    "raab-entertainment.de",
+    "www.facebook.com",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.rexx-systems.com"
+   ],
+   "feeds": [
+    "<h3>_pk_id*</h3><div>Domainname: jobs.raab-entertainment.de Ablauf: 13 Monate</div><p>Registriert eine eindeutige ID für einen Website-Besucher, die protokolliert, wie der Besucher die Website verwendet. Die Daten werden für Statistiken verwendet.</p><h3>_pk_ref*</h3><div>Domainname: jobs.raab-entertainment.de    Ablauf: 6 Monate</div><p>Dieses Cookie wird als Referenz zur anonymen Tracking-Session auf der Seite eingesetzt.</p><h3>_pk_ses*</h3><div>Domainname: jobs.raab-entertainment.de Ablauf: 30 Minuten</div><p>Dieses Cookie speichert eine eindeutige Session-ID.</p><h3>MATOMO_SESSID</h3><div>Domainname: jobs.raab-entertainment.de Ablauf: Dieses Session Cookie wird beim Schließen des Browsers wieder gelöscht</div><p>Dieses Cookie speichert den Website-Besuch auf Basis einer Session- oder Visitor-ID.</p>",
+    "https://www.linkedin.com/company/raab-entertainment-gmbh/posts/?feedView=all"
+   ],
+   "anfang": " Raab ENTERTAINMENT GmbH JOBS Aktuelle Stellenangebote Raab ENTERTAINMENT entwickelt und produziert Content für TV, Streaming, Social Media, Live-Events – und für Marken, die mehr als Werbung wollen. Von der Show bis zur Kampagne, vom Social Clip bis zum Markenmoment: Wir erzählen Geschichten, die wirken und schaffen Erlebnisse,&nbsp; die bleiben. Neugierig? Hier findest du alle offenen Stellen – "
+  },
+  "Raab rexx RSS": {
+   "url": "https://jobs.raab-entertainment.de/stellenangebote.rss",
+   "final": "https://jobs.raab-entertainment.de/stellenangebote.rss",
+   "status": 404,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 841,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "jobs.raab-entertainment.de",
+    "www.w3.org"
+   ],
+   "feeds": [],
+   "anfang": " Seite nicht gefunden! Die aufgerufene Seite gibt es nicht! Vielleicht haben Sie sich bei der Eingabe vertippt? In 10 Sekunden werden Sie zur Startseite weitergeleitet. "
+  },
+  "UFA Jobs": {
+   "url": "https://www.ufa.de/karriere/jobs",
+   "final": "https://www.ufa.de/karriere/jobs",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 112023,
+   "anzahl": 11,
+   "titel": [
+    "English -> https://www.ufa.de/en/career/jobs",
+    "Ausbildung Mediengestaltende Bild & Ton (all genders) &nbsp; • UFA Serial Drama -> https://karriere.ufa.de/jobposting/659d040adab8e86c5df7cf7b821db2d47f4ab0b30",
+    "Castingredakteur:in (all genders) &nbsp; • UFA Show & Factual -> https://karriere.ufa.de/jobposting/1a0d46be9e31d6e83d9ba67e1131c4da093099cd0",
+    "Datentypist:in / Logger:in (all genders) / Köln &nbsp; • UFA Show & Factual -> https://karriere.ufa.de/jobposting/73083ca00b5020314bfa429762c1b8a71c5766590",
+    "Group Head of Communication (all genders) &nbsp; • UFA -> https://karriere.ufa.de/jobposting/cc5a9e4278cc43ef3329082c83784902b1de243e0",
+    "Musikkoordination (all genders) &nbsp; • UFA Fiction -> https://karriere.ufa.de/jobposting/c32e09cc06d01fa47a6426233e7f3c7ff00c51c90",
+    "Redaktionsassistenz Casting (all genders) &nbsp; • UFA Show & Factual -> https://karriere.ufa.de/jobposting/fcdb3495256d07b25a280e546f20191d951ed7720",
+    "Referendariat Legal Affairs (all genders) &nbsp; • UFA -> https://karriere.ufa.de/jobposting/132c76356f6acfb409cc8bfad7cbc4c1e44d8d9f0",
+    "Werkstudent:in Office Management (all genders) &nbsp; • UFA -> https://karriere.ufa.de/jobposting/18cc6ffda308efd025f4e155462126d922cc11e60",
+    "Zentrale Filmgeschäftsführung (all genders) &nbsp; • UFA -> https://karriere.ufa.de/jobposting/748bee35e00c7b63b915027ad9371c96d1f6148c0",
+    "Zuschauendenbetreuung (all genders) &nbsp; • UFA Show & Factual -> https://karriere.ufa.de/jobposting/aa5e974f8770c5385120c08588ea3300f3bbecaa0"
+   ],
+   "hosts": [
+    "api.kiprotect.com",
+    "bb83479892c640688549dcb3a2d6c6f5",
+    "karriere.ufa.de",
+    "outdatedbrowser.com",
+    "wprediscache.com",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.ufa.de",
+    "www.w3.org",
+    "www.youtube.com",
+    "yoast.com"
+   ],
+   "feeds": [
+    ">\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*="
+   ],
+   "anfang": ""
+  },
+  "Brainpool Karriere": {
+   "url": "https://brainpool.de/karriere/",
+   "final": "https://brainpool.de/karriere/",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 13956,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "brainpool.de",
+    "deu01.safelinks.protection.outlook.com",
+    "myshow.de",
+    "www.facebook.com",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.myspass.de"
+   ],
+   "feeds": [],
+   "anfang": " Karriere | Brainpool Home Brands About Karriere Kontakt Impressum Datenschutz JOIN US Karriere Bist du heiß auf Entertainment? Dann komm zu uns! Unser Erfolg hat viele, bekannte Gesichter on air. Backstage arbeitet bei Brainpool immer ein großes, erfahrenes, professionelles Team. Willst du auch in der ersten Liga der TV-Macher spielen?&nbsp; Komm zu uns ins Team!&nbsp; #wearebrainpool Jobs Unter "
+  },
+  "Constantin Karriere": {
+   "url": "https://constantin-entertainment.de/karriere/",
+   "final": "https://constantin-entertainment.de/karriere/",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 240169,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "api.w.org",
+    "cent2024.de",
+    "constantin-entertainment.com",
+    "constantin-entertainment.de",
+    "gmpg.org",
+    "i.ytimg.com",
+    "portal.recruiting-gruppe.de",
+    "schema.org",
+    "wp-rocket.me",
+    "www.constantin-casting.de",
+    "www.facebook.com",
+    "www.instagram.com",
+    "www.serif.com",
+    "www.w3.org",
+    "www.youtube.com",
+    "yoast.com"
+   ],
+   "feeds": [
+    "/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/",
+    "Constantin Entertainment &raquo; Feed",
+    "Constantin Entertainment &raquo; Kommentar-Feed",
+    "]:is(.elementor-element-editable, :has(.elementor-element-editable), :has(> .elementor-empty-view)){ display: block; }.e-background-video { position: relative; overflow: hidden; }.e-background-video__media { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; z-index: 0; }.e-background-video__content { position: relative; z-index: 1; flex: 1 1 auto; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) > .elementor-empty-view.elementor-empty-view { position: relative; flex: 1 1 auto; min-height: 120px; height: auto; width: 100%; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) > .elementor-empty-view > .elementor-first-add { position: absolute; inset: 0; width: 100%; height: 100%; }.e-background-video__controls { z-index: 2; }.e-background-video__play, .e-background-video__pause { appearance: none; -webkit-appearance: none; }.e-background-video.e-background-video--playing .e-background-video__play { display: none; }.e-background-video.e-background-video--paused .e-background-video__pause { display: none; }.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__controls,.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__play,.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__pause { display: none; }.e-accordion-item-header-base { list-style: none; }.e-accordion-item-header-base::-webkit-details-marker { display: none; }.e-accordion-item-base { interpolate-size: allow-keywords; }.e-accordion-item-base::details-content {block-size: 0; overflow: hidden;transition: block-size .3s ease, content-visibility .3s ease allow-discrete;}.e-accordion-item-base[open]::details-content { block-size: auto; }.e-accordion-item-icon-base, .e-accordion-item-icon-open-base { --e-svg-width: auto; --e-svg-height: 100%; }:where(.e-accordion-item-icon-base, .e-accordion-item-icon-open-base) .e-svg-base { max-width: 100%; }.e-accordion-item-icon-base.e-accordion-item-icon-base .e-svg-base svg, .e-accordion-item-icon-open-base.e-accordion-item-icon-open-base .e-svg-base svg { width: auto !important; }.e-accordion-item-icon-base svg, .e-accordion-item-icon-open-base svg { transition: transform .3s ease; }.e-accordion-item-base:not([open]) > summary :is(.e-accordion-item-icon-base, .e-accordion-item-icon-open-base) svg { transform: rotate(var(--e-accordion-icon-rotation-closed)); }.e-accordion-item-base[open] > summary :is(.e-accordion-item-icon-base, .e-accordion-item-icon-open-base) svg { transform: rotate(var(--e-accordion-icon-rotation, 180deg)); }.e-accordion-item-header-base.e-accordion-item-header-base:has(> .e-accordion-item-icon-open-base) { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; }.e-accordion-item-header-base:has(> .e-accordion-item-icon-open-base) > .e-accordion-item-title-base { grid-column: 1; grid-row: 1; }.e-accordion-item-header-base:has(> .e-accordion-item-icon-open-base) > :is(.e-accordion-item-icon-base, .e-accordion-item-icon-open-base) { grid-column: 2; grid-row: 1; }.e-accordion-item-base .e-accordion-item-icon-open-base.e-accordion-item-icon-open-base { visibility: hidden; }.e-accordion-item-base[open] > summary .e-accordion-item-icon-open-base { visibility: visible; }.e-accordion-item-base[open] > summary:has(.e-accordion-item-icon-open-base) .e-accordion-item-icon-base { visibility: hidden; }.e-list-item-marker-base { --e-svg-width: 0.6em; --e-svg-height: 0.6em; }:where(.e-list-item-marker-base) .e-svg-base { flex-shrink: 0; }.e-list-item-marker-base .e-svg-base svg { display: block; }\n.e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }\n/*# sourceURL=elementor-frontend-inline-css */\n</style>\n<link rel=",
+    "application/rss+xml",
+    "atomicFormsSendForm",
+    "e_atomic_elements",
+    "e_pro_atomic_form",
+    "hfeed site",
+    "https://constantin-entertainment.de/comments/feed/",
+    "https://constantin-entertainment.de/feed/"
+   ],
+   "anfang": " Karriere - Constantin Entertainment Zum Hauptinhalt springen Constantin Entertainment Wir suchen deutschlandweit Darsteller:innen. Sei dabei! Home Comedy &amp; Show Reality &amp; Factual Daily Creators Podcast Karriere Über uns Kontakt Casting Wir suchen deutschlandweit Darsteller:innen. Sei dabei! Home Comedy &amp; Show Reality &amp; Factual Daily Creators Podcast Karriere Über uns Kontakt Casti"
+  },
+  "Redseven Career": {
+   "url": "https://www.redseven.de/career",
+   "final": "https://www.redseven.de/career",
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 20753,
+   "anzahl": 1,
+   "titel": [
+    "&gt; Direkt bewerben -> #stellenangebote"
+   ],
+   "hosts": [
+    "player.vimeo.com",
+    "privacy-proxy.usercentrics.eu",
+    "stats.freshlime.de",
+    "web.cmp.usercentrics.eu",
+    "www.redseven.de",
+    "www.w3.org"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "Bavaria Jobportal": {
+   "url": "https://www.bavaria-film.de/jobportal",
+   "final": "https://www.bavaria-film.de/jobportal",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 63030,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "bavariafilm.pi-asp.de",
+    "ogp.me",
+    "service.bavaria-film.info",
+    "www.bavaria-film.de",
+    "www.bavaria-production-services.de",
+    "www.drupal.org",
+    "www.googletagmanager.com"
+   ],
+   "feeds": [
+    "jobfeed",
+    "ui-jobfeed",
+    "ui-paragraph-jobfeed"
+   ],
+   "anfang": " Jobportal | Bavaria Film GmbH Direkt zum Inhalt Bavaria Film GmbH Meta navigation Newsroom Unternehmen Karriere Kontakt EN Menü Content Produktionen Fiction Entertainment Kino Corporate Video Doku &amp; Docutainment Tochtergesellschaften Bavaria Entertainment Bavaria Fiction Satel Film Saxonia Media Story House Rights &amp; Distribution Rechtehandel Content Distribution Music Tochtergesellschafte"
+  },
+  "Hyperbole Jobs": {
+   "url": "https://www.hyperbole.de/jobs/",
+   "final": "https://www.hyperbole.de/jobs/",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 12494,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "cdnjs.cloudflare.com",
+    "schema.org",
+    "www.facebook.com",
+    "www.hyperbole.de",
+    "www.instagram.com",
+    "www.w3.org",
+    "www.youtube.com"
+   ],
+   "feeds": [],
+   "anfang": " --> Jobs - hyperbole | Filmproduktion --> Portfolio About Menu Jobs Kontakt Jobs Producer, Provokateur, Schöngeist, Kameramann, Tonfrau, Cutter, Konzepter, Creator, Texter, Disruptor, Redakteurin, Influencer, Radikaler, Ehrenfrau - Namaste. Du wohnst in deinem Computer, liebst Farben, Perspektiven und die Geschichten von deinem Spätibesitzer? Du gehörst zu denen, die früher die Schulbank vollgesc"
+  },
+  "Seapoint Jobs": {
+   "url": "https://seapoint.de/jobs/",
+   "final": "https://seapoint.de/jobs/",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 60456,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "api.w.org",
+    "seapoint.de",
+    "seapoint.softgarden.io",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.w3.org"
+   ],
+   "feeds": [
+    ">\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=",
+    "Seapoint &raquo; Feed",
+    "Seapoint &raquo; Kommentar-Feed",
+    "application/rss+xml",
+    "https://seapoint.de/comments/feed/",
+    "https://seapoint.de/feed/"
+   ],
+   "anfang": " Jobs &#8211; Seapoint Produktionen Team Jobs Kontakt Produktionen Team Jobs Kontakt Join us: Werde Teil von Team Seapoint! STEUERFACHANGESTELLTE:R (M/ W/ D) Vollzeit ,&nbsp; K&ouml;ln Wir suchen zum n&auml;chstm&ouml;glichen Zeitpunkt eine:n Mitarbeiter:in im Bereich der Finanzbuchhaltung/Lohnbuchhaltung in K&ouml;ln. Deine Aufgaben &bull; Pr&uuml;fung, Kontierung und Buchung aller debitorischen "
+  },
+  "Rocket Beans Jobs": {
+   "url": "https://rocketbeans.tv/jobs",
+   "final": "https://rocketbeans.tv/jobs",
+   "status": 200,
+   "ctype": "text/html",
+   "laenge": 18324,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "de.wikipedia.org",
+    "ogp.me",
+    "rocketbeans.tv",
+    "schema.org",
+    "stats.rocketbeans.tv",
+    "www.gstatic.com",
+    "www.instagram.com",
+    "www.tiktok.com",
+    "www.twitch.tv",
+    "www.w3.org",
+    "www.youtube.com",
+    "x.com"
+   ],
+   "feeds": [
+    "/assets/favicons/browserconfig.xml"
+   ],
+   "anfang": " Rocket Beans TV Bitte aktiviere JavaScript in deinem Browser, um diese Website nutzen zu kÃ¶nnen. rocketbeans.tv wird geladen... "
+  },
+  "funk Jobs": {
+   "url": "https://www.funk.net/jobs",
+   "final": "https://www.funk.net/jobs",
+   "status": 200,
+   "ctype": "text/html; charset=utf-8",
+   "laenge": 415103,
+   "anzahl": 1,
+   "titel": [
+    "Jobportal des SWR -> https://www.swr.de/unternehmen/karriere/stellenangebote-110.html"
+   ],
+   "hosts": [
+    "de.linkedin.com",
+    "karriere.zdf.de",
+    "play.funk.net",
+    "presse.funk.net",
+    "social.funk.net",
+    "www.ardmediathek.de",
+    "www.funk.net",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.swr.de",
+    "www.tiktok.com",
+    "www.w3.org",
+    "www.youtube.com",
+    "www.zdf.de"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "EndemolShine Jobs": {
+   "url": "https://endemolshine.de/jobs_category/alle/",
+   "final": "https://endemolshine.de/jobs_category/alle/",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 124850,
+   "anzahl": 4,
+   "titel": [
+    "11.11.2026 Pflicht/-Orientierungspraktikant Redaktion (w/m/d) Studenten Marketing und Komm -> https://endemolshine.softgarden.io/job/35580241?l=de",
+    "23.10.2026 Initiativbewerbungen (w/m/d) Berufseinsteiger Marketing und Kommunikation Köln -> https://endemolshine.softgarden.io/job/15643558?l=de",
+    "15.10.2026 Redaktionsassistenz (w/m/d) Berufserfahrene Redaktion Köln -> https://endemolshine.softgarden.io/job/67377865?l=de",
+    "15.10.2026 Jungredakteur/Redakteur Casting (w/m/d) Berufserfahrene Redaktion Köln -> https://endemolshine.softgarden.io/job/67379230?l=de"
+   ],
+   "hosts": [
+    "de-de.facebook.com",
+    "endemolshine.de",
+    "endemolshine.softgarden.io",
+    "gmpg.org",
+    "myshow.de",
+    "tickets.endemolshine.de",
+    "www.instagram.com",
+    "www.linkedin.com",
+    "www.w3.org",
+    "yoast.com"
+   ],
+   "feeds": [
+    "archive tax-jobs_category term-alle term-50 wp-theme-endemol-shine hfeed no-sidebar",
+    "endemol-instasfeed-js",
+    "https://endemolshine.de/wp-content/themes/endemol-shine/assets/js/vendor/instafeed.min.js?ver=1.4.1",
+    "https://endemolshine.de/wp-content/themes/endemol-shine/js/my-instagram-feed.js?ver=1.0.1",
+    "my-instagram-feed-js-js-extra",
+    "};\n//# sourceURL=my-instagram-feed-js-js-extra\n</script>\n<script id="
+   ],
+   "anfang": ""
+  },
+  "kress Stellenmarkt": {
+   "url": "https://kress.de/jobs/stellenmarkt",
+   "final": "https://kress.de/jobs/stellenmarkt",
+   "status": 200,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 139481,
+   "anzahl": 10,
+   "titel": [
+    "Redakteur 81 -> /jobs/position/Redakteur#jobListing",
+    "Marketing Manager 70 -> /jobs/position/Marketing%20Manager#jobListing",
+    "Praktikum 65 -> /jobs/position/Praktikum#jobListing",
+    "Praktikant 48 -> /jobs/position/Praktikant#jobListing",
+    "Referent 37 -> /jobs/position/Referent#jobListing",
+    "Anzeigenverkauf / Vermarktung TopJob Vertriebsmitarbeiter Innendienst &amp; Außendienst m/ -> /jobs/job-details/49314-vertriebsmitarbeiter-innendienst-aussendienst-m-w-d.html",
+    "Journalistische Stellen TopJob Multimedia-Reporter m/w/d NEUE OSNABRÜCKER ZEITUNG GMBH &am -> /jobs/job-details/49313-multimedia-reporter-m-w-d.html",
+    "Online / Social Media TopJob Referent m/w/d Social Media und Onlinekommunikation ADOLF WÜR -> /jobs/job-details/49312-referent-m-w-d-social-media-und-onlinekommunikation.html",
+    "Marketing: Kommunikation, Werbung TopJob Content Creator / Campaign Manager m/w/d NEUE OSN -> /jobs/job-details/49287-content-creator-campaign-manager-m-w-d.html",
+    "Journalistische Stellen TopJob Freier Journalist / Audio-Autor m/w/d NEUE OSNABRÜCKER ZEIT -> /jobs/job-details/49159-freier-journalist-audio-autor-m-w-d.html"
+   ],
+   "hosts": [
+    "headless-oberauer.com",
+    "kress-cloud.com",
+    "kress.de",
+    "mein.kress.de",
+    "shop-oberauer.imgbolt.de",
+    "shop.oberauer.com",
+    "twitter.com",
+    "webcache-eu.datareporter.eu",
+    "www.facebook.com",
+    "www.googletagmanager.com",
+    "www.linkedin.com",
+    "www.oberauer.com",
+    "www.w3.org"
+   ],
+   "feeds": [
+    "/static/favicons/v3/browserconfig.xml",
+    "form-control-feedback",
+    "form-group check data fv-has-feedback",
+    "fv-control-feedback",
+    "invalid-feedback",
+    "valid-feedback",
+    "validationServerEmailFeedback",
+    "validationServerPasswordFeedback"
+   ],
+   "anfang": ""
+  },
+  "Crew United Jobs": {
+   "url": "https://www.crew-united.com/de/jobs/",
+   "final": "https://www.crew-united.com/de/jobs/",
+   "status": 200,
+   "ctype": "text/html; Charset=iso-8859-1",
+   "laenge": 17687,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "static.userback.io"
+   ],
+   "feeds": [
+    "Danke für dein Feedback!",
+    "Generelles Feedback",
+    "js-cu-direct-feedback"
+   ],
+   "anfang": " Jobinserate | Crew United &nbsp; Crew United Login DE EN DE FR PL &#917;&#923; ES IT LT RO Menü Crew United durchsuchen Freelancer Firmen Schauspieler*innen Filme Jobs Wohnen Markt Service Cinearte Meine Tools Freelancer Firmen Schauspieler*innen Filme Jobs Wohnen Markt Service Cinearte Filter Jobs Suche speichern Suche laden Als Premium-Member kannst du deine Filterkombination speichern und als "
+  },
+  "Amazon Jobs JSON": {
+   "url": "https://www.amazon.jobs/en/search.json?base_query=presenter&loc_query=Germany&result_limit=10",
+   "final": "https://www.amazon.jobs/en/search.json?base_query=presenter&loc_query=Germany&result_limit=10",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "laenge": 80629,
+   "anzahl": 9,
+   "titel": [
+    "Theatrical Marketing Manager, Amazon MGM Studios Theatrical Marketing | GB, POST-LON, London",
+    "Sr Solutions Architect, AWSI MEGS | US, NY, New York",
+    "Staffing Lead, Workforce Staffing (WFS) | BR, SP, Cajamar",
+    "Program Manager, Sustainability and fleet electrification, AMZL DSP | IN, KA, Bengaluru",
+    "Staffing Lead, Workforce Staffing (WFS) | BR, RJ, Sao Joao De Meriti",
+    "Associate Security Solution Architect, APJC Customer Security, APJC Customer Security | SG, Singapore",
+    "Sr Solutions Architect, AWSI TMEGS | US, NY, New York",
+    "Sr Solutions Architect, AWSI MEGS | US, CA, Santa Monica",
+    "Operations Manager, Operations Manager, Vizag | IN, AP, Vishakapatnam"
+   ],
+   "hosts": [
+    "account.amazon.jobs",
+    "amazon.jobs",
+    "www.amazon.jobs"
+   ],
+   "feeds": [],
+   "anfang": ""
+  },
+  "florida 1": {
+   "url": "https://florida-tv.de",
+   "fehler": "HTTPSConnectionPool(host='florida-tv.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)')))"
+  },
+  "florida 2": {
+   "url": "https://www.florida.tv",
+   "final": "http://www.telepathy.com",
+   "status": 403,
+   "ctype": "text/html; charset=UTF-8",
+   "laenge": 5418,
+   "anzahl": 0,
+   "titel": [],
+   "hosts": [
+    "challenges.cloudflare.com"
+   ],
+   "feeds": [],
+   "anfang": " Just a moment... Enable JavaScript and cookies to continue "
+  },
+  "florida 3": {
+   "url": "https://floridatv.de",
+   "fehler": "HTTPSConnectionPool(host='floridatv.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1011)"
+  },
+  "florida 4": {
+   "url": "https://www.florida-entertainment.de",
+   "fehler": "HTTPSConnectionPool(host='www.florida-entertainment.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl"
+  },
+  "i&u 1": {
+   "url": "https://iundu.de",
+   "fehler": "HTTPSConnectionPool(host='iundu.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1011)')))"
+  },
+  "i&u 2": {
+   "url": "https://www.iundu-tv.de",
+   "fehler": "HTTPSConnectionPool(host='www.iundu-tv.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.iundu-tv.de', port=443): Failed to resolve 'www.iundu-"
+  },
+  "Mediakraft 2": {
+   "url": "https://mediakraft.tv",
+   "fehler": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  },
+  "Mediakraft 3": {
+   "url": "https://www.mediakraft.de",
+   "fehler": "HTTPSConnectionPool(host='www.mediakraft.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.mediakraft.de', port=443): Failed to resolve 'www.me"
+  }
+ },
+ "robots": {
+  "https://jobs.prosiebensat1.com": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /applybutton/\nDisallow: /talentcommunity/\nDisallow: /mobile/talentcommunity/\nDisallow: /emailsubscribe/\nDisallow: /email/image/\nDisallow: /services/\nDisallow: /preapply/\nDisallow: /error\nDisallow: /unsubscribe/\nDisallow: /reset/"
+  },
+  "https://jobsearch.createyourowncareer.com": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /applybutton/\nDisallow: /talentcommunity/\nDisallow: /mobile/talentcommunity/\nDisallow: /emailsubscribe/\nDisallow: /email/image/\nDisallow: /services/\nDisallow: /preapply/\nDisallow: /error\nDisallow: /unsubscribe/\nDisallow: /reset/"
+  },
+  "https://jobs.zdf.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /applybutton/\nDisallow: /talentcommunity/\nDisallow: /mobile/talentcommunity/\nDisallow: /emailsubscribe/\nDisallow: /email/image/\nDisallow: /services/\nDisallow: /preapply/\nDisallow: /error\nDisallow: /unsubscribe/\nDisallow: /reset/"
+  },
+  "https://banijay.softgarden.io": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /just-hire/\nDisallow: /hrFrontend/\nDisallow: /hrManagement/\nDisallow: /hrd/\nDisallow: /hrc/\nDisallow: /api/\nDisallow: /strategy-board/\nDisallow: /apply/\nDisallow: /apply-choice*\nDisallow: /rest/\nDisallow: /*/widgets/\nDisallow: /wicket/bookmarkable/\n"
+  },
+  "https://recruitingapp-5154.de.umantis.com": {
+   "status": 200,
+   "text": "\nUser-agent: *\nDisallow: /VacanciesIntraxData/\nDisallow: /Help\nDisallow: /Exports\nDisallow: /Import\nDisallow: /Password/\nDisallow: /Public/Import/\nDisallow: /Counters/\nDisallow: /PublicDocuments\nDisallow: /SelfServiceApprovals/\nDisallow: /Vacancies/RemoveSubscriptionMessage\nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/DataProtection\nDisallow: /ChangePassword\nDisallow: /Vacancies/InitiativeApplication/Confirmation \nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/RemoveSubscriptionMessage"
+  },
+  "https://jobs.ndr.de": {
+   "status": 200,
+   "text": "\nUser-agent: *\nDisallow: /VacanciesIntraxData/\nDisallow: /Help\nDisallow: /Exports\nDisallow: /Import\nDisallow: /Password/\nDisallow: /Public/Import/\nDisallow: /Counters/\nDisallow: /PublicDocuments\nDisallow: /SelfServiceApprovals/\nDisallow: /Vacancies/RemoveSubscriptionMessage\nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/DataProtection\nDisallow: /ChangePassword\nDisallow: /Vacancies/InitiativeApplication/Confirmation \nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/RemoveSubscriptionMessage"
+  },
+  "https://jobs.br.de": {
+   "status": 200,
+   "text": "\nUser-agent: *\nDisallow: /VacanciesIntraxData/\nDisallow: /Help\nDisallow: /Exports\nDisallow: /Import\nDisallow: /Password/\nDisallow: /Public/Import/\nDisallow: /Counters/\nDisallow: /PublicDocuments\nDisallow: /SelfServiceApprovals/\nDisallow: /Vacancies/RemoveSubscriptionMessage\nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/DataProtection\nDisallow: /ChangePassword\nDisallow: /Vacancies/InitiativeApplication/Confirmation \nDisallow: /Vacancies/Subscription\nDisallow: /Vacancies/RemoveSubscriptionMessage"
+  },
+  "https://bewerbung.wdr.de": {
+   "status": 200,
+   "text": "Sitemap: https://bewerbung.wdr.de/sitemap.xml"
+  },
+  "https://jobs.raab-entertainment.de": {
+   "status": 200,
+   "text": "User-agent: wget\nUser-agent: python-requests\nUser-agent: python-urllib\nUser-agent: Go-http-client\nUser-agent: Java\nUser-agent: libwww-perl\nUser-agent: PHP/\nUser-agent: LWP::Simple\nUser-agent: okhttp\nUser-agent: axios\nUser-agent: http-client\nUser-agent: aiohttp\nUser-agent: Scrapy\nUser-agent: Httpie\nUser-agent: PycURL\nUser-agent: node-fetch\nUser-agent: node-superagent\nDisallow: /\n\n"
+  },
+  "https://www.ufa.de": {
+   "status": 200,
+   "text": "# Global rules\n# -----------------\nUser-agent: *\nDisallow: /wp-json/\nDisallow: /wp-admin/\n\n\n# Sitemap\n# -----------------\nSitemap: https://www.ufa.de/sitemap_index.xml\n"
+  },
+  "https://www.crew-united.com": {
+   "status": 200,
+   "text": "Sitemap: https://www.crew-united.com/SitemapIndex.xml\nSitemap: https://www.crew-united.com/Sitemap_static.xml\n\nUser-agent: *\nContent-Signal: search=yes, ai-input=no, ai-train=no\nDisallow: /redir.asp\nDisallow: /bin_markt/\nDisallow: /media/Documents/\nDisallow: /media/documents/\nDisallow: /Media/Documents/\nDisallow: /Media/documents/\nDisallow: /Authentication/\nDisallow: /card/\nDisallow: /confirmDialog/\nDisallow: /cookie/\nDisallow: /crewcall/\nDisallow: /croft/api/\nDisallow: /croft/redirect/\nDisallow: /croft/render/castCrewManager/planned-movie-job-candidate-selection/\nDisallow: /croft/render/myProfile/\nDisallow: /croft/render/profile/\nDisallow: /croft/render/project/\nDisallow: /croft/render/season/\nDisallow: /croft/webservice/\nDisallow: /gallery/\nDisallow: /handler/\nDisallow: /jobs/sendOffer.asp\nDisallow: /jobs/editOffer.asp\nDisallow: /jointVenture/\nDisallow: /markt/sendOffer.asp\nDisallow: /markt/editOffer.asp\nDisallow: /notepad/\nDisallow: /partner/\nDisallow: /payment/\nDisallow: /pdf/\nDisallow: /permaLink/\nDisallow: /permalink/\nDisallow: /profil/\nDisallow: /profilansichten/*mode=print\nDisallow: /profilansichten/sendMemberNotification.asp\nDisallow: /profilansichten/sendmembernotification.asp\nDisallow: /profilansichten/sendProfile.asp\nDisallow: /profilansichten/sendprofile.asp\nDisallow: /projekte/ajax/\nDisallow: /projekte/displayProjectdata.asp*mode=print\nDisallow: /projekte/form/\nDisallow: /projekte/sendProfile.asp\nDisallow: /projekte/sendprofile.asp\nDisallow: /registration/\nDisallow: /search/\nDisallow: /SearchApi/\nDisallow: /survey/\nDisallow: /upload/\nDisallow: /wohnen/sendOffer.asp\nDisallow: /wohnen/editOffer.asp\nDisallow: /de/Authentication/\nDisallow: /de/card/\nDisallow: /de/confirmDialog/\nDisallow: /de/cookie/\nDisallow: /de/crewcall/\nDisallow: /de/croft/api/\nDisallow: /de/croft/redirect/\nDisallow: /de/croft/render/castCrewManager/planned-movie-job-candidate-selection/\nDisallow: /de/croft/render/myProfile/\nDisallow: /de/croft/render/profile/\nDisallow: /de/croft/render/project/\nDisallow: /de/croft/render/season/\nDisallow: /de/croft/webservice/\nDisallow: /de/gallery/\nDisallow: /de/handler/\nDisallow: /de/jobs/sendOffer.asp\nDisallow: /de/jobs/editOffer.asp\nDisallow: /de/jointVenture/\nDisallow: /de/markt/sendOffer.asp\nDisallow: /de/markt/editOffer.asp\nDisallow: /de/notepad/\nDisallow: /de/partner/\nDisallow: /de/payment/\nDisallow: /de/pdf/\nDisallow: /de/permaLink/\nDisallow: /de/permalink/\nDisallow: /de/profil/\nDisallow: /de/profilansichten/*mode=print\nDisallow: /de/profilansichten/sendMemberNotification.asp\nDisallow: /de/profilansichten/sendmembernotification.asp\nDisallow: /de/profilansichten/sendProfile.asp\nDisallow: /de/profilansichten/sendprofile.asp\nDisallow: /de/projekte/ajax/\nDisallow: /de/projekte/displayProjectdata.asp*mode=print\nDisallow: /de/projekte/form/\nDisallow: /de/projekte/sendProfile.asp\nDisallow: /de/projekte/sendprofile.asp\nDisallow: /de/registration/\nDisallow: /de/search/\nDisallow: /de/SearchApi/\nDisallow: /de/survey/\nDisallow: /de/upload/\nDisallow: /de/wohnen/sendOffer.asp\nDisallow: /de/wohnen/editOffer.asp\nDisallow: /en/accommodation/sendOffer.asp\nDisallow: /en/accommodation/editOffer.asp\nDisallow: /en/Authentication/\nDisallow: /en/card/\nDisallow: /en/confirmDialog/\nDisallow: /en/cookie/\nDisallow: /en/crewcall/\nDisallow: /en/croft/api/\nDisallow: /en/croft/redirect/\nDisallow: /en/croft/render/castCrewManager/planned-movie-job-candidate-selection/\nDisallow: /en/croft/render/myProfile/\nDisallow: /en/croft/render/profile/\nDisallow: /en/croft/render/project/\nDisallow: /en/croft/render/season/\nDisallow: /en/croft/webservice/\nDisallow: /en/gallery/\nDisallow: /en/handler/\nDisallow: /en/jobs/sendOffer.asp\nDisallow: /en/jobs/editOffer.asp\nDisallow: /en/jointVenture/\nDisallow: /en/market/sendOffer.asp\nDisallow: /en/market/editOffer.asp\nDisallow: /en/notepad/\nDisallow: /en/partner/\nDisallow: /en/payment/\nDisallow: /en/pdf/\nDisallow: /en/permaLink/\nDisallow: /en/permalink/\nDisallow: /en/profil/\nDisallow: /en/profilansichten/*m"
+  },
+  "https://www.etalenta.eu": {
+   "status": 200,
+   "text": "User-agent: 01h4x.com\r\nDisallow:/\r\nUser-agent: 360Spider\r\nDisallow:/\r\nUser-agent: 404checker\r\nDisallow:/\r\nUser-agent: 404enemy\r\nDisallow:/\r\nUser-agent: 80legs\r\nDisallow:/\r\nUser-agent: ADmantX\r\nDisallow:/\r\nUser-agent: AIBOT\r\nDisallow:/\r\nUser-agent: ALittle Client\r\nDisallow:/\r\nUser-agent: ASPSeek\r\nDisallow:/\r\nUser-agent: Abonti\r\nDisallow:/\r\nUser-agent: Aboundex\r\nDisallow:/\r\nUser-agent: Aboundexbot\r\nDisallow:/\r\nUser-agent: Acunetix\r\nDisallow:/\r\nUser-agent: AfD-Verbotsverfahren\r\nDisallow:/\r\nUser-agent: AhrefsBot\r\nDisallow:/\r\nUser-agent: AiHitBot\r\nDisallow:/\r\nUser-agent: Aipbot\r\nDisallow:/\r\nUser-agent: Alexibot\r\nDisallow:/\r\nUser-agent: AllSubmitter\r\nDisallow:/\r\nUser-agent: Alligator\r\nDisallow:/\r\nUser-agent: AlphaBot\r\nDisallow:/\r\nUser-agent: Anarchie\r\nDisallow:/\r\nUser-agent: Anarchy\r\nDisallow:/\r\nUser-agent: Anarchy99\r\nDisallow:/\r\nUser-agent: Ankit\r\nDisallow:/\r\nUser-agent: Anthill\r\nDisallow:/\r\nUser-agent: Apexoo\r\nDisallow:/\r\nUser-agent: Aspiegel\r\nDisallow:/\r\nUser-agent: Asterias\r\nDisallow:/\r\nUser-agent: Atomseobot\r\nDisallow:/\r\nUser-agent: Attach\r\nDisallow:/\r\nUser-agent: AwarioRssBot\r\nDisallow:/\r\nUser-agent: AwarioSmartBot\r\nDisallow:/\r\nUser-agent: BBBike\r\nDisallow:/\r\nUser-agent: BDCbot\r\nDisallow:/\r\nUser-agent: BDFetch\r\nDisallow:/\r\nUser-agent: BLEXBot\r\nDisallow:/\r\nUser-agent: BackDoorBot\r\nDisallow:/\r\nUser-agent: BackStreet\r\nDisallow:/\r\nUser-agent: BackWeb\r\nDisallow:/\r\nUser-agent: Backlink-Ceck\r\nDisallow:/\r\nUser-agent: BacklinkCrawler\r\nDisallow:/\r\nUser-agent: Badass\r\nDisallow:/\r\nUser-agent: Bandit\r\nDisallow:/\r\nUser-agent: Barkrowler\r\nDisallow:/\r\nUser-agent: BatchFTP\r\nDisallow:/\r\nUser-agent: Battleztar Bazinga\r\nDisallow:/\r\nUser-agent: BetaBot\r\nDisallow:/\r\nUser-agent: Bigfoot\r\nDisallow:/\r\nUser-agent: Bitacle\r\nDisallow:/\r\nUser-agent: Black Hole\r\nDisallow:/\r\nUser-agent: BlackWidow\r\nDisallow:/\r\nUser-agent: Blackboard\r\nDisallow:/\r\nUser-agent: Blow\r\nDisallow:/\r\nUser-agent: BlowFish\r\nDisallow:/\r\nUser-agent: Boardreader\r\nDisallow:/\r\nUser-agent: Bolt\r\nDisallow:/\r\nUser-agent: BotALot\r\nDisallow:/\r\nUser-agent: Brandprotect\r\nDisallow:/\r\nUser-agent: Brandwatch\r\nDisallow:/\r\nUser-agent: Buck\r\nDisallow:/\r\nUser-agent: Buddy\r\nDisallow:/\r\nUser-agent: BuiltBotTough\r\nDisallow:/\r\nUser-agent: BuiltWith\r\nDisallow:/\r\nUser-agent: Bullseye\r\nDisallow:/\r\nUser-agent: BunnySlippers\r\nDisallow:/\r\nUser-agent: BuzzSumo\r\nDisallow:/\r\nUser-agent: CATExplorador\r\nDisallow:/\r\nUser-agent: CCBot\r\nDisallow:/\r\nUser-agent: CODE87\r\nDisallow:/\r\nUser-agent: CSHttp\r\nDisallow:/\r\nUser-agent: Calculon\r\nDisallow:/\r\nUser-agent: CazoodleBot\r\nDisallow:/\r\nUser-agent: Cegbfeieh\r\nDisallow:/\r\nUser-agent: CensysInspect\r\nDisallow:/\r\nUser-agent: CheTeam\r\nDisallow:/\r\nUser-agent: CheeseBot\r\nDisallow:/\r\nUser-agent: CherryPicker\r\nDisallow:/\r\nUser-agent: ChinaClaw\r\nDisallow:/\r\nUser-agent: Chlooe\r\nDisallow:/\r\nUser-agent: Claritybot\r\nDisallow:/\r\nUser-agent: Cliqzbot\r\nDisallow:/\r\nUser-agent: Cloud mapping\r\nDisallow:/\r\nUser-agent: Cocolyzebot\r\nDisallow:/\r\nUser-agent: Cogentbot\r\nDisallow:/\r\nUser-agent: Collector\r\nDisallow:/\r\nUser-agent: Copier\r\nDisallow:/\r\nUser-agent: CopyRightCheck\r\nDisallow:/\r\nUser-agent: Copyscape\r\nDisallow:/\r\nUser-agent: Cosmos\r\nDisallow:/\r\nUser-agent: Craftbot\r\nDisallow:/\r\nUser-agent: Crawling at Home Project\r\nDisallow:/\r\nUser-agent: CrazyWebCrawler\r\nDisallow:/\r\nUser-agent: Crescent\r\nDisallow:/\r\nUser-agent: CrunchBot\r\nDisallow:/\r\nUser-agent: Curious\r\nDisallow:/\r\nUser-agent: Custo\r\nDisallow:/\r\nUser-agent: CyotekWebCopy\r\nDisallow:/\r\nUser-agent: DBLBot\r\nDisallow:/\r\nUser-agent: DIIbot\r\nDisallow:/\r\nUser-agent: DSearch\r\nDisallow:/\r\nUser-agent: DTS Agent\r\nDisallow:/\r\nUser-agent: DataCha0s\r\nDisallow:/\r\nUser-agent: DatabaseDriverMysqli\r\nDisallow:/\r\nUser-agent: Demon\r\nDisallow:/\r\nUser-agent: Deusu\r\nDisallow:/\r\nUser-agent: Devil\r\nDisallow:/\r\nUser-agent: Digincore\r\nDisallow:/\r\nUser-agent: DigitalPebble\r\nDisallow:/\r\nUser-agent: Dirbuster\r\nDisallow:/\r\nUser-agent: Disco\r\nDisallow:/\r\nUser-agent: Discobot\r\nDisallow:/\r\nUser-agent: Discoverybot\r\nDisallow:/\r\nUser-agent: Dispatch\r\nDisallow:/\r\nUser-agent: Ditto"
+  },
+  "https://www.filmmakers.eu": {
+   "status": 200,
+   "text": "# Content usage policy:\n#\n# Search indexing and query-time AI retrieval and grounding are permitted\n# where these uses can be controlled independently from model training.\n# AI model pretraining, training, and fine-tuning are not permitted.\n#\n# Restrictions expressed via Content Signals constitute an express\n# reservation of rights under Article 4 of Directive (EU) 2019/790\n# to the extent applicable.\nUser-Agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=no\nAllow: /\nDisallow: /favorable/lists/\nDisallow: /api/json/\n\n# AI model-training, model-improvement, and reusable-dataset crawlers\nUser-Agent: GPTBot\nDisallow: /\n\nUser-Agent: ClaudeBot\nDisallow: /\n\n# Google-Extended combines AI training and grounding controls. Blocking it\n# prioritizes the training opt-out while leaving Google Search unaffected.\nUser-Agent: Google-Extended\nDisallow: /\n\nUser-Agent: Amazonbot\nDisallow: /\n\nUser-Agent: Applebot-Extended\nDisallow: /\n\nUser-Agent: CCBot\nDisallow: /\n\nUser-Agent: Bytespider\nDisallow: /\n\nUser-Agent: meta-externalagent\nDisallow: /\n\nUser-Agent: AI2Bot\nDisallow: /\n\nUser-Agent: MistralAI-Training\nDisallow: /\n\nUser-Agent: Webzio-Extended\nDisallow: /\n\nUser-Agent: cohere-training-data-crawler\nDisallow: /\n\nUser-Agent: Diffbot\nDisallow: /\n\nUser-Agent: Timpibot\nDisallow: /\n\nSitemap: https://static.filmmakers.eu/sitemaps/sitemap-index.xml\nSitemap: https://static.filmmakers.eu/sitemaps/videos/sitemap-index.xml\n"
+  },
+  "https://kress.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /suche/\nDisallow: /suchergebnisse.html\n\nUser-agent: Baiduspider\nDisallow: /\n\nUser-agent: Applebot\nAllow: /\nDisallow: /cre-1.0/\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: ia_archiver\nDisallow: /\n\nUser-Agent: omgili\nDisallow: /\n\nUser-Agent: omgilibot\nDisallow: /\n\nUser-agent: AhrefsBot\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Yeti\nDisallow: /\n\nUser-agent: SemrushBot\nDisallow: /\n\nUser-agent: sentibot\nDisallow: /\n\nUser-agent: MJ12bot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: SirdataBot\nDisallow: /\n\nUser-agent: LCC\nDisallow: /\n\nUser-agent: TurnitinBot\nDisallow: /\n\nUser-agent: BLEXBot\nDisallow: /\n\nUser-agent: dotbot\nDisallow: /\n\n\nSitemap: https://kress.de/sitemaps/sitemap.xml\n\n"
+  },
+  "https://www.newsroom.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow:\nSitemap: https://www.newsroom.de/sitemap.xml\nSitemap: https://www.newsroom.de/sitemapNews.xml\nSitemap: https://www.newsroom.de/sitemapJobs.xml\n"
+  },
+  "https://www.amazon.jobs": {
+   "status": 200,
+   "text": "User-agent: AhrefsBot\nDisallow: /\n\nUser-agent: *\nDisallow: /internal\nDisallow: /en/internal\nDisallow: /en-gb/internal\nDisallow: /cs/internal\nDisallow: /de/internal\nDisallow: /es/internal\nDisallow: /fr/internal\nDisallow: /it/internal\nDisallow: /jp/internal\nDisallow: /pl/internal\nDisallow: /pt/internal\nDisallow: /zh/internal"
+  },
+  "https://careers.wbd.com": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: */phenomtrack.min.js\nDisallow: */socialAut\nDisallow: */iauth  \nDisallow: */chatbot\nDisallow: */jobcart\nDisallow: */apply\nDisallow: */applythankyou\nDisallow: */px-widgets\nDisallow: */lifeatphenom\nDisallow: */workingatphenom\nDisallow: */chatbot\nDisallow: */pxhomelead\nDisallow: */pxhomeapplicant\nDisallow: */pxhomequalifiedlead\nDisallow: */pxhomevisitor\nDisallow: */pxhomestranger\nDisallow: */glassdoor\n\nSitemap: https://careers.wbd.com/pl/pl/sitemap.xml\nSitemap: https://careers.wbd.com/global/en/sitemap.xml\nSitemap: https://careers.wbd.com/es/es/sitemap.xml\nSitemap: https://careers.wbd.com/jp/ja/sitemap.xml\nSitemap: https://careers.wbd.com/fr/fr/sitemap.xml"
+  },
+  "https://join.disneycareers.com": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: */lifeatphenom\nDisallow: */workingatphenom\nDisallow: */chatbot\nDisallow: */pxhomelead\nDisallow: */pxhomeapplicant\nDisallow: */pxhomequalifiedlead\nDisallow: */pxhomevisitor\nDisallow: */pxhomestranger\nDisallow: */glassdoor\n\nSitemap: https://join.disneycareers.com/apac/hk/sitemap.xml\nSitemap: https://join.disneycareers.com/latam/es/sitemap.xml\nSitemap: https://join.disneycareers.com/apac/zh/sitemap.xml\nSitemap: https://join.disneycareers.com/apac/ja/sitemap.xml\nSitemap: https://join.disneycareers.com/emea/de/sitemap.xml\nSitemap: https://join.disneycareers.com/emea/fr/sitemap.xml\nSitemap: https://join.disneycareers.com/latam/pt/sitemap.xml\nSitemap: https://join.disneycareers.com/global/en/sitemap.xml"
+  },
+  "https://zdf-digital.jobs.personio.de": {
+   "status": 200,
+   "text": "User-agent: *\nAllow: /\n"
+  },
+  "https://www.ard.de": {
+   "status": 200,
+   "text": "User-agent: *\nAllow: /\n\n############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# § 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n# info@swr.de\n############\n"
+  },
+  "https://www.swr.de": {
+   "status": 200,
+   "text": "# robots.txt für SWR.de\n# Stand: 2024-02-08 10:15 CET\n#\n\n#\n# Disallow\n#\n\nUser-agent: *\nDisallow: /api/\nDisallow: /reactions/\nDisallow: /search/suggest/\nDisallow: /cms/\nDisallow: /*~_currentSlide-*\nDisallow: /*?_pjax=%23content\nDisallow: /*?_pjax=%23fragment\n\n############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# § 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n# seo@swr.de\n############\n\n#\n# Sitemaps\n#\n\n#Generische Google-Sitemap\nSitemap: https://www.swr.de/~sitemap/index.xml\n\n#News-Sitemap für SWR Aktuell\nSitemap: https://www.swr.de/~sitemap/swraktuell/index.xml\n\n#News-Sitemap für SWR Sport\nSitemap: https://www.swr.de/~sitemap/sport/index.xml\n\nHost: www.swr.de\n"
+  },
+  "https://www.ndr.de": {
+   "status": 200,
+   "text": "Sitemap: https://www.ndr.de/news-102~news.xml\nSitemap: https://www.ndr.de/index~sitemap.xml\n\nUser-agent: *\nDisallow: /n-joy/appmedien\nDisallow: /*ut*.xml\nDisallow: /*podcast5654.xml\nDisallow: /*.json\nDisallow: /ratgeber/*?filter=\nDisallow: /*~ardplayer.html\nDisallow: /*.m3u8\nDisallow: /public/teletext/\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# § 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n#\n# Norddeutscher Rundfunk\n#\n# Anstalt des öffentlichen Rechts\n# Rothenbaumchaussee 132\n# 20149 Hamburg\n# Tel. 00 49 (40) 4156 - 0\n# E-Mail: ndr@ndr.de\n#\n############\n"
+  },
+  "https://www.mdr.de": {
+   "status": 200,
+   "text": "############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# § 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n#\n# Anstalt des Öffentlichen Rechts\n# Kantstr. 71 - 73\n# 04275 Leipzig\n# Postanschrift: 04360 Leipzig\n#\n# Telefon: 0341-3000\n#\n# Gesetzlicher Vertreter:\n# Ralf Ludwig (Intendant)\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n\nUser-agent: Teleport\nDisallow: /\nUser-agent: Webwhacker\nDisallow: /\nUser-agent: Webzip\nDisallow: /\nUser-agent: Net Attache\nDisallow: /\nUser-agent: SiteSnagger\nDisallow: /\nUser-agent: HTTrack\nDisallow: /\nUser-agent: WebCapture\nDisallow: /\nUser-agent: WebSauger\nDisallow: /\n\nUser-agent: *\nDisallow: /404/\nDisallow: /administratives/\nDisallow: /export/\nDisallow: /forum/\nDisallow: /kultur/rueckblick/\nDisallow: /medienproduktion/\nDisallow: /schulung/\nDisallow: /test/\n\nDisallow: /mediathek/audio-app/\nDisallow: /video/audio-app/\nDisallow: /mediathek/verbreitung/portal/\nDisallow: /video/verbreitung/portal/\nDisallow: /yourls/\nDisallow: /scripts4/\nDisallow: /CONT/teletext/*\nDisallow: /quizzes/\n\nDisallow: /*.json\nDisallow: /*~ardplayer.html\nDisallow: /*.woff2$\n\nAllow: /administratives/*.css\nAllow: /administratives/*.js\nAllow: /administratives/*.png\nAllow: /administratives/*.jpg\n\nSitemap: https://www.mdr.de/sitemap/mdr-news-ueberblick-102~news.xml\nSitemap: https://www.mdr.de/sitemap/index~sitemap.xml\n"
+  },
+  "https://www.hr.de": {
+   "status": 200,
+   "text": "#robots.txt for https://www.hr.de\n\n############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# § 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n# justiziariat@hr.de\n############\n\nUser-agent: *\n\nDisallow: /noindex/\nDisallow: /suche/index~suggest.jsp\nDisallow: /*query=\nDisallow: /*sophoraSSI=true\nDisallow: /*at_campaign=hr3_kopf_hoch\n\nSitemap: https://www.hr.de/indexsitemap.nc.xml"
+  },
+  "https://www.br.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /extra/gremien\nDisallow: /extra/intern\nDisallow: /extra/mediathek\nDisallow: /*/*~_all-1_\nDisallow: /*/*~_image*\nDisallow: /*/*~postroll.xml\nDisallow: /*/*~recommend.html\nDisallow: /*/*~recommend_image*\nDisallow: /*/*~recommendForm*\nDisallow: /*/*~_date*\nDisallow: /*/*~playlist_date*\nDisallow: /*/*~musictitle.html\nDisallow: /*/*~_page*\nDisallow: /*/*~recommend_month\nDisallow: /*/*seiteempfehlen\nDisallow: /*/*sortOrder\nDisallow: /*/*searchPlz\nDisallow: /*/*searchOrtsname\nDisallow: /*/*?_requestid=*\nDisallow: /wetter/action/bayernwetter/bayern.do?regio=*\nDisallow: /wetter/action/bayernwetter/bayern.do?plz=*\nDisallow: /nachrichten/suche*param*\nDisallow: /service/suche/index.html*query*\nDisallow: /*;jsessionid*\n\n############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# Â§ 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n# nutzungsvorbehalt@br.de\n############\n\nSitemap: https://www.br.de/sitemapIndex.xml\nSitemap: https://www.br.de/nachrichten/sitemaps/index.xml"
+  },
+  "https://www.deutschlandradio.de": {
+   "status": 200,
+   "text": "User-agent: *\n# print pages always have parameters\nDisallow: /*.print?\nDisallow: /*play=1\nsitemap: https://www.deutschlandradio.de/filter-aktuelles-100.sitemap\nsitemap: https://www.deutschlandradio.de/gastbeitrag-uebersicht-100.sitemap\nsitemap: https://www.deutschlandradio.de/pressemitteilungen-filter-100.sitemap\nsitemap: https://www.deutschlandradio.de/radiomenschen-uebersicht-100.sitemap\nCrawl-delay: 5\n"
+  },
+  "https://www.rbb-online.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /test/\nDisallow: /content/rbb/\n# Disallow: /content/rbb/rbb/unternehmen/presse/audio-video/\n# Disallow: /content/rbb/rbb/unternehmen/presse/pressetermine/\n# Disallow: /content/rbb/rbb/av/unternehmen/presse/\n\n# keine AV-Objekte direkt\nDisallow: /av/\n\n# keine Vorlagen\nDisallow: /vorlagen/\n \nUser-agent: Googlebot\nDisallow: /*.zip$\nDisallow: /*.ics$\nDisallow: /test/\nDisallow: /content/rbb/\nDisallow: /av/\n \n# Bilder jetzt zeigen\nUser-Agent: Googlebot-Image\nDisallow: /content/dam/temp/\nDisallow: /content/dam/rbb/rbb/fernsehen/programm/\nDisallow: /content/dam/rbb/test/\n \n# Alexa\nUser-Agent: ia_archiver\nDisallow: /\n \n# Auch Sauger wollen wir sperren\nUser-agent: Teleport* \nDisallow: / \nUser-agent: Webwhacker* \nDisallow: / \nUser-agent: Webzip* \nDisallow: / \nUser-agent: Net Attache* \nDisallow: / \nUser-agent: SiteSnagger* \nDisallow: / \nUser-agent: HTTrack* \nDisallow: / \nUser-agent: WebCapture* \nDisallow: / \nUser-agent: WebSauger* \nDisallow: /\n\n# Liste an Crawler (Modul SEO ARD). ARD-Beschluss. TOMS1-1288\n# Aenderung - Nutzungsvorbehalt 26.05.2026, TOMS1-1551\n\n############\n# Nutzungsvorbehalt / Reservation of Rights (Opt-Out) ARD\n# Stand: 19.05.2026\n\n### AI Training\n\n# Apple\nUser-agent: applebot-extended\nDisallow: /\n\n# ByteDance\nUser-agent: bytespider\nDisallow: /\n\n# Common Crawl\nUser-agent: ccbot\nDisallow: /\n\n# Anthropic\nUser-agent: claudebot\nDisallow: /\n\n# Google\nUser-agent: google-extended\nDisallow: /\n\n# Cohere\nUser-agent: cohere-training-data-crawler\nDisallow: /\n\n# DeepSeek\nUser-agent: deepseekbot\nDisallow: /\n\nUser-agent: deepseek\nDisallow: /\n\nUser-agent: deepseek-crawler\nDisallow: /\n\n# Diffbot\nUser-agent: diffbot\nDisallow: /\n\n# Meta\nUser-agent: facebookbot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\n# OpenAI\nUser-agent: gptbot\nDisallow: /\n\n# xAI\nUser-agent: grokbot\nDisallow: /\n\n# LAION\nUser-agent: img2dataset\nDisallow: /\n\nUser-agent: laiondownloader\nDisallow: /\n\n# Mistral AI\nUser-agent: mistralai-crawler\nDisallow: /\n\n# Webz.io\nUser-agent: omgili\nDisallow: /\n\nUser-agent: omgilibot\nDisallow: /\n\n# Huawei\nUser-agent: pangubot\nDisallow: /\n\n\n# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n# Legal Notice / Rechtshinweis\n#\n# The operator of this website expressly reserves the right pursuant to\n# Â§ 44b(3) UrhG (German Copyright Act) to prohibit the use of its content\n# for text and data mining.\n#\n# The automated collection, extraction, reproduction, or use of content\n# from this website for the purpose of training, fine-tuning, or\n# otherwise developing artificial intelligence models or systems is\n# strictly prohibited without prior written consent. This prohibition\n# extends to third-party service providers acting on behalf of or\n# supplying data to AI developers. Such third parties may be held\n# jointly liable for any unauthorized access or use of content in\n# violation of this notice.\n#\n# This restriction does not apply to automated access for the sole\n# purpose of retrieval-augmented generation (RAG) or grounding, provided\n# that such access complies with the technical directives specified in\n# this file and that the content is attributed to its original source.\n#\n# For inquiries or permission requests, please contact:\n# ki@rbb-online.de\n############\n"
+  },
+  "https://www.zdf.de": {
+   "status": 200,
+   "text": "Sitemap: https://www.zdf.de/mediathek-sitemap.xml\nSitemap: https://www.zdf.de/sitemap-zdfunternehmen.xml\n\nUser-agent: CCBot\nUser-agent: Google-Extended\nUser-agent: GPTBot\nUser-agent: ChatGPT-User\nUser-Agent: scrapy\nUser-Agent: scrapybot\nUser-Agent: SemrushBot\nUser-Agent: sentibot\nUser-Agent: SEOkicks-Robot\nUser-Agent: TkBot\nUser-Agent: trendkite-akashic-crawler\nUser-Agent: Vagabondo\nUser-Agent: WBSearchBot\nUser-Agent: grapeshot\nUser-Agent: iCjobs\nUser-Agent: linkdexbot\nUser-Agent: magpie-crawler\nUser-Agent: MegaIndex\nUser-Agent: MJ12bot\nUser-Agent: proximic\nUser-Agent: QuerySeekerSpider\nDisallow: /video/kurzfassungen/bundesliga-saison-2023-2024-fussball-highlights-zusammenfassung-100/\nDisallow: /video/kurzfassungen/bundesliga-fussball-highlights-zusammenfassung-100/\nDisallow: /video/kurzfassungen/fussball-highlights-zusammenfassung-100/\nDisallow: /video/kurzfassungen/bundesliga-saison-2022-2023-fussball-highlights-100/\nDisallow: /video/kurzfassungen/fussball-highlights-spiele-ergebnisse-zusammenfassungen-100/\nDisallow: /video/kurzfassungen/2-bundesliga-fussball-highlights-zusammenfassung-102/\nDisallow: /play/kurzfassungen/bundesliga-saison-2023-2024-fussball-highlights-zusammenfassung-100/\nDisallow: /play/kurzfassungen/bundesliga-fussball-highlights-zusammenfassung-100/\nDisallow: /play/kurzfassungen/fussball-highlights-zusammenfassung-100/\nDisallow: /play/kurzfassungen/bundesliga-saison-2022-2023-fussball-highlights-100/\nDisallow: /play/kurzfassungen/fussball-highlights-spiele-ergebnisse-zusammenfassungen-100/\nDisallow: /play/kurzfassungen/2-bundesliga-fussball-highlights-zusammenfassung-102/"
+  },
+  "https://endemolshine.de": {
+   "status": 200,
+   "text": "User-agent: *\nDisallow: /wp-admin/\nDisallow: /downloads/\nAllow: /wp-admin/admin-ajax.php"
+  },
+  "https://brainpool.de": {
+   "status": 200,
+   "text": "User-agent: * \r\nAllow: /"
+  },
+  "https://constantin-entertainment.de": {
+   "status": 200,
+   "text": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://constantin-entertainment.de/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+  },
+  "https://www.redseven.de": {
+   "status": 200,
+   "text": "User-Agent: *\nAllow: /"
+  }
+ },
+ "terms": {
+  "Crew United AGB": {
+   "url": "https://www.crew-united.com/de/home/agb.asp",
+   "final": "https://www.crew-united.com/de/home/agb.asp",
+   "status": 200,
+   "treffer": [
+    "6 'Non Member' ist jede Person, die selbst nicht oder nicht mehr bei CU registriert ist, zu der aber bei einem oder mehreren Projekten (Ziffer 6) Angaben in der Datenbank von CU gespeichert sind",
+    "Von der Nutzung der Datenbank ausgeschlossen sind Verbraucher i",
+    "eines bereits in der Datenbank verzeichneten Schauspielers durch eine Agentur",
+    "7 Der Nutzer versichert, von allen Personen, die Gegenstand eines von ihm eingestellten Profils sind, zur Eintragung in die Datenbank von CU berechtigt zu sein",
+    "Zudem gewährleistet die Datenbank von CU damit einen hohen Grad an Transparenz in der Medienbranche",
+    "2 Um einen Referenznachweis durch Verknüpfung mit einem Projekt führen zu können, ist es erforderlich, dass das betreffende Projekt bereits in der Datenbank von CU angelegt ist",
+    "3 CU nimmt keine manuelle oder automatische Kontrolle der von Nutzern eingestellten Inhalte vor",
+    "CU setzt keine automatischen Überprüfungssysteme, Filter oder ähnliche Werkzeuge ein, die Inhalte automatisch scannen und bearbeiten, sperren, entfernen oder andere Maßnahmen durchführen"
+   ]
+  },
+  "newsroom Nutzungsbedingungen": {
+   "url": "https://www.newsroom.de/nutzungsbedingungen/",
+   "final": "https://www.newsroom.de/",
+   "status": 200,
+   "treffer": []
+  },
+  "newsroom AGB": {
+   "url": "https://www.newsroom.de/agb/",
+   "final": "https://www.newsroom.de/agb/",
+   "status": 200,
+   "treffer": []
+  },
+  "e-TALENTA AGB": {
+   "url": "https://www.etalenta.eu/de/agb/",
+   "final": "https://www.etalenta.eu/de/agb/",
+   "status": 404,
+   "treffer": []
+  },
+  "filmmakers AGB": {
+   "url": "https://www.filmmakers.eu/de/terms_of_service",
+   "final": "https://www.filmmakers.eu/de/terms_of_service",
+   "status": 200,
+   "treffer": [
+    "Filmmakers enthält eine Datenbank von und für Filmschaffende mit Funktionen zur Besetzung und Zusammenarbeit von Crew und Cast (insbesondere eCasting-, Live-Casting- und Content-Management-Funktionen)",
+    "Professionelle Casting Directors können eine Schauspielerdatenbank mit Experten-Suchfunktion nutzen, klassische Studio-Castings verwalten, eCastings durchführen, die Auswahl vornehmen und mit ihren jeweiligen Kunden (insbesondere Produzenten und Regiesseuren) sowie ihren Mitarbeitern in ihrem System gemeinsam bewerten",
+    "Agenten können die eigenen Schauspielende über Filmmakers zentral verwalten und erhalten Information sowie Feedback zu Castings und eCastings",
+    "Der Anbieter behält sich jedoch das Recht auf solche Tätigkeiten in nicht automatisierter Form im Einzelfall vor (Stichproben)",
+    "Darüber hinaus wird der Anbieter solche Tätigkeiten in nicht automatisierter Form vornehmen, wenn er Kenntnis von rechts- und/oder vertragswidrigen Nutzerinhalten erlangt",
+    "Der Anbieter kann einzelne vom Nutzer bereitgestellte Inhalte löschen oder sperren, wenn er nach nicht automatisierter Prüfung der Ansicht ist, dass diese Nutzerinhalte gegen diese Allgemeinen Nutzungs- und Leistungsbedingungen oder geltendes Recht verstoßen",
+    "Bei wiederholten gleichartigen Verstößen eines Nutzers kann der Anbieter nach vorheriger Mahnung und nicht automatisierter Prüfung die Fähigkeit des Nutzers, solche Informationen bereitzustellen, durch Schließung oder Aussetzung des Kontos des Nutzers einschränken",
+    "Ebenso ist es dem Nutzer untersagt, die von anderen Nutzern auf Filmmakers eingestellten Daten zu lesen, auszulesen, abzuschöpfen, zu kopieren, zu sammeln oder auf sonstige Weise zu erlangen, unabhängig davon, ob dies manuell, automatisiert oder mittels Webcrawlern, Bots, Skripten, Systemen Künstlicher Intelligenz oder vergleichbaren Technologien erfolgt, es sei denn, Filmmakers gestattet dies ausdrücklich",
+    "Filmmakers setzt technische, organisatorische und vertragliche Maßnahmen ein, um professionelle Inhalte und personenbezogene Daten vor unbefugtem automatisiertem Auslesen (Scraping), Abschöpfen (Harvesting), Extrahieren, Wiederveröffentlichen, Erstellen von Datensätzen und vergleichbaren Formen des Missbrauchs zu schützen",
+    "Weitere Informationen zu Berechtigungen und Beschränkungen automatisierter Zugriffe enthält die Robots-Richtlinie von Filmmakers: https://www",
+    "eu/robots"
+   ]
+  },
+  "kress AGB": {
+   "url": "https://kress.de/rechtliches-hilfe/agb",
+   "final": "https://kress.de/rechtliches-hilfe/agb",
+   "status": 200,
+   "treffer": [
+    "durch einen unbefugten Zugriff von „Hackern“ auf die Datenbank)",
+    "Der Betreiber bietet den Kunden die Möglichkeit, Inhalte von externen Websites per RSS-Link auf deren Kopfprofil fließen zu lassen",
+    "Der Kunde verpflichtet sich, nur solche Inhalte über einen RSS-Link in seinem Profil zu hinterlegen, die unmittelbar mit seiner Person zu tun haben und die weder gegen geltendes Recht oder Rechte Dritter verstoßen noch in irgendeiner Art anstößig sind",
+    "Der Betreiber behält sich das Recht vor, hinterlegte Feedlinks oder ganze Profile jederzeit zu löschen",
+    "Im Rahmen des Vertragsschlusses erfolgt keine automatische Speicherung des Vertragstextes mit den AGB seitens des Betreibers"
+   ]
+  },
+  "softgarden Nutzungsbedingungen": {
+   "url": "https://softgarden.com/de/nutzungsbedingungen/",
+   "final": "https://softgarden.com/de/nutzungsbedingungen/",
+   "status": 200,
+   "treffer": [
+    "Feedback, softgarden-Zertifikat 5",
+    "Feedback, softgarden-Zertifikat 4",
+    "Das Unternehmen kann mit softgarden einen gesonderten Vertrag über die Nutzung der Funktion „Feedback“ abschließen",
+    "Mit der Funktion „Feedback“ kann das Unternehmen Bewerbern die Möglichkeit geben, den Bewerbungsprozess und das Unternehmen zu bewerten",
+    "Sämtliche Bewertungen werden dem Unternehmen in seinem eigenen Konto auf der Plattform unter der Rubrik „Feedback“ angezeigt",
+    "Das „Zertifikats-Widget“ ist eine Bilddatei, die ein softgarden-Logo und das Gesamtergebnis der Feedback-Bewertungen des Unternehmens enthält",
+    "softgarden ist insbesondere berechtigt, die Inhalte in eigenen Datenbanken zu speichern, die Inhalte zu verbreiten, zu veröffentlichen und öffentlich zugänglich zu machen und/oder im Rahmen der Veröffentlichung von Inhalten bei Drittanbietern, den Drittanbietern entsprechende Nutzungsrechte einzuräumen oder zu übertragen",
+    "Eine automatisierte Überprüfung mit technischen Mitteln findet nicht statt",
+    "Die nachträglich fällige Umsatzsteuer wird maschinell über die vom Kunden hinterlegte Kreditkarte eingezogen",
+    "Sie können außerdem hier PDF-Version herunterladen: Vereinbarung zur Auftragsverarbeitung nach Art",
+    "Anlage 1: Konkretisierung des Auftragsinhalts Anlage 1 und Anlage 2 (TOMs) können Sie hier als PDF herunterladen: Anlage 1 und 2 zur Vereinbarung zur Datenverarbeitung im Auftrag (PDF)",
+    "n und Personalverantwortlichen, Implementierung und Kommunikation von und mit Drittparteien und Kooperationspartnern, Auswertung von Bewerberdaten in Form des Berichtswesens, Bereitstellung von Statusinformationen der Bewerbung an angebundene Jobbörsen, Bereitstellung eines Talentpools, Abfrage von Feedback bei Bewerbern und über die Software eingestellten Mitarbeitern"
+   ]
+  },
+  "Arbeitnow Terms": {
+   "url": "https://www.arbeitnow.com/terms",
+   "final": "https://www.arbeitnow.com/terms",
+   "status": 200,
+   "treffer": []
+  },
+  "Amazon Jobs Terms": {
+   "url": "https://www.amazon.jobs/en/terms",
+   "final": "https://www.amazon.jobs/en/terms",
+   "status": 404,
+   "treffer": []
+  },
+  "UFA Impressum": {
+   "url": "https://www.ufa.de/impressum",
+   "final": "https://www.ufa.de/impressum",
+   "status": 200,
+   "treffer": [
+    "Sie dürfen außerhalb der Grenzen dieser Schutzgesetze nicht ohne unsere vorherige schriftliche Zustimmung vervielfältigt, verbreitet, veröffentlicht, verändert, Dritten zugänglich gemacht oder auf andere Weise genutzt werden",
+    "Sie dürfen außerhalb der Grenzen dieser Schutzgesetze nicht ohne unsere vorherige schriftliche Zustimmung vervielfältigt, verbreitet, veröffentlicht, verändert, Dritten zugänglich gemacht oder auf andere Weise genutzt werden",
+    "Neuen Browser herunterladen Schließen"
+   ]
+  },
+  "EndemolShine AGB": {
+   "url": "https://endemolshine.de/agb/",
+   "final": "https://endemolshine.de/agb/",
+   "status": 200,
+   "treffer": [
+    "Geistiges Eigentum/Copyright Der gesamte Inhalt der Website, einschließlich ihres Textes, ihrer Grafik, Logos, Icons, Bilder, Formate, Audio Clips, Video Clips, Textdokumente, Datenbanken, Software, etc",
+    "Vorbehaltlich der Regelungen in den vorliegenden Allgemeinen Nutzungsbedingungen dürfen der Inhalt und die Kennzeichenrechte oder irgendein anderer Teil dieser Website nicht benutzt, vervielfältigt, veräußert, verändert, verbreitet, gespeichert, öffentlich zugänglich gemacht oder auf eine andere Art und Weise genutzt werden, sofern wir dem nicht im Vorhinein schriftlich zugestimmt haben",
+    ") „Crawlers” oder andere Software oder andere Werkzeuge zum Sammeln von Daten einzusetzen oder andere Techniken anzuwenden, die eine außergewöhnliche Belastung der Infrastruktur unserer Website bzw",
+    "Das gleiche gilt für Schäden und Kosten, die uns im Zusammenhang mit Ihrer Verwendung von „Crawlern”, sonstiger Software und anderen Mitteln zur Sammlung von Daten entstehen oder die uns im Zusammenhang mit anderweitigen, auf Sie zurück zu führende Handlungen oder Unterlassungen entstehen, die die Infrastruktur unserer Website bzw"
+   ]
+  },
+  "ProSiebenSat.1 Impressum": {
+   "url": "https://www.prosiebensat1.com/impressum",
+   "final": "https://www.prosiebensat1.com/impressum",
+   "status": 404,
+   "treffer": []
+  },
+  "RTL Impressum company": {
+   "url": "https://company.rtl.com/de/impressum/",
+   "final": "https://company.rtl.com/de/error/",
+   "status": 200,
+   "treffer": []
+  }
+ },
+ "ba": {
+  "Moderator/in | de": {
+   "status": 200,
+   "treffer": 15,
+   "beispiele": [
+    "MODERATOR / IN | Toony Boom UG (haftungsbeschränkt) | Niedernberg, Unterfranken | Redakteur/in",
+    "Moderator/in (m/w/d) für TikTok Live-Shopping | Prophete In Moving GmbH | Rheda-Wiedenbrück | FMEA-Moderator/in",
+    "Moderator / Content Creator (m/w/d) | Ali Khayati | Troisdorf | Content Creator",
+    "Social Media Content Moderator (m/w/d) | Randstad Deutschland GmbH & Co KG | Dortmund | Content-Manager/in",
+    "Content Moderator (m/w/d) Social Media | timecon GmbH & Co. KG | Dortmund | Helfer/in - Büro, Verwaltung",
+    "Social Media Content Moderator (m/w/d) | Orizon GmbH NL Dortmund 2 | Dortmund | Social-Media-Manager/in",
+    "Moderator:innen für medizinische Online-Fortbildung gesucht (m/w/d) | FomF GmbH Durchführung von Seminaren und Veranstaltungen | Hofheim am Taunus | Journalist/in",
+    "Content Moderator, German speaking (m/w/d) - Lisbon, Portugal | SARLT Consulting | Lisbon | Content-Manager/in",
+    "Online Chat-Moderator: Verdiene flexibel von zu Hause, VantEdge | VantEdge |  | Customer-Experience-Manager/in",
+    "Italian Social Media Content Moderator (m,f) | Personalbüro U. Herrmann | Lisbon | Callcenteragent/in",
+    "🌍 Starte deine internationale Karriere in Lissabon – Werde Content Moderator (m/w/d)! | Teleperformance Portugal S.A. | Lissabon | Callcenteragent/in",
+    "Social Media Content Moderator (m,f): German or Dutch | Personalbüro U. Herrmann | Lisbon | Callcenteragent/in",
+    "Social Media Content Moderator (m,f): Danish or Polish or Czech | Personalbüro U. Herrmann | Lisbon | Callcenteragent/in",
+    "Entertainer (all genders) | Erlebnisland Eurostrand GmbH & Co.KG | Fintel | Animateur/in",
+    "TikTok Live Host / Content Creator (m/w/d) – Doktor Health | Selman Sertkaya - WE LOVE SMILE e.Kfm | Friedberg, Bayern | Content Creator"
+   ]
+  },
+  "Moderator/in | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "TV-Moderator | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "TV-Moderator | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fernsehmoderator | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fernsehmoderator | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Radiomoderation | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Radiomoderation | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Hörfunk Moderation | de": {
+   "status": 200,
+   "treffer": 1,
+   "beispiele": [
+    "Volontärin - Volontär (m/w/d) für RADIO-REDAKTION und MODERATION | Radio Inn-Salzach-Welle GmbH | Burgkirchen an der Alz | Hörfunk- und Fernsehsprecher/in"
+   ]
+  },
+  "Hörfunk Moderation | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Eventmoderator | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Eventmoderator | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Showmoderator | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Showmoderator | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Moderator Hörfunk Fernsehen | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Moderator Hörfunk Fernsehen | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Sprecher/in (Fernsehen/Film/Rundfunk) | de": {
+   "status": 200,
+   "treffer": 2,
+   "beispiele": [
+    "Sprecher/in (Fernsehen/Film/Rundfunk) | Österreichischer Rundfunk | Wien,Hietzing | Sprecher/in (Fernsehen/Film/Rundfunk)",
+    "TikTok Live Host / Content Creator (m/w/d) – Doktor Health | Selman Sertkaya - WE LOVE SMILE e.Kfm | Friedberg, Bayern | Content Creator"
+   ]
+  },
+  "Sprecher/in (Fernsehen/Film/Rundfunk) | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Entertainer/in | de": {
+   "status": 200,
+   "treffer": 11,
+   "beispiele": [
+    "Entertainer (all genders) | Erlebnisland Eurostrand GmbH & Co.KG | Fintel | Animateur/in",
+    "\n  Animateur - Kids Entertainer (Mensch)\n | Karls Markt OHG | Rövershagen | Animateur/in",
+    "\n  Mitarbeiter Manufaktur Live-Show - Entertainer (Mensch)\n | Karls Markt OHG | Bispingen | Animateur/in",
+    "Barchef / Barkeeper / Entertainer / Service Mitarbeiter/in gesucht | Jan Thesing Giga Live | Brandenburg an der Havel | Barmeister/in",
+    "Kostümdarsteller (m/w/d) | Movie Park Germany GmbH | Bottrop | Entertainer/in",
+    "Servicemitarbeiter a.k.a. The Food & Beverage Entertainer (m/w/d) | Jaz in the City | Stuttgart | Zugsteward/-stewardess",
+    "Service Barkeeper Entertainer (m/w/d) in Vollzeit oder Teilzeit gesucht! | Jan Thesing Giga Live | Brandenburg an der Havel | Barmixer/in, Barkeeper/in",
+    "Künstler/Darsteller (m/w/d) | Movie Park Germany GmbH | Bottrop | Entertainer/in",
+    "Santa Claus (für unsere Santa Expierence), Lebkuchenmann-/frau, sowie Elfen (m/w/d) | Movie Park Germany GmbH | Bottrop | Entertainer/in",
+    "Servicemitarbeiter a.k.a. The Food & Beverage Entertainer (m/w/d), Jaz in the City Stuttgart | Jaz in the City Stuttgart | Stuttgart | Food-and-Beverage-Assistant",
+    "Spielleitung & Game-Master (m/w/d) für unser ESCAPE DINNER gesucht! | Baff GmbH | Mutterstadt | Entertainer/in"
+   ]
+  },
+  "Entertainer/in | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Darsteller | de": {
+   "status": 200,
+   "treffer": 5,
+   "beispiele": [
+    "Künstler/Darsteller (m/w/d) | Movie Park Germany GmbH | Bottrop | Entertainer/in",
+    "Darsteller Fear Horrorwalk (m/w/d) | Flipped Funpark | Singen (Hohentwiel) | Schausteller/in",
+    "Schauspieler/Darsteller Hospital (m/w/d) | Flipped Funpark | Singen (Hohentwiel) | Hausmeister/in",
+    "Castingaufruf für Künstler/Darsteller (m/w/d) | Movie Park Germany GmbH Freizeitpark | Bottrop | Künstlervermittler/in (nicht bei der Agentur für Arbeit)",
+    "Darsteller - Erschrecker - Gruselabende (Mensch) | Karls Markt OHG | Bergen auf Rügen, Loxstedt, Ratekau, Koserow | Schausteller/in"
+   ]
+  },
+  "Darsteller | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Model | de": {
+   "status": 200,
+   "treffer": 917,
+   "beispiele": [
+    "MODEL BASED SYSTEMS ENGINEER (D/F/M) | Airbus Defence and Space GmbH | Hamburg | Ingenieur/in - Automatisierungstechnik",
+    "Senior AI Scientist – Model Training  (m/w/d) | BWI GmbH | Berlin, Frankfurt am Main, Hamburg, Leipzig, München, Nürnberg, Mittelfranken, Ulm, Donau, Bonn | KI-Engineer",
+    "Model-Based Design Ingenieur im Bereich Energietechnik (m/w/d) | Sokratel GmbH | Augsburg, Bayern, Bochum, Hamburg, Kiel | Ingenieur/in - Energietechnik",
+    "Teamlead (m/w/d) Model-Based Design & Digital Thread | Avelion Group | Darmstadt | Informatiker/in",
+    "Mitarbeiter/in (m/w/d) in Lohnbuchhaltung und Personalverwaltung  in Teilzeit | Mödel GmbH | Amberg, Oberpfalz | Lohn- und Gehaltsbuchhalter/in",
+    "Aushilfe als Fitting Model (m/w/d) für unsere Musteranproben Größe 36/38 | s.Oliver Bernd Freier GmbH & Co. KG | Rottendorf, Unterfranken | Textil- und Modeschneider/in - Arbeitsvorbereitung und Qualitätsprüfung",
+    "Digital & IT Strategy Manager (Operating Model & Change) (w/m/d) | TÜV SÜD AG | München | Betriebswirt/in - allgemeine Betriebswirtschaft",
+    "Senior AI Infrastructure & Frontier Model Engineer (f/m/x) | BMW AG | München | Systeminformatiker/in",
+    "Junior Ingenieur für Simulation und Model-Based Design mit Chinesischkenntnissen (m/w/d) | Sokratel GmbH | Augsburg, Bayern, Bochum, Hamburg, Kiel | Ingenieur/in - Elektrotechnik",
+    "Senior Ingenieur für Simulation und Model-Based Design mit Chinesischkenntnissen (m/w/d) | Sokratel GmbH | Augsburg, Bayern, Bochum, Hamburg, Kiel | Ingenieur/in - Elektrotechnik",
+    "Berater Operating Model & Transformation Delivery - Technology Strategy & Transformation (w/m/d) | EY Consulting GmbH | Hannover, Köln, Eschborn, Taunus, Düsseldorf, Stuttgart, München, Hamburg, Berlin | Wirtschaftsinformatiker/in (Hochschule)",
+    "(Senior) Manager HR Strategy & Operating Model (m/w/d) | Deloitte GmbH | Berlin | HR Business Partner",
+    "Enterprise Architect (m/w/d) International & Owner IT Operating Model International | ROSSMANN | Burgwedel | IT-Systemadministrator/in",
+    "Production Machine Operator (m/f/d) – 10/5 working time model | Mühlbauer Group | Roding, Regen | Maschinenführer/in - Schweißanlagen",
+    "Enterprise Architect (m/w/d) International & Owner IT Operating Model International | Dirk Rossmann GmbH | Burgwedel | Software-Architect",
+    "HR-Business Partner Payroll (m/w/d) | Model GmbH | Bad Bentheim, Werra-Suhl-Tal | HR Business Partner",
+    "Leiter Einkauf / Head of Procurement (m/w/d) | Model GmbH | Bad Bentheim | Leiter/in - Einkauf",
+    "None | Model GmbH | Bad Bentheim | Gabelstaplerfahrer/in",
+    "Elektroniker (m/w/d) für Betriebstechnik | Model GmbH | Bad Bentheim | Elektroniker/in - Betriebstechnik",
+    "Produktionsmitarbeiter (m/w/d) | Model GmbH | Bad Bentheim | Helfer/in - Papier, Verpackung"
+   ]
+  },
+  "Model | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fotomodell | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fotomodell | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Host TV | de": {
+   "status": 200,
+   "treffer": 1,
+   "beispiele": [
+    "Rezeptionist/in/ Empfangsmitarbeiter (m/w/d) | Holiday Inn VS Sierra Hotel Management GmbH | Villingen-Schwenningen | Empfangsmitarbeiter/in (Hotel)"
+   ]
+  },
+  "Host TV | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Live Host | de": {
+   "status": 200,
+   "treffer": 4,
+   "beispiele": [
+    "TikTok Live Host (m/w/d) Minijob | ArtiTree GmbH | Nettetal | Hostess/Host",
+    "Live-Commerce-Host (m/w/d) Produktpräsentation  | I.K. Hofmann GmbH | Frankfurt (Oder) | Fachkaufmann/-frau - Marketing",
+    "TikTok Live Host / Content Creator (m/w/d) – Doktor Health | Selman Sertkaya - WE LOVE SMILE e.Kfm | Friedberg, Bayern | Content Creator",
+    "Kundenservice / Online Presenter (Koreanisch & Englisch) – Malta | Jobs Europe AB | Birkirkara, , ,  | Kundendienstberater/in"
+   ]
+  },
+  "Live Host | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Game Master | de": {
+   "status": 200,
+   "treffer": 2,
+   "beispiele": [
+    "Spielleitung & Game-Master (m/w/d) für unser ESCAPE DINNER gesucht! | Baff GmbH | Mutterstadt | Entertainer/in",
+    "Consultant M&A Advisory, IT Transition & Transformation (w|m|d) | BridgingIT GmbH | Stuttgart, Mannheim, Karlsruhe, Baden, Berlin, Frankfurt am Main | IT-Berater/in"
+   ]
+  },
+  "Game Master | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Redaktionsleitung | de": {
+   "status": 200,
+   "treffer": 1,
+   "beispiele": [
+    "REDAKTIONSLEITUNG (M/W/D) | Antenne Thüringen GmbH & Co. KG | Weimar, Thüringen | Redakteur/in"
+   ]
+  },
+  "Redaktionsleitung | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Chef vom Dienst | de": {
+   "status": 200,
+   "treffer": 2,
+   "beispiele": [
+    "Chef vom Dienst (USA) (w/m/d) | RTL Deutschland GmbH |  | Auslandskorrespondent/in",
+    "Chef de Rang (m/w/d) auf Gut Steinbach - Relais & Châteaux | Vorreiter Hospitality GmbH Gut Steinbach | Reit im Winkl | Chef de rang"
+   ]
+  },
+  "Chef vom Dienst | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Showrunner | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Showrunner | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Producer Entertainment | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Producer Entertainment | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Formatentwickler | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Formatentwickler | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Hörfunkjournalist | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Hörfunkjournalist | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fernsehjournalist | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Fernsehjournalist | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Reporter TV | de": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Reporter TV | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Volontariat Moderation | de": {
+   "status": 200,
+   "treffer": 1,
+   "beispiele": [
+    "Ausbildungsleitung (m/w/d) | Magistrat der Stadt Bad Homburg v.d.Höhe | Bad Homburg vor der Höhe | Fachwirt/in - Verwaltung"
+   ]
+  },
+  "Volontariat Moderation | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Unterhaltung | de": {
+   "status": 200,
+   "treffer": 1024,
+   "beispiele": [
+    "Industriemechanikerin / Industriemechaniker (m/w/d)  für die Planmäßige Unterhaltung | BAV Dienstsitz Aurich | Beilngries | Industriemechaniker/in",
+    "Bezirksingenieur/in (m/w/d) - Straßenaufsicht und –unterhaltung | BA Treptow-Köpenick von Berlin SE Personal und Finanzen | Berlin | Ingenieur/in - Verkehrswesen",
+    "Fachkraft Unterhaltung Kreisstraßen | Landkreis Oberspreewald-Lausitz | Calau | Straßenwärter/in",
+    "Facharbeiter*in im Bereich der Unterhaltung von Sonderbauwerken (m/w/d) | Stadt Dortmund | Dortmund | Fachkraft - Rohr-, Kanal- und Industrieservice",
+    "Elektrotechnikermeister*in im Bereich des Kanalbetriebes, Unterhaltung von Sonderbauwerken (m/w/d) | Stadt Dortmund | Dortmund | Elektrotechnikermeister/in/Bachelor Professional im Elektrotechniker-Handwerk",
+    "Sachbearbeiter/in Hochbau und bauliche Unterhaltung (m/w/d) | Gemeinde Mühlenbecker Land | Mühlenbeck bei Oranienburg | Hochbauingenieur/in",
+    "Projektleitung Planung und Unterhaltung von Anlagen der Stadtentwässerung (m/w/d) | Stadtverwaltung Recklinghausen - FB10  KdöR | Recklinghausen, Westfalen | Ingenieur/in - Bau",
+    "Unterhaltung, Instandsetzung und Planung von städt. Gebäuden (w/m/d) | Stadt Arnsberg KdöR | Arnsberg, Westfalen | Architekt/in",
+    "Sachbearbeiter (m/w/d) für Unterhaltung kommunaler Anlagen im Fachbereich Gemeindeentwicklung/Bauen | Gemeinde Seebad Heringsdorf Ostseeheilbad Ahlbeck | Seebad Ahlbeck | Verwaltungsfachangestellte/r - Kommunalverwaltung",
+    "Bauingenieur (m/w/d) für die Leitung/Mitarbeit im SG Straßenverwaltung/-unterhaltung für LKR DGF | Staatliches Bauamt Landshut | Landshut, Isar | Straßenbauingenieur/in",
+    "Reinigungskraft (m/w/d) | Dienstleistungszentrum Bucha Inh. Dr. Bodo Gehrmann OT Bucha | Cavertitz | Helfer/in - Reinigung",
+    "Elektrofachkraft für den Bauhof (w/m/d) | Stadtverwaltung Langenau | Langenau, Württemberg | Industrieelektriker/in - Betriebstechnik",
+    "Hausmeister (m/w/d) | Diakonisches Werk im Neckar-Odenwald-Kreis | Mosbach, Baden | Hausmeister/in",
+    "Straßenbauer/Straßenwärter (m/w/d) für den städtischen Bauhof | Stadt Schneverdingen | Schneverdingen | Tiefbaufacharbeiter/in (ohne Angabe des Schwerpunkts)",
+    "Mitarbeiter (m/w/d) für den Gemeindebauhof | GEMEINDE PLIENING | Pliening | Elektroniker/in - Energie- und Gebäudetechnik",
+    "Mitarbeiter (m/w/d) für den städtischen Bauhof | Stadt Schneverdingen | Schneverdingen | Gärtner/in - Garten- und Landschaftsbau",
+    "Tiefbaufacharbeiter (m/w/d) - Schwerpunkt: Rohrleitungsbau | Wasserverband Wittlage | Bad Essen | Tiefbaufacharbeiter/in - Rohrleitungsbauarbeiten",
+    "Hauswirtschaftliche MA ambulant | Menschwert! e.V. NL Wetzlar | Wetzlar, Linden, Hessen, Gelnhausen | Hauswirtschafter/in",
+    "Gärtner (m/w/d) Bamberg | ARWA Personaldienstleistungen GmbH | Hallstadt, Bamberg | Gärtner/in - Garten- und Landschaftsbau",
+    "Fachkraft (m/w/d) im Bereich der Landschaftspflege | Stadtverwaltung Sinsheim | Sinsheim, Elsenz | Gärtner/in - Garten- und Landschaftsbau"
+   ]
+  },
+  "Unterhaltung | berufsfeld": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Moderator | selbstaendig": {
+   "status": 200,
+   "treffer": 3,
+   "beispiele": [
+    "Freiberuflicher Moderator in der Unternehmensberatung | DIABA Consulting GmbH",
+    "Moderator für Veranstaltungen in weiterführenden Schulen (m/w/d) | Ulrich & Martin Meyer GmbH & Co. KG",
+    "Moderator / Coach (m/w/d) auf selbständiger Basis für Consulting und Coaching | Unitas Solutions GmbH"
+   ]
+  },
+  "Moderation | selbstaendig": {
+   "status": 200,
+   "treffer": 11,
+   "beispiele": [
+    "Geschäftsführer Schulungszentrum (m/w/d) – Selbstständigkeit | Karsten Schepers Schepers Consulting FranNet Westdeutschland",
+    "Geschäftsführer/Partner (m/w/d) im Business Coaching- Selbstständigkeit | Karsten Schepers Schepers Consulting FranNet Westdeutschland",
+    "Moderator / Coach (m/w/d) auf selbständiger Basis für Consulting und Coaching | Unitas Solutions GmbH",
+    "Kursleitung (m/w/d) für unsere Schularbeit | O'Reilly Bildungs UG (haftungsbeschränkt)",
+    "Experte/in in sozialer Arbeit auf Honorarbasis | Familien und Integrationszentrum \"Cinderella\" e.V.",
+    "Generaldirektor (m/w/d) dringend gesucht | RADAS Jobbörse & Personalvermittlung GmbH",
+    "Freiberuflicher Moderator in der Unternehmensberatung | DIABA Consulting GmbH",
+    "Geschäftsführer / selbständige Partner (m/w/d) für Consulting und Coaching | Unitas Solutions GmbH",
+    "Lokale/r Organisator/in (m/w/d) in freier Mitarbeit | ASTUR Education GmbH",
+    "Verkehrspsychologe auf Honorarbasis (m/w/d) | TUeV Thuer. Anlagentechnik GmbH & Co. KG",
+    "Unternehmensnachfolge (m/w/d) im Unternehmensberatungs-Business | DIABA Consulting GmbH"
+   ]
+  },
+  "Sprecher | selbstaendig": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Host | selbstaendig": {
+   "status": 200,
+   "treffer": 0,
+   "beispiele": []
+  },
+  "Model | selbstaendig": {
+   "status": 200,
+   "treffer": 14,
+   "beispiele": [
+    "als Selbständig starten und sich als Versicherungsfach-M/F/D qualifizieren | Omega Capital GmbH",
+    "Finanzexperte für Versicherungen und Immobilien | Omega Capital GmbH",
+    "Finanzexperte für Versicherungen und Immobilien | Omega Capital GmbH",
+    "Produktmanager:in | alfatraining Bildungszentrum GmbH",
+    "Produktmanager:in | alfatraining Bildungszentrum GmbH",
+    "Werkstudent (m/w/d) Modelle und Methoden, PV Verbund | Prüfungsverband deutscher Banken e. V.",
+    "BIM Manager:in | alfatraining Bildungszentrum GmbH",
+    "BIM Manager:in | alfatraining Bildungszentrum GmbH",
+    "BIM-Modeler mit Revit | alfatraining Bildungszentrum GmbH",
+    "BIM Koordinator:in mit BIM-Software | alfatraining Bildungszentrum GmbH",
+    "BIM-Modeler mit Revit | alfatraining Bildungszentrum GmbH",
+    "Mathematische Modellierung mit MATLAB und Simulink | alfatraining Bildungszentrum GmbH",
+    "BIM Koordinator:in mit BIM-Software | alfatraining Bildungszentrum GmbH",
+    "Mathematische Modellierung mit MATLAB und Simulink | alfatraining Bildungszentrum GmbH"
+   ]
+  }
+ }
+}
