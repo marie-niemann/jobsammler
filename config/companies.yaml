@@ -1,0 +1,181 @@
+# Zielfirmen, Sender und Jobbörsen.
+#
+# Teil 1 "quellen": wird jeden Morgen automatisch abgerufen.
+#   name:  wie die Firma in der Liste heißen soll
+#   art:   wie die Seite gelesen wird (nicht ändern, wenn du nicht sicher bist):
+#          rss            = RSS-Feed
+#          personio       = offizielle Personio-Stellenliste (XML)
+#          softgarden     = öffentliche softgarden-Stellenliste
+#          umantis        = öffentliche umantis-Stellenliste
+#          successfactors = öffentliche Stellensuche (SAP SuccessFactors)
+#          ufa            = Stellenliste auf ufa.de
+#          hr             = Stellenliste auf hr.de
+#   url:   Adresse der Stellenliste
+#   ort:   Ort, falls die Quelle keinen Ort nennt
+#   aus: true  = vorübergehend nicht abrufen (Zeile "aus: true" löschen, um wieder einzuschalten)
+#
+# Vor jedem Abruf prüft das Programm die robots.txt der Seite. Verbietet sie den Abruf,
+# wird die Quelle übersprungen und das steht im Protokoll (data/run.json).
+#
+# Teil 2 "alerts": Firmen, die NICHT automatisch abgerufen werden dürfen oder können.
+# Für diese richtest du am besten einen E-Mail-Jobalert ein. Die Liste steht auch in QUELLEN.md.
+
+quellen:
+  # --- Jobbörsen ---
+  - name: newsroom.de
+    art: rss
+    url: https://www.newsroom.de/rss/jobs-feed/
+
+  # --- Öffentlich-rechtliche Sender ---
+  - name: rbb
+    art: umantis
+    url: https://recruitingapp-5154.de.umantis.com/Jobs/All
+    ort: Berlin
+  - name: NDR
+    art: umantis
+    url: https://jobs.ndr.de/Jobs/All
+    ort: Hamburg
+  - name: BR
+    art: umantis
+    url: https://jobs.br.de/Jobs/All
+    ort: München
+  - name: ZDF
+    art: successfactors
+    url: https://jobs.zdf.de/search/?q=&locale=de_DE
+  - name: ZDF Digital
+    art: personio
+    url: https://zdf-digital.jobs.personio.de/xml
+    ort: Mainz
+  - name: Hessischer Rundfunk
+    art: hr
+    url: https://www.hr.de/karriere/alle-angebote/index.html
+    ort: Frankfurt am Main
+  - name: Deutschlandradio
+    art: softgarden
+    url: https://deutschlandradio.softgarden.io/de/vacancies
+    ort: Köln
+  - name: Radio Bremen
+    art: softgarden
+    url: https://radiobremen.softgarden.io/de/vacancies
+    ort: Bremen
+  - name: Saarländischer Rundfunk
+    art: softgarden
+    url: https://srjobs.softgarden.io/de/vacancies
+    ort: Saarbrücken
+  - name: NDR Karriere-Feed
+    art: rss
+    url: https://www.ndr.de/der_ndr/karriere/index~rss2.xml
+    ort: Hamburg
+  - name: ZDF Karriere-Feed
+    art: rss
+    url: https://www.zdf.de/rss/zdf/unternehmen/karriere
+  - name: SWR und funk
+    art: rss
+    url: https://www.swr.de/~rss/unternehmen/karriere/stellenangebote-110.xml
+  - name: MDR
+    art: rss
+    url: https://www.mdr.de/karriere/index~rss2.xml
+    ort: Leipzig
+  - name: BR Karriere-Feed
+    art: rss
+    url: https://www.br.de/extra/karriere/karriere-ausbildung-werkstudenten-duales-studium-jobs-stellenmarkt-stellenangebote-100~rss.xml
+    ort: München
+  - name: ARD Programmdirektion
+    art: rss
+    url: https://www.ard.de/die-ard/ard-programmdirektion/uebersicht-ard-programmdirektion-jobs-100~rss2.xml
+    ort: München
+
+  # --- Private Sender und Streaming ---
+  - name: ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)
+    art: successfactors
+    url: https://jobs.prosiebensat1.com/search/?q=&locale=de_DE
+  - name: RTL Deutschland
+    art: successfactors
+    url: https://jobsearch.createyourowncareer.com/RTL/search/?q=&locale=de_DE
+
+  # --- Produktionsfirmen ---
+  - name: UFA (mit UFA Show & Factual)
+    art: ufa
+    url: https://www.ufa.de/karriere/jobs
+    ort: Berlin
+  - name: Banijay Germany (mit Brainpool, Good Times)
+    art: softgarden
+    url: https://banijay.softgarden.io/de/vacancies
+    ort: Köln
+  - name: EndemolShine Germany
+    art: softgarden
+    url: https://endemolshine.softgarden.io/de/vacancies
+    ort: Köln
+  - name: Seapoint Productions
+    art: softgarden
+    url: https://seapoint.softgarden.io/de/vacancies
+    ort: Köln
+
+  # --- Digitale Studios / YouTube-Formate ---
+  - name: btf (bildundtonfabrik)
+    art: personio
+    url: https://btf-gmbh.jobs.personio.de/xml
+    ort: Köln
+  - name: ITV Studios Germany
+    art: personio
+    url: https://itv-studios-germany.jobs.personio.de/xml
+    ort: Köln
+
+alerts:
+  - name: Raab Entertainment
+    grund: robots.txt sperrt automatische Programme
+    wo: https://jobs.raab-entertainment.de/stellenangebote.html
+  - name: florida entertainment
+    grund: Website für Programme nicht erreichbar
+    wo: Karriereseite / LinkedIn der Firma
+  - name: Constantin Entertainment
+    grund: keine abrufbare Stellenliste; Castings laufen über eigene Casting-Seite
+    wo: https://constantin-entertainment.de/karriere/ und https://www.constantin-casting.de
+  - name: Bavaria Film / Bavaria Entertainment
+    grund: Stellenliste wird nachgeladen, keine offene Schnittstelle gefunden
+    wo: https://www.bavaria-film.de/jobportal
+  - name: WDR
+    grund: eigenes Bewerbungsportal, Stellenliste nicht verlässlich lesbar
+    wo: https://karriere.wdr.de
+  - name: Rocket Beans TV
+    grund: Website nur mit JavaScript
+    wo: https://rocketbeans.tv/jobs
+  - name: Hyperbole
+    grund: keine Stellenliste
+    wo: https://www.hyperbole.de/jobs/
+  - name: Mediakraft
+    grund: Website für Programme nicht erreichbar
+    wo: Website / LinkedIn
+  - name: Netflix
+    grund: robots.txt verbietet automatisches Abrufen
+    wo: https://jobs.netflix.com
+  - name: Amazon (Prime Video)
+    grund: keine offizielle Schnittstelle
+    wo: https://www.amazon.jobs (Job-Alert)
+  - name: Disney
+    grund: Seite nur mit JavaScript
+    wo: https://join.disneycareers.com (Job-Alert)
+  - name: Warner Bros. Discovery
+    grund: Seite nur mit JavaScript
+    wo: https://careers.wbd.com (Job-Alert)
+  - name: Sky Deutschland
+    grund: blockt automatische Zugriffe
+    wo: https://www.sky.de (Karriere, Job-Alert)
+  - name: DAZN
+    grund: blockt automatische Zugriffe
+    wo: https://www.dazn.com (Careers, Job-Alert)
+  - name: e-TALENTA (früher Castforward)
+    grund: Castings nur mit Profil; automatisches Auslesen nicht erlaubt
+    wo: https://www.etalenta.eu (Profil + Casting-Benachrichtigung)
+  - name: filmmakers
+    grund: Nutzungsbedingungen verbieten automatisches Auslesen
+    wo: https://www.filmmakers.eu (Profil + Benachrichtigung)
+  - name: Schauspielervideos
+    grund: robots.txt verbietet alles
+    wo: https://www.schauspielervideos.de (Castings, Benachrichtigung)
+  - name: Crew United
+    grund: Jobinserate nur mit Login
+    wo: https://www.crew-united.com/de/jobs/
+  - name: kress / MEEDIA
+    grund: wird größtenteils über den newsroom.de-Feed abgedeckt
+    wo: https://kress.de/jobs/stellenmarkt (Job-Newsletter)

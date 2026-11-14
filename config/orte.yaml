@@ -1,0 +1,46 @@
+# Wo die Stelle sein darf.
+
+# Wunschorte, in dieser Reihenfolge sortiert (der erste steht in der Liste oben).
+# Jeder Ort kann mehrere Schreibweisen haben (mit | getrennt).
+wunschorte:
+  - name: Berlin
+    muster: berlin|potsdam
+  - name: München
+    muster: münchen|muenchen|munich|unterföhring|unterfoehring|ismaning|grünwald|gruenwald
+  - name: Hamburg
+    muster: hamburg
+
+# Stellen in anderen Orten kommen nur in die Liste, wenn sie remote sind
+# oder eines dieser Wörter im Titel oder in der Beschreibung steht (kurze Einsätze).
+kurzzeit_woerter:
+  - casting
+  - drehtag
+  - drehtage
+  - dreharbeiten
+  - wochenweise
+  - tageweise
+  - tagesgage
+  - gage
+  - projektbasis
+  - projektweise
+  - für ein projekt
+  - einzelne termine
+  - einzelne events
+  - event
+  - messe
+  - tournee
+  - tour
+  - gastauftritt
+  - pilotfolge
+  - pilot
+
+# Wörter, an denen eine Remote-Stelle erkannt wird
+remote_woerter:
+  - remote
+  - homeoffice
+  - home office
+  - home-office
+  - mobiles arbeiten
+  - ortsunabhängig
+  - deutschlandweit
+  - bundesweit
