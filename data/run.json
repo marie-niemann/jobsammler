@@ -1,13 +1,14 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T13:46:51+01:00",
+ "gestartet": "2026-11-14T13:49:42+01:00",
  "dauerSekunden": 107,
- "offen": 19,
- "neuHeute": 0,
+ "offen": 24,
+ "neuHeute": 5,
  "geschlossenHeute": 0,
  "geschlossenInDatei": 0,
  "offenProQuelle": {
   "RADIOSZENE": 6,
+  "DWDL.de": 5,
   "Arbeitsagentur": 5,
   "newsroom.de": 4,
   "BR": 1,
@@ -16,9 +17,9 @@
   "Deutschlandradio": 1
  },
  "offenProRolle": {
-  "host": 10,
-  "format": 3,
-  "leitung": 3,
+  "host": 11,
+  "leitung": 6,
+  "format": 4,
   "casting": 2,
   "musik": 1
  },
@@ -54,7 +55,7 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 18,
+   "stellen": 23,
    "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
@@ -76,9 +77,13 @@
      ]
     },
     "DWDL.de": {
-     "gesamt": 0,
-     "passend": 0,
-     "beispiele": []
+     "gesamt": 108,
+     "passend": 5,
+     "beispiele": [
+      "Executive Producer:in Development (m/w/d) | FILMREIF TV GmbH | Hamburg",
+      "Head of IT und Media Technology (m/w/d) | Home Shopping Europe GmbH | Ismaning bei München",
+      "Medieningenieur*in (Schwerpunkt Hörfunk) | Hessischer Rundfunk | Frankfurt am Main"
+     ]
     },
     "rbb": {
      "gesamt": 43,
@@ -284,23 +289,23 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 953,
-    "ausgeschlossen (Titel: praktik)": 175,
+    "titel passt zu keiner rolle": 1033,
+    "ausgeschlossen (Titel: praktik)": 184,
     "ausgeschlossen (Titel: performance marketing)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: volontär)": 15,
-    "ausgeschlossen (Titel: werkstudent)": 27,
+    "ausgeschlossen (Titel: volontär)": 18,
+    "ausgeschlossen (Titel: werkstudent)": 36,
     "ausgeschlossen (Titel: social media marketing)": 3,
     "ausgeschlossen (Titel: content marketing)": 5,
     "ausgeschlossen (Titel: ausbildung)": 46,
-    "ausgeschlossen (Titel: trainee)": 11,
+    "ausgeschlossen (Titel: trainee)": 12,
     "ausgeschlossen (Titel: online marketing)": 25,
     "ausgeschlossen (Titel: online-marketing)": 13,
     "ort passt nicht": 11,
     "ausgeschlossen (Titel: volontariat)": 17,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
-    "ausgeschlossen (Titel: social media manager)": 24,
+    "ausgeschlossen (Titel: social media manager)": 25,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "ausgeschlossen (Titel: influencer marketing)": 3,
     "ausgeschlossen (Titel: working student)": 1,
@@ -338,7 +343,5 @@
    }
   }
  },
- "fehler": [
-  "DWDL.de: keine einzige Stelle gelesen – Seite geändert? Bitte prüfen."
- ]
+ "fehler": []
 }
