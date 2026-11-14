@@ -1,10 +1,10 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T14:24:39+01:00",
- "dauerSekunden": 107,
+ "gestartet": "2026-11-14T14:27:01+01:00",
+ "dauerSekunden": 108,
  "offen": 20,
  "neuHeute": 0,
- "geschlossenHeute": 2,
+ "geschlossenHeute": 0,
  "geschlossenInDatei": 4,
  "offenProQuelle": {
   "RADIOSZENE": 6,

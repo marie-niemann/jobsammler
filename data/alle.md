@@ -47,7 +47,7 @@ Stand: 14.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-01 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
 - **[Castingaufruf für Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208599164-S)** 🆕  
   Movie Park Germany GmbH Freizeitpark · Bottrop
-  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-09 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (events)</sub>
+  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-09 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (castingaufruf)</sub>
 
 ## Musik & Performance (1)
 
