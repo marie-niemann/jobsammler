@@ -16,7 +16,7 @@ Radio, Castings, Musik, Formatentwicklung und Leitung. Läuft als GitHub Action,
 **Regel:** Eine Stelle ist offen, solange sie in der Quelle steht. Fehlt sie, wird sie als geschlossen markiert
 und bleibt noch 60 Tage in `jobs.json`.
 
-Sortierung: zuerst nach Wichtigkeit der Rolle (Host/Digital oben), dann nach Ort (Berlin, München, Hamburg,
+Sortierung: zuerst nach Wichtigkeit der Rolle (Host/Digital oben), dann nach Ort (Berlin, München, Hamburg, Hannover, Frankfurt, Köln,
 dann remote, dann „Ort prüfen“, dann andere Orte mit kurzem Einsatz).
 
 ## Einen Lauf von Hand starten
@@ -77,10 +77,10 @@ Willst du doch Volontariate sehen? Einfach die Zeile `- volontariat` löschen.
 
 ### `config/orte.yaml` – wo die Stelle sein darf
 
-- `wunschorte`: Berlin, München, Hamburg, in dieser Reihenfolge. Einen Ort hinzufügen:
+- `wunschorte`: Berlin, München, Hamburg, Hannover, Frankfurt, Köln, in dieser Reihenfolge. Einen Ort hinzufügen:
   ```yaml
-    - name: Köln
-      muster: köln|koeln|cologne|hürth
+    - name: Düsseldorf
+      muster: düsseldorf|duesseldorf
   ```
 - `kurzzeit_woerter`: Stellen in anderen Orten kommen nur in die Liste, wenn sie remote sind oder eines dieser
   Wörter enthalten (z. B. „casting“, „drehtag“, „event“).

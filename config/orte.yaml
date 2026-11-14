@@ -9,6 +9,12 @@ wunschorte:
     muster: münchen|muenchen|munich|unterföhring|unterfoehring|ismaning|grünwald|gruenwald
   - name: Hamburg
     muster: hamburg
+  - name: Hannover
+    muster: hannover|hanover
+  - name: Frankfurt
+    muster: frankfurt(?! ?\(? ?oder)|offenbach|eschborn
+  - name: Köln
+    muster: köln|koeln|cologne|hürth|huerth
 
 # Stellen in anderen Orten kommen nur in die Liste, wenn sie remote sind
 # oder eines dieser Wörter im Titel oder in der Beschreibung steht (kurze Einsätze).
