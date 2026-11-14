@@ -1,7 +1,7 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T14:02:41+01:00",
- "dauerSekunden": 108,
+ "gestartet": "2026-11-14T14:05:09+01:00",
+ "dauerSekunden": 107,
  "offen": 24,
  "neuHeute": 0,
  "geschlossenHeute": 0,
@@ -289,14 +289,14 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1033,
+    "titel passt zu keiner rolle": 1034,
     "ausgeschlossen (Titel: praktik)": 184,
     "ausgeschlossen (Titel: performance marketing)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: volontär)": 18,
     "ausgeschlossen (Titel: werkstudent)": 36,
     "ausgeschlossen (Titel: social media marketing)": 3,
-    "ausgeschlossen (Titel: content marketing)": 5,
+    "ausgeschlossen (Titel: content marketing)": 4,
     "ausgeschlossen (Titel: ausbildung)": 46,
     "ausgeschlossen (Titel: trainee)": 12,
     "ausgeschlossen (Titel: online marketing)": 25,
