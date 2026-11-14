@@ -5,6 +5,18 @@ Radio, Castings, Musik, Formatentwicklung und Leitung. Läuft als GitHub Action,
 
 ## Wo finde ich die Ergebnisse?
 
+### 👉 Deine Job-Webseite: https://marie-niemann.github.io/jobsammler/
+
+Alle offenen Stellen schön übersichtlich, mit Filtern, Suche, ⭐ zum Anpinnen und ✓ für „beworben“.
+Wird jeden Morgen automatisch aktualisiert. **Tipp:** Am Handy die Seite öffnen und „Zum Home-Bildschirm“ wählen,
+dann ist sie wie eine App mit einem Tipp da. ⭐ und ✓ werden im jeweiligen Browser gespeichert (Handy und Rechner getrennt).
+
+**Einmalig einschalten:** Auf github.com im Repository auf **Settings → Pages** gehen und bei **Source**
+„**GitHub Actions**“ wählen. Danach unter **Actions → Stellen sammeln → Run workflow** einen Lauf starten.
+Nach ein paar Minuten ist die Seite unter dem Link oben erreichbar.
+
+### Weitere Dateien
+
 | Datei | Was steht drin |
 |---|---|
 | [`data/alle.md`](data/alle.md) | **Alle offenen Stellen auf einen Blick**, nach Rolle sortiert, mit Links. Neue sind mit 🆕 markiert. |

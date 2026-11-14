@@ -9,10 +9,13 @@ on:
       - "config/**"
       - "sources/**"
       - "collect.py"
+      - "web/**"
       - ".github/workflows/collect.yml"
 
 permissions:
   contents: write           # damit der Lauf data/ ins Repository schreiben darf
+  pages: write              # damit die Job-Webseite aktualisiert werden darf
+  id-token: write
 
 concurrency:
   group: collect
@@ -48,3 +51,27 @@ jobs:
             git pull --rebase -q
             git push
           fi
+
+      - name: Job-Webseite vorbereiten
+        run: |
+          mkdir -p _site
+          cp web/index.html data/jobs.json data/run.json _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  webseite:
+    # Veröffentlicht die Job-Webseite über GitHub Pages.
+    # Einmalig nötig: Settings -> Pages -> Source: "GitHub Actions".
+    # Solange Pages nicht eingeschaltet ist, schlägt nur dieser Schritt fehl; das Sammeln selbst klappt trotzdem.
+    needs: collect
+    if: github.ref == 'refs/heads/main'
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
