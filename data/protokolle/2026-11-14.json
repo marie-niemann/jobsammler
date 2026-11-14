@@ -1,7 +1,7 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T13:11:54+01:00",
- "dauerSekunden": 107,
+ "gestartet": "2026-11-14T14:10:25+01:00",
+ "dauerSekunden": 104,
  "offen": 14,
  "neuHeute": 0,
  "geschlossenHeute": 0,
@@ -151,14 +151,14 @@
     }
    },
    "aussortiert": {
-    "ausgeschlossen (Titel: praktik)": 175,
     "titel passt zu keiner rolle": 952,
+    "ausgeschlossen (Titel: praktik)": 175,
     "ausgeschlossen (Titel: performance marketing)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: volontär)": 7,
+    "ausgeschlossen (Titel: volontär)": 8,
     "ausgeschlossen (Titel: werkstudent)": 27,
     "ausgeschlossen (Titel: social media marketing)": 3,
-    "ausgeschlossen (Titel: content marketing)": 5,
+    "ausgeschlossen (Titel: content marketing)": 4,
     "ausgeschlossen (Titel: ausbildung)": 46,
     "ausgeschlossen (Titel: trainee)": 11,
     "ausgeschlossen (Titel: online marketing)": 25,
@@ -183,7 +183,7 @@
   "arbeitsagentur": {
    "stellen": 5,
    "gefunden": 802,
-   "aufrufe": 77,
+   "aufrufe": 76,
    "aussortiert": {
     "titel passt zu keiner rolle oder ausgeschlossen": 664,
     "ausgeschlossen (Beruf: helfer)": 29,
