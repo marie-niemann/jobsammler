@@ -1,27 +1,27 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T13:22:48+01:00",
- "dauerSekunden": 105,
- "offen": 16,
- "neuHeute": 2,
+ "gestartet": "2026-11-14T13:25:36+01:00",
+ "dauerSekunden": 103,
+ "offen": 13,
+ "neuHeute": 0,
  "geschlossenHeute": 0,
  "geschlossenInDatei": 0,
  "offenProQuelle": {
-  "newsroom.de": 7,
   "Arbeitsagentur": 5,
+  "newsroom.de": 4,
   "BR": 1,
   "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
   "Deutschlandradio": 1
  },
  "offenProRolle": {
-  "host": 5,
-  "leitung": 5,
+  "host": 4,
   "format": 3,
+  "leitung": 3,
   "casting": 2,
   "musik": 1
  },
- "zusammengefuehrt": 0,
+ "zusammengefuehrt": 3,
  "quellenOk": [
   "ARD Programmdirektion",
   "Arbeitsagentur",
