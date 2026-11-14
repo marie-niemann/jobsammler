@@ -42,6 +42,8 @@ kurzzeit_woerter:
   - eventmoderation
   - castings
   - castingshow
+  - castingaufruf
+  - castingcall
   - messe
   - tournee
   - tour
