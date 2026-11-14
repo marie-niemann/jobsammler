@@ -1,0 +1,102 @@
+# Was nie auftauchen soll. Gilt für alle Quellen.
+# Groß-/Kleinschreibung ist egal. Ein Eintrag trifft auch Wortteile:
+# "podcast" trifft also auch "Podcast-Producer" und "Podcastredaktion".
+
+# Stellentitel, die das enthalten, fliegen raus
+titel:
+  # andere Bedeutungen von "Moderation"
+  - content moderat
+  - content-moderat
+  - community moderat
+  - forum moderat
+  - social media moderat
+  - trust & safety
+  - trust and safety
+  - workshop
+  - facilitator
+  - moderator / coach
+  - moderator/coach
+  - coach
+  - unternehmensberatung
+  - mediator
+  - konfliktmoderation
+  - bürgerbeteiligung
+  - beteiligungsverfahren
+  - fmea
+  - qualitätszirkel
+  # was du nicht suchst
+  - podcast producer
+  - podcast-producer
+  - podcastproducer
+  - podcast produktion
+  - podcastproduktion
+  - podcast-produktion
+  - social media manager
+  - social-media-manager
+  - social media marketing
+  - content marketing
+  - content-marketing
+  - performance marketing
+  - online marketing
+  - online-marketing
+  - influencer marketing
+  # Einstieg und Nebenjobs
+  - praktik
+  - praktikum
+  - werkstudent
+  - working student
+  - studentische
+  - schülerprakti
+  - ausbildung
+  - azubi
+  - auszubildende
+  - duales studium
+  - volontariat
+  - volontär
+  - trainee
+  - minijob
+  - aushilfe
+  - wahlstation
+  - referendar
+  - abschlussarbeit
+  - thesis
+  - initiativbewerbung
+  # Sonstiges
+  - kinderbetreuung
+  - animateur
+  - kindergeburtstag
+
+# Firmen, die nie aufgenommen werden (Firmenname enthält ...)
+firmen:
+  - randstad
+  - adecco
+  - manpower
+  - hays
+  - orizon
+  - timecon
+  - personalvermittlung
+  - personaldienst
+  - personalberatung
+  - zeitarbeit
+  - arbeitnehmerüberlassung
+  - jobs europe
+
+# Berufe bei der Arbeitsagentur (Feld "Hauptberuf"), die nie passen
+ba_berufe:
+  - hostess
+  - empfangskraft
+  - empfangsmitarbeiter
+  - rezeptionist
+  - fmea
+  - unternehmensberater
+  - kundendienstberater
+  - helfer
+  - informatiker
+  - ingenieur
+  - animateur
+  - schausteller
+  - hausmeister
+  - barmeister
+  - zugsteward
+  - fremdenführer
+  - verkäufer

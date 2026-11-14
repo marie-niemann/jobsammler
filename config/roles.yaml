@@ -1,0 +1,305 @@
+# Rollen und Suchbegriffe.
+#
+# So funktioniert ein Suchbegriff: Er passt, wenn ALLE seine Wörter im Stellentitel vorkommen.
+# Groß-/Kleinschreibung und Endungen wie -in, -innen, /in, (m/w/d) sind egal.
+#   "Moderator"       passt auf "Moderatorin (m/w/d)", "TV-Moderator", "Moderator/in Hörfunk"
+#   "Moderation TV"   passt nur, wenn "Moderation" UND "TV" im Titel stehen
+# Lange Wörter (ab 9 Buchstaben) passen auch als Wortanfang: "Formatentwicklung" trifft "Formatentwicklungs-Team".
+#
+# prio: 1 = am wichtigsten (steht in der Liste oben), 3 = am wenigsten wichtig
+# ohne: Wörter, bei denen ein Treffer für DIESE Rolle doch nicht zählt
+# suche_ba: Begriffe, mit denen bei der Arbeitsagentur gesucht wird (dort ist die Suche ungenau,
+#           deshalb wenige, eindeutige Wörter). Gefiltert wird danach immer mit "terms".
+#
+# Neue Suchbegriffe einfach als neue Zeile mit "- " ergänzen. Einrückung (Leerzeichen) beibehalten!
+
+host:
+  name: Moderation & Host vor der Kamera
+  prio: 1
+  terms:
+    - Moderator
+    - Moderatorin
+    - Moderation TV
+    - Moderation Fernsehen
+    - Moderation Show
+    - Moderation Event
+    - Moderation Live
+    - Moderationsjob
+    - TV-Moderator
+    - Showmoderator
+    - Eventmoderator
+    - Presenter
+    - Presenterin
+    - Host
+    - Showhost
+    - Co-Host
+    - Entertainer
+    - Entertainerin
+    - On-Air
+    - On Air
+    - On-Camera
+    - Anchor
+    - Game Master
+    - Gamemaster
+    - Spielleitung Show
+    - Reporter TV
+    - TV-Reporter
+    - Videoreporter
+    - Reporter vor der Kamera
+  ohne:
+    - hostess
+    - hosting
+    - host-entwickler
+    - empfang
+    - rezeption
+    - restaurant
+    - hotel
+    - gästebetreuung
+    - besucherbetreuung
+    - bord
+    - barkeeper
+    - service
+    - kellner
+  suche_ba:
+    - Moderator
+    - Moderatorin
+    - Moderation
+    - Presenter
+    - Entertainer
+    - Showhost
+    - Game Master
+    - TV Reporter
+
+digital:
+  name: Digitales Entertainment (YouTube, Streaming, Live)
+  prio: 1
+  terms:
+    - YouTube Host
+    - YouTube Moderator
+    - YouTuber
+    - Video Host
+    - Videohost
+    - Livestream Host
+    - Live Host
+    - Stream Host
+    - Streamerin
+    - Streamer
+    - Twitch
+    - Live-Shopping Host
+    - Live Shopping Moderation
+    - Live-Shopping-Moderation
+    - Creator Host
+    - Host Creator
+    - Video Creator vor der Kamera
+    - Talent YouTube
+    - Gesicht Kanal
+  suche_ba:
+    - Live Host
+    - YouTube
+    - Livestream
+    - Live-Shopping
+
+radio:
+  name: Radio & Stimme
+  prio: 2
+  terms:
+    - Radiomoderator
+    - Radiomoderatorin
+    - Radio-Moderator
+    - Moderator Radio
+    - Moderation Radio
+    - Radiomoderation
+    - Hörfunkmoderator
+    - Moderation Hörfunk
+    - Moderator Hörfunk
+    - Morning Show
+    - Morningshow
+    - Morgenshow
+    - Nachrichtensprecher
+    - Nachrichtensprecherin
+    - Sprecher Fernsehen
+    - Sprecher Rundfunk
+    - Sprecherin
+    - Sprecher
+    - Off-Sprecher
+    - Voice Over
+    - Synchronsprecher
+  ohne:
+    - pressesprecher
+    - unternehmenssprecher
+    - konzernsprecher
+    - sprecherausschuss
+    - sprecherziehung
+    - sprecherin der geschäftsführung
+    - sprecher der geschäftsführung
+    - sprecher des vorstands
+  suche_ba:
+    - Radiomoderator
+    - Hörfunk Moderation
+    - Sprecher Fernsehen Film Rundfunk
+    - Nachrichtensprecher
+
+casting:
+  name: Castings, Werbung & Model
+  prio: 2
+  terms:
+    - Castingaufruf
+    - Casting Call
+    - Open Casting
+    - Darsteller
+    - Darstellerin
+    - Protagonist
+    - Protagonistin
+    - Testimonial
+    - Werbespot
+    - Werbedreh
+    - TV-Spot
+    - Fotomodel
+    - Fotomodell
+    - Werbemodel
+    - Fitting Model
+    - Model gesucht
+    - Komparse
+    - Kandidatin Show
+    - Kandidaten Show
+  ohne:
+    - redakt
+    - casting manager
+    - casting engineering
+    - die casting
+    - gießerei
+    - kostümdarsteller
+    - erschrecker
+    - grusel
+    - horror
+  suche_ba:
+    - Casting
+    - Darsteller
+    - Komparse
+    - Fotomodell
+    - Werbespot
+
+musik:
+  name: Musik & Performance
+  prio: 2
+  terms:
+    - Sängerin
+    - Sänger
+    - Performer
+    - Performerin
+    - Musikmoderation
+    - Musikmoderator
+    - Musikshow
+    - Showpianist
+    - Pianistin Show
+    - Musical Darsteller
+    - Musicaldarsteller
+  ohne:
+    - performance marketing
+    - performance manager
+    - high performer
+    - straße
+    - strasse
+  suche_ba:
+    - Sängerin
+    - Performer
+    - Musicaldarsteller
+
+format:
+  name: Shows & Formate entwickeln
+  prio: 2
+  terms:
+    - Formatentwicklung
+    - Formatentwickler
+    - Formatentwicklerin
+    - Showentwicklung
+    - Showentwickler
+    - Development Producer
+    - Creative Producer Show
+    - Creative Producer Entertainment
+    - Producer Show
+    - Show Producer
+    - Producer Entertainment
+    - Entertainment Producer
+    - Gameshow
+    - Quizshow
+    - Showautor
+    - Showautorin
+    - Comedy-Autor
+    - Comedyautor
+    - Gagschreiber
+    - Spieleentwicklung Show
+    - Spieleredaktion
+    - Showredaktion
+    - Showredakteur
+    - Unterhaltungsredaktion
+    - Entertainment Redaktion
+  ohne:
+    - podcast
+  suche_ba:
+    - Formatentwicklung
+    - Showredaktion
+    - Producer Entertainment
+    - Gameshow
+
+leitung:
+  name: Leitung Redaktion / Show
+  prio: 3
+  terms:
+    - Redaktionsleitung
+    - Redaktionsleiter
+    - Redaktionsleiterin
+    - Leitung Redaktion
+    - Leiter Redaktion
+    - Leiterin Redaktion
+    - Showrunner
+    - Head of Entertainment
+    - Head of Content
+    - Head of Development
+    - Head of Show
+    - Head of Video
+    - Head of Creator
+    - Executive Producer
+    - Chef vom Dienst
+    - Programmleitung
+    - Programmchef
+    - Programmchefin
+    - Formatleitung
+    - Sendungsleitung
+    - Sendeleitung
+    - Leitung Unterhaltung
+    - Bereichsleitung Unterhaltung
+  ohne:
+    - podcast
+    - marketing
+    - postproduktion
+    - produktionsumgebung
+    - technik
+    - werkstatt
+    - schulung
+    - content management
+    - content-management
+  suche_ba:
+    - Redaktionsleitung
+    - Chef vom Dienst
+    - Showrunner
+    - Head of Content
+
+redaktion:
+  name: Redaktion mit Moderation
+  prio: 3
+  terms:
+    - Moderationsredakteur
+    - Moderationsredakteurin
+    - Redakteur Moderation
+    - Redakteurin Moderation
+    - Redaktion Moderation
+    - Redakteur Moderator
+    - Redakteurin Moderatorin
+    - Reporter Moderator
+    - Reporterin Moderatorin
+    - Redakteur On-Air
+    - Redakteur Presenter
+  suche_ba:
+    - Redakteur Moderator
+    - Moderationsredakteur
