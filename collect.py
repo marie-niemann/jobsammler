@@ -28,7 +28,7 @@ RUN_FILE = DATA / "run.json"
 NEW_FILE = DATA / "neu.md"
 LOG_DIR = DATA / "protokolle"
 KEEP_CLOSED_DAYS = 60
-BOARDS = ["newsroom.de"]  # Quellen, die keinen Firmennamen liefern
+BOARDS = ["newsroom.de", "RADIOSZENE", "DWDL.de"]  # Quellen, die keinen Firmennamen liefern
 FIELDS = ["id", "source", "company", "title", "url", "location", "remote", "published", "firstSeen", "lastSeen",
           "open", "roleGuess", "rolle", "prio", "ortRang", "hinweis", "art", "salary", "description"]
 

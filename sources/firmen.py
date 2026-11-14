@@ -70,6 +70,15 @@ def _child(el, *names):
     return ""
 
 
+def _split_sucht(title, q):
+    """Jobbörsen schreiben oft "Firma sucht Stelle". Dann Firma und Titel trennen."""
+    title = clean(title)
+    if q.get("firma_aus_titel") and " sucht " in title:
+        firma, rest = title.split(" sucht ", 1)
+        return rest.strip(), firma.strip()
+    return title, q.get("firma") or q["name"]
+
+
 def _rss(sess, q):
     """RSS 2.0, RSS 1.0 (RDF) und Atom."""
     r = _get(sess, q["url"])
@@ -80,7 +89,8 @@ def _rss(sess, q):
             continue
         link = (_child(it, "link") or it.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", "")).strip()
         jid = it.get("id") or _child(it, "guid", "id") or link
-        rec = record(q["name"], jid, q.get("firma") or q["name"], _child(it, "title"), link,
+        title, firma = _split_sucht(_child(it, "title"), q)
+        rec = record(q["name"], jid, firma, title, link,
                      published=_day(_child(it, "pubDate", "date", "updated", "published")),
                      description=to_text(_child(it, "description", "summary")))
         city = _child(it, "city")
@@ -231,6 +241,27 @@ def _hr(sess, q):
     return out
 
 
+def _dwdl(sess, q):
+    """DWDL.de-Jobbörse: Links /jobboerse/<nr>_<firma>.html mit Text "Firma sucht Stelle Ort"."""
+    body = _get(sess, q["url"]).text
+    out, seen = [], set()
+    for m in re.finditer(r'<a[^>]*href="((?:https://www\.dwdl\.de)?/jobboerse/(\d+)_[^"]+\.html)"[^>]*>(.*?)</a>', body, re.S):
+        jid = m.group(2)
+        if jid in seen:
+            continue
+        parts = [clean(x) for x in re.split(r"<[^>]+>", m.group(3)) if clean(x)]
+        line = next((p for p in parts if " sucht " in p), "")
+        if not line:
+            continue
+        seen.add(jid)
+        firma, title = line.split(" sucht ", 1)
+        rest = [p for p in parts if p != line and " sucht " not in p]
+        locs = rest[-1:] if rest else []
+        rec = record(q["name"], jid, firma.strip(), title.strip(), urljoin(q["url"], m.group(1)))
+        out.append((rec, locs, False))
+    return out
+
+
 FETCHERS = {
     "rss": _rss,
     "personio": _personio,
@@ -239,6 +270,7 @@ FETCHERS = {
     "successfactors": _successfactors,
     "ufa": _ufa,
     "hr": _hr,
+    "dwdl": _dwdl,
 }
 
 
@@ -272,7 +304,8 @@ def fetch(quellen, flt, sess=None, log=print):
             jobs.append({**rec, **ev})
             kept += 1
         ok.append(q["name"])
-        per_source[q["name"]] = {"gesamt": len(postings), "passend": kept}
+        per_source[q["name"]] = {"gesamt": len(postings), "passend": kept,
+                                 "beispiele": [f"{r['title']} | {r['company']} | {', '.join(l)}" for r, l, _ in postings[:3]]}
         if not postings:
             errors.append(f"{q['name']}: keine einzige Stelle gelesen – Seite geändert? Bitte prüfen.")
 

@@ -111,8 +111,11 @@ def _words(s):
 
 
 def _word_hit(t, w):
-    """Titelwort t passt zu Suchwort w: gleich, weibliche Form/Mehrzahl, oder (bei langen Wörtern) Wortanfang."""
-    return t == w or t in (w + "in", w + "innen", w + "s", w + "en", w + "n") or (len(w) >= 9 and t.startswith(w))
+    """Titelwort t passt zu Suchwort w: gleich, weibliche Form/Mehrzahl, oder (bei langen Wörtern) Wortanfang/-ende."""
+    forms = (w, w + "in", w + "innen", w + "s", w + "en", w + "n")
+    return (t in forms
+            or (len(w) >= 9 and t.startswith(w))                      # Wortanfang: "Formatentwicklungs..."
+            or (len(w) >= 8 and any(t.endswith(f) for f in forms)))   # Wortende: "Morgenmoderator", "Eventmoderatorin"
 
 
 class RoleMatcher:

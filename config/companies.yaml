@@ -10,8 +10,10 @@
 #          successfactors = öffentliche Stellensuche (SAP SuccessFactors)
 #          ufa            = Stellenliste auf ufa.de
 #          hr             = Stellenliste auf hr.de
+#          dwdl           = Jobbörse von DWDL.de
 #   url:   Adresse der Stellenliste
 #   ort:   Ort, falls die Quelle keinen Ort nennt
+#   firma_aus_titel: true = Titel lautet "Firma sucht Stelle" (Firma wird abgetrennt)
 #   aus: true  = vorübergehend nicht abrufen (Zeile "aus: true" löschen, um wieder einzuschalten)
 #
 # Vor jedem Abruf prüft das Programm die robots.txt der Seite. Verbietet sie den Abruf,
@@ -25,6 +27,13 @@ quellen:
   - name: newsroom.de
     art: rss
     url: https://www.newsroom.de/rss/jobs-feed/
+  - name: RADIOSZENE
+    art: rss
+    url: https://www.radioszene.de/kategorie/jobs/stellenangebote/feed
+    firma_aus_titel: true
+  - name: DWDL.de
+    art: dwdl
+    url: https://www.dwdl.de/jobboerse/
 
   # --- Öffentlich-rechtliche Sender ---
   - name: rbb
