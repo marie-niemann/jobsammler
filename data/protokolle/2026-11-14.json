@@ -1,9 +1,9 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T13:43:50+01:00",
- "dauerSekunden": 110,
+ "gestartet": "2026-11-14T13:46:51+01:00",
+ "dauerSekunden": 107,
  "offen": 19,
- "neuHeute": 19,
+ "neuHeute": 0,
  "geschlossenHeute": 0,
  "geschlossenInDatei": 0,
  "offenProQuelle": {
@@ -317,7 +317,7 @@
   "arbeitsagentur": {
    "stellen": 5,
    "gefunden": 802,
-   "aufrufe": 81,
+   "aufrufe": 76,
    "aussortiert": {
     "titel passt zu keiner rolle oder ausgeschlossen": 664,
     "ausgeschlossen (Beruf: helfer)": 29,
