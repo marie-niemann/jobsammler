@@ -258,3 +258,4 @@ Stift ✏️ klicken, `[ ]` durch `[x]` ersetzen und das Datum eintragen, dann *
 - **DWDL.de** und **RADIOSZENE** lesen: Dort stehen neue Formate und Senderpläne. Wer gerade ein neues Show-Format
   ankündigt, sucht oft Gesichter. (Die Stellenanzeigen beider Seiten sammelt der Jobsammler jetzt automatisch mit.)
 - Weitere Firmen ergänzen: einfach Claude Code sagen „Recherchiere Firma X für meine Initiativ-Liste“.
+- Mail-Vorlage: [vorlage-initiativmail.md](vorlage-initiativmail.md)
