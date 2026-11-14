@@ -15,7 +15,7 @@ Vor jedem Abruf wird die robots.txt geprüft. Verbietet sie den Abruf, wird die 
 import html
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import parse_qs, urljoin, urlparse
 
@@ -70,6 +70,15 @@ def _child(el, *names):
     return ""
 
 
+def _split_sucht(title, q):
+    """Jobbörsen schreiben oft "Firma sucht Stelle". Dann Firma und Titel trennen."""
+    title = clean(title)
+    if q.get("firma_aus_titel") and " sucht " in title:
+        firma, rest = title.split(" sucht ", 1)
+        return rest.strip(), firma.strip()
+    return title, q.get("firma") or q["name"]
+
+
 def _rss(sess, q):
     """RSS 2.0, RSS 1.0 (RDF) und Atom."""
     r = _get(sess, q["url"])
@@ -80,7 +89,8 @@ def _rss(sess, q):
             continue
         link = (_child(it, "link") or it.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", "")).strip()
         jid = it.get("id") or _child(it, "guid", "id") or link
-        rec = record(q["name"], jid, q.get("firma") or q["name"], _child(it, "title"), link,
+        title, firma = _split_sucht(_child(it, "title"), q)
+        rec = record(q["name"], jid, firma, title, link,
                      published=_day(_child(it, "pubDate", "date", "updated", "published")),
                      description=to_text(_child(it, "description", "summary")))
         city = _child(it, "city")
@@ -231,6 +241,34 @@ def _hr(sess, q):
     return out
 
 
+def _dwdl(sess, q):
+    """DWDL.de-Jobbörse (Liste aller Anzeigen): Links /jobboerse/<nr>_<firma>.html mit "Firma sucht" <h4>Stelle</h4> Ort."""
+    body = _get(sess, q["url"]).text
+    out, seen = [], set()
+    for m in re.finditer(r"""<a\b[^>]*href=["']((?:[^"']*jobboerse/)?(\d+)_[a-z0-9-]+\.html)["'][^>]*>(.*?)</a>""", body, re.S | re.I):
+        jid = m.group(2)
+        if jid in seen:
+            continue
+        parts = [clean(x) for x in re.split(r"<[^>]+>", m.group(3)) if clean(x)]
+        idx = next((i for i, p in enumerate(parts) if p.endswith(" sucht") or " sucht " in p), None)
+        if idx is None:
+            continue
+        seen.add(jid)
+        if " sucht " in parts[idx]:  # "Firma sucht Stelle" in einem Stück
+            firma, title = parts[idx].split(" sucht ", 1)
+            rest = parts[idx + 1:]
+        else:  # "Firma sucht" <h4>Stelle</h4> <span>Ort</span>
+            firma, title = parts[idx][:-len(" sucht")], (parts[idx + 1] if idx + 1 < len(parts) else "")
+            rest = parts[idx + 2:]
+        if not title:
+            continue
+        locs = rest[:1]
+        link = re.sub(r"(jobboerse/)+", "jobboerse/", urljoin(q["url"], html.unescape(m.group(1))))
+        rec = record(q["name"], jid, firma.strip(), title.strip(), link)
+        out.append((rec, locs, False))
+    return out
+
+
 FETCHERS = {
     "rss": _rss,
     "personio": _personio,
@@ -239,6 +277,7 @@ FETCHERS = {
     "successfactors": _successfactors,
     "ufa": _ufa,
     "hr": _hr,
+    "dwdl": _dwdl,
 }
 
 
@@ -264,7 +303,12 @@ def fetch(quellen, flt, sess=None, log=print):
             per_source[q["name"]] = {"status": "Fehler"}
             continue
         kept = 0
+        max_age = q.get("max_alter_tage")
+        cutoff = (datetime.now(timezone.utc) - timedelta(days=int(max_age))).strftime("%Y-%m-%d") if max_age else ""
         for rec, locs, remote_flag in postings:
+            if cutoff and rec.get("published") and rec["published"] < cutoff:
+                drop(f"älter als {max_age} Tage")
+                continue
             ev, why = flt.evaluate(rec["title"], rec["company"], locs, rec.get("description", ""), remote_flag)
             if why:
                 drop(why)
@@ -272,7 +316,8 @@ def fetch(quellen, flt, sess=None, log=print):
             jobs.append({**rec, **ev})
             kept += 1
         ok.append(q["name"])
-        per_source[q["name"]] = {"gesamt": len(postings), "passend": kept}
+        per_source[q["name"]] = {"gesamt": len(postings), "passend": kept,
+                                 "beispiele": [f"{r['title']} | {r['company']} | {', '.join(l)}" for r, l, _ in postings[:3]]}
         if not postings:
             errors.append(f"{q['name']}: keine einzige Stelle gelesen – Seite geändert? Bitte prüfen.")
 

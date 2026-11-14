@@ -133,6 +133,15 @@ radio:
     - sprecherin der geschäftsführung
     - sprecher der geschäftsführung
     - sprecher des vorstands
+    - teamsprecher
+    - gruppensprecher
+    - betriebsrat
+    - schulsprecher
+    - landessprecher
+    - bundessprecher
+    - fraktionssprecher
+    - regierungssprecher
+    - sprecherrat
   suche_ba:
     - Radiomoderator
     - Hörfunk Moderation

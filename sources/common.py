@@ -111,8 +111,11 @@ def _words(s):
 
 
 def _word_hit(t, w):
-    """Titelwort t passt zu Suchwort w: gleich, weibliche Form/Mehrzahl, oder (bei langen Wörtern) Wortanfang."""
-    return t == w or t in (w + "in", w + "innen", w + "s", w + "en", w + "n") or (len(w) >= 9 and t.startswith(w))
+    """Titelwort t passt zu Suchwort w: gleich, weibliche Form/Mehrzahl, oder (bei langen Wörtern) Wortanfang/-ende."""
+    forms = (w, w + "in", w + "innen", w + "s", w + "en", w + "n")
+    return (t in forms
+            or (len(w) >= 9 and t.startswith(w))                      # Wortanfang: "Formatentwicklungs..."
+            or (len(w) >= 8 and any(t.endswith(f) for f in forms)))   # Wortende: "Morgenmoderator", "Eventmoderatorin"
 
 
 class RoleMatcher:
@@ -193,6 +196,10 @@ class Places:
         if remote:
             return {"ok": True, "rang": 50, "ort": text_loc or "remote", "remote": True, "hinweis": "remote"}
         if not locs:
+            # Kein Ort angegeben: im Titel/Text nach einem Wunschort suchen
+            for i, (name, rx) in enumerate(self.wish):
+                if rx.search(f"{title} {text}"):
+                    return {"ok": True, "rang": i, "ort": name, "remote": remote, "hinweis": "Ort aus dem Anzeigentext"}
             return {"ok": True, "rang": 60, "ort": "", "remote": False, "hinweis": "Ort prüfen"}
         hit = self.short.search(f"{title} {text}")
         if hit:

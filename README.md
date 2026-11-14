@@ -5,18 +5,32 @@ Radio, Castings, Musik, Formatentwicklung und Leitung. Läuft als GitHub Action,
 
 ## Wo finde ich die Ergebnisse?
 
+### 👉 Deine Job-Webseite: https://marie-niemann.github.io/jobsammler/
+
+Alle offenen Stellen schön übersichtlich, mit Filtern, Suche, ⭐ zum Anpinnen und ✓ für „beworben“.
+Wird jeden Morgen automatisch aktualisiert. **Tipp:** Am Handy die Seite öffnen und „Zum Home-Bildschirm“ wählen,
+dann ist sie wie eine App mit einem Tipp da. ⭐ und ✓ werden im jeweiligen Browser gespeichert (Handy und Rechner getrennt).
+
+**Einmalig einschalten:** Auf github.com im Repository auf **Settings → Pages** gehen und bei **Source**
+„**GitHub Actions**“ wählen. Danach unter **Actions → Stellen sammeln → Run workflow** einen Lauf starten.
+Nach ein paar Minuten ist die Seite unter dem Link oben erreichbar.
+
+### Weitere Dateien
+
 | Datei | Was steht drin |
 |---|---|
-| [`data/neu.md`](data/neu.md) | **Die neuen Stellen des Tages**, nach Rolle sortiert, mit Links. Hier schaust du jeden Morgen rein. |
+| [`data/alle.md`](data/alle.md) | **Alle offenen Stellen auf einen Blick**, nach Rolle sortiert, mit Links. Neue sind mit 🆕 markiert. |
+| [`data/neu.md`](data/neu.md) | Nur die neuen Stellen des Tages |
 | [`data/jobs.json`](data/jobs.json) | Alle Stellen: Titel, Firma, Ort, Link, Datum, offen/geschlossen |
 | [`data/run.json`](data/run.json) | Protokoll des letzten Laufs: wie viele Stellen pro Quelle, Fehler und Hinweise |
 | [`data/protokolle/`](data/protokolle/) | Ein Protokoll pro Lauf (Dateiname = Datum) |
 | [`QUELLEN.md`](QUELLEN.md) | Welche Quellen abgerufen werden, was erlaubt ist und wo du E-Mail-Alerts einrichten solltest |
+| [`initiativ/kontakte.md`](initiativ/kontakte.md) | **Initiativ-Liste:** passende Produktionsfirmen, Sender und Studios mit Formaten und offiziellen Kontakten, zum Abhaken |
 
 **Regel:** Eine Stelle ist offen, solange sie in der Quelle steht. Fehlt sie, wird sie als geschlossen markiert
 und bleibt noch 60 Tage in `jobs.json`.
 
-Sortierung: zuerst nach Wichtigkeit der Rolle (Host/Digital oben), dann nach Ort (Berlin, München, Hamburg,
+Sortierung: zuerst nach Wichtigkeit der Rolle (Host/Digital oben), dann nach Ort (Berlin, München, Hamburg, Hannover, Frankfurt, Köln,
 dann remote, dann „Ort prüfen“, dann andere Orte mit kurzem Einsatz).
 
 ## Einen Lauf von Hand starten
@@ -77,10 +91,10 @@ Willst du doch Volontariate sehen? Einfach die Zeile `- volontariat` löschen.
 
 ### `config/orte.yaml` – wo die Stelle sein darf
 
-- `wunschorte`: Berlin, München, Hamburg, in dieser Reihenfolge. Einen Ort hinzufügen:
+- `wunschorte`: Berlin, München, Hamburg, Hannover, Frankfurt, Köln, in dieser Reihenfolge. Einen Ort hinzufügen:
   ```yaml
-    - name: Köln
-      muster: köln|koeln|cologne|hürth
+    - name: Düsseldorf
+      muster: düsseldorf|duesseldorf
   ```
 - `kurzzeit_woerter`: Stellen in anderen Orten kommen nur in die Liste, wenn sie remote sind oder eines dieser
   Wörter enthalten (z. B. „casting“, „drehtag“, „event“).

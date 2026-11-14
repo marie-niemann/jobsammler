@@ -13,6 +13,8 @@ Datum, Link und ein kurzer Auszug, nie ganze Seiten.
 |---|---|---|
 | Jobsuche der Arbeitsagentur | Schnittstelle der BA-Jobbörse | Die BA bietet **keine offizielle** Schnittstelle an. Diese ist öffentlich dokumentiert ([bundesAPI](https://github.com/bundesAPI/jobsuche-api)) und wird viel genutzt. Laut Impressum ist nur das Veröffentlichen kompletter Seiten genehmigungspflichtig; das tun wir nicht. |
 | newsroom.de | offizieller Job-RSS-Feed | robots.txt erlaubt alles |
+| RADIOSZENE | offizieller RSS-Feed der Kategorie „Stellenangebote“ | robots.txt erlaubt Abrufen (sperrt nur bestimmte Bots, nicht diesen); Impressum ohne Verbot. Nur Anzeigen der letzten 60 Tage. |
+| DWDL.de (DWDL.jobs) | öffentliche Anzeigenliste | robots.txt erlaubt alles außer `/features/vitamind/`; Impressum ohne Verbot. Laut DWDL ist keine Anzeige älter als vier Wochen. |
 | Karriere-Feeds von NDR, ZDF, SWR (mit funk), MDR, BR, ARD-Programmdirektion | offizielle RSS-Feeds | robots.txt erlaubt sie. Enthalten oft nur Rubriken, selten einzelne Stellen. |
 | ZDF Digital | offizielle Personio-Schnittstelle (XML) | robots.txt erlaubt alles |
 | btf (bildundtonfabrik), ITV Studios Germany | Personio-Stellenseite (die XML-Schnittstelle ist dort abgeschaltet) | robots.txt erlaubt alles |
