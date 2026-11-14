@@ -28,6 +28,7 @@ RUN_FILE = DATA / "run.json"
 NEW_FILE = DATA / "neu.md"
 LOG_DIR = DATA / "protokolle"
 KEEP_CLOSED_DAYS = 60
+BOARDS = ["newsroom.de"]  # Quellen, die keinen Firmennamen liefern
 FIELDS = ["id", "source", "company", "title", "url", "location", "remote", "published", "firstSeen", "lastSeen",
           "open", "roleGuess", "rolle", "prio", "ortRang", "hinweis", "art", "salary", "description"]
 
@@ -57,9 +58,20 @@ def merge_duplicates(jobs):
     groups = {}
     for j in jobs:
         groups.setdefault((company_key(j["company"]), normalize_title(j["title"])), []).append(j)
+    # Jobbörsen-Feeds ohne Firmennamen (z. B. newsroom.de): gleiche Stelle bei einer Firma per Titel erkennen
+    boards = {company_key(n) for n in BOARDS}
+    by_title = {}
+    for (ck, nt), g in groups.items():
+        if ck not in boards:
+            by_title.setdefault(nt, (ck, nt))
+    for key in [k for k in groups if k[0] in boards]:
+        target = by_title.get(key[1]) or next(
+            (v for nt, v in by_title.items() if len(key[1]) >= 15 and (nt.startswith(key[1]) or key[1].startswith(nt))), None)
+        if target and target in groups:
+            groups[target] += groups.pop(key)
     merged = []
     for group in groups.values():
-        group.sort(key=lambda j: (j["source"] == "Arbeitsagentur", j["ortRang"], j["id"]))
+        group.sort(key=lambda j: (company_key(j["company"]) in boards, j["source"] == "Arbeitsagentur", j["ortRang"], j["id"]))
         win = dict(group[0])
         for other in group[1:]:
             for f in ("salary", "description", "published", "art"):
