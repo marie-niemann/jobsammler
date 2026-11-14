@@ -1,0 +1,16 @@
+name: livecheck (einmalig)
+on:
+  push:
+    paths: [".github/workflows/livecheck.yml"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in "https://marie-niemann.github.io/jobsammler/" "https://marie-niemann.github.io/jobsammler/index.html"; do
+            echo "== $u"
+            curl -sSI "$u" | grep -iE "^(HTTP|cache-control|age|last-modified|x-cache|etag)"
+            curl -sS "$u" -o page.html
+            echo "data-hide: $(grep -c data-hide page.html)  Aussortiert-Reiter: $(grep -c 'data-view=\"aussortiert\"' page.html)  Groesse: $(wc -c < page.html)"
+          done
+          curl -sS "https://marie-niemann.github.io/jobsammler/run.json" | head -c 200; echo
