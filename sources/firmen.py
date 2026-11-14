@@ -245,7 +245,7 @@ def _dwdl(sess, q):
     """DWDL.de-Jobbörse (Liste aller Anzeigen): Links /jobboerse/<nr>_<firma>.html mit "Firma sucht" <h4>Stelle</h4> Ort."""
     body = _get(sess, q["url"]).text
     out, seen = [], set()
-    for m in re.finditer(r"""<a\b[^>]*href=["']([^"']*jobboerse/(\d+)_[^"']*)["'][^>]*>(.*?)</a>""", body, re.S | re.I):
+    for m in re.finditer(r"""<a\b[^>]*href=["']((?:[^"']*jobboerse/)?(\d+)_[a-z0-9-]+\.html)["'][^>]*>(.*?)</a>""", body, re.S | re.I):
         jid = m.group(2)
         if jid in seen:
             continue
