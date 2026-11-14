@@ -1,0 +1,24 @@
+name: Prüfung radioszene.de und dwdl.de (einmalig)
+on:
+  push:
+    paths: ["recherche/check_boersen.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python recherche/check_boersen.py
+      - run: |
+          git config user.name "jobsammler-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add recherche/check_boersen.json
+          git commit -m "Prüfung radioszene/dwdl" || echo "nichts neu"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
