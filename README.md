@@ -7,7 +7,8 @@ Radio, Castings, Musik, Formatentwicklung und Leitung. Läuft als GitHub Action,
 
 | Datei | Was steht drin |
 |---|---|
-| [`data/neu.md`](data/neu.md) | **Die neuen Stellen des Tages**, nach Rolle sortiert, mit Links. Hier schaust du jeden Morgen rein. |
+| [`data/alle.md`](data/alle.md) | **Alle offenen Stellen auf einen Blick**, nach Rolle sortiert, mit Links. Neue sind mit 🆕 markiert. |
+| [`data/neu.md`](data/neu.md) | Nur die neuen Stellen des Tages |
 | [`data/jobs.json`](data/jobs.json) | Alle Stellen: Titel, Firma, Ort, Link, Datum, offen/geschlossen |
 | [`data/run.json`](data/run.json) | Protokoll des letzten Laufs: wie viele Stellen pro Quelle, Fehler und Hinweise |
 | [`data/protokolle/`](data/protokolle/) | Ein Protokoll pro Lauf (Dateiname = Datum) |

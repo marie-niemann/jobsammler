@@ -2,6 +2,7 @@
 
   data/jobs.json               alle Stellen (offen und kürzlich geschlossen)
   data/neu.md                  gut lesbare Liste der neuen Stellen des Tages
+  data/alle.md                 gut lesbare Liste aller offenen Stellen
   data/run.json                Protokoll des letzten Laufs
   data/protokolle/DATUM.json   Protokoll jedes einzelnen Laufs
 
@@ -26,6 +27,7 @@ DATA = ROOT / "data"
 JOBS_FILE = DATA / "jobs.json"
 RUN_FILE = DATA / "run.json"
 NEW_FILE = DATA / "neu.md"
+ALL_FILE = DATA / "alle.md"
 LOG_DIR = DATA / "protokolle"
 KEEP_CLOSED_DAYS = 60
 BOARDS = ["newsroom.de", "RADIOSZENE", "DWDL.de"]  # Quellen, die keinen Firmennamen liefern
@@ -86,34 +88,59 @@ def sort_key(j):
     return (j.get("prio", 9), j.get("ortRang", 99), j.get("company", "").lower(), j.get("title", "").lower())
 
 
+def job_lines(j, today_s=""):
+    bits = [j.get("location") or "Ort unbekannt"]
+    if j.get("remote"):
+        bits.append("remote möglich")
+    if j.get("art"):
+        bits.append(j["art"])
+    if j.get("salary"):
+        bits.append(j["salary"])
+    new = " 🆕" if today_s and j.get("firstSeen") == today_s else ""
+    extra = [f"Quelle: {j['source']}"]
+    if j.get("published"):
+        extra.append(f"veröffentlicht {j['published']}")
+    extra.append(f"gefunden am {j.get('firstSeen', '')}")
+    if j.get("hinweis"):
+        extra.append(f"⚠️ {j['hinweis']}")
+    return [f"- **[{j['title']}]({j['url']})**{new}  ",
+            f"  {j['company']} · {' · '.join(bits)}",
+            f"  <sub>{' · '.join(extra)}</sub>"]
+
+
+def write_all_md(today_s, open_jobs):
+    """Alle offenen Stellen, nach Rolle gruppiert, darin nach Ort (Wunschorte zuerst)."""
+    lines = [f"# Alle offenen Stellen ({len(open_jobs)})", "",
+             f"Stand: {datetime.fromisoformat(today_s).strftime('%d.%m.%Y')} · 🆕 = heute neu · "
+             "Nur die neuen des Tages: [neu.md](neu.md)", ""]
+    by_role = {}
+    for j in sorted(open_jobs, key=sort_key):
+        by_role.setdefault((j.get("prio", 9), j.get("rolle", "")), []).append(j)
+    lines += ["**Rollen:** " + " · ".join(
+        f"[{rolle} ({len(items)})](#{re.sub(r'[^a-z0-9äöüß -]', '', rolle.lower()).replace(' ', '-')}-{len(items)})"
+        for (_, rolle), items in sorted(by_role.items())), ""]
+    for (_, rolle), items in sorted(by_role.items()):
+        lines += [f"## {rolle} ({len(items)})", ""]
+        for j in items:
+            lines += job_lines(j, today_s)
+        lines.append("")
+    ALL_FILE.write_text("\n".join(lines), encoding="utf-8")
+
+
 def write_new_md(today_s, new_jobs, open_jobs, run, alerts):
     lines = [f"# Neue Stellen vom {datetime.fromisoformat(today_s).strftime('%d.%m.%Y')}", ""]
     if not new_jobs:
         lines += ["Heute sind keine neuen passenden Stellen dazugekommen.", ""]
     else:
         lines += [f"**{len(new_jobs)} neue Stelle{'n' if len(new_jobs) != 1 else ''}** "
-                  f"(insgesamt {len(open_jobs)} offene Stellen in [jobs.json](jobs.json)).", ""]
+                  f"(insgesamt {len(open_jobs)} offene Stellen in [alle.md](alle.md)).", ""]
         by_role = {}
         for j in sorted(new_jobs, key=sort_key):
             by_role.setdefault((j.get("prio", 9), j.get("rolle", "")), []).append(j)
         for (_, rolle), items in sorted(by_role.items()):
             lines += [f"## {rolle} ({len(items)})", ""]
             for j in items:
-                bits = [j.get("location") or "Ort unbekannt"]
-                if j.get("remote"):
-                    bits.append("remote möglich")
-                if j.get("art"):
-                    bits.append(j["art"])
-                if j.get("salary"):
-                    bits.append(j["salary"])
-                lines.append(f"- **[{j['title']}]({j['url']})**  ")
-                lines.append(f"  {j['company']} · {' · '.join(bits)}")
-                extra = [f"Quelle: {j['source']}"]
-                if j.get("published"):
-                    extra.append(f"veröffentlicht {j['published']}")
-                if j.get("hinweis"):
-                    extra.append(f"⚠️ {j['hinweis']}")
-                lines.append(f"  <sub>{' · '.join(extra)}</sub>")
+                lines += job_lines(j)
             lines.append("")
     if run["fehler"]:
         lines += ["---", "", f"ℹ️ Beim Abruf gab es {len(run['fehler'])} Hinweis(e), Details in [run.json](run.json).", ""]
@@ -221,6 +248,7 @@ def main():
     RUN_FILE.write_text(json.dumps(run, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     (LOG_DIR / f"{today_s}.json").write_text(json.dumps(run, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     write_new_md(today_s, new_jobs, open_jobs, run, comp.get("alerts") or [])
+    write_all_md(today_s, open_jobs)
 
     print(f"{today_s}: {len(open_jobs)} offen ({len(new_jobs)} neu, {closed_today} heute geschlossen), "
           f"{len(errors)} Hinweise, {run['dauerSekunden']} s")
