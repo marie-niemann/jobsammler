@@ -178,11 +178,13 @@ class Places:
     """Wunschorte (mit Rang), remote, kurze Einsätze."""
 
     def __init__(self, cfg):
-        self.wish = [(w["name"], re.compile(w["muster"], re.I)) for w in cfg.get("wunschorte") or []]
+        self.wish = [(w["name"], re.compile(w["muster"], re.I),
+                      re.compile(w["nur_firmen"], re.I) if w.get("nur_firmen") else None)
+                     for w in cfg.get("wunschorte") or []]
         self.short = re.compile(r"\b(?:" + "|".join(re.escape(w) for w in cfg.get("kurzzeit_woerter") or ["casting"]) + r")\b", re.I)
         self.remote = re.compile("|".join(re.escape(w) for w in cfg.get("remote_woerter") or ["remote"]), re.I)
 
-    def judge(self, locations, title="", text="", remote_flag=False):
+    def judge(self, locations, title="", text="", remote_flag=False, company=""):
         """Rückgabe dict: ok, rang (0 = erster Wunschort), ortText, remote, hinweis.
 
         Rang-Reihenfolge: Wunschorte (0, 1, 2 ...), remote (50), Ort unbekannt (60), kurzer Einsatz woanders (70).
@@ -190,14 +192,16 @@ class Places:
         locs = [clean(l).strip(" ,;|") for l in locations if l and clean(l).strip(" ,;|")]
         text_loc = " | ".join(dict.fromkeys(locs))
         remote = bool(remote_flag or self.remote.search(text_loc) or self.remote.search(title or ""))
-        for i, (name, rx) in enumerate(self.wish):
+        wish = [(i, name, rx) for i, (name, rx, only) in enumerate(self.wish)
+                if not only or only.search(f"{company} {title}")]  # "nur_firmen": Ort gilt nur für diese Firmen
+        for i, name, rx in wish:
             if any(rx.search(l) for l in locs):
                 return {"ok": True, "rang": i, "ort": name if len(locs) == 1 else text_loc, "remote": remote, "hinweis": ""}
         if remote:
             return {"ok": True, "rang": 50, "ort": text_loc or "remote", "remote": True, "hinweis": "remote"}
         if not locs:
             # Kein Ort angegeben: im Titel/Text nach einem Wunschort suchen
-            for i, (name, rx) in enumerate(self.wish):
+            for i, name, rx in wish:
                 if rx.search(f"{title} {text}"):
                     return {"ok": True, "rang": i, "ort": name, "remote": remote, "hinweis": "Ort aus dem Anzeigentext"}
             return {"ok": True, "rang": 60, "ort": "", "remote": False, "hinweis": "Ort prüfen"}
@@ -232,7 +236,7 @@ class Filter:
         role = self.matcher.guess(title)
         if not role:
             return None, "titel passt zu keiner rolle"
-        pl = self.places.judge(locations, title, text, remote_flag)
+        pl = self.places.judge(locations, title, text, remote_flag, company)
         if not pl["ok"]:
             return None, "ort passt nicht"
         spec = self.roles[role]
