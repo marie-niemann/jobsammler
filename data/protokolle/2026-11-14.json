@@ -1,21 +1,22 @@
 {
  "datum": "2026-11-14",
- "gestartet": "2026-11-14T13:08:30+01:00",
- "dauerSekunden": 106,
- "offen": 14,
- "neuHeute": 14,
+ "gestartet": "2026-11-14T13:22:48+01:00",
+ "dauerSekunden": 105,
+ "offen": 16,
+ "neuHeute": 2,
  "geschlossenHeute": 0,
  "geschlossenInDatei": 0,
  "offenProQuelle": {
-  "newsroom.de": 6,
+  "newsroom.de": 7,
   "Arbeitsagentur": 5,
   "BR": 1,
+  "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
   "Deutschlandradio": 1
  },
  "offenProRolle": {
+  "host": 5,
   "leitung": 5,
-  "host": 3,
   "format": 3,
   "casting": 2,
   "musik": 1
@@ -50,12 +51,12 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 9,
+   "stellen": 11,
    "aufrufe": 64,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
-     "passend": 6
+     "passend": 7
     },
     "rbb": {
      "gesamt": 43,
@@ -79,7 +80,7 @@
     },
     "Hessischer Rundfunk": {
      "gesamt": 14,
-     "passend": 0
+     "passend": 1
     },
     "Deutschlandradio": {
      "gesamt": 3,
@@ -151,11 +152,11 @@
     }
    },
    "aussortiert": {
+    "titel passt zu keiner rolle": 951,
     "ausgeschlossen (Titel: praktik)": 175,
-    "titel passt zu keiner rolle": 952,
     "ausgeschlossen (Titel: performance marketing)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: volontär)": 7,
+    "ausgeschlossen (Titel: volontär)": 8,
     "ausgeschlossen (Titel: werkstudent)": 27,
     "ausgeschlossen (Titel: social media marketing)": 3,
     "ausgeschlossen (Titel: content marketing)": 5,
@@ -163,7 +164,7 @@
     "ausgeschlossen (Titel: trainee)": 11,
     "ausgeschlossen (Titel: online marketing)": 25,
     "ausgeschlossen (Titel: online-marketing)": 13,
-    "ort passt nicht": 11,
+    "ort passt nicht": 9,
     "ausgeschlossen (Titel: volontariat)": 16,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
@@ -183,7 +184,7 @@
   "arbeitsagentur": {
    "stellen": 5,
    "gefunden": 802,
-   "aufrufe": 81,
+   "aufrufe": 76,
    "aussortiert": {
     "titel passt zu keiner rolle oder ausgeschlossen": 664,
     "ausgeschlossen (Beruf: helfer)": 29,
