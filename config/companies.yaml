@@ -14,6 +14,7 @@
 #   url:   Adresse der Stellenliste
 #   ort:   Ort, falls die Quelle keinen Ort nennt
 #   firma_aus_titel: true = Titel lautet "Firma sucht Stelle" (Firma wird abgetrennt)
+#   max_alter_tage: 60    = ältere Anzeigen ignorieren
 #   aus: true  = vorübergehend nicht abrufen (Zeile "aus: true" löschen, um wieder einzuschalten)
 #
 # Vor jedem Abruf prüft das Programm die robots.txt der Seite. Verbietet sie den Abruf,
@@ -31,6 +32,7 @@ quellen:
     art: rss
     url: https://www.radioszene.de/kategorie/jobs/stellenangebote/feed
     firma_aus_titel: true
+    max_alter_tage: 60
   - name: DWDL.de
     art: dwdl
     url: https://www.dwdl.de/jobboerse/

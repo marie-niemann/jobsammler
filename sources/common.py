@@ -196,6 +196,10 @@ class Places:
         if remote:
             return {"ok": True, "rang": 50, "ort": text_loc or "remote", "remote": True, "hinweis": "remote"}
         if not locs:
+            # Kein Ort angegeben: im Titel/Text nach einem Wunschort suchen
+            for i, (name, rx) in enumerate(self.wish):
+                if rx.search(f"{title} {text}"):
+                    return {"ok": True, "rang": i, "ort": name, "remote": remote, "hinweis": "Ort aus dem Anzeigentext"}
             return {"ok": True, "rang": 60, "ort": "", "remote": False, "hinweis": "Ort prüfen"}
         hit = self.short.search(f"{title} {text}")
         if hit:
