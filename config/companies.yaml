@@ -35,7 +35,7 @@ quellen:
     max_alter_tage: 60
   - name: DWDL.de
     art: dwdl
-    url: https://www.dwdl.de/jobboerse/
+    url: https://www.dwdl.de/jobboerse/alle-anzeigen.html?typ=alle
 
   # --- Öffentlich-rechtliche Sender ---
   - name: rbb

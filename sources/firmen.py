@@ -242,7 +242,7 @@ def _hr(sess, q):
 
 
 def _dwdl(sess, q):
-    """DWDL.de-Jobbörse: Links /jobboerse/<nr>_<firma>.html mit Text "Firma sucht Stelle Ort"."""
+    """DWDL.de-Jobbörse (Liste aller Anzeigen): Links /jobboerse/<nr>_<firma>.html mit "Firma sucht" <h4>Stelle</h4> Ort."""
     body = _get(sess, q["url"]).text
     out, seen = [], set()
     for m in re.finditer(r"""<a\b[^>]*href=["']([^"']*jobboerse/(\d+)_[^"']*)["'][^>]*>(.*?)</a>""", body, re.S | re.I):
@@ -250,13 +250,19 @@ def _dwdl(sess, q):
         if jid in seen:
             continue
         parts = [clean(x) for x in re.split(r"<[^>]+>", m.group(3)) if clean(x)]
-        line = next((p for p in parts if " sucht " in p), "")
-        if not line:
+        idx = next((i for i, p in enumerate(parts) if p.endswith(" sucht") or " sucht " in p), None)
+        if idx is None:
             continue
         seen.add(jid)
-        firma, title = line.split(" sucht ", 1)
-        rest = [p for p in parts if p != line and " sucht " not in p]
-        locs = rest[-1:] if rest else []
+        if " sucht " in parts[idx]:  # "Firma sucht Stelle" in einem Stück
+            firma, title = parts[idx].split(" sucht ", 1)
+            rest = parts[idx + 1:]
+        else:  # "Firma sucht" <h4>Stelle</h4> <span>Ort</span>
+            firma, title = parts[idx][:-len(" sucht")], (parts[idx + 1] if idx + 1 < len(parts) else "")
+            rest = parts[idx + 2:]
+        if not title:
+            continue
+        locs = rest[:1]
         link = re.sub(r"(jobboerse/)+", "jobboerse/", urljoin(q["url"], html.unescape(m.group(1))))
         rec = record(q["name"], jid, firma.strip(), title.strip(), link)
         out.append((rec, locs, False))
