@@ -7,6 +7,7 @@ on:
     paths:
       - "pruefung/probe.py"
       - "pruefung/probe2.py"
+      - "pruefung/probe3.py"
       - "pruefung/ziele.yaml"
       - ".github/workflows/pruefung.yml"
   workflow_dispatch:
@@ -24,7 +25,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests PyYAML
-      - run: python pruefung/probe2.py
+      - run: python pruefung/probe3.py
       - name: Ergebnis speichern
         run: |
           git config user.name "jobsammler-bot"
