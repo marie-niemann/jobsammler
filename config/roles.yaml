@@ -57,6 +57,9 @@ host:
     - gästebetreuung
     - besucherbetreuung
     - bord
+    - barkeeper
+    - service
+    - kellner
   suche_ba:
     - Moderator
     - Moderatorin
@@ -195,6 +198,8 @@ musik:
     - performance marketing
     - performance manager
     - high performer
+    - straße
+    - strasse
   suche_ba:
     - Sängerin
     - Performer
@@ -272,6 +277,8 @@ leitung:
     - technik
     - werkstatt
     - schulung
+    - content management
+    - content-management
   suche_ba:
     - Redaktionsleitung
     - Chef vom Dienst

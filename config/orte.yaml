@@ -12,6 +12,7 @@ wunschorte:
 
 # Stellen in anderen Orten kommen nur in die Liste, wenn sie remote sind
 # oder eines dieser Wörter im Titel oder in der Beschreibung steht (kurze Einsätze).
+# Es zählen nur ganze Wörter: "gage" trifft "Gage", aber nicht "Engagement".
 kurzzeit_woerter:
   - casting
   - drehtag
@@ -21,12 +22,17 @@ kurzzeit_woerter:
   - tageweise
   - tagesgage
   - gage
+  - gagen
   - projektbasis
   - projektweise
   - für ein projekt
   - einzelne termine
   - einzelne events
   - event
+  - events
+  - eventmoderation
+  - castings
+  - castingshow
   - messe
   - tournee
   - tour

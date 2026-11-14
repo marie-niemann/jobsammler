@@ -176,7 +176,7 @@ class Places:
 
     def __init__(self, cfg):
         self.wish = [(w["name"], re.compile(w["muster"], re.I)) for w in cfg.get("wunschorte") or []]
-        self.short = re.compile("|".join(re.escape(w) for w in cfg.get("kurzzeit_woerter") or ["casting"]), re.I)
+        self.short = re.compile(r"\b(?:" + "|".join(re.escape(w) for w in cfg.get("kurzzeit_woerter") or ["casting"]) + r")\b", re.I)
         self.remote = re.compile("|".join(re.escape(w) for w in cfg.get("remote_woerter") or ["remote"]), re.I)
 
     def judge(self, locations, title="", text="", remote_flag=False):
@@ -184,7 +184,7 @@ class Places:
 
         Rang-Reihenfolge: Wunschorte (0, 1, 2 ...), remote (50), Ort unbekannt (60), kurzer Einsatz woanders (70).
         """
-        locs = [clean(l) for l in locations if l and clean(l)]
+        locs = [clean(l).strip(" ,;|") for l in locations if l and clean(l).strip(" ,;|")]
         text_loc = " | ".join(dict.fromkeys(locs))
         remote = bool(remote_flag or self.remote.search(text_loc) or self.remote.search(title or ""))
         for i, (name, rx) in enumerate(self.wish):

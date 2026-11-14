@@ -56,24 +56,34 @@ def _day(value):
 
 # ---------- je Art: liefert Liste von (Eintrag, [Orte], remote_flag) ----------
 
+def _local(tag):
+    return tag.rsplit("}", 1)[-1]
+
+
+def _child(el, *names):
+    """Text des ersten Kind-Elements mit einem dieser Namen (egal welcher Namensraum)."""
+    for c in el:
+        if _local(c.tag) in names:
+            if _local(c.tag) == "link" and not (c.text or "").strip():
+                return c.get("href", "")
+            return c.text or ""
+    return ""
+
+
 def _rss(sess, q):
+    """RSS 2.0, RSS 1.0 (RDF) und Atom."""
     r = _get(sess, q["url"])
     root = ET.fromstring(r.content)
     out = []
-    items = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
-    for it in items:
-        def t(tag):
-            return it.findtext(tag) or it.findtext("{http://www.w3.org/2005/Atom}" + tag) or ""
-        link = t("link")
-        if not link:
-            el = it.find("{http://www.w3.org/2005/Atom}link")
-            link = el.get("href", "") if el is not None else ""
-        link = link.strip()
-        jid = it.get("id") or t("guid") or link
-        rec = record(q["name"], jid, q.get("firma") or q["name"], t("title"), link,
-                     published=_day(t("pubDate") or t("updated") or t("published")),
-                     description=to_text(t("description") or t("summary")))
-        city = t("city")
+    for it in root.iter():
+        if _local(it.tag) not in ("item", "entry"):
+            continue
+        link = (_child(it, "link") or it.get("{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", "")).strip()
+        jid = it.get("id") or _child(it, "guid", "id") or link
+        rec = record(q["name"], jid, q.get("firma") or q["name"], _child(it, "title"), link,
+                     published=_day(_child(it, "pubDate", "date", "updated", "published")),
+                     description=to_text(_child(it, "description", "summary")))
+        city = _child(it, "city")
         out.append((rec, [city] if city else ([q["ort"]] if q.get("ort") else []), False))
     return out
 
@@ -141,12 +151,12 @@ def _umantis(sess, q):
             seg = body[m.end():m.end() + 6000].split("/Description/")[0]
             pairs = re.findall(r'id="column_label_\d+">([^<]*)</span>.*?column-value"[^>]*>([^<]*)<', seg, re.S)
             if pairs:  # neue Darstellung (z. B. rbb): Wertepaare, Ort ohne Beschriftung
-                art = " ".join(clean(v) for l, v in pairs if l.strip() in ("Art", "Befristung") or "Mitarbeit" in v)
+                art = " · ".join(dict.fromkeys(clean(v) for l, v in pairs if l.strip() in ("Art", "Befristung") or "Mitarbeit" in v))
                 ort = next((clean(v) for l, v in reversed(pairs) if not l.strip() and "Mitarbeit" not in v), "")
             else:  # ältere Darstellung (z. B. NDR, BR): Werte mit | getrennt
                 info = clean(re.sub(r"<[^>]+>", " ", body[m.end():m.end() + 2500]))
                 parts = [p.strip() for p in info.split("|")]
-                art = " ".join(p for p in parts if p.startswith(("Art:", "Befristung:")))
+                art = " · ".join(dict.fromkeys(p for p in parts if p.startswith(("Art:", "Befristung:"))))
                 ort = next((p for p in parts if p and not re.search(r":|Stellennummer|^VG|^nein|^ja|^Frau|^Mann", p)), "")
                 ort = re.split(r"-->", ort)[0].strip()
             rec = record(q["name"], jid, q["name"], m.group(3), urljoin(url, m.group(1)), art=art)
