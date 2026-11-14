@@ -1,0 +1,1506 @@
+<!-- 200 https://jobs.prosiebensat1.com/search/?q=&locale=de_DE&startrow=25 -->
+<!DOCTYPE html>
+<html class="html5" xml:lang="de-DE" lang="de-DE" xmlns="http://www.w3.org/1999/xhtml">
+
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                        <link type="text/css" class="keepscript" rel="stylesheet" href="https://jobs.prosiebensat1.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=2fd162d1" />
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/navbar-fixed-top.css" />
+                
+                <script type="text/javascript" src="/platform/js/j2w/j2w.fallbacks.js"></script>
+                
+                
+                <script type="text/javascript" src="https://performancemanager.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js" onerror="loadFallbacks('/platform/js/jquery/jquery-3.5.1.min.js', '/platform/js/jquery/jquery-migrate-3.1.0.min.js')"></script>
+                <script type="text/javascript" src="https://performancemanager.successfactors.eu/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery-migrate.js"></script>
+            <script type="text/javascript" src="/platform/js/jquery/jquery-migrate-1.4.1.js"></script>
+                    <title>prosiebens - Stellen</title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="keywords" content="Stellen bei prosiebens, " />
+        <meta name="description" content="Bei prosiebens nach  suchen" />
+        <link rel="canonical" href="https://jobs.prosiebensat1.com/search/" />
+            <meta name="robots" content="noindex" />
+            <meta property="og:image" content="https://rmkcdn.successfactors.com/078defaa/8eaf686a-1b99-4eee-a4d8-2.png" />
+            <meta property="twitter:image" content="https://rmkcdn.successfactors.com/078defaa/8eaf686a-1b99-4eee-a4d8-2.png" />
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/078defaa/de4ab318-5687-45ae-9cb8-4.css" />
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=2fd162d1" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=2fd162d1" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=2fd162d1" />
+                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=2fd162d1" /><meta name="facebook-domain-verification" content="y4dd7kv3aj2ajcktq0prcplwitxsqd" />
+<link href="https://cdn.recruiting-solutions.org" rel="preconnect" crossorigin>
+<link href="https://searchui.search.windows.net" rel="preconnect" crossorigin>
+
+<script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-version="preview" data-settings-id="WJPq0cCsL" async></script>
+<!-- Google Tag Manager -->
+<script type="text/plain" data-usercentrics="Google Tag Manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TBCT7C9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://csbep-p7s1-prod.web.app/assets/loader.js"></script>
+<script type="module" src="https://csbep-p7s1-prod.web.app/build/csb.esm.js?v=30"></script>
+<script nomodule src="https://csbep-p7s1-prod.web.app/build/csb.js?v=30"> </script>
+<script src="https://csbep-p7s1-prod.web.app/assets/body_fadein.js?v=11"></script>
+
+        
+        <link rel="shortcut icon" href="//rmkcdn.successfactors.com/078defaa/db3e2ae7-519f-4a2b-a27e-b.ico" type="image/x-icon" />
+            <style id="antiClickjack" type="text/css">body{display:none !important;}</style>
+            <script type="text/javascript" id="antiClickJackScript">
+                if (self === top) {
+                    var antiClickjack = document.getElementById("antiClickjack");
+                    antiClickjack.parentNode.removeChild(antiClickjack);
+                } else {
+                    top.location = self.location;
+                }
+            </script>
+        </head>
+
+        <body class="coreCSB search-page body   body" id="body">
+
+        <div id="outershell" class="outershell">
+
+    <div id="header" class="header headermain navbar navbar-default navbar-fixed-top" role="banner">
+            <div id="headerbordertop" class="headerbordertop"></div>
+        <script type="text/javascript">
+            //<![CDATA[
+            $(function()
+            {
+                /* Using 'skipLinkSafari' to include CSS styles specific to Safari. */
+                if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+                    $("#skipLink").attr('class', 'skipLinkSafari');
+                }
+            });
+            //]]>
+             $(document).ready(function() {
+                $("#skipLink").click(function (e) {
+                    e.preventDefault();
+                    $("#content").focus().css('outline','none');
+                    var offset = $(':target').offset();
+                    var fixedHeaderHeight = $("#header").innerHeight();
+                    var scrollto = offset.top - fixedHeaderHeight;
+                    $('html, body').animate({scrollTop:scrollto}, 0);
+                });
+              });
+
+        </script>
+        <div id="skip">
+            <a href="#content" id="skipLink" class="skipLink" title="Zum Hauptinhalt"><span>Zum Hauptinhalt</span></a>
+        </div>
+
+        <div class="limitwidth">
+            <div class="menu desktop upper">
+                <div class="inner" role="navigation" aria-label="Header Menü">
+                        <a href="https://jobs.prosiebensat1.com/" title="ProSiebenSat.1 Jobangebote" aria-label="ProSiebenSat.1 Careers Jobangebote" style="display:inline-block">
+                            <img class="logo" src="//rmkcdn.successfactors.com/078defaa/eb33e074-249a-45c7-9ee3-7.svg" alt="" />
+                        </a>
+                    <ul class="nav nav-pills" role="list">
+        <li class="dropdown">
+            <a id="header1top0MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Über uns" aria-controls="header1top0">
+                Über uns <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top0" role="menu" aria-labelledby="header1top0MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/unser-portfolio" title="Unser Konzern" target="_blank" tabindex="0">Unser Konzern</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/sustainability" title="Sustainability" target="_blank" tabindex="1">Sustainability</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/diversity-inclusion" title="Diversity &amp; Inclusion" target="_blank" tabindex="2">Diversity &amp; Inclusion</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/benefits" title="Benefits" target="_blank" tabindex="3">Benefits</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/faqs" title="FAQs" target="_blank" tabindex="4">FAQs</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/news" title="Social Media Feed" target="_blank" tabindex="5">Social Media Feed</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1top1MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Arbeitswelten" aria-controls="header1top1">
+                Arbeitswelten <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top1" role="menu" aria-labelledby="header1top1MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/entertainment" title="Entertainment" target="_blank" tabindex="0">Entertainment</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/marketing-creation" title="Marketing &amp; Creation" target="_blank" tabindex="1">Marketing &amp; Creation</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/sales" title="Sales" target="_blank" tabindex="2">Sales</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/tech-data" title="Tech &amp; Data" target="_blank" tabindex="3">Tech &amp; Data</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/investment" title="Investment" target="_blank" tabindex="4">Investment</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/finance-controlling" title="Finance &amp; Controlling" target="_blank" tabindex="5">Finance &amp; Controlling</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/strategy-business-development" title="Strategy &amp; Business Development" target="_blank" tabindex="6">Strategy &amp; Business Development</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/legal" title="Legal" target="_blank" tabindex="7">Legal</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/procurement" title="Procurement" target="_blank" tabindex="8">Procurement</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/human-resources" title="Human Resources" target="_blank" tabindex="9">Human Resources</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/communications" title="Communications" target="_blank" tabindex="10">Communications</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1top2MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Deine Karriere" aria-controls="header1top2">
+                Deine Karriere <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top2" role="menu" aria-labelledby="header1top2MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/deine-bewerbung" title="Deine Bewerbung" target="_blank" tabindex="0">Deine Bewerbung</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/7-bewerbungstipps" title="7 Bewerbungstipps" target="_blank" tabindex="1">7 Bewerbungstipps</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/hybrides-arbeiten" title="Hybrides Arbeiten" target="_blank" tabindex="2">Hybrides Arbeiten</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/deine-entwicklung" title="Deine Entwicklung" target="_blank" tabindex="3">Deine Entwicklung</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/why-work-us/" title="Why work with us" target="_blank" tabindex="4">Why work with us</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1top3MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Einstiegslevel" aria-controls="header1top3">
+                Einstiegslevel <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1top3" role="menu" aria-labelledby="header1top3MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/schuelerinnen" title="Schüler:innen" target="_blank" tabindex="0">Schüler:innen</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/studierende" title="Studierende" target="_blank" tabindex="1">Studierende</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/absolventinnen" title="Absolvent:innen" target="_blank" tabindex="2">Absolvent:innen</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/berufserfahrene" title="Berufserfahrene" target="_blank" tabindex="3">Berufserfahrene</a></li>
+            </ul>
+        </li>
+        <li><a href="https://karriere.prosiebensat1.com/blog" title="Blog" target="_blank">Blog</a></li>
+        <li><a href="/?locale=en_US" title="English">EN</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="menu mobile upper">
+                <a href="https://jobs.prosiebensat1.com/" title="ProSiebenSat.1 Jobangebote" aria-label="ProSiebenSat.1 Careers Jobangebote">
+                    <img class="logo" src="//rmkcdn.successfactors.com/078defaa/eb33e074-249a-45c7-9ee3-7.svg" alt="" />
+                </a>
+            <div class="nav">
+                    <div class="dropdown mobile-search">
+                        <button id="searchToggleBtn" type="button" title="Suchen" aria-label="Suchen" class="dropdown-toggle" data-toggle="collapse" data-target="#searchSlideNav"><span class="mobilelink fa fa-search"></span></button>
+                        <div id="searchSlideNav" class="dropdown-menu search-collapse">
+
+        <div class="well well-small searchwell">
+            <form class="form-inline keywordsearch jobAlertsSearchForm" role="search" name="keywordsearch" method="get" action="/search/" xml:lang="de-DE" lang="de-DE" style="margin: 0;">
+                <input class="searchby" name="searchby" type="hidden" value="location" />
+                <input name="createNewAlert" type="hidden" value="false" />
+                <div>
+                    <div class="row columnizedSearchForm">
+                        <div class="column col-md-10">
+                            <div class="fieldContainer row">
+                                    <div class="rd-keywordsearch search-form-input keyword-group col-md-6">
+                                            <div class="row labelrow">
+                                                <span aria-hidden="true">Nach Stichwort suchen</span>
+                                            </div>
+
+                                        <i class="keywordsearch-icon"></i>
+                                        <div class="row">
+                                            <input type="text" class="col-md-12 keywordsearch-q" name="q" maxlength="50" aria-label="Nach Stichwort suchen" />
+                                        </div>
+                                    </div>
+                                    <div class="search-form-input location-group col-md-6 rd-locationsearch" style="display:none">
+                                            <div class="row labelrow">
+                                                <span aria-hidden="true">Nach Standort suchen</span>
+                                            </div>
+
+                                        <i class="locationsearch-icon"></i>
+                                        <input type="text" class="location-input keywordsearch-locationsearch col-md-10" name="locationsearch" maxlength="50" aria-label="Nach Standort suchen" />
+
+                                        <div>
+                                                <div class="searchswitcher locsearchswitcher">
+                                                    <a tabindex="0" role="button" style="display:none" rel="distance" class="search-switcher-link search-switcher-geolocation" aria-label="Stattdessen nach Postleitzahl suchen">Nach Postleitzahl suchen</a>
+                                                    <a tabindex="0" role="button" style="display:none" rel="location" class="search-switcher-link search-switcher-location" aria-label="Stattdessen nach Standort suchen">Nach Standort suchen</a>
+                                                </div>
+                                        </div>
+                                    </div>
+                                    <div class="rd-geolocationsearch searchforminput geolocation-group col-md-6" style="display:none">
+                                            <div class="row labelrow">
+                                                <div class="geolocationinputgroup col-md-10 col-sm-9 col-xs-8 geolocationlabel" aria-hidden="true">Nach Postleitzahl suchen</div>
+
+                                                <div class="col-md-2 col-sm-3 col-xs-4 distanceLabel" aria-hidden="true">Entfernung</div>
+                                            </div>
+
+                                        <div class="row">
+                                            <div class="geolocationinputgroup col-md-10 col-sm-9 col-xs-8">
+                                                <input type="text" name="geolocation" class="geolocation geolocationinput" maxlength="50" aria-label="Nach Postleitzahl suchen" />
+                                            </div>
+
+                                            <div class="searchforminput geolocationoptionsgroup col-md-2 col-sm-3 col-xs-4">
+                                                    <select style="display:none" class="geolocation-distance-options-select input-small form-control geolocation-input" title="Radius in Kilometern" name="d" aria-label="Entfernung">
+                                                            
+                                                            <option value="5" aria-label="5 Kilometer">5 km</option>
+                                                            
+                                                            <option value="10" aria-label="10 Kilometer">10 km</option>
+                                                            
+                                                            <option value="15" selected="selected" aria-selected="true" aria-label="15 Kilometer">15 km</option>
+                                                            
+                                                            <option value="50" aria-label="50 Kilometer">50 km</option>
+                                                            
+                                                            <option value="75" aria-label="75 Kilometer">75 km</option>
+                                                    </select>
+
+                                                <input class="geolocation-input geolocation-latitude" type="hidden" name="lat" />
+                                                <input class="geolocation-input geolocation-longitude" type="hidden" name="lon" />
+                                            </div>
+                                                <div class="searchswitcher geosearchswitcher">
+                                                    <a tabindex="0" rel="distance" role="button" class="search-switcher-link search-switcher-geolocation" aria-label="Stattdessen nach Postleitzahl suchen">Nach Postleitzahl suchen</a>
+                                                    <a tabindex="0" rel="location" role="button" class="search-switcher-link search-switcher-location" aria-label="Stattdessen nach Standort suchen">Nach Standort suchen</a>
+                                                </div>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="geobuttonswitcherwrapper col-md-2">
+                            <div class="row emptylabelsearchspace labelrow">
+                                 
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
+                                            <input type="submit" class="btn keywordsearchbutton" value="Stellen suchen" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </form>
+        </div>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var params = {
+                geolocation: {
+                    NO_MATCH_FOUND: 'Postleitzahl\x20nicht\x20unterst\xFCtzt.'
+                    ,SUGGESTION_LIMIT: 10
+                    ,SUGGESTION_MINIMUM_CHARACTERS: 2
+                    ,PAGE_LOCALE: 'de_DE'
+                }
+            };
+            //]]>
+        </script>
+                        </div>
+                    </div>
+                <div class="dropdown mobile-nav">
+                    <a id="hamburgerToggleBtn" href="#" title="Menü" aria-label="Menü" class="dropdown-toggle" aria-controls="nav-collapse-design1" aria-expanded="false" role="button" data-toggle="collapse" data-target="#nav-collapse-design1"><span class="mobilelink fa fa-bars"></span></a>
+                    <ul id="nav-collapse-design1" class="dropdown-menu nav-collapse">
+        <li class="dropdown">
+            <a id="header1bot0MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Über uns" aria-controls="header1bot0">
+                Über uns <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot0" role="menu" aria-labelledby="header1bot0MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/unser-portfolio" title="Unser Konzern" target="_blank" tabindex="0">Unser Konzern</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/sustainability" title="Sustainability" target="_blank" tabindex="1">Sustainability</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/diversity-inclusion" title="Diversity &amp; Inclusion" target="_blank" tabindex="2">Diversity &amp; Inclusion</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/benefits" title="Benefits" target="_blank" tabindex="3">Benefits</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/faqs" title="FAQs" target="_blank" tabindex="4">FAQs</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/news" title="Social Media Feed" target="_blank" tabindex="5">Social Media Feed</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1bot1MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Arbeitswelten" aria-controls="header1bot1">
+                Arbeitswelten <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot1" role="menu" aria-labelledby="header1bot1MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/entertainment" title="Entertainment" target="_blank" tabindex="0">Entertainment</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/marketing-creation" title="Marketing &amp; Creation" target="_blank" tabindex="1">Marketing &amp; Creation</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/sales" title="Sales" target="_blank" tabindex="2">Sales</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/tech-data" title="Tech &amp; Data" target="_blank" tabindex="3">Tech &amp; Data</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/investment" title="Investment" target="_blank" tabindex="4">Investment</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/finance-controlling" title="Finance &amp; Controlling" target="_blank" tabindex="5">Finance &amp; Controlling</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/strategy-business-development" title="Strategy &amp; Business Development" target="_blank" tabindex="6">Strategy &amp; Business Development</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/legal" title="Legal" target="_blank" tabindex="7">Legal</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/procurement" title="Procurement" target="_blank" tabindex="8">Procurement</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/human-resources" title="Human Resources" target="_blank" tabindex="9">Human Resources</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/arbeitswelten/communications" title="Communications" target="_blank" tabindex="10">Communications</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1bot2MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Deine Karriere" aria-controls="header1bot2">
+                Deine Karriere <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot2" role="menu" aria-labelledby="header1bot2MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/deine-bewerbung" title="Deine Bewerbung" target="_blank" tabindex="0">Deine Bewerbung</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/7-bewerbungstipps" title="7 Bewerbungstipps" target="_blank" tabindex="1">7 Bewerbungstipps</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/hybrides-arbeiten" title="Hybrides Arbeiten" target="_blank" tabindex="2">Hybrides Arbeiten</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/deine-entwicklung" title="Deine Entwicklung" target="_blank" tabindex="3">Deine Entwicklung</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/why-work-us/" title="Why work with us" target="_blank" tabindex="4">Why work with us</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a id="header1bot3MenuButton" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false" title="Einstiegslevel" aria-controls="header1bot3">
+                Einstiegslevel <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu company-dropdown headerdropdown" id="header1bot3" role="menu" aria-labelledby="header1bot3MenuButton">
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/schuelerinnen" title="Schüler:innen" target="_blank" tabindex="0">Schüler:innen</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/studierende" title="Studierende" target="_blank" tabindex="1">Studierende</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/absolventinnen" title="Absolvent:innen" target="_blank" tabindex="2">Absolvent:innen</a></li>
+                        <li role="none"><a role="menuitem" href="https://karriere.prosiebensat1.com/berufserfahrene" title="Berufserfahrene" target="_blank" tabindex="3">Berufserfahrene</a></li>
+            </ul>
+        </li>
+        <li><a href="https://karriere.prosiebensat1.com/blog" title="Blog" target="_blank">Blog</a></li>
+        <li><a href="/?locale=en_US" title="English">EN</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="lower headersubmenu">
+            <div class="inner limitwidth">
+                <div class="links">
+                        <div class="profile node">
+			<div class="profileWidget">
+					<a href="#" onclick="j2w.TC.handleViewProfileAction(event)" xml:lang="de-DE" lang="de-DE" style=" ">Profil anzeigen</a>
+			</div>
+                        </div>
+                                <div class="profile node">
+
+            <div class="employeeWidget linkhovecolor">
+                        <a class="empLoginLink " href="javascript:;" xml:lang="de-DE" lang="de-DE">Mitarbeiter-Anmeldung</a>
+            </div>
+                                </div>
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <style type="text/css">
+        #content {
+            padding-top: 0px;
+        }
+    </style>
+
+    <script type="text/javascript" classhtmlattribute="keepscript" src="/platform/js/j2w/j2w.bootstrap.collapse.js"></script>
+    <script type="text/javascript" classhtmlattribute="keepscript" src="/platform/js/j2w/j2w.bootstrap.dropdown.js"></script>
+        
+        <script type="text/javascript">
+            //<![CDATA[
+                $(document).on('resizeFixedHeader', function () {
+                    $('#fixedHeaderInlineStyle').remove();
+                    $("<style type='text/css' id='fixedHeaderInlineStyle'>@media only screen and (min-width: 767px) { body { padding-top: " + $('#header').outerHeight(true) + "px;} }</style>").appendTo("head");
+                }).trigger('resizeFixedHeader');
+                $(window).on( "ready", function() {
+                    $(document).trigger('resizeFixedHeader');
+                });
+                $(window).on( "load", function() {
+                    $(document).trigger('resizeFixedHeader');
+                });
+            //]]>
+        </script>
+            <div id="innershell" class="innershell">
+                <div id="content" tabindex="-1" class="content" role="main">
+                    <div class="inner">
+            <div class="breadcrumbtrail">
+                <nav aria-label="Breadcrumb">
+                    <ul class="breadcrumb">
+                        <li><a href="/">Startseite</a></li>
+                                        <li aria-hidden="true"><span class="divider">|</span></li>
+                                        <li class="active" aria-current="page"> bei prosiebens<span class="sr-only">(aktuelle Seite)</span></li>
+                    </ul>
+                </nav>
+            </div>
+            <h1 class="keyword-title">Suchergebnisse für<span class="securitySearchQuery"> "".</span>
+            </h1>
+        <div id="search-wrapper">
+
+        <div class="well well-small searchwell">
+            <form class="form-inline keywordsearch jobAlertsSearchForm" role="search" name="keywordsearch" method="get" action="/search/" xml:lang="de-DE" lang="de-DE" style="margin: 0;">
+                <input class="searchby" name="searchby" type="hidden" value="location" />
+                <input name="createNewAlert" type="hidden" value="false" />
+                <div>
+                    <div class="row columnizedSearchForm">
+                        <div class="column col-md-10">
+                            <div class="fieldContainer row">
+                                    <div class="rd-keywordsearch search-form-input keyword-group col-md-6">
+                                            <div class="row labelrow">
+                                                <span aria-hidden="true">Nach Stichwort suchen</span>
+                                            </div>
+
+                                        <i class="keywordsearch-icon"></i>
+                                        <div class="row">
+                                            <input type="text" class="col-md-12 keywordsearch-q" name="q" maxlength="50" aria-label="Nach Stichwort suchen" />
+                                        </div>
+                                    </div>
+                                    <div class="search-form-input location-group col-md-6 rd-locationsearch" style="display:none">
+                                            <div class="row labelrow">
+                                                <span aria-hidden="true">Nach Standort suchen</span>
+                                            </div>
+
+                                        <i class="locationsearch-icon"></i>
+                                        <input type="text" class="location-input keywordsearch-locationsearch col-md-10" name="locationsearch" maxlength="50" aria-label="Nach Standort suchen" />
+
+                                        <div>
+                                                <div class="searchswitcher locsearchswitcher">
+                                                    <a tabindex="0" role="button" style="display:none" rel="distance" class="search-switcher-link search-switcher-geolocation" aria-label="Stattdessen nach Postleitzahl suchen">Nach Postleitzahl suchen</a>
+                                                    <a tabindex="0" role="button" style="display:none" rel="location" class="search-switcher-link search-switcher-location" aria-label="Stattdessen nach Standort suchen">Nach Standort suchen</a>
+                                                </div>
+                                        </div>
+                                    </div>
+                                    <div class="rd-geolocationsearch searchforminput geolocation-group col-md-6" style="display:none">
+                                            <div class="row labelrow">
+                                                <div class="geolocationinputgroup col-md-10 col-sm-9 col-xs-8 geolocationlabel" aria-hidden="true">Nach Postleitzahl suchen</div>
+
+                                                <div class="col-md-2 col-sm-3 col-xs-4 distanceLabel" aria-hidden="true">Entfernung</div>
+                                            </div>
+
+                                        <div class="row">
+                                            <div class="geolocationinputgroup col-md-10 col-sm-9 col-xs-8">
+                                                <input type="text" name="geolocation" class="geolocation geolocationinput" maxlength="50" aria-label="Nach Postleitzahl suchen" />
+                                            </div>
+
+                                            <div class="searchforminput geolocationoptionsgroup col-md-2 col-sm-3 col-xs-4">
+                                                    <select style="display:none" class="geolocation-distance-options-select input-small form-control geolocation-input" title="Radius in Kilometern" name="d" aria-label="Entfernung">
+                                                            
+                                                            <option value="5" aria-label="5 Kilometer">5 km</option>
+                                                            
+                                                            <option value="10" aria-label="10 Kilometer">10 km</option>
+                                                            
+                                                            <option value="15" selected="selected" aria-selected="true" aria-label="15 Kilometer">15 km</option>
+                                                            
+                                                            <option value="50" aria-label="50 Kilometer">50 km</option>
+                                                            
+                                                            <option value="75" aria-label="75 Kilometer">75 km</option>
+                                                    </select>
+
+                                                <input class="geolocation-input geolocation-latitude" type="hidden" name="lat" />
+                                                <input class="geolocation-input geolocation-longitude" type="hidden" name="lon" />
+                                            </div>
+                                                <div class="searchswitcher geosearchswitcher">
+                                                    <a tabindex="0" rel="distance" role="button" class="search-switcher-link search-switcher-geolocation" aria-label="Stattdessen nach Postleitzahl suchen">Nach Postleitzahl suchen</a>
+                                                    <a tabindex="0" rel="location" role="button" class="search-switcher-link search-switcher-location" aria-label="Stattdessen nach Standort suchen">Nach Standort suchen</a>
+                                                </div>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="geobuttonswitcherwrapper col-md-2">
+                            <div class="row emptylabelsearchspace labelrow">
+                                 
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
+                                            <input type="submit" class="btn keywordsearchbutton" value="Stellen suchen" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </form>
+        </div>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var params = {
+                geolocation: {
+                    NO_MATCH_FOUND: 'Postleitzahl\x20nicht\x20unterst\xFCtzt.'
+                    ,SUGGESTION_LIMIT: 10
+                    ,SUGGESTION_MINIMUM_CHARACTERS: 2
+                    ,PAGE_LOCALE: 'de_DE'
+                }
+            };
+            //]]>
+        </script>
+                    <div class="row clearfix">
+                    </div>
+        </div>
+                <div class="pagination-top clearfix">
+
+        <div class="paginationShell clearfix" xml:lang="de-DE" lang="de-DE">
+                    <div class="well well-lg pagination-well pagination">
+                        <div class="pagination-label-row">
+                            <span class="paginationLabel" aria-label="Ergebnisse 26 – 50">Ergebnisse <b>26 – 50</b> von <b>50</b></span>
+                            <span class="srHelp" style="font-size:0px">Seite 1 von 2</span>
+                        </div>
+                            <ul class="pagination">
+                                <li><a class="paginationItemFirst" href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15" title="Erste Seite"><span aria-hidden="true">«</span></a></li>
+                                            <li class="active"><a href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15" class="current-page" aria-current="page" rel="nofollow" title="Seite 1">1</a></li>
+                                            <li class=" "><a href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15&amp;startrow=26" rel="nofollow" title="Seite 2">2</a></li>
+                                <li><a class="paginationItemLast" href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15&amp;startrow=26" rel="nofollow" title="Letzte Seite"><span aria-hidden="true">»</span></a></li>
+                            </ul>
+                    </div>
+        </div>
+                </div>
+
+            <div class="searchResultsShell">
+				<table id="searchresults" class="searchResults full table table-striped table-hover" cellpadding="0" cellspacing="0" aria-label="Suchergebnisse für . Seite 1 von 2, Ergebnisse 26 bis 50 von 50">
+					<thead>
+                            <tr id="search-results-header">
+											<th id="hdrTitle" aria-sort="none" scope="col" width="33%">
+												<span class="jobTitle">
+													<a id="hdrTitleButton" class="jobTitle sort" role="button" href="/search/?q=&amp;sortColumn=sort_title&amp;sortDirection=desc&amp;searchby=location&amp;d=15#hdrTitleButton">Stellenbezeichnung
+													</a>
+												</span>
+											</th>
+											<th id="hdrLocation" aria-sort="none" scope="col" width="33%" class="hidden-phone">
+												<span class="jobLocation">
+													<a id="hdrLocationButton" role="button" class="jobLocation sort" href="/search/?q=&amp;sortColumn=sort_location&amp;sortDirection=desc&amp;searchby=location&amp;d=15#hdrLocationButton">Standort
+													</a>
+												</span>
+											</th>
+											<th id="hdrDate" aria-sort="descending" scope="col" width="33%" class="hidden-phone">
+												<span class="jobDate">
+													<a id="hdrDateButton" role="button" href="/search/?q=&amp;sortColumn=referencedate&amp;sortDirection=asc&amp;searchby=location&amp;d=15#hdrDateButton">Datum <img src="/platform/images/shared/downtri.png" border="0" alt="Sort descending" />
+													</a>
+												</span>
+											</th>
+                            </tr>
+                    </thead>
+                    <tbody>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Financial-Accountant-Accounts-Payable-%28mwd%29-10117/1376647257/" class="jobTitle-link">Financial Accountant Accounts Payable (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Financial-Accountant-Accounts-Payable-%28mwd%29-10117/1376647257/">Financial Accountant Accounts Payable (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">04.11.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">04.11.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Controlling-Content-Investment-%28mwd%29-80802/1376702057/" class="jobTitle-link">Praktikum Controlling - Content Investment (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Controlling-Content-Investment-%28mwd%29-80802/1376702057/">Praktikum Controlling - Content Investment (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">04.11.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">04.11.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Redaktion-Galileo-%28mwd%29-80802/728721402/" class="jobTitle-link">Praktikum Redaktion Galileo (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Redaktion-Galileo-%28mwd%29-80802/728721402/">Praktikum Redaktion Galileo (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">03.11.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">03.11.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Senior-Paid-Social-Online-Marketing-Manager-%28mwd%29-10117/1362635457/" class="jobTitle-link">Senior Paid Social Online Marketing Manager (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Senior-Paid-Social-Online-Marketing-Manager-%28mwd%29-10117/1362635457/">Senior Paid Social Online Marketing Manager (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">02.11.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">02.11.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Volontariat-News-%28mwd%29-80802/1376466957/" class="jobTitle-link">Volontariat News (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Volontariat-News-%28mwd%29-80802/1376466957/">Volontariat News (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">02.11.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">02.11.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Freiburg-im-Breisgau-IT-Support-Specialist-%28wmd%29-79100/1376299857/" class="jobTitle-link">IT Support Specialist (w/m/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Freiburg-im-Breisgau-IT-Support-Specialist-%28wmd%29-79100/1376299857/">IT Support Specialist (w/m/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Freiburg im Breisgau, DE, 79100
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">30.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Freiburg im Breisgau, DE, 79100
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">30.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Ausbildung-zum-Fachinformatiker-f%C3%BCr-Anwendungsentwicklung-%28mwd%29-80802/1370914257/" class="jobTitle-link">Ausbildung zum Fachinformatiker für Anwendungsentwicklung (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Ausbildung-zum-Fachinformatiker-f%C3%BCr-Anwendungsentwicklung-%28mwd%29-80802/1370914257/">Ausbildung zum Fachinformatiker für Anwendungsentwicklung (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Ausbildung-zum-Fachinformatiker-f%C3%BCr-Systemintegration-%28mwd%29-80802/1370920257/" class="jobTitle-link">Ausbildung zum Fachinformatiker für Systemintegration (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Ausbildung-zum-Fachinformatiker-f%C3%BCr-Systemintegration-%28mwd%29-80802/1370920257/">Ausbildung zum Fachinformatiker für Systemintegration (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Photo-Production-&amp;-Editing%2C-Communications-&amp;-PR-%28mwd%29-80802/1376156557/" class="jobTitle-link">Praktikum Photo Production &amp; Editing, Communications &amp; PR (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Photo-Production-&amp;-Editing%2C-Communications-&amp;-PR-%28mwd%29-80802/1376156557/">Praktikum Photo Production &amp; Editing, Communications &amp; PR (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Senior-Warehouse-Technology-Specialist-%28mfd%29-10117/1376169057/" class="jobTitle-link">Senior Warehouse Technology Specialist (m/f/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Senior-Warehouse-Technology-Specialist-%28mfd%29-10117/1376169057/">Senior Warehouse Technology Specialist (m/f/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Senior-Business-Automation-Developer-%28mfd%29-10117/1376169757/" class="jobTitle-link">Senior Business Automation Developer (m/f/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Senior-Business-Automation-Developer-%28mfd%29-10117/1376169757/">Senior Business Automation Developer (m/f/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Business-Automation-Developer-%28mfd%29-10117/1376170557/" class="jobTitle-link">Business Automation Developer (m/f/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Business-Automation-Developer-%28mfd%29-10117/1376170557/">Business Automation Developer (m/f/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Berlin-Director-Account-Management-%28mwd%29-10117/1376172157/" class="jobTitle-link">Director Account Management (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Berlin-Director-Account-Management-%28mwd%29-10117/1376172157/">Director Account Management (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">29.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Berlin, DE, 10117
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">29.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Partner-Marketing-%28mwd%29-80802/1376056157/" class="jobTitle-link">Praktikum Partner Marketing (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Partner-Marketing-%28mwd%29-80802/1376056157/">Praktikum Partner Marketing (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">28.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">28.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Stylingassistenz-%28mwd%29-80802/1376098157/" class="jobTitle-link">Stylingassistenz (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Stylingassistenz-%28mwd%29-80802/1376098157/">Stylingassistenz (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">28.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">28.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/K%C3%B6ln-Praktikum-Event-Management-%28mwd%29-50667/1376072457/" class="jobTitle-link">Praktikum Event Management (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/K%C3%B6ln-Praktikum-Event-Management-%28mwd%29-50667/1376072457/">Praktikum Event Management (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Köln, DE, 50667
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">28.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Köln, DE, 50667
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">28.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Content-Manager-Live-Interactions-%28mwd%29-80802/1376049157/" class="jobTitle-link">Praktikum Content-Manager Live-Interactions (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Content-Manager-Live-Interactions-%28mwd%29-80802/1376049157/">Praktikum Content-Manager Live-Interactions (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">28.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">28.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Senior-Manager-Tax-Reporting-%28mwd%29-80802/1368304357/" class="jobTitle-link">Senior Manager Tax Reporting (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Senior-Manager-Tax-Reporting-%28mwd%29-80802/1368304357/">Senior Manager Tax Reporting (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">26.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">26.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Category-Manager-IT-Technology-%28mwd%29-80802/1373227457/" class="jobTitle-link">Category Manager - IT / Technology (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Category-Manager-IT-Technology-%28mwd%29-80802/1373227457/">Category Manager - IT / Technology (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">24.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">24.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Junior-Programmatic-Advertising-Consultant-%28mwd%29-80802/1368049257/" class="jobTitle-link">Junior Programmatic Advertising Consultant (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Junior-Programmatic-Advertising-Consultant-%28mwd%29-80802/1368049257/">Junior Programmatic Advertising Consultant (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">24.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">24.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Group-Internal-Communications-%28mwd%29-80802/1372936257/" class="jobTitle-link">Praktikum Group Internal Communications (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Group-Internal-Communications-%28mwd%29-80802/1372936257/">Praktikum Group Internal Communications (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">22.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">22.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Praktikum-Redaktion-Factual-&amp;-Factual-Entertainment-%28mwd%29-80802/1375558057/" class="jobTitle-link">Praktikum Redaktion Factual &amp; Factual Entertainment (m/w/d)</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Praktikum-Redaktion-Factual-&amp;-Factual-Entertainment-%28mwd%29-80802/1375558057/">Praktikum Redaktion Factual &amp; Factual Entertainment (m/w/d)</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">22.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">22.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/Porto%2C-Portugal-Backend-Developer-JavaSpring-&amp;-SQL-%28mfd%29-1-1-1-1-1-1-1/1375487657/" class="jobTitle-link">Backend Developer - Java/Spring &amp; SQL (m/f/d) 1 1 1 1 1 1 1</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/Porto%2C-Portugal-Backend-Developer-JavaSpring-&amp;-SQL-%28mfd%29-1-1-1-1-1-1-1/1375487657/">Backend Developer - Java/Spring &amp; SQL (m/f/d) 1 1 1 1 1 1 1</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            Porto, Portugal, PT
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">21.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            Porto, Portugal, PT
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">21.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Junior-Grafiker-%28mwd%29-Teilzeit-80802/1364900257/" class="jobTitle-link">Junior Grafiker (m/w/d) Teilzeit</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Junior-Grafiker-%28mwd%29-Teilzeit-80802/1364900257/">Junior Grafiker (m/w/d) Teilzeit</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">20.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">20.10.2026
+												</span>
+											</td>
+                            </tr>
+
+                            <tr class="data-row">
+                                                <td class="colTitle" headers="hdrTitle">
+													<span class="jobTitle hidden-phone">
+														<a href="/job/M%C3%BCnchen-Grafiker-%28mwd%29-Teilzeit-80802/1364899557/" class="jobTitle-link">Grafiker (m/w/d) Teilzeit</a>
+													</span>
+                                                    <div class="jobdetail-phone visible-phone">
+                                                                    <span class="jobTitle visible-phone">
+                                                                        <a class="jobTitle-link" href="/job/M%C3%BCnchen-Grafiker-%28mwd%29-Teilzeit-80802/1364899557/">Grafiker (m/w/d) Teilzeit</a>
+                                                                    </span>
+                                                                    <span class="jobLocation visible-phone">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span></span>
+                                                                    <span class="jobDate visible-phone">20.10.2026
+													                </span>
+                                                    </div>
+                                                </td>
+											<td class="colLocation hidden-phone" headers="hdrLocation">
+        
+        <span class="jobLocation">
+            München, DE, 80802
+            
+        </span>
+											</td>
+											<td class="colDate hidden-phone" nowrap="nowrap" headers="hdrDate">
+												<span class="jobDate">20.10.2026
+												</span>
+											</td>
+                            </tr>
+                    </tbody>
+
+                </table>
+            </div>
+                <div class="pagination-bottom">
+
+        <div class="paginationShell clearfix" xml:lang="de-DE" lang="de-DE">
+                    <div class="well well-lg pagination-well pagination">
+                        <div class="pagination-label-row">
+                            <span class="paginationLabel" aria-label="Ergebnisse 26 – 50">Ergebnisse <b>26 – 50</b> von <b>50</b></span>
+                            <span class="srHelp" style="font-size:0px">Seite 1 von 2</span>
+                        </div>
+                            <ul class="pagination">
+                                <li><a class="paginationItemFirst" href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15" title="Erste Seite"><span aria-hidden="true">«</span></a></li>
+                                            <li class="active"><a href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15" class="current-page" aria-current="page" rel="nofollow" title="Seite 1">1</a></li>
+                                            <li class=" "><a href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15&amp;startrow=26" rel="nofollow" title="Seite 2">2</a></li>
+                                <li><a class="paginationItemLast" href="?q=&amp;sortColumn=referencedate&amp;sortDirection=desc&amp;searchby=location&amp;d=15&amp;startrow=26" rel="nofollow" title="Letzte Seite"><span aria-hidden="true">»</span></a></li>
+                            </ul>
+                    </div>
+        </div>
+                </div>
+
+            <script src="/platform/js/jquery/jquery.watermark.js" type="text/javascript"></script>
+            <script type="text/javascript">jQuery(function($){$('#title').watermark('Stellenbezeichnung');
+$('#location').watermark('Standort');
+$('#date').watermark('Datum (TT.MM.JJ)');
+$('#title').watermark('Stellenbezeichnung');
+$('#location').watermark('Standort');
+$('#date').watermark('Datum (TT.MM.JJ)');
+$('#distance').watermark('');
+});
+            </script>
+            <div class="row">
+            </div>
+                    </div>
+                </div>
+            </div>
+
+    <div id="footer" role="contentinfo">
+        <div id="footerRowTop" class="footer footerRow">
+            <div class="container  footer-fullwidth">
+
+    <div id="footerInnerLinksSocial" class="row rtltextaligneligible" dir="auto">
+
+        <ul class="inner links" role="list" dir="auto">
+                    <li><a href="/content/dataPrivacy/?locale=de_DE" title="Datenschutz" target="_blank">Datenschutz</a></li>
+                    <li><a href="https://www.prosiebensat1.com/impressum-datenschutz/disclaimer" title="Disclaimer" target="_blank">Disclaimer</a></li>
+                    <li><a href="https://jobs.prosiebensat1.com/content/imprint/?locale=de_DE" title="Impressum" target="_blank">Impressum</a></li>
+                    <li><a href="https://karriere.prosiebensat1.com/kontakt" title="Kontakt" target="_blank">Kontakt</a></li>
+                    <li><a href="/content/alljobs/" title="Alle Stellen" target="_blank">Alle Stellen</a></li>
+                    <li><a href="#uc-corner-modal-show" title="ucshow">Cookie-Einstellungen</a></li>
+        </ul>
+            <div class="rightfloat">
+                            <a class="rightfloat" href="/" title="ProSiebenSat.1 Logo">
+                                <img class="logo" src="//rmkcdn.successfactors.com/078defaa/39cafacc-d3a8-45f6-93c3-0.svg" align="right" />
+                            </a>
+            </div>
+    </div>
+            </div>
+        </div>
+
+        <div id="footerRowBottom" class="footer footerRow">
+            <div class="container  footer-fullwidth">
+                    <p>Copyright ©2024 ProSiebenSat.1 Media SE All rights reserved</p>
+            </div>
+        </div>
+    </div>
+        </div>
+            <script src="/platform/js/typeahead.bundle-0.10.2.min.js" type="text/javascript"></script>
+            <script class="keepscript" src="https://jobs.prosiebensat1.com/platform/bootstrap/3.4.8_NES/js/lib/dompurify/purify.min.js" type="text/javascript"></script>
+            <script class="keepscript" src="https://jobs.prosiebensat1.com/platform/bootstrap/3.4.8_NES/js/bootstrap.min.js" type="text/javascript"></script><p7s1-menu></p7s1-menu>
+<!-- <csb-info-modal button-tag="p7s1-button"></csb-info-modal> -->
+
+<script type="text/javascript">
+  $("a[title='ucshow']").click(function () {
+    if (UC_UI) {
+      UC_UI.showSecondLayer();
+    }
+  });
+</script>
+
+		<script type="text/javascript">
+		//<![CDATA[
+			window.j2w = window.j2w || {};
+			window.j2w.referrerTracking = window.j2w.referrerTracking || { status: 'skipped' };
+		//]]>
+		</script>
+        <script type="text/javascript">
+            //<![CDATA[
+            $(function() {
+                $('input:submit,button:submit').each(function(){
+                    var submitButton = $(this);
+                    if(submitButton.val() == '') submitButton.val('');
+                });
+
+                $('input, textarea').placeholder();
+            });
+            //]]>
+        </script>
+					<script type="text/javascript" src="/platform/js/localized/strings_de_DE.js?h=2fd162d1"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=2fd162d1"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=2fd162d1"></script>
+
+		<script type="text/javascript">
+			//<![CDATA[
+				j2w.init({
+					"cookiepolicy"   : 3,
+					"useSSL"         : true,
+					"isUsingSSL"     : true,
+					"isResponsive"   : true,
+					"categoryId"     : 0,
+					"siteTypeId"     : 1,
+					"ssoCompanyId"   : 'prosiebens',
+					"ssoUrl"         : 'https://career2.successfactors.eu',
+					"passwordRegEx"  : '^(?=.{6,20}$)(?!.*(.)\\1{3})(?=.*([\\d]|[^\\w\\d\\s]))(?=.*[A-Za-z])(?!.*[\\u007F-\\uFFFF\\s])',
+					"emailRegEx"     : '^(?![+])(?=([a-zA-Z0-9\\\'.+!_-])+[@]([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9.-]*[a-zA-Z0-9])[.]([a-zA-Z]){1,63}$)(?!.*[\\u007F-\\uFFFF\\s,])(?!.*[.]{2})',
+					"hasATSUserID"	 : false,
+					"useCASWorkflow" : true,
+					"brand"          : "",
+					"dpcsStateValid" : true
+					,       'q'              : '',       'location'       : '',       'locationsearch' : '',       'geolocation'  : '',       'locale'         : 'de_DE'
+				});
+
+				j2w.TC.init({
+					"seekConfig" : {
+						"url" : 'https\x3A\x2F\x2Fwww.seek.com.au\x2Fapi\x2Fiam\x2Foauth2\x2Fauthorize',
+						"id"  : 'successfactors12',
+						"advertiserid" : ''
+					}
+				});
+
+				$.ajaxSetup({
+					cache   : false,
+					headers : {
+						"X-CSRF-Token" : "e2874a47-85aa-4e3c-9660-b15cb5a76dcd"
+					}
+				});
+			//]]>
+		</script>
+					<script type="text/javascript" src="/platform/js/search/search.js?h=2fd162d1"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=2fd162d1"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.employee.min.js?h=2fd162d1"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=2fd162d1"></script>
+        
+        <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
+        <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
+        <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
+        <script type="text/javascript" src="/js/override.js?locale=de_DE&amp;i=1770182993"></script>
+        <script type="text/javascript">
+            const jobAlertSpans = document.querySelectorAll("[data-testid=jobAlertSpanText]");
+            jobAlertSpans?.forEach((jobEl) => {
+              jobEl.textContent = window?.jsStr?.tcjobresultscreatejobalertsdetailstext || "";
+            });
+        </script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=2fd162d1"></script>
+            <script src="/platform/js/typeahead.bundle-0.10.2.min.js" type="text/javascript"></script>
+					<script type="text/javascript" src="/platform/js/search/geolocation-search.js?h=2fd162d1"></script>
+		</body>
+    </html>

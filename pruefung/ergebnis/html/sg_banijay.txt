@@ -1,0 +1,920 @@
+<!-- 200 https://banijay.softgarden.io/de/vacancies -->
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.sourceforge.net/" lang="de" class="standard-css">
+    <head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="author" content="softgarden e-recruiting GmbH"/>
+     	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+		<link rel="icon" href="https://static.softgarden.de/favicon/favicon-32x32.png"><!--[if IE]><link rel="shortcut icon" href="https://static.softgarden.de/favicon/favicon.ico"><![endif]--><link rel="stylesheet" type="text/css" href="https://static.softgarden.de/thirdparty/leaflet/1.9.4/leaflet.css" />
+<link rel="stylesheet" type="text/css" href="https://static.softgarden.de/thirdparty/leaflet/markercluster/1.4.1/MarkerCluster.css" />
+<link rel="stylesheet" type="text/css" href="https://static.softgarden.de/thirdparty/leaflet/markercluster/1.4.1/MarkerCluster.Default.css" />
+<style type="text/css" id="markercluster">
+.marker-cluster-color     { background-color: rgba(245, 198, 208, 0.6); } .marker-cluster-color div { background-color: rgba(172, 139, 146, 0.6);  } .leaflet-oldie .marker-cluster-color     { background-color: rgb(245, 198, 208); } .leaflet-oldie .marker-cluster-color div { background-color: rgb(172, 139, 146);  } </style>
+<style type="text/css" id="jobSearchCss">
+#jobsContainer .matchContainer .date { width: 12% } #jobsContainer .matchContainer .title { width: 29.47% } #jobsContainer .matchContainer .audience { width: 16.84% } #jobsContainer .matchContainer .jobcategory { width: 16.84% } #jobsContainer .matchContainer .ProjectGeoLocationCity { width: 16.84% } </style>
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.core.WebFrontendApplication/core-ver-46480A77CA2574AB851CD35B365719CA.js"></script>
+<script type="text/javascript" id="jobsearchjs">
+/*<![CDATA[*/
+
+var criterions = [
+    {
+        "id": "audience",
+        "name": "Zielgruppe",
+        "options": {
+            "00005": "Absolventen",
+            "00010": "Aushilfen",
+            "00001": "Auszubildende",
+            "3a3af3667f000002010ad49215c3a5f4": "Berufseinsteiger",
+            "3a3b1f6e7f000002010ad492e7837dd6": "Berufserfahrene",
+            "00002": "Praktikanten",
+            "3a3ab7987f000002010ad4925ffa0cf4": "Schüler",
+            "6179d1a00a0b0cce01ed3de8643a0e39": "Studenten",
+            "00009": "Werkstudenten"
+        }
+    },
+    {
+        "id": "jobcategory",
+        "name": "Jobkategorie",
+        "options": {
+            "sam42_administration": "Administration, Sekretariat",
+            "38": "Assistenz, Sekretariat",
+            "62": "Controlling",
+            "sam42_purchase": "Einkauf, Materialwirtschaft, Logistik",
+            "81": "Event Marketing",
+            "86": "Finanzbuchhaltung, Bilanzbuchhaltung",
+            "sam42_finance": "Finanzen",
+            "sam42_management": "Führungskräfte",
+            "sam42_design": "Gestaltung/Szenenbild/Kostümbild/Requisite",
+            "97": "Grafikdesign",
+            "sam42_engineering": "Ingenieure und technische Berufe",
+            "sam42_it": "IT",
+            "122": "Kundenservice",
+            "sam42_manualwork": "Lager, Werkstatt",
+            "129": "Lohn, Gehalt",
+            "sam42_marketing": "Marketing und Kommunikation",
+            "153": "Onlinemarketing",
+            "sam42_hr": "Personal",
+            "162": "PR, Unternehmenskommunikation",
+            "00003": "Produktion",
+            "00009": "Projektmanagement",
+            "sam42_law": "Recht",
+            "111": "Redaktion",
+            "209": "Veranstaltungstechnik",
+            "sam42_sales": "Vertrieb und Verkauf"
+        }
+    }
+];
+var sg_jobsearch_hide_inactive = true;
+var jobs_selected = Array();
+var current_page = 1;
+var order_by = 0;
+var jobs_per_page = 10;
+var paging_window = -1;
+var JobResultAnimationOff = false;
+var showInfoBoxSeeEndOfPage = true;
+var jobs_selected_per_list = Array();
+var preselected_location = '';
+var preselected_location_radius = '';
+var preselected_values = {};
+var geocodingOverride = {"OSM":{"62782":{"boundingBox":"[\"53.3951118\", \"53.7393983\", \"9.7275419\", \"10.3252805\"]"}},"GOOGLE":{}};
+jQuery(document).ready(function() {
+    jQuery('#selector_0').change(function () {
+    	jQuery('#jobsContainer').show();
+    	updateLists(0, order_by);
+	 	jQuery('.resetForm').show();
+	});
+    jQuery('#selector_1').change(function () {
+    	jQuery('#jobsContainer').show();
+    	updateLists(1, order_by);
+	 	jQuery('.resetForm').show();
+	});
+    jQuery('#selector_2').change(function () {
+    	jQuery('#jobsContainer').show();
+    	updateLists(2, order_by);
+	 	jQuery('.resetForm').show();
+	});
+jQuery('.matchHeadline').show();
+initialize(order_by);
+});jobs_selected_per_list[0] = Array();
+jobs_selected_per_list[1] = Array();
+jobs_selected_per_list[2] = Array();
+var job_id_list_ordered = new Array ();
+job_id_list_ordered[0] = [17879399, 29010915, 59388838, 67466222, 67379225, 67377845, 67429847, 67490022, 61474772, 38465579, 21998687, 67520632, 67430377, 68599202, 68600442, 67148100, 36715761, 67976092, 68662868, 68664358, 35580236, 68344118, 68736453, 67430212];
+job_id_list_ordered[1] = [17879399, 29010915, 59388838, 67466222, 67379225, 67377845, 67429847, 67490022, 61474772, 38465579, 21998687, 67520632, 67430377, 68599202, 68600442, 67148100, 36715761, 67976092, 68662868, 68664358, 35580236, 68344118, 68736453, 67430212];
+job_id_list_ordered[2] = [59388838, 67466222, 67430212, 67429847, 68344118, 38465579, 29010915, 21998687, 36715761, 17879399, 67379225, 67490022, 68599202, 35580236, 61474772, 67148100, 67377845, 68736453, 67520632, 67976092, 67430377, 68664358, 68662868, 68600442];
+job_id_list_ordered[3] = [59388838, 21998687, 38465579, 29010915, 17879399, 67430212, 68736453, 68344118, 67976092, 36715761, 67148100, 68599202, 67430377, 67520632, 67490022, 67429847, 67377845, 67379225, 61474772, 35580236, 67466222, 68664358, 68662868, 68600442];
+job_id_list_ordered[4] = [36715761, 67430212, 68344118, 21998687, 17879399, 67466222, 59388838, 67430377, 38465579, 67490022, 35580236, 68664358, 29010915, 68599202, 68600442, 68662868, 67148100, 67520632, 61474772, 67377845, 67379225, 67976092, 67429847, 68736453];
+job_id_list_ordered[5] = [67430212, 68736453, 68344118, 35580236, 68664358, 68662868, 67976092, 36715761, 67148100, 68600442, 68599202, 67430377, 67520632, 21998687, 38465579, 61474772, 67490022, 67429847, 67377845, 67379225, 59388838, 29010915, 17879399, 67466222];
+
+var complete_job_id_list = jobs_selected = [17879399, 21998687, 29010915, 35580236, 36715761, 38465579, 59388838, 61474772, 67148100, 67377845, 67379225, 67429847, 67430212, 67430377, 67466222, 67490022, 67520632, 67976092, 68344118, 68599202, 68600442, 68662868, 68664358, 68736453];
+var jobs_keyword_search = complete_job_id_list;
+var jobs_geoLocation_search = complete_job_id_list;
+var search_criteria = new Array();
+search_criteria[0] = new Object();
+search_criteria[0]["3a3b1f6e7f000002010ad492e7837dd6"] = [36715761, 67148100, 67377845, 67379225, 67429847, 67430212, 67430377, 67490022, 67520632, 67976092, 68344118, 68599202, 68736453];
+search_criteria[0]["6179d1a00a0b0cce01ed3de8643a0e39"] = [35580236, 67466222];
+search_criteria[0]["00009"] = [68600442, 68662868, 68664358];
+search_criteria[0]["00010"] = [59388838];
+search_criteria[0]["3a3af3667f000002010ad49215c3a5f4"] = [17879399, 21998687, 29010915, 38465579];
+search_criteria[0]["00002"] = [61474772];
+
+search_criteria[1] = new Object();
+search_criteria[1]["sam42_administration"] = [36715761];
+search_criteria[1]["00009"] = [67148100, 67520632, 68662868];
+search_criteria[1]["sam42_purchase"] = [67430212];
+search_criteria[1]["00003"] = [68600442];
+search_criteria[1]["sam42_sales"] = [68736453];
+search_criteria[1]["sam42_finance"] = [68344118];
+search_criteria[1]["111"] = [61474772, 67377845, 67379225];
+search_criteria[1]["122"] = [59388838, 67466222];
+search_criteria[1]["sam42_hr"] = [68599202];
+search_criteria[1]["not_specified"] = [17879399];
+search_criteria[1]["sam42_engineering"] = [21998687];
+search_criteria[1]["sam42_marketing"] = [29010915, 35580236, 68664358];
+search_criteria[1]["209"] = [67429847, 67976092];
+search_criteria[1]["sam42_manualwork"] = [38465579, 67430377, 67490022];
+
+search_criteria[2] = new Object();
+search_criteria[2]["b350784d-0024-46ca-ac7d-6e48bca30f48"] = [36715761, 67148100, 68344118];
+search_criteria[2]["b779377d-63f2-4088-adee-847d46c7d80e"] = [29010915, 59388838, 61474772, 67466222, 68600442, 68662868, 68664358];
+search_criteria[2]["b4a498d1-5415-4b21-bd7d-bb2cdfaf91b5"] = [17879399];
+search_criteria[2]["6a3b0e8b-0bd0-4c93-a289-a7f1fad92842"] = [21998687, 38465579, 67429847, 67430212, 67430377, 67490022, 67520632, 67976092, 68599202, 68736453];
+search_criteria[2]["5556c09e-27e4-4158-84dc-d445cdf71086"] = [35580236, 67377845, 67379225];
+
+
+/*]]>*/
+</script>
+<title>Karriere Board | BANIJAY GERMANY GRUPPE</title><meta name="description" content="career board | © softgarden" />
+<meta name="robots" content="noindex, follow" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Karriere Board | BANIJAY GERMANY GRUPPE" />
+<meta name="twitter:site" content="@softgarden" />
+<meta name="twitter:description" content="career board | © softgarden" />
+<meta name="twitter:image" content="https://app.softgarden.io/assets/public/media/get/9eedceb8-99b8-4f3d-9aff-40ff0f458c69/1648138740111/1100x0/Bildschirmfoto_2022-03-24_um_17.12.57.png" />
+<meta property="og:title" content="Karriere Board | BANIJAY GERMANY GRUPPE" />
+<meta property="og:description" content="career board | © softgarden" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://app.softgarden.io/assets/public/media/get/9eedceb8-99b8-4f3d-9aff-40ff0f458c69/1648138740111/1100x576P/Bildschirmfoto_2022-03-24_um_17.12.57.png" />
+<meta property="og:image:width" content="1100" />
+<meta property="og:image:height" content="576" />
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.js.JavaScriptReference/modernizr-ver-BBD564F40D2D602049100DC76FE17C37.js"></script>
+<script type="text/javascript" id="sg_config">
+/*<![CDATA[*/
+var SG = SG || {};
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="//static.softgarden.de/thirdparty/fonts/css/dosis.css" />
+<link rel="stylesheet" type="text/css" href="//static.softgarden.de/thirdparty/fonts/css/dosis-vietnamese_latin-ext_latin.css" />
+<link rel="stylesheet" type="text/css" href="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.css.CssReference/webfrontend-v2-ver-591897EFF2EA75250FF42C429E89BE70.css" />
+<style type="text/css" id="companyCss">
+body { background:  #ffffff no-repeat 0% 0%; } 
+.content-wrapper, .narrow-page, header.image-header { background-color: #ffffff; } 
+.content-box { background: #F5C6D0; } 
+a, label i, label em { color: #48002F; } 
+a:visited { color: #48002F; } 
+a:hover, .btn-link:hover, .btn-link:focus, .btn-link:active { color: #650042; } 
+body, h1, h2, h3 { color: #48002F; } 
+.secondary-color, label, .control-group.error .control-label { color: #9FABB3; } 
+textarea:focus, select:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus, .chosen-container-active .chosen-single, .chosen-container-active .chosen-choices, .chosen-container .chosen-drop { border-color: #48002F; } 
+.btn, .btn:visited, .btn-primary, .btn-primary:visited, .upload-item { background-color: #48002F; color: #FFFFFF; background-image: none; } 
+.btn-link, .btn-link:visited { color: #48002F; } 
+.upload-item a, .upload-item a:visited { color: #FFFFFF; } 
+.thirdparty-btn.thirdparty-btn--cv-upload > * { color: #FFFFFF !important; } 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color: #FF4270; color: #ffffff; } 
+.thirdparty-btn.thirdparty-btn--cv-upload:hover > *, .thirdparty-btn.thirdparty-btn--cv-upload:active > *, .thirdparty-btn.thirdparty-btn--cv-upload:focus > * { color: #ffffff !important; } 
+.navbar .btn-navbar, .navbar .btn-navbar.active, .navbar .btn-navbar:active, .navbar .btn-navbar:focus, .navbar .btn-navbar:hover { background-color: #ffffff; background-image: none; } 
+.navbar .btn-navbar .icon-bar, .navbar .btn-navbar.active .icon-bar, .navbar .btn-navbar:active .icon-bar, .navbar .btn-navbar:focus .icon-bar, .navbar .btn-navbar:hover .icon-bar { background-color: #FF4270; } 
+.sg-rating__star-icn.is-active, .sg-rating__star.is-hover .sg-rating__star-icn { color: #48002F; } 
+.navbar .navbar-inner, .navbar .dropdown-menu { background-color: #ffffff; } 
+.navbar .nav > li > .dropdown-menu:after { border-bottom-color: #ffffff; } 
+.navbar .nav > li > a, .nav-collapse .dropdown-menu a, .navbar a, .navbar a:visited { color: #FF4270; } 
+.navbar .nav li.dropdown > .dropdown-toggle .caret { border-color: #FF4270; } 
+.navbar .nav > li > a.active, .navbar .nav > li > a:focus, .navbar .nav > li > a:hover, .navbar .nav li.dropdown.open > .dropdown-toggle, .nav-collapse .dropdown-menu a:focus, .nav-collapse .dropdown-menu a:hover, .nav-collapse .nav > li > a:focus, .nav-collapse .nav > li > a:hover { background-color: #ffffff; color: #48002F; } 
+.navbar .nav li.dropdown > a:focus .caret, .navbar .nav li.dropdown > a:hover .caret, .navbar .nav li.dropdown.open > .dropdown-toggle .caret { border-color: #48002F; } 
+</style>
+<meta name="wicket.header.items"/>
+    </head>
+    <body>
+		<a href="#content" class="visually-hidden">Skip to main content</a>
+		
+		<div id="navbar" class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" aria-label="main menu">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+					<a class="brand" href="./vacancies">
+						
+						<img src="https://app.softgarden.io/assets/public/media/get/c3d52d83-a65d-4877-b8dc-eca8c73fa5cf/1786436657018/0x45/Banijay_Germany_logo_RGB_final.png" alt="BANIJAY GERMANY GRUPPE"/>
+					</a>
+					
+					<div class="nav-public-collapse nav-collapse collapse">
+						<ul class="nav-public nav">
+					    	<li><a href="./vacancies" class="link-jobs external navlink active">Stellenangebote</a></li><li></li><li></li><li></li><li></li>
+						</ul>
+					</div>
+					
+					<div class="nav-personal-collapse nav-collapse collapse">
+						<ul class="nav-personal nav pull-right">
+							<li><a href="../sign-in?l=de" class="link-signin navlink">Login</a></li><li><a href="../sign-up?l=de" class="link-register navlink">Registrierung</a></li><li></li>
+							
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+		<div id="content" class="page-wrapper">
+			<div class="container">
+
+					
+		
+			<header class="image-header">
+				<div class="img-wrap">
+					<img src="https://app.softgarden.io/assets/public/media/get/9eedceb8-99b8-4f3d-9aff-40ff0f458c69/1648138740111/1100x0/Bildschirmfoto_2022-03-24_um_17.12.57.png" alt="">
+				</div>
+			</header>
+		
+
+		
+		
+
+		
+		
+	
+					<div class="body-wrapper">
+						
+		
+		<div class="jobs-page narrow-page">
+			<div>
+		<div class="job-search-panel">
+		
+			
+		
+			<div class="job-search">
+		<div class="internal-account-hint span3">
+			<a href="./vacancies?-1.-jobSearch-jobSearchContainer-internalLink" class="btn btn-primary">Bereits Mitarbeiter?</a>
+		</div>
+
+		<div class="searchBoxComplete">
+			<div class="searchBoxTop">
+				<section class="job-search-config searchBoxTopSmall">
+					<form class="search-form">
+						<section class="keyword-search">
+							<div class="keywordSearch">
+								<label for="keyword_search">Stichwortsuche</label>
+								<div class="loading-spinner" id="performing_keyword_search">
+									<img src="../img/jobsearch/taloom_loader_small.gif" alt="searching"/>
+								</div>
+								<input id="keyword_search" type="text" class="input-xlarge" value="" name="jobSearch:jobSearchContainer:keyword_search"/>
+							</div>
+						</section>
+						<section class="location-search">
+							<div class="locationSearch search_criterion_box search_criterion_box_location">
+								<div class="resetLink selectAllLinkContainer">
+									<a href="#" onclick="resetLocationSearch();jQuery('.locationSearch .resetLink').hide(); return false;">Zurücksetzen</a>
+								</div>
+								<label for="geoLocation_search">Standortsuche</label>
+
+								<div class="loading-spinner" id="performing_location_search">
+									<img src="../img/jobsearch/taloom_loader_small.gif" alt="searching"/>
+								</div>
+								<div>
+									<input id="geoLocation_search" type="text" class="input-xlarge" value="" name="jobSearch:jobSearchContainer:geoLocation_search_wrapper:geoLocation_search"/>
+									<div id="geoLocation_info">
+
+										<small>
+											Arbeit in
+											<a href="#" onclick="centerMapToSearch();" id="geoLocation_result"> </a>
+											<span class="search-result-no-map"></span>
+											im Umkreis von
+										</small>
+										<div id="geoLocation_radius">
+											<select name="jobSearch:jobSearchContainer:geoLocation_search_wrapper:geoLocationRadius" id="id1">
+<option value="1">1 km</option>
+<option value="5">5 km</option>
+<option value="10">10 km</option>
+<option selected="selected" value="25">25 km</option>
+<option value="50">50 km</option>
+<option value="75">75 km</option>
+<option value="100">100 km</option>
+</select>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+
+						
+	
+	<section class="extended-search">
+		<div class="search-criteria-container">
+			
+				<div class="search_criterion_box">
+	<div class="searchFieldLabel">
+		<div class="selectAllLinkContainer"><a href="javascript:;" id="id2" data-select="#selector_0" class="js-toggle-all-select-options">Zurücksetzen</a></div>
+		<label for="searchFieldId" class="searchCriterionBoxHeader">Zielgruppe</label>
+	</div>
+	<select id="selector_0" multiple="multiple" size="5" class="SearchMultiSelectBox filter-options-select search_criterion_box_audience" aria-label="Zielgruppe oder Jobkategorie auswählen" name="audience[]" data-reset-link="#id2">
+<option  title = "Absolventen" value="00005">Absolventen</option>
+<option  title = "Aushilfen" value="00010">Aushilfen</option>
+<option  title = "Auszubildende" value="00001">Auszubildende</option>
+<option  title = "Berufseinsteiger" value="3a3af3667f000002010ad49215c3a5f4">Berufseinsteiger</option>
+<option  title = "Berufserfahrene" value="3a3b1f6e7f000002010ad492e7837dd6">Berufserfahrene</option>
+<option  title = "Praktikanten" value="00002">Praktikanten</option>
+<option  title = "Schüler" value="3a3ab7987f000002010ad4925ffa0cf4">Schüler</option>
+<option  title = "Studenten" value="6179d1a00a0b0cce01ed3de8643a0e39">Studenten</option>
+<option  title = "Werkstudenten" value="00009">Werkstudenten</option>
+</select>
+</div>
+			
+				<div class="search_criterion_box">
+	<div class="searchFieldLabel">
+		<div class="selectAllLinkContainer"><a href="javascript:;" id="id3" data-select="#selector_1" class="js-toggle-all-select-options">Zurücksetzen</a></div>
+		<label for="searchFieldId" class="searchCriterionBoxHeader">Jobkategorie</label>
+	</div>
+	<select id="selector_1" multiple="multiple" size="5" class="SearchMultiSelectBox filter-options-select search_criterion_box_jobcategory" aria-label="Zielgruppe oder Jobkategorie auswählen" name="jobcategory[]" data-reset-link="#id3">
+<option  title = "Administration, Sekretariat" value="sam42_administration">Administration, Sekretariat</option>
+<option  title = "Assistenz, Sekretariat" value="38">Assistenz, Sekretariat</option>
+<option  title = "Controlling" value="62">Controlling</option>
+<option  title = "Einkauf, Materialwirtschaft, Logistik" value="sam42_purchase">Einkauf, Materialwirtschaft, Logistik</option>
+<option  title = "Event Marketing" value="81">Event Marketing</option>
+<option  title = "Finanzbuchhaltung, Bilanzbuchhaltung" value="86">Finanzbuchhaltung, Bilanzbuchhaltung</option>
+<option  title = "Finanzen" value="sam42_finance">Finanzen</option>
+<option  title = "Führungskräfte" value="sam42_management">Führungskräfte</option>
+<option  title = "Gestaltung/Szenenbild/Kostümbild/Requisite" value="sam42_design">Gestaltung/Szenenbild/Kostümbild/Requisite</option>
+<option  title = "Grafikdesign" value="97">Grafikdesign</option>
+<option  title = "Ingenieure und technische Berufe" value="sam42_engineering">Ingenieure und technische Berufe</option>
+<option  title = "IT" value="sam42_it">IT</option>
+<option  title = "Kundenservice" value="122">Kundenservice</option>
+<option  title = "Lager, Werkstatt" value="sam42_manualwork">Lager, Werkstatt</option>
+<option  title = "Lohn, Gehalt" value="129">Lohn, Gehalt</option>
+<option  title = "Marketing und Kommunikation" value="sam42_marketing">Marketing und Kommunikation</option>
+<option  title = "Onlinemarketing" value="153">Onlinemarketing</option>
+<option  title = "Personal" value="sam42_hr">Personal</option>
+<option  title = "PR, Unternehmenskommunikation" value="162">PR, Unternehmenskommunikation</option>
+<option  title = "Produktion" value="00003">Produktion</option>
+<option  title = "Projektmanagement" value="00009">Projektmanagement</option>
+<option  title = "Recht" value="sam42_law">Recht</option>
+<option  title = "Redaktion" value="111">Redaktion</option>
+<option  title = "Veranstaltungstechnik" value="209">Veranstaltungstechnik</option>
+<option  title = "Vertrieb und Verkauf" value="sam42_sales">Vertrieb und Verkauf</option>
+</select>
+</div>
+			
+				<div class="search_criterion_box" style="display: none">
+	<div class="searchFieldLabel">
+		<div class="selectAllLinkContainer"><a href="javascript:;" id="id4" data-select="#selector_2" class="js-toggle-all-select-options">Zurücksetzen</a></div>
+		<label for="searchFieldId" class="searchCriterionBoxHeader">Unternehmen</label>
+	</div>
+	<select id="selector_2" multiple="multiple" size="5" class="SearchMultiSelectBox filter-options-select search_criterion_box_sg_company_id" aria-label="Zielgruppe oder Jobkategorie auswählen" name="sg_company_id[]" data-reset-link="#id4">
+<option  title = "Banijay Germany" value="b350784d-0024-46ca-ac7d-6e48bca30f48">Banijay Germany</option>
+<option  title = "BANIJAY GERMANY GRUPPE" value="599829f1-e19d-43ec-a4b4-1161dfee57a3">BANIJAY GERMANY GRUPPE</option>
+<option  title = "Banijay Germany Live GmbH" value="9ac5db18-26a9-4ecc-ae59-ad549fef49f7">Banijay Germany Live GmbH</option>
+<option  title = "Banijay Media Germany" value="b779377d-63f2-4088-adee-847d46c7d80e">Banijay Media Germany</option>
+<option  title = "Banijay Productions Germany" value="b4a498d1-5415-4b21-bd7d-bb2cdfaf91b5">Banijay Productions Germany</option>
+<option  title = "BRAINPOOL TV GmbH" value="95e07679-63b2-4a7a-9251-9cca56b54e8f">BRAINPOOL TV GmbH</option>
+<option  title = "CAPE CROSS Entertainment Services GmbH" value="6a3b0e8b-0bd0-4c93-a289-a7f1fad92842">CAPE CROSS Entertainment Services GmbH</option>
+<option  title = "Endemol Shine Germany" value="5556c09e-27e4-4158-84dc-d445cdf71086">Endemol Shine Germany</option>
+</select>
+</div>
+			
+		</div>
+		<div class="hide" id="mobile_placeholder">Bitte wählen</div>
+	</section>
+	
+
+					</form>
+				</section>
+				<section class="job-abo">
+
+					<a href="./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink" rel="nofollow" class="btn btn-primary">Stellenangebote abonnieren</a>
+
+				</section>
+
+				
+			</div>
+
+			<div id="jobsContainer" class="job-search-results">
+				<div>
+		<div class="job-search-result-panel">
+			<section id="job-search-map" class="jobMapContainer">
+				<div id="map_canvas"></div>
+			</section>
+
+			<section class="results">
+				<form>
+					<div class="result_count_div" id="job-search-result-count-label">
+						<p id="result_count_one" style="display: none;">Zu deiner Suchanfrage wurde eine Stellenanzeige gefunden:</p>
+						<p id="result_count_more" style="display: none;">Zu deiner Suchanfrage wurden <span id='jobs_result_count'>{0}</span> Stellenanzeigen gefunden:</p>
+						<p id="result_count_none" style="display: none;">Keine Stellenanzeigen gefunden.</p>
+					</div>
+					<div class="matchContainer">
+						<div class="matchElement matchHeadline">
+							<div id="matchValueHeadline1" class="matchValue date" onclick="reorderList(1); return false;">
+								<a href="#" onclick="return false;"><span>Datum</span><b class="caret"></b></a>
+							</div><div id="matchValueHeadline2" class="matchValue title" onclick="reorderList(2); return false;">
+								<a href="#" onclick="return false;"><span>Stellenangebot</span><b class="caret"></b></a>
+							</div><div id="matchValueHeadline3" class="matchValue audience" onclick="reorderList(3); return false;">
+								<a href="#" onclick="return false;"><span>Zielgruppe</span><b class="caret"></b></a>
+							</div><div id="matchValueHeadline4" class="matchValue jobcategory" onclick="reorderList(4); return false;">
+								<a href="#" onclick="return false;"><span>Jobkategorie</span><b class="caret"></b></a>
+							</div><div id="matchValueHeadline5" class="matchValue ProjectGeoLocationCity" onclick="reorderList(5); return false;">
+								<a href="#" onclick="return false;"><span>Standort</span><b class="caret"></b></a>
+							</div>
+						</div>
+						<div class="outputContainer">
+							<div class="matchElement" id="job_id_67430212">
+								<div class="matchValue date">13.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67430212/Berufskraftfahrer-m-w-d-Schwerpunkt-Nahverkehr?jobDbPVId=290578298&amp;l=de" target="_blank">Berufskraftfahrer (m/w/d) Schwerpunkt Nahverkehr</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Einkauf, Materialwirtschaft, Logistik</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68736453">
+								<div class="matchValue date">13.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68736453/Sales-Business-Development-Manager-m-w-d-f%C3%BCr-TV-und-Live-Events?jobDbPVId=290571043&amp;l=de" target="_blank">Sales &amp; Business Development Manager (m/w/d) für TV- und Live-Events</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Vertrieb und Verkauf</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68344118">
+								<div class="matchValue date">12.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68344118/Finanzbuchhalter-w-m-d-?jobDbPVId=290504478&amp;l=de" target="_blank">Finanzbuchhalter (w/m/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Finanzen</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_35580236">
+								<div class="matchValue date">11.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/35580236/Pflicht-Orientierungspraktikant-Redaktion-w-m-d-?jobDbPVId=290354178&amp;l=de" target="_blank">Pflicht/-Orientierungspraktikant  Redaktion (w/m/d) </a>
+		</div><div class="matchValue audience">Studenten</div><div class="matchValue jobcategory">Marketing und Kommunikation</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68664358">
+								<div class="matchValue date">10.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68664358/Werkstudent-Creative-Concepts-Brand-Partnerships-w-m-d-?jobDbPVId=290255668&amp;l=de" target="_blank">Werkstudent Creative Concepts &amp; Brand Partnerships (w/m/d)</a>
+		</div><div class="matchValue audience">Werkstudenten</div><div class="matchValue jobcategory">Marketing und Kommunikation</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68662868">
+								<div class="matchValue date">10.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68662868/Werkstudent-Product-Management-Brand-Partnerships-w-m-d-?jobDbPVId=290250558&amp;l=de" target="_blank">Werkstudent Product Management &amp; Brand Partnerships (w/m/d)</a>
+		</div><div class="matchValue audience">Werkstudenten</div><div class="matchValue jobcategory">Projektmanagement</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67976092">
+								<div class="matchValue date">08.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67976092/Technischer-Betriebsleiter-in-der-Veranstaltungstechnik-m-w-d-?jobDbPVId=290022448&amp;l=de" target="_blank">Technischer Betriebsleiter in der Veranstaltungstechnik (m/w/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Veranstaltungstechnik</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_36715761">
+								<div class="matchValue date">08.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/36715761/Initiativbewerbung-w-m-d-?jobDbPVId=290263483&amp;l=de" target="_blank">Initiativbewerbung (w/m/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Administration, Sekretariat</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67148100">
+								<div class="matchValue date">08.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67148100/Projektleiter-m-w-d-?jobDbPVId=290265123&amp;l=de" target="_blank">Projektleiter (m/w/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Projektmanagement</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68600442">
+								<div class="matchValue date">06.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68600442/Werkstudent-Produktionsassistenz-%E2%80%93-Social-Media-Content-Production-w-m-d-?jobDbPVId=289896732&amp;l=de" target="_blank">Werkstudent Produktionsassistenz – Social Media &amp; Content Production (w/m/d)</a>
+		</div><div class="matchValue audience">Werkstudenten</div><div class="matchValue jobcategory">Produktion</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_68599202">
+								<div class="matchValue date">06.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68599202/Personaldisponent-m-w-d-in-der-Veranstaltungstechnik?jobDbPVId=289889472&amp;l=de" target="_blank">Personaldisponent (m/w/d) in der Veranstaltungstechnik</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Personal</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67430377">
+								<div class="matchValue date">05.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67430377/Werkstattmitarbeiter-in-Servicetechniker-in-im-Bereich-Veranstaltungstechnik-m-w-d-?jobDbPVId=289817922&amp;l=de" target="_blank">Werkstattmitarbeiter(in)/Servicetechniker(in) im Bereich Veranstaltungstechnik  (m/w/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Lager, Werkstatt</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67520632">
+								<div class="matchValue date">05.11.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67520632/Senior-Projektleitung-Veranstaltungstechnik-m-w-d-f%C3%BCr-TV-und-Live-Events?jobDbPVId=289817902&amp;l=de" target="_blank">Senior Projektleitung Veranstaltungstechnik (m/w/d) für TV- und Live-Events</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Projektmanagement</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_21998687">
+								<div class="matchValue date">28.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/21998687/Initiativbewerbung-?jobDbPVId=289019287&amp;l=de" target="_blank">Initiativbewerbung </a>
+		</div><div class="matchValue audience">Berufseinsteiger</div><div class="matchValue jobcategory">Ingenieure und technische Berufe</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_38465579">
+								<div class="matchValue date">28.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/38465579/Freelancer-Licht-Ton-Rigging-im-Bereich-Veranstaltungstechnik-m-w-d-?jobDbPVId=289019257&amp;l=de" target="_blank">Freelancer (Licht/Ton/Rigging)  im Bereich Veranstaltungstechnik  (m/w/d) </a>
+		</div><div class="matchValue audience">Berufseinsteiger</div><div class="matchValue jobcategory">Lager, Werkstatt</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_61474772">
+								<div class="matchValue date">20.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/61474772/Praktikum-Social-Media-Redaktion-w-m-d-?jobDbPVId=288219746&amp;l=de" target="_blank">Praktikum Social Media Redaktion (w/m/d)</a>
+		</div><div class="matchValue audience">Praktikanten</div><div class="matchValue jobcategory">Redaktion</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67490022">
+								<div class="matchValue date">17.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67490022/Mitarbeiter-Lagerlogistik-in-der-Veranstaltungstechnik-m-w-d-?jobDbPVId=287978496&amp;l=de" target="_blank">Mitarbeiter Lagerlogistik in der Veranstaltungstechnik (m/w/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Lager, Werkstatt</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67429847">
+								<div class="matchValue date">15.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67429847/Fachkraft-f%C3%BCr-Veranstaltungstechnik-f%C3%BCr-Service-und-Lagert%C3%A4tigkeiten-m-w-d-?jobDbPVId=287797311&amp;l=de" target="_blank">Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Veranstaltungstechnik</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67377845">
+								<div class="matchValue date">15.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67377845/Redaktionsassistenz-w-m-d-?jobDbPVId=287794511&amp;l=de" target="_blank">Redaktionsassistenz (w/m/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Redaktion</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67379225">
+								<div class="matchValue date">15.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67379225/Jungredakteur-Redakteur-Casting-w-m-d-?jobDbPVId=287794496&amp;l=de" target="_blank">Jungredakteur/Redakteur Casting (w/m/d)</a>
+		</div><div class="matchValue audience">Berufserfahrene</div><div class="matchValue jobcategory">Redaktion</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_67466222">
+								<div class="matchValue date">16.09.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/67466222/-Studentische-Aushilfe-Ticketing-w-m-d-%E2%80%93-Event-G%C3%A4steservice?jobDbPVId=284961482&amp;l=de" target="_blank">(Studentische) Aushilfe Ticketing (w/m/d) – Event &amp; Gästeservice</a>
+		</div><div class="matchValue audience">Studenten</div><div class="matchValue jobcategory">Kundenservice</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Paderborn</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_59388838">
+								<div class="matchValue date">12.09.25</div><div target="_blank" class="matchValue title">
+			<a href="../job/59388838/-Studentische-Aushilfe-Ticketing-w-m-d-Garderobe?jobDbPVId=246979273&amp;l=de" target="_blank">(Studentische) Aushilfe Ticketing (w/m/d) - Garderobe</a>
+		</div><div class="matchValue audience">Aushilfen</div><div class="matchValue jobcategory">Kundenservice</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_29010915">
+								<div class="matchValue date">28.07.23</div><div target="_blank" class="matchValue title">
+			<a href="../job/29010915/Initiativbewerbung?jobDbPVId=87211324&amp;l=de" target="_blank">Initiativbewerbung</a>
+		</div><div class="matchValue audience">Berufseinsteiger</div><div class="matchValue jobcategory">Marketing und Kommunikation</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div><div class="matchElement" id="job_id_17879399">
+								<div class="matchValue date">28.04.22</div><div target="_blank" class="matchValue title">
+			<a href="../job/17879399/Initiativbewerbung-w-m-d-?jobDbPVId=261175609&amp;l=de" target="_blank">Initiativbewerbung (w/m/d)</a>
+		</div><div class="matchValue audience">Berufseinsteiger</div><div class="matchValue jobcategory">k.A.</div><div class="matchValue ProjectGeoLocationCity">
+			<div>
+				<div class="location-container">
+					<span class="location-view-item">Köln</span>
+
+					
+
+					
+				</div>
+
+			</div>
+
+		</div>
+							</div>
+						</div>
+						<div class="pagination pagination-centered"><ul id="job-search-pagination" class="taloom-pager"></ul></div>
+					</div>
+				</form>
+			</section>
+		</div>
+	</div>
+				
+			</div>
+		</div>
+
+		<div id="sg_modal" hidden="" data-wicket-placeholder=""></div>
+	</div>
+
+		</div>
+	</div>
+		</div>
+	
+	
+					</div>
+
+
+				
+		<footer id="footer">
+			<ul class="inline">
+				<li><a href="./imprint" target="_blank" class="sg_imprint_link">Impressum</a></li>
+				<li><a href="./data-security" target="_blank" class="sg_data_privacy_link">Datenschutzhinweise</a></li>
+				<li class="powered-by-taloom">
+	<span>
+		powered by 
+		<a href="https://softgarden.com" target="_blank">softgarden</a>
+		
+	</span>
+</li>
+			</ul>
+		</footer>
+	
+			</div>
+		</div>
+
+		
+
+		<div id="sg_modal" hidden="" data-wicket-placeholder=""></div>
+
+		
+		<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="de/vacancies";
+/*]]>*/
+</script>
+<script type="text/javascript" src="//static.softgarden.de/thirdparty/chosen/1.8.7/chosen.jquery.min.js"></script>
+<script type="text/javascript" id="id2">
+/*<![CDATA[*/
+$('#id2').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" id="id3">
+/*<![CDATA[*/
+$('#id3').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" id="id4">
+/*<![CDATA[*/
+$('#id4').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" id="allJobLocations">
+/*<![CDATA[*/
+SG.allJobLocations = [];SG.allJobLocations.push({markerName: 'Berufskraftfahrer\x20(m\/w\/d)\x20Schwerpunkt\x20Nahverkeh\x72', latitude: 50.9745822, longitude: 7.0190787, postingId: 67430212, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Sales\x20\x26\x20Business\x20Development\x20Manager\x20(m\/w\/d)\x20für\x20TV\x2d\x20und\x20Live\x2dEvent\x73', latitude: 50.9745822, longitude: 7.0190787, postingId: 68736453, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Finanzbuchhalter\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 68344118, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Pflicht\/\x2dOrientierungspraktikant\x20\x20Redaktion\x20(w\/m\/d)\x20', latitude: 50.9869888, longitude: 6.893005, postingId: 35580236, geoName: 'Am\x20Coloneum\x203\x2d7,\x2050829\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Werkstudent\x20Creative\x20Concepts\x20\x26\x20Brand\x20Partnerships\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 68664358, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Werkstudent\x20Product\x20Management\x20\x26\x20Brand\x20Partnerships\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 68662868, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Technischer\x20Betriebsleiter\x20in\x20der\x20Veranstaltungstechnik\x20(m\/w\/d)', latitude: 50.9745822, longitude: 7.0190787, postingId: 67976092, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Initiativbewerbung\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 36715761, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Projektleiter\x20(m\/w\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 67148100, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Werkstudent\x20Produktionsassistenz\x20–\x20Social\x20Media\x20\x26\x20Content\x20Production\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 68600442, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Personaldisponent\x20(m\/w\/d)\x20in\x20der\x20Veranstaltungstechnik', latitude: 50.9745822, longitude: 7.0190787, postingId: 68599202, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Werkstattmitarbeiter(in)\/Servicetechniker(in)\x20im\x20Bereich\x20Veranstaltungstechnik\x20\x20(m\/w\/d)', latitude: 50.9745822, longitude: 7.0190787, postingId: 67430377, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Senior\x20Projektleitung\x20Veranstaltungstechnik\x20(m\/w\/d)\x20für\x20TV\x2d\x20und\x20Live\x2dEvent\x73', latitude: 50.9745822, longitude: 7.0190787, postingId: 67520632, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Initiativbewerbung\x20', latitude: 50.9745822, longitude: 7.0190787, postingId: 21998687, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Freelancer\x20(Licht\/Ton\/Rigging)\x20\x20im\x20Bereich\x20Veranstaltungstechnik\x20\x20(m\/w\/d)\x20', latitude: 50.9745822, longitude: 7.0190787, postingId: 38465579, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Praktikum\x20Social\x20Media\x20Redaktion\x20(w\/m\/d)', latitude: 50.9667783, longitude: 7.0114014, postingId: 61474772, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Mitarbeiter\x20Lagerlogistik\x20in\x20der\x20Veranstaltungstechnik\x20(m\/w\/d)', latitude: 50.9745822, longitude: 7.0190787, postingId: 67490022, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Fachkraft\x20für\x20Veranstaltungstechnik\x20für\x20Service\x2d\x20und\x20Lagertätigkeiten\x20(m\/w\/d)', latitude: 50.9745822, longitude: 7.0190787, postingId: 67429847, geoName: 'Neurather\x20Ring\x2015,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Redaktionsassistenz\x20(w\/m\/d)', latitude: 50.9869888, longitude: 6.893005, postingId: 67377845, geoName: 'Am\x20Coloneum\x203\x2d7,\x2050829\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Jungredakteur\/Redakteur\x20Casting\x20(w\/m\/d)', latitude: 50.9869888, longitude: 6.893005, postingId: 67379225, geoName: 'Am\x20Coloneum\x203\x2d7,\x2050829\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: '(Studentische)\x20Aushilfe\x20Ticketing\x20(w\/m\/d)\x20–\x20Event\x20\x26\x20Gästeservice', latitude: 51.7189205, longitude: 8.7575093, postingId: 67466222, geoName: 'Paderborn,\x20Deutschland'});SG.allJobLocations.push({markerName: '(Studentische)\x20Aushilfe\x20Ticketing\x20(w\/m\/d)\x20\x2d\x20Garderobe', latitude: 50.937531, longitude: 6.9602786, postingId: 59388838, geoName: 'Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Initiativbewerbung', latitude: 50.9667783, longitude: 7.0114014, postingId: 29010915, geoName: 'Schanzenstraße\x2022,\x2051063\x20Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'Initiativbewerbung\x20(w\/m\/d)', latitude: 50.9454989, longitude: 6.8901169, postingId: 17879399, geoName: 'Eupener\x20Str.\x20150,\x2050933\x20Köln,\x20Deutschland'});
+/*]]>*/
+</script>
+<script type="text/javascript" id="jobMapInit">
+/*<![CDATA[*/
+var sg_initMap = function() { "use strict"; var options = {markerBaseUrl: "https://banijay.softgarden.io/",mapMarkerURL: "https://app.softgarden.io/assets/public/media/get/b5f9fa47-cdf6-425f-8851-2851d22ac498/1648138887112/map_marker.png",mapMarkerColor: "#F5C6D0"};var initialMapArea = '';SG.currentJobMap = new JobMap(jQuery("#job-search-map div"), options, initialMapArea);
+ };
+/*]]>*/
+</script>
+<script type="text/javascript" src="https://static.softgarden.de/thirdparty/leaflet/1.9.4/leaflet.js"></script>
+<script type="text/javascript" src="https://static.softgarden.de/thirdparty/leaflet/markercluster/1.4.1/leaflet.markercluster.js"></script>
+<script type="text/javascript" id="mapInitCallback">
+/*<![CDATA[*/
+$(document).ready(function() { sg_initMap(); });
+/*]]>*/
+</script>
+<script type="text/javascript" src="/thirdparty/jquery/query/jquery.query-2.2.3.js"></script>
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.js.JavaScriptReference/jobSearchLive-ver-DF58093895DAE1EA109A34586D3118B6.js"></script>
+<script type="text/javascript" id="frontend-font">
+/*<![CDATA[*/
+WebFont.load({custom:{families:['Open Sans']}});
+/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+Wicket.Ajax.ajax({"u":"./vacancies?-1.0-jobSearch-jobSearchContainer-keyword_search","m":"POST","c":"keyword_search","e":"input change","ch":"keyword_search|d","tr":{"id":"keyword_search","d":10,"p":true}});;
+$('#id1').chosen({width: "100%",disable_search: true,no_results_text: "Kein Eintrag gefunden",placeholder_text_single: "Bitte wählen",placeholder_text_multiple: "Bitte wählen"});requestAnimationFrame(function() {  var $input = $('#id1_chosen .chosen-search input');  if ($input.length && !$input.attr('aria-label')) {    $input.attr('aria-label', 'Search options');  }});;
+Wicket.Event.publish(Wicket.Event.Topic.AJAX_HANDLERS_BOUND);
+;});
+/*]]>*/
+</script>
+
+    </body>
+</html>

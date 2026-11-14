@@ -1,0 +1,1279 @@
+<!-- 200 https://www.ufa.de/karriere/jobs -->
+<!doctype html>
+<html lang="de">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <script defer type="application/javascript" src="https://api.kiprotect.com/v1/privacy-managers/9068af0e60fb83952e6d0b6f5337e2cd/klaro-no-css.js"></script></script>
+<script data-type="text/javascript" type="text/plain">
+  function openKlaroOnReady(){
+    if(typeof klaro !== "undefined"){
+      return klaro.show();
+    }
+    else{
+      setTimeout(openKlaroOnReady, 250);
+    }
+  }
+</script>
+
+    <!-- Fonts -->
+<link rel="preload" href="/app/themes/theme/assets/fonts/peace-sans-regular.woff"
+  as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/app/themes/theme/assets/fonts/benton-sans-compressed-black.woff2"
+  as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/app/themes/theme/assets/fonts/sofia-pro-regular.woff2"
+  as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/app/themes/theme/assets/fonts/sofia-pro-bold.woff2"
+  as="font" type="font/woff2" crossorigin="anonymous">
+
+<!-- Favicons and OS customizations -->
+<meta name="application-name" content="UFA"/>
+<meta name="theme-color" content="#003050">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/app/themes/theme/assets/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/app/themes/theme/assets/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/app/themes/theme/assets/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/app/themes/theme/assets/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/app/themes/theme/assets/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/app/themes/theme/assets/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/app/themes/theme/assets/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/app/themes/theme/assets/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/app/themes/theme/assets/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/app/themes/theme/assets/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/app/themes/theme/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/app/themes/theme/assets/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/app/themes/theme/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="/app/themes/theme/assets/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="/app/themes/theme/assets/favicon/ms-icon-144x144.png">
+
+    <!-- wp_head -->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="de" href="https://www.ufa.de/karriere/jobs" />
+<link rel="alternate" hreflang="en" href="https://www.ufa.de/en/career/jobs" />
+<link rel="alternate" hreflang="x-default" href="https://www.ufa.de/karriere/jobs" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Arbeiten bei der UFA I Finde den Job, der zu dir passt!</title>
+	<meta name="description" content="Finde den Job, der zu dir passt! Ob fiktionale Produktionen oder hochwertig produzierte Shows – UFA steht für hochkarätige Unterhaltung in allen Genres." />
+	<link rel="canonical" href="https://www.ufa.de/karriere/jobs" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Arbeiten bei der UFA I Finde den Job, der zu dir passt!" />
+	<meta property="og:description" content="Finde den Job, der zu dir passt! Ob fiktionale Produktionen oder hochwertig produzierte Shows – UFA steht für hochkarätige Unterhaltung in allen Genres." />
+	<meta property="og:url" content="https://www.ufa.de/karriere/jobs" />
+	<meta property="og:site_name" content="UFA" />
+	<meta property="article:modified_time" content="2026-09-03T11:04:58+00:00" />
+	<meta property="og:image" content="https://www.ufa.de/app/uploads/2019/03/avel-chuklanov-509630-unsplash-320x213.jpg" />
+	<meta property="og:image:width" content="320" />
+	<meta property="og:image:height" content="213" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.ufa.de\/karriere\/jobs","url":"https:\/\/www.ufa.de\/karriere\/jobs","name":"Arbeiten bei der UFA I Finde den Job, der zu dir passt!","isPartOf":{"@id":"https:\/\/www.ufa.de\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.ufa.de\/karriere\/jobs#primaryimage"},"image":{"@id":"https:\/\/www.ufa.de\/karriere\/jobs#primaryimage"},"thumbnailUrl":"https:\/\/www.ufa.de\/app\/uploads\/2019\/03\/avel-chuklanov-509630-unsplash.jpg","datePublished":"2018-11-12T11:30:39+00:00","dateModified":"2026-09-03T11:04:58+00:00","description":"Finde den Job, der zu dir passt! Ob fiktionale Produktionen oder hochwertig produzierte Shows – UFA steht für hochkarätige Unterhaltung in allen Genres.","breadcrumb":{"@id":"https:\/\/www.ufa.de\/karriere\/jobs#breadcrumb"},"inLanguage":"de","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.ufa.de\/karriere\/jobs"]}]},{"@type":"ImageObject","inLanguage":"de","@id":"https:\/\/www.ufa.de\/karriere\/jobs#primaryimage","url":"https:\/\/www.ufa.de\/app\/uploads\/2019\/03\/avel-chuklanov-509630-unsplash.jpg","contentUrl":"https:\/\/www.ufa.de\/app\/uploads\/2019\/03\/avel-chuklanov-509630-unsplash.jpg","width":5760,"height":3840,"caption":"Jobs bei der UFA, Hinter den Kulissen"},{"@type":"BreadcrumbList","@id":"https:\/\/www.ufa.de\/karriere\/jobs#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.ufa.de\/startseite"},{"@type":"ListItem","position":2,"name":"Karriere","item":"https:\/\/www.ufa.de\/karriere"},{"@type":"ListItem","position":3,"name":"Jobs"}]},{"@type":"WebSite","@id":"https:\/\/www.ufa.de\/#website","url":"https:\/\/www.ufa.de\/","name":"UFA","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.ufa.de\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"de"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.ufa.de' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ufa.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ufa.de%2Fkarriere%2Fjobs" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ufa.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ufa.de%2Fkarriere%2Fjobs&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://www.ufa.de/app/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=510000' media='all' />
+<link rel='stylesheet' id='ufa-style-css' href='https://www.ufa.de/app/themes/theme/assets/dist/styles/ufa.css?ver=ada2e810' media='all' />
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"de","expires":"Sun, 15 Nov 2026 11:42:22 GMT","path":"/"}};
+//# sourceURL=wpml-cookie-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wpml-cookie-js" src="https://www.ufa.de/app/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=510000"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ufa.de/wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://www.ufa.de/?p=813' />
+<meta name="generator" content="WPML ver:5.1.0 stt:1,3;" />
+<meta data-sentry-dsn="https://bb83479892c640688549dcb3a2d6c6f5@o84068.ingest.sentry.io/5921721" data-env="production" data-release="ada2e810">
+</head>
+<body>
+
+<div class="page">
+
+    <nav class="navigation">
+  <div class="navigation__background"></div>
+  <div class="navigation__foreground">
+    <div class="navigation__foreground-scroll-helper">
+      <div class="container">
+        <div class="navigation__inner">
+
+          <a class="navigation__logo" href="https://www.ufa.de/">
+            <svg  class="icon" width="69px" height="62px" viewBox="0 0 69 62" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="logo-title-0"><title id="logo-title-0">UFA</title>
+  <path d="M11.501,48.605 C19.79,48.605 23.195,44.107 23.195,35.176 L23.195,0.609 L13.557,0.609 L13.557,35.048 C13.557,39.737 12.915,40.252 11.822,40.252 C10.73,40.252 10.087,39.674 10.087,34.919 L10.087,0.609 L0,0.609 L0,35.368 C0,44.236 3.213,48.605 11.501,48.605 L11.501,48.605 Z M26.472,48.154 L36.623,48.154 L36.623,27.595 L43.178,27.595 L43.178,19.498 L36.623,19.498 L36.623,9.347 L45.232,9.347 L45.232,0.609 L26.472,0.609 L26.472,48.154 Z M42.277,48.154 L51.786,48.154 L52.686,39.287 L57.055,39.287 L58.02,48.154 L68.234,48.154 L60.589,0.415 L49.987,0.415 L42.277,48.154 Z M53.2,32.541 C53.65,28.751 54.1,24.124 54.421,20.977 C54.549,19.369 54.742,17.827 54.871,16.351 L54.999,16.351 C55.128,17.827 55.256,19.369 55.449,20.977 C55.77,24.061 56.221,28.751 56.605,32.541 L53.2,32.541 L53.2,32.541 Z" id="Fill-1" fill="#FFFFFE" mask="url(#mask-2)"></path>
+  <path d="M66.015,58.597 L66.88,61.007 L67.021,61.007 L66.634,62 L66.998,62 L68.27,58.597 L67.886,58.597 L67.121,60.742 L66.397,58.597 L66.015,58.597 Z M65.599,61.007 L65.599,59.324 C65.599,58.768 65.296,58.54 64.904,58.54 C64.502,58.54 64.177,58.781 63.978,58.933 L63.978,58.597 L63.633,58.597 L63.633,61.007 L63.987,61.007 L63.987,59.174 C64.139,59.061 64.512,58.819 64.829,58.819 C65.099,58.819 65.244,58.989 65.244,59.324 L65.244,61.007 L65.599,61.007 Z M62.541,60.569 C62.395,60.695 62.196,60.795 61.945,60.795 C61.634,60.795 61.474,60.597 61.474,60.356 C61.474,60.015 61.667,59.825 62.229,59.825 C62.324,59.825 62.433,59.84 62.541,59.855 L62.541,60.569 Z M62.896,61.007 L62.896,59.216 C62.896,58.758 62.612,58.54 62.145,58.54 C61.762,58.54 61.416,58.645 61.213,58.768 L61.331,59.008 C61.501,58.914 61.804,58.819 62.073,58.819 C62.347,58.819 62.541,58.956 62.541,59.231 L62.541,59.589 C62.479,59.585 62.356,59.575 62.3,59.575 C61.412,59.575 61.104,59.85 61.104,60.393 C61.104,60.819 61.416,61.065 61.842,61.065 C62.168,61.065 62.395,60.898 62.555,60.762 L62.584,61.007 L62.896,61.007 Z M60.292,59.736 C60.292,60.304 59.923,60.79 59.379,60.79 C59.195,60.79 58.973,60.734 58.888,60.71 L58.888,59.032 C59.011,58.951 59.266,58.819 59.521,58.819 C59.928,58.819 60.292,59.169 60.292,59.736 L60.292,59.736 Z M60.66,59.717 C60.66,58.985 60.197,58.54 59.602,58.54 C59.252,58.54 59.029,58.696 58.888,58.81 L58.888,58.597 L58.533,58.597 L58.533,62 L58.888,62 L58.888,61.007 C58.992,61.027 59.19,61.065 59.375,61.065 C60.064,61.065 60.66,60.544 60.66,59.717 L60.66,59.717 Z M57.829,61.007 L57.829,59.324 C57.829,58.768 57.531,58.54 57.135,58.54 C56.766,58.54 56.468,58.739 56.185,58.961 C56.08,58.65 55.807,58.54 55.542,58.54 C55.131,58.54 54.8,58.805 54.645,58.933 L54.645,58.597 L54.299,58.597 L54.299,61.007 L54.653,61.007 L54.653,59.174 C54.861,59.018 55.183,58.819 55.471,58.819 C55.74,58.819 55.887,58.989 55.887,59.324 L55.887,61.007 L56.241,61.007 L56.241,59.324 C56.241,59.273 56.236,59.226 56.231,59.179 C56.407,59.051 56.747,58.819 57.059,58.819 C57.328,58.819 57.475,58.989 57.475,59.324 L57.475,61.007 L57.829,61.007 Z M53.316,59.807 C53.316,60.256 53.08,60.785 52.513,60.785 C51.945,60.785 51.709,60.256 51.709,59.807 C51.709,59.316 51.997,58.819 52.513,58.819 C53.027,58.819 53.316,59.316 53.316,59.807 L53.316,59.807 Z M53.68,59.793 C53.68,59.089 53.217,58.54 52.513,58.54 C51.808,58.54 51.346,59.089 51.346,59.793 C51.346,60.502 51.817,61.065 52.513,61.065 C53.207,61.065 53.68,60.502 53.68,59.793 L53.68,59.793 Z M51.057,60.677 C50.877,60.752 50.679,60.785 50.433,60.785 C49.705,60.785 49.166,60.19 49.166,59.367 C49.166,58.607 49.63,57.969 50.404,57.969 C50.66,57.969 50.873,58.021 51.052,58.106 L51.166,57.826 C50.967,57.741 50.717,57.69 50.419,57.69 C49.554,57.69 48.793,58.314 48.793,59.362 C48.793,60.351 49.469,61.065 50.404,61.065 C50.684,61.065 50.938,61.022 51.146,60.946 L51.057,60.677 Z M1.313,58.006 L1.872,59.783 L0.751,59.783 L1.313,58.006 Z M2.259,61.007 L2.627,61.007 L1.569,57.746 L1.059,57.746 L0,61.007 L0.364,61.007 L0.667,60.053 L1.957,60.053 L2.259,61.007 L2.259,61.007 Z" id="Fill-3" fill="#FFFFFE" mask="url(#mask-2)"></path>
+  <path d="M34.638,56.005 C34.691,55.857 34.732,55.736 34.732,55.642 C34.732,55.481 34.611,55.386 34.463,55.386 C34.289,55.386 34.141,55.441 33.979,55.91 L33.71,56.717 L32.393,56.771 C32.165,56.784 32.003,56.878 32.003,57.08 C32.003,57.309 32.178,57.389 32.42,57.376 L33.509,57.321 C33.374,57.725 33.16,58.438 32.998,59.056 C32.904,59.405 32.81,59.809 32.81,60.225 C32.81,60.83 33.105,61.22 33.697,61.22 C34.248,61.22 34.88,60.857 35.472,60.441 C35.794,60.212 36.116,59.97 36.345,59.769 C36.587,60.507 37.219,60.87 38.039,60.87 C38.711,60.87 39.315,60.695 39.907,60.441 C40.216,60.763 40.821,60.857 41.332,60.857 C42.77,60.857 44.383,60.131 45.512,59.365 C45.754,59.203 45.835,59.096 45.835,58.976 C45.835,58.787 45.687,58.706 45.553,58.706 C45.458,58.706 45.364,58.746 45.162,58.867 C44.047,59.54 42.596,60.212 41.305,60.212 C41.022,60.212 40.781,60.185 40.606,60.131 C41.668,59.62 42.26,59.163 42.26,58.572 C42.26,58.088 41.802,57.953 41.426,57.953 C40.485,57.953 39.584,58.746 39.584,59.674 C39.584,59.728 39.584,59.795 39.611,59.903 C39.194,60.037 38.737,60.171 38.119,60.171 C37.286,60.171 36.923,59.567 36.923,58.895 C36.923,58.29 37.098,57.671 37.366,57.107 L38.469,57.039 C38.308,57.254 38.133,57.429 37.998,57.564 C37.702,57.86 37.648,57.94 37.648,58.088 C37.648,58.209 37.757,58.303 37.891,58.303 C38.119,58.303 38.321,58.062 38.469,57.927 C38.711,57.685 38.993,57.362 39.262,57.013 L41.614,56.892 C41.775,56.878 41.95,56.811 41.95,56.596 C41.95,56.408 41.789,56.341 41.654,56.341 L41.614,56.341 L39.638,56.435 C39.907,55.991 40.096,55.534 40.096,55.145 C40.096,54.768 39.854,54.527 39.41,54.527 C38.308,54.527 37.434,55.602 36.923,56.556 L34.409,56.677 L34.638,56.005 Z M24.342,60.158 C24.194,59.714 24.14,59.513 24.019,58.948 C23.898,58.357 23.791,57.967 23.24,57.967 C22.514,57.967 21.788,58.733 20.914,59.835 L20.78,59.311 C20.645,58.8 20.498,58.424 19.933,58.424 C19.49,58.424 18.925,58.733 18.078,59.58 L18.226,58.746 C18.239,58.653 18.253,58.545 18.253,58.505 C18.253,58.37 18.172,58.277 17.998,58.277 C17.836,58.277 17.742,58.33 17.514,58.505 C16.492,59.284 15.215,60.198 13.952,60.198 C13.535,60.198 13.32,60.024 13.32,59.7 C13.32,59.634 13.333,59.567 13.36,59.486 C13.575,59.567 13.804,59.593 13.992,59.593 C14.825,59.593 15.578,59.163 15.578,58.612 C15.578,58.223 15.229,57.981 14.678,57.981 C13.911,57.981 13.32,58.398 13.024,58.787 C12.634,58.585 12.325,58.531 12.002,58.531 C11.169,58.531 10.564,58.867 9.785,59.728 C9.933,58.907 9.959,58.37 9.959,58.102 C9.959,57.9 9.825,57.806 9.69,57.806 C9.637,57.806 9.543,57.819 9.408,57.846 L7.433,58.236 L8.239,55.898 L12.365,55.695 C12.607,55.682 12.688,55.534 12.688,55.4 C12.688,55.225 12.554,55.117 12.365,55.117 L6.451,55.319 C6.169,55.332 6.008,55.467 6.008,55.668 C6.008,55.884 6.142,55.991 6.451,55.978 L7.459,55.938 L6.693,58.357 L6.062,58.505 C5.82,58.559 5.699,58.68 5.699,58.855 C5.699,59.069 5.833,59.163 6.008,59.163 C6.062,59.163 6.183,59.15 6.25,59.137 L6.464,59.096 L5.994,60.534 C5.94,60.709 5.927,60.777 5.927,60.844 C5.927,61.059 6.102,61.112 6.209,61.112 C6.317,61.112 6.451,61.071 6.532,60.857 L7.19,58.948 L9.288,58.491 C9.261,59.083 9.099,60.037 9.005,60.588 C8.979,60.749 8.965,60.817 8.965,60.898 C8.965,61.059 9.072,61.153 9.247,61.153 C9.381,61.153 9.462,61.071 9.557,60.951 C10.094,60.198 11.035,59.15 12.03,59.15 C12.271,59.15 12.514,59.217 12.742,59.311 C12.675,59.459 12.647,59.634 12.647,59.781 C12.647,60.467 13.064,60.857 13.844,60.857 C14.771,60.857 15.968,60.441 17.5,59.231 C17.446,59.513 17.366,59.889 17.271,60.292 C17.245,60.386 17.231,60.481 17.231,60.534 C17.231,60.723 17.352,60.817 17.5,60.817 C17.648,60.817 17.755,60.749 17.984,60.534 C18.213,60.292 18.428,60.077 18.71,59.821 C19.194,59.378 19.53,59.096 19.799,59.096 C19.96,59.096 20.041,59.217 20.175,59.714 C20.35,60.347 20.444,60.615 20.753,60.615 C21.035,60.615 21.143,60.507 21.573,59.996 C22.326,59.123 22.823,58.653 23.105,58.653 C23.199,58.653 23.24,58.706 23.28,58.867 L23.481,59.674 C23.536,59.903 23.616,60.185 23.71,60.36 C23.804,60.534 23.938,60.629 24.113,60.629 C24.288,60.629 24.395,60.507 24.395,60.373 C24.395,60.319 24.382,60.278 24.342,60.158 L24.342,60.158 Z M34.799,60.145 C34.45,60.36 34.127,60.521 33.832,60.521 C33.589,60.521 33.482,60.347 33.482,60.064 C33.482,59.769 33.63,59.177 33.697,58.948 C33.885,58.303 34.006,57.9 34.208,57.281 L36.641,57.147 C36.372,57.792 36.237,58.438 36.237,59.016 L36.237,59.11 C35.673,59.567 35.189,59.93 34.799,60.145 L34.799,60.145 Z M28.657,61.045 C28.71,61.045 28.845,61.045 29.006,60.844 C29.248,60.548 29.624,60.064 30.041,59.648 C30.552,59.137 31.049,58.706 31.197,58.706 C31.224,58.706 31.237,58.706 31.25,58.774 L31.358,59.405 C31.425,59.755 31.52,60.131 31.641,60.319 C31.721,60.441 31.829,60.521 31.99,60.521 C32.151,60.521 32.286,60.413 32.286,60.238 C32.286,60.158 32.245,60.064 32.205,59.956 C32.057,59.607 31.977,59.177 31.896,58.68 C31.815,58.155 31.627,58.034 31.331,58.034 C30.834,58.034 29.907,58.8 29.154,59.769 L29.207,58.948 C29.221,58.746 29.086,58.666 28.952,58.666 C28.804,58.666 28.683,58.746 28.657,58.921 L28.415,60.454 C28.388,60.642 28.388,60.709 28.388,60.749 C28.388,60.964 28.522,61.045 28.657,61.045 L28.657,61.045 Z M25.511,60.642 C26.035,60.642 26.573,60.494 27.057,60.198 C27.111,60.481 27.245,60.548 27.379,60.548 C27.555,60.548 27.662,60.413 27.662,60.198 C27.662,60.091 27.648,59.849 27.608,59.62 C27.568,59.459 27.474,59.378 27.339,59.378 C27.218,59.378 27.151,59.405 26.95,59.567 C26.586,59.835 26.049,60.037 25.619,60.037 C25.484,60.037 25.444,59.996 25.444,59.956 C25.444,59.593 26.143,58.774 27.138,58.774 C27.353,58.774 27.527,58.814 27.756,58.935 C27.837,58.988 27.904,59.016 27.984,59.016 C28.132,59.016 28.253,58.921 28.253,58.76 C28.253,58.639 28.173,58.545 28.052,58.451 C27.796,58.263 27.46,58.169 27.097,58.169 C26.546,58.169 26.022,58.37 25.579,58.733 C25.148,59.083 24.799,59.567 24.799,60.051 C24.799,60.467 25.108,60.642 25.511,60.642 L25.511,60.642 Z M39.558,54.982 C39.614,54.982 39.655,54.995 39.67,55.024 C39.642,55.401 39.391,55.917 39.069,56.392 L37.799,56.462 C38.162,55.819 38.943,54.982 39.558,54.982 L39.558,54.982 Z M41.399,58.518 C41.587,58.518 41.682,58.545 41.682,58.625 C41.682,58.787 41.265,59.217 40.203,59.688 C40.189,59.66 40.189,59.62 40.189,59.607 C40.189,59.028 40.889,58.518 41.399,58.518 L41.399,58.518 Z M14.623,58.545 C14.866,58.545 14.96,58.599 14.96,58.653 C14.96,58.867 14.409,59.056 14.019,59.056 C13.884,59.056 13.75,59.042 13.629,59.002 C13.857,58.733 14.301,58.545 14.623,58.545 L14.623,58.545 Z" id="Fill-5" fill="#FFFFFE"></path>
+</svg>
+          </a>
+
+          <div class="navigation__navigation">
+            <ul class="navigation__list">
+              
+                    
+                                                          <li class="navigation__item">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/die-ufa">
+                        Die UFA                      </a>
+
+                                                <a class="navigation__item-toggle" href="#">
+                            <svg class="icon" fill="#000000" width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="arrow-drop-title-0"><title id="arrow-drop-title-0">Menü umschalten</title>
+  <polygon class="icon__fill" transform="translate(6.000000, 3.500000) scale(1, -1) translate(-12.000000, -12.500000)" points="12 9 18 16 6 16"></polygon>
+</svg>
+                        </a>
+                                            </span>
+
+                                              <ul class="navigation__item-list">
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/ufa-fiction">
+                                UFA FICTION                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/ufa-show-factual">
+                                UFA SHOW & FACTUAL                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/ufa-serial-drama">
+                                UFA SERIAL DRAMA                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/ufa-documentary">
+                                UFA DOCUMENTARY                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/ufa-mitte-gmbh">
+                                UFA MITTE                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/management">
+                                Management                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/verantwortung">
+                                Verantwortung                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/die-ufa/historie">
+                                Historie                            </a>
+                          </li>
+                                                  </ul>
+                        
+                  </li>
+                    
+                
+                    
+                                                          <li class="navigation__item">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/produktionen">
+                        Produktionen                      </a>
+
+                                            </span>
+
+                                              <ul class="navigation__item-list">
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/kino">
+                              Kino                            </a>
+                          </li>
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/tv-movie">
+                              TV Movie                            </a>
+                          </li>
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/reihe-und-serie">
+                              Reihe &amp; Serie                            </a>
+                          </li>
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/show">
+                              Show                            </a>
+                          </li>
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/doku-factual">
+                              Doku &amp; Factual                            </a>
+                          </li>
+                                                  <li class="navigation__subitem">
+                            <a class="navigation__subitem-label"
+                              href="https://www.ufa.de/produktionen/reality">
+                              Reality                            </a>
+                          </li>
+                                              </ul>
+                        
+                  </li>
+                    
+                
+                    
+                                                          <li class="navigation__item navigation__item--active">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/karriere">
+                        Karriere                      </a>
+
+                                                <a class="navigation__item-toggle" href="#">
+                            <svg class="icon" fill="#000000" width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="arrow-drop-title-0"><title id="arrow-drop-title-0">Menü umschalten</title>
+  <polygon class="icon__fill" transform="translate(6.000000, 3.500000) scale(1, -1) translate(-12.000000, -12.500000)" points="12 9 18 16 6 16"></polygon>
+</svg>
+                        </a>
+                                            </span>
+
+                                              <ul class="navigation__item-list">
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/karriere/jobs">
+                                Jobs                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/karriere/ausbildung-volontariat-trainee-bei-der-ufa">
+                                Ausbildung                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/karriere/bewerbung">
+                                FAQ                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/karriere/arbeiten-bei-der-ufa">
+                                #PartofUFA                            </a>
+                          </li>
+                                                  </ul>
+                        
+                  </li>
+                    
+                
+                    
+                                                          <li class="navigation__item">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/presse">
+                        Presse / News                      </a>
+
+                                                <a class="navigation__item-toggle" href="#">
+                            <svg class="icon" fill="#000000" width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="arrow-drop-title-0"><title id="arrow-drop-title-0">Menü umschalten</title>
+  <polygon class="icon__fill" transform="translate(6.000000, 3.500000) scale(1, -1) translate(-12.000000, -12.500000)" points="12 9 18 16 6 16"></polygon>
+</svg>
+                        </a>
+                                            </span>
+
+                                              <ul class="navigation__item-list">
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="/presse/aktuelle-news">
+                                News                            </a>
+                          </li>
+                                                      <li class="navigation__subitem">
+                            <a class="navigation__subitem-label" href="https://www.ufa.de/presse/ansprechpersonen">
+                                Ansprechpersonen                            </a>
+                          </li>
+                                                  </ul>
+                        
+                  </li>
+                    
+                
+                    
+                                                          <li class="navigation__item">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/kontakt">
+                        Kontakt                      </a>
+
+                                            </span>
+
+                        
+                  </li>
+                    
+                
+                                      <li class="navigation__flexible-space"></li>
+                    
+                                                          <li class="navigation__item navigation__item--primary">
+                        
+<a href="https://www.ufa.de/casting" class="button navigation__item-primary button--primary button--navigation button--block"
+  >
+  <span class="button__inner">
+    Casting  </span>
+</a>
+                  </li>
+
+                    
+                
+                    
+                                                          <li class="navigation__item navigation__item--primary">
+                        
+<a href="https://www.ufa.de/ticketing" class="button navigation__item-primary button--primary button--navigation button--block"
+  >
+  <span class="button__inner">
+    Tickets  </span>
+</a>
+                  </li>
+
+                    
+                
+                    
+                                                          <li class="navigation__item navigation__item--active navigation__item--primary">
+                  <span class="navigation__item-button">
+
+                      <a class="navigation__item-label" href="https://www.ufa.de/en/career/jobs">
+                        
+            <img
+            class="wpml-ls-flag"
+            src="https://www.ufa.de/app/plugins/sitepress-multilingual-cms/res/flags/en.svg"
+            alt=""
+            loading="lazy"
+            
+            
+    /><span class="wpml-ls-native" lang="en">English</span>                      </a>
+
+                                            </span>
+
+                        
+                  </li>
+                    
+                
+            </ul>
+          </div>
+
+          
+<a href="#" class="button navigation__button-close button--icon-square button--primary"
+  >
+  <span class="button__inner">
+    <svg class="icon" fill="#FFFFFF" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path class="icon__fill" d="M12,9.05882353 L19.0588235,2 L22,4.94117647 L14.9411765,12 L22,19.0588235 L19.0588235,22 L12,14.9411765 L4.94117647,22 L2,19.0588235 L9.05882353,12 L2,4.94117647 L4.94117647,2 L12,9.05882353 Z"></path>
+</svg>
+  </span>
+</a>
+
+          
+<a href="#" class="button navigation__button-menu button--icon-square button--primary"
+  >
+  <span class="button__inner">
+    <svg class="icon" fill="#FFFFFF" width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-3, -6)">
+    <path class="icon__fill" d="M3,6 L21,6 L21,8.016 L3,8.016 L3,6 Z M3,12.984 L3,11.016 L21,11.016 L21,12.984 L3,12.984 Z M3,18 L3,15.984 L21,15.984 L21,18 L3,18 Z"></path>
+  </g>
+</svg>
+  </span>
+</a>
+
+          
+<a href="https://www.ufa.de/ticketing" class="button navigation__button-primary button--primary button--navigation button--block"
+  >
+  <span class="button__inner">
+    Tickets  </span>
+</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+    <header class="module-stage module module--light module--index-1">
+
+        <div class="stage-slide stage-slide--variant-b">
+  <div class="stage-slide__media">
+    
+<div
+  class="image image--badge-stage image--cover image--overlay image--ratio"
+   style="padding-bottom: 66.67%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/03/avel-chuklanov-509630-unsplash.jpg"
+         data-srcset="/app/uploads/2019/03/avel-chuklanov-509630-unsplash-320x213.jpg 320w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-640x427.jpg 640w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-960x640.jpg 960w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-3200x2133.jpg 3200w"
+         data-sizes="(min-width: 1600px) 100vw,(min-width: 1200px) 100vw,(min-width: 800px) 100vw,(min-width: 600px) 100vw,100vw"
+         alt="Jobs bei der UFA, Hinter den Kulissen">
+
+          <img class="image__preview"
+           src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6rw/8dLK5s9DvNS1G30iAKDdKSWEjEYwAATj0z0rhfix48vPiBollozyK7wytdSzQxmMNgkKoGSRgHr9Kw/DPgzS774a2+puJDf3V26KqqGBEa7huJ4VflweOdwq7HLpes/2k/hnSLr7Lp8Ba6lk8pDHkHGQACeg9e9YRjzJu9jWUrWTR//Z"
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/03/avel-chuklanov-509630-unsplash.jpg"
+           srcset="/app/uploads/2019/03/avel-chuklanov-509630-unsplash-320x213.jpg 320w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-640x427.jpg 640w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-960x640.jpg 960w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-3200x2133.jpg 3200w"
+           sizes="(min-width: 1600px) 100vw,(min-width: 1200px) 100vw,(min-width: 800px) 100vw,(min-width: 600px) 100vw,100vw"
+           alt="Jobs bei der UFA, Hinter den Kulissen">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+      <div class="stage-slide__detail" style="">
+
+      <h1 class="stage-slide__headline">Schreibe mit uns Fernseh&shy;geschichte</h1>
+
+        
+                    
+        <p class="stage-slide__copy">Finde den Job, der zu Dir passt!</p>
+        
+        
+    </div>
+
+  
+</div>
+
+  
+  
+</header>
+<div class="module-filter-jobs module module--dark module--index-2 module-filter-jobs" data-type="jobs">
+  <div class="container">
+    <div class="module-filter__header">
+      <div class="g-row">
+        <div class="g-12 g-6@l g-6@xl">
+          <h2 class="module-filter__headline">Alle Jobs</h2>
+        </div>
+        <div class="g-12 g-6@l g-6@xl">
+          <div class="filter-search"><input class="filter-search__input"
+              type="text" aria-label="Suche" placeholder="Suchbegriff">
+            <div class="filter-search__icon"><svg class="icon"
+                viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path class="icon__fill" transform="translate(-4, -4)"
+                  d="M21.53125,18.625 C22.46875,17.15 23.01875,15.4 23.01875,13.51875 C23.01875,8.2625 18.7625,4 13.5125,4 C8.25625,4 4,8.2625 4,13.51875 C4,18.775 8.25625,23.0375 13.50625,23.0375 C15.4125,23.0375 17.1875,22.475 18.675,21.5125 L19.10625,21.2125 L25.89375,28 L28,25.85625 L21.21875,19.06875 L21.53125,18.625 Z M18.8375,8.2 C20.25625,9.61875 21.0375,11.50625 21.0375,13.5125 C21.0375,15.51875 20.25625,17.40625 18.8375,18.825 C17.41875,20.24375 15.53125,21.025 13.525,21.025 C11.51875,21.025 9.63125,20.24375 8.2125,18.825 C6.79375,17.40625 6.0125,15.51875 6.0125,13.5125 C6.0125,11.50625 6.79375,9.61875 8.2125,8.2 C9.63125,6.78125 11.51875,6 13.525,6 C15.53125,6 17.41875,6.78125 18.8375,8.2 Z">
+                </path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="g-row">
+                  <div class="g-4 g-12@xs g-12@s g-6@m">
+            <div class="filter-select--checkbox filter-checkbox--cities">
+              <ul class="">
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="0"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Berlin</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="1"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Hamburg</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="2"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Köln</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="3"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Leipzig</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="4"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Mainz</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="5"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Mannheim</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="6"
+                      type="checkbox" data-checkbox-filter="cities">
+                    <span class="filter-select__option-label">Potsdam</span>
+                  </div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                  <div class="g-4 g-12@xs g-12@s g-6@m">
+            <div class="filter-select--checkbox filter-checkbox--department">
+              <ul class="">
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="0"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="1"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA DOCUMENTARY</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="2"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA Fiction</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="3"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA Mitte</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="4"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA Serial Drama</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="5"
+                      type="checkbox" data-checkbox-filter="department">
+                    <span class="filter-select__option-label">UFA Show & Factual</span>
+                  </div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                  <div class="g-4 g-12@xs g-12@s g-6@m">
+            <div class="filter-select--checkbox filter-checkbox--entry-type">
+              <ul class="">
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="0"
+                      type="checkbox" data-checkbox-filter="entry-type">
+                    <span class="filter-select__option-label">Ausbildung / Trainee / Volontariat</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="1"
+                      type="checkbox" data-checkbox-filter="entry-type">
+                    <span class="filter-select__option-label">Einsteiger</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="2"
+                      type="checkbox" data-checkbox-filter="entry-type">
+                    <span class="filter-select__option-label">Praktikum</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="3"
+                      type="checkbox" data-checkbox-filter="entry-type">
+                    <span class="filter-select__option-label">Professionals</span>
+                  </div>
+                </li>
+                                <li>
+                  <div class="filter-select__option">
+                    <input
+                      class="filter-select__option-input" id="4"
+                      type="checkbox" data-checkbox-filter="entry-type">
+                    <span class="filter-select__option-label">Studentische Aushilfe</span>
+                  </div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+              </div>
+    </div>
+    <div class="module-filter__items g-row g-row--vertical-spacing">
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/659d040adab8e86c5df7cf7b821db2d47f4ab0b30" target="__blank"
+            data-job-cities="Potsdam"
+            data-job-department="UFA Serial Drama"
+            data-job-entry-type="Ausbildung / Trainee / Volontariat">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Ausbildung Mediengestaltende Bild & Ton (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Serial Drama</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/1a0d46be9e31d6e83d9ba67e1131c4da093099cd0" target="__blank"
+            data-job-cities="Köln"
+            data-job-department="UFA Show & Factual"
+            data-job-entry-type="Professionals">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Castingredakteur:in (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Show & Factual</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/73083ca00b5020314bfa429762c1b8a71c5766590" target="__blank"
+            data-job-cities="Köln"
+            data-job-department="UFA Show & Factual"
+            data-job-entry-type="Professionals">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Datentypist:in / Logger:in (all genders) / Köln</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Show & Factual</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/cc5a9e4278cc43ef3329082c83784902b1de243e0" target="__blank"
+            data-job-cities="Berlin"
+            data-job-department="UFA"
+            data-job-entry-type="">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Group Head of Communication (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/c32e09cc06d01fa47a6426233e7f3c7ff00c51c90" target="__blank"
+            data-job-cities="Berlin"
+            data-job-department="UFA Fiction"
+            data-job-entry-type="Einsteiger">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Musikkoordination (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Fiction</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/fcdb3495256d07b25a280e546f20191d951ed7720" target="__blank"
+            data-job-cities="Köln"
+            data-job-department="UFA Show & Factual"
+            data-job-entry-type="Einsteiger">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Redaktionsassistenz Casting (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Show & Factual</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/132c76356f6acfb409cc8bfad7cbc4c1e44d8d9f0" target="__blank"
+            data-job-cities="Berlin"
+            data-job-department="UFA"
+            data-job-entry-type="Praktikum">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Referendariat Legal Affairs (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/18cc6ffda308efd025f4e155462126d922cc11e60" target="__blank"
+            data-job-cities="Berlin"
+            data-job-department="UFA"
+            data-job-entry-type="">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Werkstudent:in Office Management (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/748bee35e00c7b63b915027ad9371c96d1f6148c0" target="__blank"
+            data-job-cities="Berlin"
+            data-job-department="UFA"
+            data-job-entry-type="Professionals">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Zentrale Filmgeschäftsführung (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA</span></div>
+                          </div>
+          </a>
+        </div>
+              <div class="g-3 g-12@xs g-6@s g-4@m">
+          <a class="job-teaser" href="https://karriere.ufa.de/jobposting/aa5e974f8770c5385120c08588ea3300f3bbecaa0" target="__blank"
+            data-job-cities="Leipzig"
+            data-job-department="UFA Show & Factual"
+            data-job-entry-type="Professionals">
+            <div class="job-teaser__inner">
+              <div class="job-teaser__top">
+                <h3 class="job-teaser__headline">Zuschauendenbetreuung (all genders)</h3>
+                <div class="job-teaser__excerpt">&nbsp;</div>
+              </div>
+                              <div class="job-teaser__subline"><span>• UFA Show & Factual</span></div>
+                          </div>
+          </a>
+        </div>
+          </div>
+  </div>
+</div>
+
+<section class="module-teaser module module--light module--index-3">
+  <div class="container">
+
+    <h2 class="module-teaser__headline">FAQ</h2>
+
+    <div class="g-row g-row--vertical-spacing">
+              <div class="g-12 g-6@s g-4@m g-3@l g-3@xl">
+          <a class="teaser-box teaser-box--variant-b" href="https://www.ufa.de/karriere/bewerbung/bewerbungsablauf" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 66.68%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/03/bench-accounting-49906-unsplash.jpg"
+         data-srcset="/app/uploads/2019/03/bench-accounting-49906-unsplash-320x213.jpg 320w,/app/uploads/2019/03/bench-accounting-49906-unsplash-640x427.jpg 640w,/app/uploads/2019/03/bench-accounting-49906-unsplash-960x640.jpg 960w,/app/uploads/2019/03/bench-accounting-49906-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/bench-accounting-49906-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/bench-accounting-49906-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/bench-accounting-49906-unsplash-3200x2134.jpg 3200w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6/TfivpmqeONT0yy1S4nnWQWkNk1u22N1JDvkfw5X7xxjPNenaReyXVnHNPAYJG6oWB/lxXzjo3wu1DVPjTq2pXNrfQaTcNNfQXdtNsEqO3ZlOcHLAjrgnpX0NZxxWNrHDGgjiiUIiqOABwABVJWHe5//9k="
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/03/bench-accounting-49906-unsplash.jpg"
+           srcset="/app/uploads/2019/03/bench-accounting-49906-unsplash-320x213.jpg 320w,/app/uploads/2019/03/bench-accounting-49906-unsplash-640x427.jpg 640w,/app/uploads/2019/03/bench-accounting-49906-unsplash-960x640.jpg 960w,/app/uploads/2019/03/bench-accounting-49906-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/bench-accounting-49906-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/bench-accounting-49906-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/bench-accounting-49906-unsplash-3200x2134.jpg 3200w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">Bewerbungsablauf</h3>
+    <h5 class="teaser-box__subline">Bewerbungsablauf</h5>
+  </div>
+
+</a>
+        </div>
+              <div class="g-12 g-6@s g-4@m g-3@l g-3@xl">
+          <a class="teaser-box teaser-box--variant-b" href="https://www.ufa.de/karriere/bewerbung/haeufig-gestellte-fragen" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 66.67%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/03/avel-chuklanov-509630-unsplash.jpg"
+         data-srcset="/app/uploads/2019/03/avel-chuklanov-509630-unsplash-320x213.jpg 320w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-640x427.jpg 640w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-960x640.jpg 960w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-3200x2133.jpg 3200w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="Jobs bei der UFA, Hinter den Kulissen">
+
+          <img class="image__preview"
+           src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A6rw/8dLK5s9DvNS1G30iAKDdKSWEjEYwAATj0z0rhfix48vPiBollozyK7wytdSzQxmMNgkKoGSRgHr9Kw/DPgzS774a2+puJDf3V26KqqGBEa7huJ4VflweOdwq7HLpes/2k/hnSLr7Lp8Ba6lk8pDHkHGQACeg9e9YRjzJu9jWUrWTR//Z"
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/03/avel-chuklanov-509630-unsplash.jpg"
+           srcset="/app/uploads/2019/03/avel-chuklanov-509630-unsplash-320x213.jpg 320w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-640x427.jpg 640w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-960x640.jpg 960w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/avel-chuklanov-509630-unsplash-3200x2133.jpg 3200w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="Jobs bei der UFA, Hinter den Kulissen">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">Häufig gestellte Fragen</h3>
+    <h5 class="teaser-box__subline">Häufig gestellte Fragen</h5>
+  </div>
+
+</a>
+        </div>
+              <div class="g-12 g-6@s g-4@m g-3@l g-3@xl">
+          <a class="teaser-box teaser-box--variant-b" href="https://www.ufa.de/karriere/bewerbung/tipps-tricks" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 66.67%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/03/jakob-owens-393303-unsplash.jpg"
+         data-srcset="/app/uploads/2019/03/jakob-owens-393303-unsplash-320x213.jpg 320w,/app/uploads/2019/03/jakob-owens-393303-unsplash-640x427.jpg 640w,/app/uploads/2019/03/jakob-owens-393303-unsplash-960x640.jpg 960w,/app/uploads/2019/03/jakob-owens-393303-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/jakob-owens-393303-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/jakob-owens-393303-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/jakob-owens-393303-unsplash-3200x2133.jpg 3200w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A860PUdPvNQul+3R6WjxAJdeSZTCVySdo6Zxj8a96vPBFrJosWpzag810xTzLh1yDuwpyOxJx+Ar568NatpDa1ZXlxbQQRxxst3GcbJ8hhwmMDIIBHTjPevZNa+JGhy2lukMkZ3ZYNISFUgYwcYyOtFOtyS5ipUVUpuLZ/9k="
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/03/jakob-owens-393303-unsplash.jpg"
+           srcset="/app/uploads/2019/03/jakob-owens-393303-unsplash-320x213.jpg 320w,/app/uploads/2019/03/jakob-owens-393303-unsplash-640x427.jpg 640w,/app/uploads/2019/03/jakob-owens-393303-unsplash-960x640.jpg 960w,/app/uploads/2019/03/jakob-owens-393303-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/jakob-owens-393303-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/jakob-owens-393303-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/jakob-owens-393303-unsplash-3200x2133.jpg 3200w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">Tipps & Tricks</h3>
+    <h5 class="teaser-box__subline">Tipps &#038; Tricks</h5>
+  </div>
+
+</a>
+        </div>
+              <div class="g-12 g-6@s g-4@m g-3@l g-3@xl">
+          <a class="teaser-box teaser-box--variant-b" href="https://www.ufa.de/karriere/bewerbung/initiativbewerbung" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 66.67%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/03/brooke-cagle-1181684-unsplash.jpg"
+         data-srcset="/app/uploads/2019/03/brooke-cagle-1181684-unsplash-320x213.jpg 320w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-640x427.jpg 640w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-960x640.jpg 960w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-3200x2134.jpg 3200w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8Avj42/wBneJ9R05dDe5isbmKyhniuBtmuJDgK2R8o+9yN2Npr0Wx8QRappEmp24XKCUMmchZIyysue4DKRnv1r5l8SX2hxa1qmraFPFcXcsrtFBHE4MUnyYkwyheu/wBeWz9Oj+Evi7XYdO1C11IRvDcGUqrLsYHYT8iqMZZiOvXnvjObcUnqWoSdrL5n/9k="
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/03/brooke-cagle-1181684-unsplash.jpg"
+           srcset="/app/uploads/2019/03/brooke-cagle-1181684-unsplash-320x213.jpg 320w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-640x427.jpg 640w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-960x640.jpg 960w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-1280x853.jpg 1280w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-1920x1280.jpg 1920w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-2560x1707.jpg 2560w,/app/uploads/2019/03/brooke-cagle-1181684-unsplash-3200x2134.jpg 3200w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">Initiativbewerbung</h3>
+    <h5 class="teaser-box__subline">Initiativbewerbung</h5>
+  </div>
+
+</a>
+        </div>
+          </div>
+
+  </div>
+</section>
+
+<section class="module-contacts module module--dark module--index-4">
+  <div class="container">
+
+    <h2 class="module-contacts__headline">Noch Fragen?</h2>
+
+          <h5 class="module-contacts__subline">Schreibe uns eine Email</h5>
+    
+    <div class="module-contacts__items">
+      <div class="g-row">
+
+                  <div class="module-contacts__item g-12 g-6@s g-4@m g-3@l g-3@xl">
+            <a class="teaser-box teaser-box--contact teaser-box--variant-b" href="mailto:jobs@ufa.de" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 56.25%;"  data-copyright-notice="UFA">
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2026/09/Markus_Schroth.png"
+         data-srcset="/app/uploads/2026/09/Markus_Schroth-320x180.png 320w,/app/uploads/2026/09/Markus_Schroth-640x360.png 640w,/app/uploads/2026/09/Markus_Schroth-960x540.png 960w,/app/uploads/2026/09/Markus_Schroth-1280x720.png 1280w,/app/uploads/2026/09/Markus_Schroth-1536x864.png 1536w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAACf1BMVEXQz8vOzcnMy8XGxcDBv7q2sqqKfnR5a2CIem+Yj4arp5+uqqStqaKrqKCppZ6no5zT087S0czPzcnJyMK/u7SOf3JHOjE3LCVFNy1WRzyOhn2vqqSuqaOsqKGqpp/X19PW1dDR0MvLysW3samDbmBpUEVdRDtoTkNeRzxpXlOsp6CuqqOrp6CopJ3b2tfY19PNy8bAurKzj3/CjnzMlYTTmYbCkoB2Ylaln5ewq6Tc29jY19LOzcfMxr+4kH/FkH7Xn43coY3Zo5CWem2lnZWwrKXc29bZ19LU083OzcjKxLybe22ccWDBjnyidmfAkX/BlIO8nI3b2tbT0s3IwbmYcmN+VUe/ini4f23XnIfWoY3EoJCvq6Ta2dTX1dDS0MvKw7u3iHaOXU22gXO8gXLYnInVppS7qqDX1tHPzsnKycLGwbmgfW1jRDmGXlObb2K1h3fHpZewqqOoo5ynopvU0s3Qz8rMysTIxr/EwLmlj4OGXU+kbWK4hXide228oJOvqaKloZrLysTIxsDFw7zDwLnAtq6XfG+Ral6MbGGlhHbRpZO+r6WloJmkn5jIx8HGxb/QzMbb1s/i2M+1l4eOcmSrjH3Rp5XfuKjq39fd2dPEwLqwq6WkoJnW1M7j3tnh29Xa08vf2dLUysDMuq7Xwrjl1Mvv6OHy7unx7ejw7Ofn4t7Rzcfg3djm4dzd19LVz8nQysTe2NPk39rm4t3o5d/t6eTz7+r08evz8OvMyMHTzcjSzMfRy8XSzcfg29bm4tzo5N7q5+Hu6uXz8Or18u308ezx7un08Oy3tKzNyMLNyMHPycPUz8nd2dTn493p5uDs6OPu6+b28+7z7+sDRy32AAABG0lEQVQY0wEQAe/+AAABAgMEBQYHCAkKCwwNDg8AEBESExQVFhcYGRobHB0eDwAfICEiIyQlJicoKSorDCwtAC4vETAxMjM0NTY3ODkcLC0AOjsRPD0+P0BBQkNERQweLQBGR0hJSktMTU5PUFE5DB4tAFI7UzxUVVZXWFlaW1wdHi0AXV5fAmBhYmNkZWZnKywODwBoSGlqa2xtbm9wcXIdHnN0AHV2d3h5ent8fX5/gCwtdIEASYKDhIWGh4iJiouMKw+NjgCPkIORkpOUlZaXmJmam5ydAJCen6ChoqOkpaanqKmqq6wAra6vsLGys7S1tqm3uLmptwC6u7y9vr/AwcLDqMTFxsfIAMnKy8zNzs/Q0dKoqMXTudS/V2OGlbuD8AAAAABJRU5ErkJggg=="
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2026/09/Markus_Schroth.png"
+           srcset="/app/uploads/2026/09/Markus_Schroth-320x180.png 320w,/app/uploads/2026/09/Markus_Schroth-640x360.png 640w,/app/uploads/2026/09/Markus_Schroth-960x540.png 960w,/app/uploads/2026/09/Markus_Schroth-1280x720.png 1280w,/app/uploads/2026/09/Markus_Schroth-1536x864.png 1536w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+      <div class="image__badge copyright-notice-badge">© 1</div>
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">UFA GmbH</h3>
+    <h5 class="teaser-box__subline">Markus Schroth</h5>
+  </div>
+
+</a>
+          </div>
+                  <div class="module-contacts__item g-12 g-6@s g-4@m g-3@l g-3@xl">
+            <a class="teaser-box teaser-box--contact teaser-box--variant-b" href="mailto:jobs@ufa.de" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 56.23%;"  >
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2019/02/Jeannette-Venzke_1600_16_9.png"
+         data-srcset="/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-320x180.png 320w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-640x360.png 640w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-960x540.png 960w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1280x720.png 1280w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1536x864.png 1536w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1920x1080.png 1920w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-2048x1152.png 2048w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-2560x1440.png 2560w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-3200x1799.png 3200w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADKklEQVQ4jQXBS2gjZQDA8f83801mJplkJk2b7Kbv1IotbNfdIoiIgp4FUVBYYcHLHvS6q0dxPXj15smLeFEXy4oLoqAUFVZELVpM3a3VPvbRR5pkkskk8/r8/cSb77yvfv/6M8Kgi68JyBRZAtMLCzTmG2z/s0eUpmi6BKUwpU7BcajZJrYAKaWBrkumPJdRqmNaeXqDAFvmyGvgFPKkmoYEEAKvkMe2bVTQww+GSMOQ5M0cnoi58vpl6o+ustXc5NNb3zBSNp1+meHyKlGxjGFYFFybRf8X9DAApZDSMLDUkOXGJBeeeJL2IGaiVsUkpn1yioYkF/oYOTCHCj3WiNIQK4mJkxQppaTdOqV4YYkbN9dYWnyEte9+QJExONnFzbs4hyeUDiEDvLyFbttoaUaaCaSma+wfdnj8sQWq0/PEyuViY57NKOPnrWNEZZmro32WYh9hSMxGibJhYY587tsWUtcEdS/HIBwQHt7j6LDJwcEDOp0WJTvF8U75KdPZFC6ZAC8vsR0b3+8QdPtIbdRnwrG4/eddrrz6IplZpSYsvrr9K0oZKK3A2YmMs+YQITSKFZOxyRpmOSRTChn5bfzBkE4/IBl1iKKMrb82aO7sUvU80rJkrhKymm8RixzFoou0Bvg5GDcGyKzX4t+HPpdemsQquYT7WxiWTs3NEwQ9Zov3uRnY3BpMI1B4HY3ycZ+sO6Ttx8jyF99zvbLIs888RRRnFMfGmZuNeXrliG/XNzj/4wEXn6tSfQH0nE7JK6HpkjQ0kDrIl09slCE4HRUYy0lMR+PcSh1Lk6w326xuR7ifHxH9odO6fAZrSmJZOWQESZJDIhR2qrj27se89d4bzNSnSJXAqc4SfnmXe//9jZukdJsDtj4psPe8jluI6B0nRHGClqYKDXAfnPLa9Y/4bb+DVa7w4do6eyc9DrwSQ5WSoXD3WjiVM9QmZ6lPzTA710BCBkJnJUm50R/xytsfcG5xho07uxi2zU6nwyoZXYbIXkS0vcNur40aDlGZQjNIQQjOZ4pBv49mGDR3H6IbkrDb5o6ho3QIyEhIGW8FVOrTOF6ZvOvyP154XUGG2M/BAAAAAElFTkSuQmCC"
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2019/02/Jeannette-Venzke_1600_16_9.png"
+           srcset="/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-320x180.png 320w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-640x360.png 640w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-960x540.png 960w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1280x720.png 1280w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1536x864.png 1536w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-1920x1080.png 1920w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-2048x1152.png 2048w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-2560x1440.png 2560w,/app/uploads/2019/02/Jeannette-Venzke_1600_16_9-3200x1799.png 3200w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">UFA GmbH</h3>
+    <h5 class="teaser-box__subline">Jeannette Venzke</h5>
+  </div>
+
+</a>
+          </div>
+                  <div class="module-contacts__item g-12 g-6@s g-4@m g-3@l g-3@xl">
+            <a class="teaser-box teaser-box--contact teaser-box--variant-b" href="mailto:jobs@ufa.de" >
+
+<div class="teaser-box__media slider__media-container">
+    
+<div
+  class="image image--cover image--ratio"
+   style="padding-bottom: 56.25%;"  data-copyright-notice="UFA">
+  <div class="image__media">
+    <img class="image__image lazyload"
+         data-src="/app/uploads/2026/09/Helena-Albach.png"
+         data-srcset="/app/uploads/2026/09/Helena-Albach-320x180.png 320w,/app/uploads/2026/09/Helena-Albach-640x360.png 640w,/app/uploads/2026/09/Helena-Albach-960x540.png 960w,/app/uploads/2026/09/Helena-Albach-1280x720.png 1280w,/app/uploads/2026/09/Helena-Albach-1536x864.png 1536w"
+         data-sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+         alt="">
+
+          <img class="image__preview"
+           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADQElEQVQ4jTWQS09cZQBAz/3ud+8M82SGGYZ3GSxtWkk0JlpNDFFTH4miO925daML/4E/wLjRxMREjYkbN0QTS7GxlsQGaIFKaLFAbekAnaEzc+fBvGfudz8X1bM+Z3OMjz/5SA8MxAFwig6FYpHp6TQlp8Lb78wxkkqxubnBpYUrnEmPYluSWqPFnysbXJy9gAyHg8T6Q5imQJoGpXIF05T4fRbXr/7O0PAI4f4Itt+PCEYxbJtwIIq0fPhjg8hQKEgw0Id2XSLhEGPjo0ylT/HT118hlEE2HOTEsBg8Pc3MmUm0sFFIVqLrnD0/g7RtH1JaKK05qTq4yuPerTWSPoNPP3iXQDDKtZu3uOMZBOPDhMIRQpEBAsFfSCRTyIHUMIMDcUxDY/lCtPczFP7Z4vzEGH9nHpMe0fT1BTAbHrF4kkr1hKvX5hHCxDBN5NlzzzKUTGAZmljiMQ+zOepOnmfOvYA/MYTGI++cYAUimNKikD/m4d4OGAamKZH5YgG/LamVjqlUazQrZbquwnXbVA8zaEwst420EkjL5tUXn+elp6f4/Mtv8Vs2Ynf3Nk6lzMh4mlA0jnDbnDRa/LV/RCw5hAj08/P6HbQQHOeLbB8WWN7N4dQ7FCtVxNrqEo+yB9i+PkzbR7d4SLZUw1UeD47us7pzm61MjnZP0Wg1abZb1Op1XFfR6XYR8XiS7FGG73/8hv1726xt7rBf6lLtCsYGE7Q6Xdr4WPxticvz87TqDTSglEJrjcwXHfb2dvDZYb7b+oFms4W0bJb2crw/9xbPXYhhX79LoVhi8dICzXaH2TfexFUKYQpEvnhIr9dhfWWDer2B53kopTgoVrhvJph5/T3Gx0bwNHS6XdZXb6CUi6c9PK0xJ54a+azX7VIrt1DKQ2uNYRgIIajXGlx8ZZaC47B9dxelXDqdNoFgiIPMAaVSCWEKC2n1gQYDA6UUAJ7nsXxzjaNHOV6bfZknGER8Pv64vIDrKirlCiKVHOPURBppSzQa0zSfqIaB53n8uniFqclJRodSJMMBvvhwjpnhJLVyiV6vh9CGxJQBItEoxn/h/4eVUiyv3qDZahMMBjmdiOBqRaXRpFp2OM7m+BeH2oa2KyOwMQAAAABJRU5ErkJggg=="
+           aria-hidden="true">
+    
+    <noscript>
+      <img class="image__image"
+           src="/app/uploads/2026/09/Helena-Albach.png"
+           srcset="/app/uploads/2026/09/Helena-Albach-320x180.png 320w,/app/uploads/2026/09/Helena-Albach-640x360.png 640w,/app/uploads/2026/09/Helena-Albach-960x540.png 960w,/app/uploads/2026/09/Helena-Albach-1280x720.png 1280w,/app/uploads/2026/09/Helena-Albach-1536x864.png 1536w"
+           sizes="(min-width: 1600px) 351px,(min-width: 1200px) 25vw,(min-width: 800px) 33vw,(min-width: 600px) 50vw,100vw"
+           alt="">
+    </noscript>
+  </div>
+
+      <div class="image__badge copyright-notice-badge">© 1</div>
+  
+</div>
+
+      </div>
+
+  <div class="teaser-box__detail">
+    <h3 class="teaser-box__headline">UFA GmbH</h3>
+    <h5 class="teaser-box__subline">Helena Albach</h5>
+  </div>
+
+</a>
+          </div>
+        
+        
+      </div>
+    </div>
+
+  </div>
+</section>
+
+    
+<footer class="footer">
+  <div class="container">
+    <div class="footer__inner">
+
+      <div class="footer__item footer__item--logo">
+        <a class="footer__logo" href="https://www.ufa.de">
+          <svg  class="icon" width="69px" height="62px" viewBox="0 0 69 62" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-labelledby="logo-title-0"><title id="logo-title-0">UFA</title>
+  <path d="M11.501,48.605 C19.79,48.605 23.195,44.107 23.195,35.176 L23.195,0.609 L13.557,0.609 L13.557,35.048 C13.557,39.737 12.915,40.252 11.822,40.252 C10.73,40.252 10.087,39.674 10.087,34.919 L10.087,0.609 L0,0.609 L0,35.368 C0,44.236 3.213,48.605 11.501,48.605 L11.501,48.605 Z M26.472,48.154 L36.623,48.154 L36.623,27.595 L43.178,27.595 L43.178,19.498 L36.623,19.498 L36.623,9.347 L45.232,9.347 L45.232,0.609 L26.472,0.609 L26.472,48.154 Z M42.277,48.154 L51.786,48.154 L52.686,39.287 L57.055,39.287 L58.02,48.154 L68.234,48.154 L60.589,0.415 L49.987,0.415 L42.277,48.154 Z M53.2,32.541 C53.65,28.751 54.1,24.124 54.421,20.977 C54.549,19.369 54.742,17.827 54.871,16.351 L54.999,16.351 C55.128,17.827 55.256,19.369 55.449,20.977 C55.77,24.061 56.221,28.751 56.605,32.541 L53.2,32.541 L53.2,32.541 Z" id="Fill-1" fill="#FFFFFE" mask="url(#mask-2)"></path>
+  <path d="M66.015,58.597 L66.88,61.007 L67.021,61.007 L66.634,62 L66.998,62 L68.27,58.597 L67.886,58.597 L67.121,60.742 L66.397,58.597 L66.015,58.597 Z M65.599,61.007 L65.599,59.324 C65.599,58.768 65.296,58.54 64.904,58.54 C64.502,58.54 64.177,58.781 63.978,58.933 L63.978,58.597 L63.633,58.597 L63.633,61.007 L63.987,61.007 L63.987,59.174 C64.139,59.061 64.512,58.819 64.829,58.819 C65.099,58.819 65.244,58.989 65.244,59.324 L65.244,61.007 L65.599,61.007 Z M62.541,60.569 C62.395,60.695 62.196,60.795 61.945,60.795 C61.634,60.795 61.474,60.597 61.474,60.356 C61.474,60.015 61.667,59.825 62.229,59.825 C62.324,59.825 62.433,59.84 62.541,59.855 L62.541,60.569 Z M62.896,61.007 L62.896,59.216 C62.896,58.758 62.612,58.54 62.145,58.54 C61.762,58.54 61.416,58.645 61.213,58.768 L61.331,59.008 C61.501,58.914 61.804,58.819 62.073,58.819 C62.347,58.819 62.541,58.956 62.541,59.231 L62.541,59.589 C62.479,59.585 62.356,59.575 62.3,59.575 C61.412,59.575 61.104,59.85 61.104,60.393 C61.104,60.819 61.416,61.065 61.842,61.065 C62.168,61.065 62.395,60.898 62.555,60.762 L62.584,61.007 L62.896,61.007 Z M60.292,59.736 C60.292,60.304 59.923,60.79 59.379,60.79 C59.195,60.79 58.973,60.734 58.888,60.71 L58.888,59.032 C59.011,58.951 59.266,58.819 59.521,58.819 C59.928,58.819 60.292,59.169 60.292,59.736 L60.292,59.736 Z M60.66,59.717 C60.66,58.985 60.197,58.54 59.602,58.54 C59.252,58.54 59.029,58.696 58.888,58.81 L58.888,58.597 L58.533,58.597 L58.533,62 L58.888,62 L58.888,61.007 C58.992,61.027 59.19,61.065 59.375,61.065 C60.064,61.065 60.66,60.544 60.66,59.717 L60.66,59.717 Z M57.829,61.007 L57.829,59.324 C57.829,58.768 57.531,58.54 57.135,58.54 C56.766,58.54 56.468,58.739 56.185,58.961 C56.08,58.65 55.807,58.54 55.542,58.54 C55.131,58.54 54.8,58.805 54.645,58.933 L54.645,58.597 L54.299,58.597 L54.299,61.007 L54.653,61.007 L54.653,59.174 C54.861,59.018 55.183,58.819 55.471,58.819 C55.74,58.819 55.887,58.989 55.887,59.324 L55.887,61.007 L56.241,61.007 L56.241,59.324 C56.241,59.273 56.236,59.226 56.231,59.179 C56.407,59.051 56.747,58.819 57.059,58.819 C57.328,58.819 57.475,58.989 57.475,59.324 L57.475,61.007 L57.829,61.007 Z M53.316,59.807 C53.316,60.256 53.08,60.785 52.513,60.785 C51.945,60.785 51.709,60.256 51.709,59.807 C51.709,59.316 51.997,58.819 52.513,58.819 C53.027,58.819 53.316,59.316 53.316,59.807 L53.316,59.807 Z M53.68,59.793 C53.68,59.089 53.217,58.54 52.513,58.54 C51.808,58.54 51.346,59.089 51.346,59.793 C51.346,60.502 51.817,61.065 52.513,61.065 C53.207,61.065 53.68,60.502 53.68,59.793 L53.68,59.793 Z M51.057,60.677 C50.877,60.752 50.679,60.785 50.433,60.785 C49.705,60.785 49.166,60.19 49.166,59.367 C49.166,58.607 49.63,57.969 50.404,57.969 C50.66,57.969 50.873,58.021 51.052,58.106 L51.166,57.826 C50.967,57.741 50.717,57.69 50.419,57.69 C49.554,57.69 48.793,58.314 48.793,59.362 C48.793,60.351 49.469,61.065 50.404,61.065 C50.684,61.065 50.938,61.022 51.146,60.946 L51.057,60.677 Z M1.313,58.006 L1.872,59.783 L0.751,59.783 L1.313,58.006 Z M2.259,61.007 L2.627,61.007 L1.569,57.746 L1.059,57.746 L0,61.007 L0.364,61.007 L0.667,60.053 L1.957,60.053 L2.259,61.007 L2.259,61.007 Z" id="Fill-3" fill="#FFFFFE" mask="url(#mask-2)"></path>
+  <path d="M34.638,56.005 C34.691,55.857 34.732,55.736 34.732,55.642 C34.732,55.481 34.611,55.386 34.463,55.386 C34.289,55.386 34.141,55.441 33.979,55.91 L33.71,56.717 L32.393,56.771 C32.165,56.784 32.003,56.878 32.003,57.08 C32.003,57.309 32.178,57.389 32.42,57.376 L33.509,57.321 C33.374,57.725 33.16,58.438 32.998,59.056 C32.904,59.405 32.81,59.809 32.81,60.225 C32.81,60.83 33.105,61.22 33.697,61.22 C34.248,61.22 34.88,60.857 35.472,60.441 C35.794,60.212 36.116,59.97 36.345,59.769 C36.587,60.507 37.219,60.87 38.039,60.87 C38.711,60.87 39.315,60.695 39.907,60.441 C40.216,60.763 40.821,60.857 41.332,60.857 C42.77,60.857 44.383,60.131 45.512,59.365 C45.754,59.203 45.835,59.096 45.835,58.976 C45.835,58.787 45.687,58.706 45.553,58.706 C45.458,58.706 45.364,58.746 45.162,58.867 C44.047,59.54 42.596,60.212 41.305,60.212 C41.022,60.212 40.781,60.185 40.606,60.131 C41.668,59.62 42.26,59.163 42.26,58.572 C42.26,58.088 41.802,57.953 41.426,57.953 C40.485,57.953 39.584,58.746 39.584,59.674 C39.584,59.728 39.584,59.795 39.611,59.903 C39.194,60.037 38.737,60.171 38.119,60.171 C37.286,60.171 36.923,59.567 36.923,58.895 C36.923,58.29 37.098,57.671 37.366,57.107 L38.469,57.039 C38.308,57.254 38.133,57.429 37.998,57.564 C37.702,57.86 37.648,57.94 37.648,58.088 C37.648,58.209 37.757,58.303 37.891,58.303 C38.119,58.303 38.321,58.062 38.469,57.927 C38.711,57.685 38.993,57.362 39.262,57.013 L41.614,56.892 C41.775,56.878 41.95,56.811 41.95,56.596 C41.95,56.408 41.789,56.341 41.654,56.341 L41.614,56.341 L39.638,56.435 C39.907,55.991 40.096,55.534 40.096,55.145 C40.096,54.768 39.854,54.527 39.41,54.527 C38.308,54.527 37.434,55.602 36.923,56.556 L34.409,56.677 L34.638,56.005 Z M24.342,60.158 C24.194,59.714 24.14,59.513 24.019,58.948 C23.898,58.357 23.791,57.967 23.24,57.967 C22.514,57.967 21.788,58.733 20.914,59.835 L20.78,59.311 C20.645,58.8 20.498,58.424 19.933,58.424 C19.49,58.424 18.925,58.733 18.078,59.58 L18.226,58.746 C18.239,58.653 18.253,58.545 18.253,58.505 C18.253,58.37 18.172,58.277 17.998,58.277 C17.836,58.277 17.742,58.33 17.514,58.505 C16.492,59.284 15.215,60.198 13.952,60.198 C13.535,60.198 13.32,60.024 13.32,59.7 C13.32,59.634 13.333,59.567 13.36,59.486 C13.575,59.567 13.804,59.593 13.992,59.593 C14.825,59.593 15.578,59.163 15.578,58.612 C15.578,58.223 15.229,57.981 14.678,57.981 C13.911,57.981 13.32,58.398 13.024,58.787 C12.634,58.585 12.325,58.531 12.002,58.531 C11.169,58.531 10.564,58.867 9.785,59.728 C9.933,58.907 9.959,58.37 9.959,58.102 C9.959,57.9 9.825,57.806 9.69,57.806 C9.637,57.806 9.543,57.819 9.408,57.846 L7.433,58.236 L8.239,55.898 L12.365,55.695 C12.607,55.682 12.688,55.534 12.688,55.4 C12.688,55.225 12.554,55.117 12.365,55.117 L6.451,55.319 C6.169,55.332 6.008,55.467 6.008,55.668 C6.008,55.884 6.142,55.991 6.451,55.978 L7.459,55.938 L6.693,58.357 L6.062,58.505 C5.82,58.559 5.699,58.68 5.699,58.855 C5.699,59.069 5.833,59.163 6.008,59.163 C6.062,59.163 6.183,59.15 6.25,59.137 L6.464,59.096 L5.994,60.534 C5.94,60.709 5.927,60.777 5.927,60.844 C5.927,61.059 6.102,61.112 6.209,61.112 C6.317,61.112 6.451,61.071 6.532,60.857 L7.19,58.948 L9.288,58.491 C9.261,59.083 9.099,60.037 9.005,60.588 C8.979,60.749 8.965,60.817 8.965,60.898 C8.965,61.059 9.072,61.153 9.247,61.153 C9.381,61.153 9.462,61.071 9.557,60.951 C10.094,60.198 11.035,59.15 12.03,59.15 C12.271,59.15 12.514,59.217 12.742,59.311 C12.675,59.459 12.647,59.634 12.647,59.781 C12.647,60.467 13.064,60.857 13.844,60.857 C14.771,60.857 15.968,60.441 17.5,59.231 C17.446,59.513 17.366,59.889 17.271,60.292 C17.245,60.386 17.231,60.481 17.231,60.534 C17.231,60.723 17.352,60.817 17.5,60.817 C17.648,60.817 17.755,60.749 17.984,60.534 C18.213,60.292 18.428,60.077 18.71,59.821 C19.194,59.378 19.53,59.096 19.799,59.096 C19.96,59.096 20.041,59.217 20.175,59.714 C20.35,60.347 20.444,60.615 20.753,60.615 C21.035,60.615 21.143,60.507 21.573,59.996 C22.326,59.123 22.823,58.653 23.105,58.653 C23.199,58.653 23.24,58.706 23.28,58.867 L23.481,59.674 C23.536,59.903 23.616,60.185 23.71,60.36 C23.804,60.534 23.938,60.629 24.113,60.629 C24.288,60.629 24.395,60.507 24.395,60.373 C24.395,60.319 24.382,60.278 24.342,60.158 L24.342,60.158 Z M34.799,60.145 C34.45,60.36 34.127,60.521 33.832,60.521 C33.589,60.521 33.482,60.347 33.482,60.064 C33.482,59.769 33.63,59.177 33.697,58.948 C33.885,58.303 34.006,57.9 34.208,57.281 L36.641,57.147 C36.372,57.792 36.237,58.438 36.237,59.016 L36.237,59.11 C35.673,59.567 35.189,59.93 34.799,60.145 L34.799,60.145 Z M28.657,61.045 C28.71,61.045 28.845,61.045 29.006,60.844 C29.248,60.548 29.624,60.064 30.041,59.648 C30.552,59.137 31.049,58.706 31.197,58.706 C31.224,58.706 31.237,58.706 31.25,58.774 L31.358,59.405 C31.425,59.755 31.52,60.131 31.641,60.319 C31.721,60.441 31.829,60.521 31.99,60.521 C32.151,60.521 32.286,60.413 32.286,60.238 C32.286,60.158 32.245,60.064 32.205,59.956 C32.057,59.607 31.977,59.177 31.896,58.68 C31.815,58.155 31.627,58.034 31.331,58.034 C30.834,58.034 29.907,58.8 29.154,59.769 L29.207,58.948 C29.221,58.746 29.086,58.666 28.952,58.666 C28.804,58.666 28.683,58.746 28.657,58.921 L28.415,60.454 C28.388,60.642 28.388,60.709 28.388,60.749 C28.388,60.964 28.522,61.045 28.657,61.045 L28.657,61.045 Z M25.511,60.642 C26.035,60.642 26.573,60.494 27.057,60.198 C27.111,60.481 27.245,60.548 27.379,60.548 C27.555,60.548 27.662,60.413 27.662,60.198 C27.662,60.091 27.648,59.849 27.608,59.62 C27.568,59.459 27.474,59.378 27.339,59.378 C27.218,59.378 27.151,59.405 26.95,59.567 C26.586,59.835 26.049,60.037 25.619,60.037 C25.484,60.037 25.444,59.996 25.444,59.956 C25.444,59.593 26.143,58.774 27.138,58.774 C27.353,58.774 27.527,58.814 27.756,58.935 C27.837,58.988 27.904,59.016 27.984,59.016 C28.132,59.016 28.253,58.921 28.253,58.76 C28.253,58.639 28.173,58.545 28.052,58.451 C27.796,58.263 27.46,58.169 27.097,58.169 C26.546,58.169 26.022,58.37 25.579,58.733 C25.148,59.083 24.799,59.567 24.799,60.051 C24.799,60.467 25.108,60.642 25.511,60.642 L25.511,60.642 Z M39.558,54.982 C39.614,54.982 39.655,54.995 39.67,55.024 C39.642,55.401 39.391,55.917 39.069,56.392 L37.799,56.462 C38.162,55.819 38.943,54.982 39.558,54.982 L39.558,54.982 Z M41.399,58.518 C41.587,58.518 41.682,58.545 41.682,58.625 C41.682,58.787 41.265,59.217 40.203,59.688 C40.189,59.66 40.189,59.62 40.189,59.607 C40.189,59.028 40.889,58.518 41.399,58.518 L41.399,58.518 Z M14.623,58.545 C14.866,58.545 14.96,58.599 14.96,58.653 C14.96,58.867 14.409,59.056 14.019,59.056 C13.884,59.056 13.75,59.042 13.629,59.002 C13.857,58.733 14.301,58.545 14.623,58.545 L14.623,58.545 Z" id="Fill-5" fill="#FFFFFE"></path>
+</svg>
+        </a>
+      </div>
+
+              <div class="footer__item footer__item--links">
+          <ul class="footer__links">
+                          <li>
+                <a href="https://www.ufa.de/impressum"
+                   class="footer__link">
+                  Impressum                </a>
+              </li>
+                          <li>
+                <a href="https://www.ufa.de/datenschutzerklaerung"
+                   class="footer__link">
+                  Datenschutzerklärung                </a>
+              </li>
+                                      <li>
+                <a href="#"
+                  class="footer__link" onclick="return klaro.show();">
+                Cookie Einstellungen                </a>
+              </li>
+                      </ul>
+        </div>
+      
+              <div class="footer__item footer__item--copyright">
+          <div class="footer__copyright">UFA GmbH 2026</div>
+        </div>
+      
+              <div class="footer__item footer__item--social-links">
+          <ul class="footer__social-items">
+                          <li class="footer__social-item">
+                <a href="https://www.instagram.com/ufa_production/?hl=de"
+                   class="footer__social-link"
+                   title="Instagram"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  <svg class="icon" fill="#000000" width="24" height="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="social-instagram-title-0"><title id="social-instagram-title-0">Instagram</title>
+  <path class="icon__fill" d="M23.928 7.053a8.808 8.808 0 0 0-.557-2.913 5.883 5.883 0 0 0-1.386-2.125A5.883 5.883 0 0 0 19.86.629a8.808 8.808 0 0 0-2.912-.557C15.667.013 15.258 0 12 0 8.741 0 8.333.013 7.053.072c-.995.02-1.98.208-2.913.557a5.883 5.883 0 0 0-2.127 1.386A5.883 5.883 0 0 0 .628 4.14a8.808 8.808 0 0 0-.557 2.912C.013 8.333 0 8.742 0 12c0 3.259.013 3.667.072 4.947.02.995.208 1.98.557 2.913.302.8.775 1.526 1.386 2.125.599.611 1.324 1.084 2.125 1.386a8.808 8.808 0 0 0 2.912.557C8.333 23.987 8.742 24 12 24c3.259 0 3.667-.013 4.947-.072a8.808 8.808 0 0 0 2.913-.557 6.136 6.136 0 0 0 3.51-3.511 8.808 8.808 0 0 0 .558-2.912c.059-1.281.072-1.69.072-4.948 0-3.259-.013-3.667-.072-4.947zm-2.16 9.796a6.637 6.637 0 0 1-.413 2.227 3.973 3.973 0 0 1-2.278 2.279 6.639 6.639 0 0 1-2.228.413c-1.266.057-1.645.07-4.849.07s-3.584-.013-4.85-.07a6.639 6.639 0 0 1-2.226-.413 3.717 3.717 0 0 1-1.381-.898 3.717 3.717 0 0 1-.898-1.38 6.637 6.637 0 0 1-.413-2.228c-.057-1.266-.07-1.645-.07-4.849s.013-3.584.07-4.85c.01-.76.149-1.513.413-2.226.192-.522.499-.994.898-1.381a3.717 3.717 0 0 1 1.38-.898 6.639 6.639 0 0 1 2.228-.413c1.266-.057 1.645-.07 4.849-.07s3.584.013 4.85.07c.76.01 1.513.149 2.226.413.522.192.994.499 1.381.898.399.387.705.858.898 1.38.264.713.404 1.467.413 2.228.057 1.266.07 1.645.07 4.849s-.013 3.584-.07 4.85zM12 5.837a6.163 6.163 0 1 0 0 12.326 6.163 6.163 0 0 0 0-12.326zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm7.845-10.405a1.44 1.44 0 1 1-2.88 0 1.44 1.44 0 0 1 2.88 0z"/>
+</svg>
+                </a>
+              </li>
+                          <li class="footer__social-item">
+                <a href="https://www.youtube.com/user/UfaFiction"
+                   class="footer__social-link"
+                   title="YouTube"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  <svg class="icon" fill="#000000" width="24" height="24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="social-youtube-title-0"><title id="social-youtube-title-0">YouTube</title>
+  <path class="icon__fill" d="M9.522 15.635l-.001-6.791 6.485 3.407-6.484 3.384zM23.76 7.667s-.235-1.665-.954-2.399c-.913-.963-1.936-.967-2.405-1.023C17.043 4 12.005 4 12.005 4h-.01s-5.038 0-8.396.245c-.47.056-1.492.06-2.405 1.023C.474 6.002.24 7.667.24 7.667S0 9.624 0 11.579v1.834c0 1.956.24 3.912.24 3.912s.234 1.665.954 2.399c.913.962 2.112.933 2.646 1.033C5.76 20.942 12 21 12 21s5.043-.008 8.401-.253c.47-.056 1.492-.06 2.405-1.023.72-.734.954-2.4.954-2.4s.24-1.955.24-3.911v-1.834c0-1.956-.24-3.912-.24-3.912z"/>
+</svg>
+                </a>
+              </li>
+                          <li class="footer__social-item">
+                <a href="https://www.linkedin.com/company/ufa-film-&-tv-produktions-gmbh/"
+                   class="footer__social-link"
+                   title="LinkedIn"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                  <svg class="icon" fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-labelledby="social-linkedin-title-0"><title id="social-linkedin-title-0">LinkedIn</title>
+  <path class="icon__fill" d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z"/>
+</svg>
+                </a>
+              </li>
+                      </ul>
+        </div>
+      
+    </div>
+
+
+    
+          <div class="footer__legal copyright-notice">Copyrights: 1 - UFA</div>
+    
+  </div>
+</footer>
+
+</div>
+
+        
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp/wp-*.php","/wp/wp-admin/*","/app/uploads/*","/app/*","/app/plugins/*","/app/themes/theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script data-wp-strategy="defer" defer id="ufa-script-js" src="https://www.ufa.de/app/themes/theme/assets/dist/scripts/ufa.js?ver=ada2e810"></script>
+
+    <section class="module-legacy-browsers" id="legacy-browser-overlay">
+  <div class="overlay module-legacy-browsers__overlay"
+    aria-hidden="true" >
+
+  <div class="container">
+    <div class="g-row">
+      <div class="g-12 g-10@m g-offset-1@m g-8@l g-offset-2@l g-8@xl g-offset-2@xl">
+        <div class="overlay__box">
+
+                      <h1 class="overlay__headline">Ohje...</h1>
+          
+          
+                      <div class="overlay__copy">Du nutzt leider einen Browser, den wir nicht mehr unterstützen. Wir können nicht garantieren, dass die Webseite mit diesem Browser ordnungsgemäß funktioniert. Bitte lade einen aktuellen Browser herunter.</div>
+          
+          <div class="overlay__buttons">
+
+                                                                  <div class="overlay__button-wrapper">
+                        
+<a href="http://outdatedbrowser.com/de" class="button overlay__button button--primary"
+  >
+  <span class="button__inner">
+    Neuen Browser herunterladen  </span>
+</a>
+                  </div>
+                                                
+                          <div class="overlay__button-wrapper">
+                
+<button  class="button overlay__close overlay__button button--secondary"
+           onclick="event.preventDefault();document.getElementById(&#039;legacy-browser-overlay&#039;).classList.remove(&#039;module-legacy-browsers--visible&#039;)"  >
+  <span class="button__inner">
+    Schließen  </span>
+</button>
+              </div>
+            
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</section>
+
+<script>
+  window.onload = function () {
+    var blockedVersions = [
+        ['ie', 'all'],
+        ['opera', '<', '55'],
+        ['edge', '<', '16'],
+        ['chrome', '<', '66'],
+        ['firefox', '<', '60'],
+        ['safari', '<', '10'],
+      ],
+      version = document.documentElement.className.match(/browser--([^\s]+)/),
+      blocked = false,
+      newVers = 0;
+    if (version === null){
+      blocked = true
+    } else {
+      version = version[1].split('-');
+      version[1] = version[1].split('.',1);
+      while (!blocked && typeof blockedVersions[newVers] !== 'undefined') {
+        var block = blockedVersions[newVers];
+        if (version[0] === block[0]) {
+          if (block[1] === 'all') {
+            blocked = true;
+          } else if (block[1] === '<' && version[1][1] < block[2]) {
+            blocked = true;
+          }
+        }
+        newVers++;
+      }
+    }
+
+    if (blocked) {
+      document.getElementById('legacy-browser-overlay').classList.add('module-legacy-browsers--visible');
+    }
+  };
+</script>
+
+    <script class="template-btn-close" type="text/template">
+        
+<button  class="button button--primary button--icon-round"
+  >
+  <span class="button__inner">
+    <svg class="icon" fill="#FFFFFF" width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path class="icon__fill" d="M16,12.4705882 L24.4705882,4 L28,7.52941176 L19.5294118,16 L28,24.4705882 L24.4705882,28 L16,19.5294118 L7.52941176,28 L4,24.4705882 L12.4705882,16 L4,7.52941176 L7.52941176,4 L16,12.4705882 Z"></path>
+</svg>
+  </span>
+</button>
+    </script>
+
+
+<!-- Rendered in 1,097.7161ms -->
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Erhielt 12434 Objects (1 MB) von Redis beim Benutzen von PhpRedis (v6.3.0).
+-->

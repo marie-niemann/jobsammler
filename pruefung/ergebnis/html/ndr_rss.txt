@@ -1,0 +1,128 @@
+<!-- 200 https://www.ndr.de/der_ndr/karriere/index~rss2.xml -->
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Karriere im NDR</title>
+    <link>https://www.ndr.de/der_ndr/karriere</link>
+    <description>Die aktuellen Beiträge der Seite https://www.ndr.de/der_ndr/karriere</description>
+    <language>de</language>
+    <copyright>Norddeutscher Rundfunk (NDR)</copyright>
+    <lastBuildDate>Mon, 09 Nov 2026 17:49:57 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 17:49:57 +0100</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <ttl>90</ttl>
+    <dc:publisher>ndr.de</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:rights>Norddeutscher Rundfunk (NDR)</dc:rights>
+    <dc:date>2026-11-13T13:44:48Z</dc:date>
+    <dc:source>ndr.de</dc:source>
+    <item>
+      <title>Wir machen Medien. Gemeinsam mit dir.</title>
+      <link>https://jobs.ndr.de/Jobs/1?lang=ger&amp;ContentOnly=</link>
+      <description>Wir machen Medien. Gemeinsam mit dir.</description>
+      <pubDate>Fri, 27 Jun 2025 18:49:20 +0200</pubDate>
+      <guid>9a87bbd6-c2b0-4f07-abe7-b404f7510174</guid>
+      <dc:date>2025-06-27T16:49:20Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://jobs.ndr.de/Jobs/1?lang=ger&ContentOnly="><img src="https://images.ndr.de/image/dd310d10-3ec6-45ee-a752-68bde88f4575/AAABmFdMSnQ/AAABnSSvrFg/16x9-big/karriere140.jpg?width=1920" alt="Fünf Personen unterschiedlichen Alters und Geschlechts stehen lächelnd nebeneinander vor einer grauen Wand | NDR, Hendrik Lüders" /></a> <br/> <br/>[<a href="https://jobs.ndr.de/Jobs/1?lang=ger&ContentOnly=">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Der NDR als Arbeitgeber</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Der-NDR-als-Arbeitgeber,arbeitgeber106.html</link>
+      <description>Der NDR ist ein großer Arbeitgeber in der Medienbranche und fest im Norden verankert. Was macht den NDR als Arbeitgeber aus?</description>
+      <pubDate>Fri, 13 Jun 2025 11:15:26 +0200</pubDate>
+      <guid>f417545f-ffe2-4e5d-84c5-ed96914d63bc</guid>
+      <dc:date>2025-06-13T09:15:26Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Der-NDR-als-Arbeitgeber,arbeitgeber106.html"><img src="https://images.ndr.de/image/93450949-d33a-4bcb-8f75-b4d49572ad84/AAABlyLLmak/AAABnSSvrFg/16x9-big/karriere260.jpg?width=1920" alt="Arbeitgeber Händedruck Icon | NDR" /></a> <br/> <br/>Der NDR ist ein großer Arbeitgeber in der Medienbranche und fest im Norden verankert. Was macht den NDR als Arbeitgeber aus?[<a href="https://www.ndr.de/der_ndr/karriere/Der-NDR-als-Arbeitgeber,arbeitgeber106.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Unsere Benefits</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Unsere-Benefits-Was-wir-bieten,benefitsneu100.html</link>
+      <description>Gestalte mit uns die Medienwelt von morgen! Wir bieten ein großes Portfolio an Benefits für eine erfolgreiche Zukunft bei und mit uns.</description>
+      <pubDate>Fri, 30 Oct 2026 15:44:53 +0100</pubDate>
+      <guid>4e8eaeec-9715-43ce-84a0-9276affd0557</guid>
+      <dc:date>2026-10-30T14:44:53Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Unsere-Benefits-Was-wir-bieten,benefitsneu100.html"><img src="https://images.ndr.de/image/fcd3da85-4496-4b0a-a5a7-07ada8c38fd9/AAABl41Hq40/AAABnSSvrFg/16x9-big/karriere248.jpg?width=1920" alt="Benefits Icon | NDR" /></a> <br/> <br/>Gestalte mit uns die Medienwelt von morgen! Wir bieten ein großes Portfolio an Benefits für eine erfolgreiche Zukunft bei und mit uns.[<a href="https://www.ndr.de/der_ndr/karriere/Unsere-Benefits-Was-wir-bieten,benefitsneu100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Standorte des NDR</title>
+      <link>https://www.ndr.de/der_ndr/kontakt/Wegweiser-zum-Norddeutschen-Rundfunk,wegweiser6.html</link>
+      <description>Zum NDR gehören die Landesfunkhäuser in Hamburg, Hannover, Kiel und Schwerin. Anfahrtsbeschreibungen und Infos zu den Standorten.</description>
+      <pubDate>Fri, 13 Jun 2025 11:08:18 +0200</pubDate>
+      <guid>con275428</guid>
+      <dc:date>2025-06-13T09:08:18Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/kontakt/Wegweiser-zum-Norddeutschen-Rundfunk,wegweiser6.html"><img src="https://images.ndr.de/image/6b02c29a-aa5c-4775-93f3-27a8dcf6c70b/AAABlyLLjX8/AAABnSSvrFg/16x9-big/karriere244.jpg?width=1920" alt="Standorte des NDR Icon | NDR" /></a> <br/> <br/>Zum NDR gehören die Landesfunkhäuser in Hamburg, Hannover, Kiel und Schwerin. Anfahrtsbeschreibungen und Infos zu den Standorten.[<a href="https://www.ndr.de/der_ndr/kontakt/Wegweiser-zum-Norddeutschen-Rundfunk,wegweiser6.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Jobbörse für freie Mitarbeit</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Jobboerse-fuer-freie-Mitarbeit,jobboerse-ndr-100.html</link>
+      <description>Freie Mitarbeiter*innen bringen Vielfalt ins Programm. Die NDR Jobbörse ist die Plattform für Angebote in freier Mitarbeit aus Redaktion und Produktion.</description>
+      <pubDate>Mon, 09 Nov 2026 17:49:57 +0100</pubDate>
+      <guid>01a8a47f-84fe-4e23-b02b-169ce3e14a0f</guid>
+      <dc:date>2026-11-09T16:49:57Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Jobboerse-fuer-freie-Mitarbeit,jobboerse-ndr-100.html"><img src="https://images.ndr.de/image/0ff65345-bab4-4488-9892-2f3d7f71f792/AAABlyK92v8/AAABnSSvrFg/16x9-big/karriere160.jpg?width=1920" alt="Jobs-Karriere-und-Ausbildung-beim-NDR | NDR, Hendrik Lüders" /></a> <br/> <br/>Freie Mitarbeiter*innen bringen Vielfalt ins Programm. Die NDR Jobbörse ist die Plattform für Angebote in freier Mitarbeit aus Redaktion und Produktion.[<a href="https://www.ndr.de/der_ndr/karriere/Jobboerse-fuer-freie-Mitarbeit,jobboerse-ndr-100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ausbildung im NDR</title>
+      <link>https://www.ndr.de/der_ndr/karriere/ausbildung</link>
+      <description>Entdecke die vielseitigen Möglichkeiten, die dir eine Ausbildung oder ein Volontariat beim NDR bieten.</description>
+      <pubDate>Thu, 22 Oct 2026 15:09:39 +0200</pubDate>
+      <guid>90234aa4-9be3-437f-9a69-8886435ff38e</guid>
+      <dc:date>2026-10-22T13:09:39Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/ausbildung"><img src="https://images.ndr.de/image/701d650f-b096-458b-aa02-a8d98da6891a/AAABoBsAzU4/AAABnSSvrFg/16x9-big/karriere-248.jpg?width=1920" alt="Zwei Personen im Gespräch in einem NDR Studio | NDR, Hendrik Lüders" /></a> <br/> <br/>Entdecke die vielseitigen Möglichkeiten, die dir eine Ausbildung oder ein Volontariat beim NDR bieten.[<a href="https://www.ndr.de/der_ndr/karriere/ausbildung">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Angebote für Musiker:innen und Sänger:innen</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Stellenangebote-fuer-Musiker-und-Saenger,stellenangebote118.html</link>
+      <description>Hier finden Sie die aktuellen Stellenangebote des Norddeutschen Rundfunks im Bereich Orchester, Chor und Konzerte.</description>
+      <pubDate>Tue, 17 Jun 2025 11:59:55 +0200</pubDate>
+      <guid>b78d4d90-54cf-47e9-b386-deeb8171dfdf</guid>
+      <dc:date>2025-06-17T09:59:55Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Stellenangebote-fuer-Musiker-und-Saenger,stellenangebote118.html"><img src="https://images.ndr.de/image/99b2a5ad-ac55-4a29-82c2-d1e150c7fe0c/AAABknsWGHQ/AAABnSSvrFg/16x9-big/ndrelbphilharmonieorchester126.jpg?width=1920" alt="Das NDR Elbphilharmonie Orchester auf der Bühne des Großen Saals in der Elbphilharmonie | Nikolaj Lund /NDR" /></a> <br/> <br/>Hier finden Sie die aktuellen Stellenangebote des Norddeutschen Rundfunks im Bereich Orchester, Chor und Konzerte.[<a href="https://www.ndr.de/der_ndr/karriere/Stellenangebote-fuer-Musiker-und-Saenger,stellenangebote118.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>FAQ: Bewerbung beim NDR</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Bewerbung-beim-NDR-Hilfe-und-Tipps,faqbewerbung102.html</link>
+      <description>Wir haben den richtigen Job für dich? Hier findest du alle Infos für eine gelungene Bewerbung beim NDR.</description>
+      <pubDate>Fri, 09 Oct 2026 11:51:07 +0200</pubDate>
+      <guid>f2746093-9686-4b65-be0e-ac1dbf24f87b</guid>
+      <dc:date>2026-10-09T09:51:07Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Bewerbung-beim-NDR-Hilfe-und-Tipps,faqbewerbung102.html"><img src="https://images.ndr.de/image/88461159-7169-40f2-8c82-00ec881e449c/AAABlyLLjxU/AAABnSSvrFg/16x9-big/karriere256.jpg?width=1920" alt="FAQ Icon | NDR" /></a> <br/> <br/>Wir haben den richtigen Job für dich? Hier findest du alle Infos für eine gelungene Bewerbung beim NDR.[<a href="https://www.ndr.de/der_ndr/karriere/Bewerbung-beim-NDR-Hilfe-und-Tipps,faqbewerbung102.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Dein Draht zum NDR: Bewerbung &amp; Karriere</title>
+      <link>https://www.ndr.de/der_ndr/karriere/Fragen-zu-offenen-Stellen-im-NDR,fragenkarriere100.html</link>
+      <description>Du hast eine Frage zu festen und freien Stellen im NDR oder weißt nicht genau, an wen du dich wenden sollst? Mit diesem Kontaktformular kannst du uns direkt erreichen.</description>
+      <pubDate>Fri, 27 Jun 2025 20:43:26 +0200</pubDate>
+      <guid>6fae0520-01cf-4e4c-a596-f99632465983</guid>
+      <dc:date>2025-06-27T18:43:26Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://www.ndr.de/der_ndr/karriere/Fragen-zu-offenen-Stellen-im-NDR,fragenkarriere100.html"><img src="https://images.ndr.de/image/430e4f5c-0018-49b3-8573-c3e2eb16ddf7/AAABlyK98dc/AAABnSSvrFg/16x9-big/karriere254.jpg?width=1920" alt="Kontaktformular Icon | NDR" /></a> <br/> <br/>Du hast eine Frage zu festen und freien Stellen im NDR oder weißt nicht genau, an wen du dich wenden sollst? Mit diesem Kontaktformular kannst du uns direkt erreichen.[<a href="https://www.ndr.de/der_ndr/karriere/Fragen-zu-offenen-Stellen-im-NDR,fragenkarriere100.html">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Provider-, Vendor- und Contractmanager*in Netzwerk</title>
+      <link>https://jobs.ndr.de/Vacancies/3321/Description/1</link>
+      <description>Werden Sie Teil eines engagierten und sehr motivierten Teams!</description>
+      <pubDate>Mon, 31 Aug 2026 08:37:05 +0200</pubDate>
+      <guid>60bcdbfa-24cf-45b5-b624-a2702c4e9e0c</guid>
+      <dc:date>2026-08-31T06:37:05Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://jobs.ndr.de/Vacancies/3321/Description/1"><img src="https://images.ndr.de/image/f1320aa3-3230-4897-8184-8f1aa5e23adc/AAABmpItr_s/AAABnSSvrFg/16x9-big/karriere-114.jpg?width=1920" alt="Zwei Mitarbeitende sprechen konzentriert in einem modernen Schnittplatz beim NDR | NDR, Hendrik Lüders" /></a> <br/> <br/>Werden Sie Teil eines engagierten und sehr motivierten Teams![<a href="https://jobs.ndr.de/Vacancies/3321/Description/1">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sachbearbeiter*in im Gremienbüro</title>
+      <link>https://jobs.ndr.de/Vacancies/3338/Description/1</link>
+      <description>Werden Sie Teil eines engagierten und sehr motivierten Teams!</description>
+      <pubDate>Mon, 31 Aug 2026 08:37:05 +0200</pubDate>
+      <guid>3d02582d-30f1-40af-af7f-9d28b319c7f7</guid>
+      <dc:date>2026-08-31T06:37:05Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://jobs.ndr.de/Vacancies/3338/Description/1"><img src="https://images.ndr.de/image/c7b3e25d-928c-4b03-a4da-a0a82fad2371/AAABoItQ5Cc/AAABnSSvrFg/16x9-big/karriere-108.jpg?width=1920" alt="Zwei Mitarbeitende des NDR unterhalten sich | NDR, Hendrik Lüders" /></a> <br/> <br/>Werden Sie Teil eines engagierten und sehr motivierten Teams![<a href="https://jobs.ndr.de/Vacancies/3338/Description/1">mehr</a>]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Praktikum für Erwachsene im Notenarchiv</title>
+      <link>https://jobs.ndr.de/Vacancies/3256/Description/1</link>
+      <description>Werden Sie Teil eines engagierten und sehr motivierten Teams!</description>
+      <pubDate>Mon, 07 Sep 2026 08:27:30 +0200</pubDate>
+      <guid>d57ea930-1a66-4729-90bb-2fb4713817b4</guid>
+      <dc:date>2026-09-07T06:27:30Z</dc:date>
+      <content:encoded><![CDATA[<p> <a href="https://jobs.ndr.de/Vacancies/3256/Description/1"><img src="https://images.ndr.de/image/fa37df9d-b133-4da6-a2f3-79b47177393f/AAABlyLLohc/AAABnSSvrFg/16x9-big/karriere312.jpg?width=1920" alt="NDR Karriere 2025 | NDR, Hendrik Lüders" /></a> <br/> <br/>Werden Sie Teil eines engagierten und sehr motivierten Teams![<a href="https://jobs.ndr.de/Vacancies/3256/Description/1">mehr</a>]</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

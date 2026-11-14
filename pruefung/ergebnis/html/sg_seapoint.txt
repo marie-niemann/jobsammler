@@ -1,0 +1,477 @@
+<!-- 200 https://seapoint.softgarden.io/de/vacancies -->
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.sourceforge.net/" lang="de" class="no-js no-ie">
+    <head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="author" content="softgarden e-recruiting GmbH"/>
+     	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+		<link rel="icon" href="https://static.softgarden.de/favicon/favicon-32x32.png"><!--[if IE]><link rel="shortcut icon" href="https://static.softgarden.de/favicon/favicon.ico"><![endif]--><style type="text/css" id="jobSearchCss">
+#jobsContainer .matchContainer .date { width: 12% } #jobsContainer .matchContainer .title { width: 86% } </style>
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.core.WebFrontendApplication/core-ver-46480A77CA2574AB851CD35B365719CA.js"></script>
+<script type="text/javascript" id="jobsearchjs">
+/*<![CDATA[*/
+
+var criterions = [
+    {
+        "id": "audience",
+        "name": "Zielgruppe",
+        "options": {
+            "00001": "Auszubildende",
+            "3a3ab7987f000002010ad4925ffa0cf4": "Schüler/in",
+            "3a3af3667f000002010ad49215c3a5f4": "Berufseinsteiger",
+            "3a3b1f6e7f000002010ad492e7837dd6": "Berufserfahrene",
+            "6179d1a00a0b0cce01ed3de8643a0e39": "Student/in"
+        }
+    },
+    {
+        "id": "jobcategory",
+        "name": "Jobkategorie",
+        "options": {
+            "sam42_administration": "Administration und Sekretariat",
+            "sam42_design": "Design, Gestaltung und Architektur",
+            "sam42_finance": "Finanzen",
+            "sam42_management": "Führungskräfte",
+            "sam42_it": "IT",
+            "sam42_marketing": "Marketing und Kommunikation",
+            "sam42_hr": "Personal",
+            "sam42_law": "Recht",
+            "sam42_sales": "Vertrieb und Verkauf",
+            "dc1729fb-c017-495c-b8c4-774852298b87": "Media Produktion"
+        }
+    }
+];
+var sg_jobsearch_hide_inactive = true;
+var jobs_selected = Array();
+var current_page = 1;
+var order_by = 0;
+var jobs_per_page = 10;
+var paging_window = -1;
+var JobResultAnimationOff = false;
+var showInfoBoxSeeEndOfPage = true;
+var jobs_selected_per_list = Array();
+var preselected_location = '';
+var preselected_location_radius = '';
+var preselected_values = {};
+var geocodingOverride = {"OSM":{"62782":{"boundingBox":"[\"53.3951118\", \"53.7393983\", \"9.7275419\", \"10.3252805\"]"}},"GOOGLE":{}};
+jQuery(document).ready(function() {
+    jQuery('#selector_0').change(function () {
+    	jQuery('#jobsContainer').show();
+    	updateLists(0, order_by);
+	 	jQuery('.resetForm').show();
+	});
+    jQuery('#selector_1').change(function () {
+    	jQuery('#jobsContainer').show();
+    	updateLists(1, order_by);
+	 	jQuery('.resetForm').show();
+	});
+jQuery('.matchHeadline').show();
+initialize(order_by);
+});jobs_selected_per_list[0] = Array();
+jobs_selected_per_list[1] = Array();
+var job_id_list_ordered = new Array ();
+job_id_list_ordered[0] = [64844581, 68116211];
+job_id_list_ordered[1] = [64844581, 68116211];
+job_id_list_ordered[2] = [64844581, 68116211];
+
+var complete_job_id_list = jobs_selected = [64844581, 68116211];
+var jobs_keyword_search = complete_job_id_list;
+var jobs_geoLocation_search = complete_job_id_list;
+var search_criteria = new Array();
+search_criteria[0] = new Object();
+search_criteria[0]["6179d1a00a0b0cce01ed3de8643a0e39"] = [68116211];
+search_criteria[0]["3a3af3667f000002010ad49215c3a5f4"] = [64844581];
+
+search_criteria[1] = new Object();
+search_criteria[1]["dc1729fb-c017-495c-b8c4-774852298b87"] = [64844581, 68116211];
+
+
+/*]]>*/
+</script>
+<title>Karriere Board | Seapoint Productions GmbH</title><meta name="description" content="career board | © softgarden" />
+<meta name="robots" content="noindex, follow" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Karriere Board | Seapoint Productions GmbH" />
+<meta name="twitter:site" content="@softgarden" />
+<meta name="twitter:description" content="career board | © softgarden" />
+<meta property="og:title" content="Karriere Board | Seapoint Productions GmbH" />
+<meta property="og:description" content="career board | © softgarden" />
+<meta property="og:type" content="website" />
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.js.JavaScriptReference/modernizr-ver-BBD564F40D2D602049100DC76FE17C37.js"></script>
+<script type="text/javascript" id="sg_config">
+/*<![CDATA[*/
+var SG = SG || {};
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="//static.softgarden.de/thirdparty/fonts/css/dosis.css" />
+<link rel="stylesheet" type="text/css" href="//static.softgarden.de/thirdparty/fonts/css/dosis-vietnamese_latin-ext_latin.css" />
+<link rel="stylesheet" type="text/css" href="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.css.CssReference/webfrontend-v2-ver-591897EFF2EA75250FF42C429E89BE70.css" />
+<style type="text/css" id="companyCss">
+body { background:  #F5F5F5 no-repeat 0% 0%; } 
+.content-wrapper, .narrow-page, header.image-header { background-color: #FFFFFF; } 
+.content-box { background: #EEF1F2; } 
+a, label i, label em { color: #0E2650; } 
+a:visited { color: #0E2650; } 
+a:hover, .btn-link:hover, .btn-link:focus, .btn-link:active { color: #0E2650; } 
+body, h1, h2, h3 { color: #111111; } 
+.secondary-color, label, .control-group.error .control-label { color: #546076; } 
+textarea:focus, select:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus, .chosen-container-active .chosen-single, .chosen-container-active .chosen-choices, .chosen-container .chosen-drop { border-color: #0E2650; } 
+.btn, .btn:visited, .btn-primary, .btn-primary:visited, .upload-item { background-color: #0E2650; color: #FFFFFF; background-image: none; } 
+.btn-link, .btn-link:visited { color: #0E2650; } 
+.upload-item a, .upload-item a:visited { color: #FFFFFF; } 
+.thirdparty-btn.thirdparty-btn--cv-upload > * { color: #FFFFFF !important; } 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active { background-color: #0E2650; color: #000000; } 
+.thirdparty-btn.thirdparty-btn--cv-upload:hover > *, .thirdparty-btn.thirdparty-btn--cv-upload:active > *, .thirdparty-btn.thirdparty-btn--cv-upload:focus > * { color: #000000 !important; } 
+.navbar .btn-navbar, .navbar .btn-navbar.active, .navbar .btn-navbar:active, .navbar .btn-navbar:focus, .navbar .btn-navbar:hover { background-color: #FFFFFF; background-image: none; } 
+.navbar .btn-navbar .icon-bar, .navbar .btn-navbar.active .icon-bar, .navbar .btn-navbar:active .icon-bar, .navbar .btn-navbar:focus .icon-bar, .navbar .btn-navbar:hover .icon-bar { background-color: #000000; } 
+.sg-rating__star-icn.is-active, .sg-rating__star.is-hover .sg-rating__star-icn { color: #0E2650; } 
+.navbar .navbar-inner, .navbar .dropdown-menu { background-color: #FFFFFF; } 
+.navbar .nav > li > .dropdown-menu:after { border-bottom-color: #FFFFFF; } 
+.navbar .nav > li > a, .nav-collapse .dropdown-menu a, .navbar a, .navbar a:visited { color: #000000; } 
+.navbar .nav li.dropdown > .dropdown-toggle .caret { border-color: #000000; } 
+.navbar .nav > li > a.active, .navbar .nav > li > a:focus, .navbar .nav > li > a:hover, .navbar .nav li.dropdown.open > .dropdown-toggle, .nav-collapse .dropdown-menu a:focus, .nav-collapse .dropdown-menu a:hover, .nav-collapse .nav > li > a:focus, .nav-collapse .nav > li > a:hover { background-color: #0E2650; color: #FFFFFF; } 
+.navbar .nav li.dropdown > a:focus .caret, .navbar .nav li.dropdown > a:hover .caret, .navbar .nav li.dropdown.open > .dropdown-toggle .caret { border-color: #FFFFFF; } 
+@font-face {
+
+font-family: 'Roboto';
+src: url('https://s3.softgarden.de/mediaassets/customer/Seapoint/Roboto-Regular%20%281%29.ttf') format('truetype');
+font-weight:300;}
+
+@font-face {
+font-family: 'Roboto';
+src: url('https://s3.softgarden.de/mediaassets/customer/Seapoint/Roboto-Bold%20%281%29.ttf') format('truetype');
+font-weight:500;
+}
+
+body {
+font-family: 'Roboto';
+font-size: 15px;
+font-weight:300;
+}
+
+h1 {
+font-family: 'Roboto';
+font-size: 15px;
+font-weight:500;
+}
+
+
+@media only screen and (max-width: 767px) {
+  .job-search #jobsContainer .matchContainer .ProjectGeoLocationCity,
+  .job-search #jobsContainer .matchContainer .audience,
+  .job-search #jobsContainer .matchContainer .date,
+  .job-search #jobsContainer .matchContainer .jobcategory,
+  .job-search #jobsContainer .matchContainer .sg_company_id,
+  .job-search #jobsContainer .matchContainer .title {
+    width: 100%;
+    padding: 2px 0;
+  }
+  .job-search #jobsContainer .matchContainer .matchHeadline {
+    display: none!important;
+  }
+}
+
+.job-search .keywordSearch {
+display: none;
+}
+</style>
+<meta name="wicket.header.items"/>
+    </head>
+    <body>
+		<a href="#content" class="visually-hidden">Skip to main content</a>
+		
+		<div id="navbar" class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" aria-label="main menu">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+					<a class="brand" href="./vacancies">
+						
+						<img src="https://app.softgarden.io/assets/public/media/get/c605eb9d-96ed-447a-bfce-635d4222f07b/1761031648383/0x45/Bildschirmfoto_2025-10-21_um_09.26.46.png" alt="Seapoint Productions GmbH"/>
+					</a>
+					
+					<div class="nav-public-collapse nav-collapse collapse">
+						<ul class="nav-public nav">
+					    	<li><a href="./vacancies" class="link-jobs external navlink active">Stellenangebote</a></li><li></li><li><a href="../get-connected?l=de" class="link-getconnected external navlink">In Kontakt treten</a></li><li></li><li></li>
+						</ul>
+					</div>
+					
+					<div class="nav-personal-collapse nav-collapse collapse">
+						<ul class="nav-personal nav pull-right">
+							<li><a href="../sign-in?l=de" class="link-signin navlink">Login</a></li><li><a href="../sign-up?l=de" class="link-register navlink">Registrierung</a></li><li></li>
+							
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+		<div id="content" class="page-wrapper">
+			<div class="container">
+
+					
+		
+			<header class="image-header">
+				<div class="img-wrap">
+					<img src alt="">
+				</div>
+			</header>
+		
+
+		
+		
+
+		
+		
+	
+					<div class="body-wrapper">
+						
+		
+		<div class="jobs-page narrow-page">
+			<div>
+		<div class="job-search-panel">
+		
+			
+		
+			<div class="job-search">
+		<div class="internal-account-hint span3">
+			<a href="./vacancies?-1.-jobSearch-jobSearchContainer-internalLink" class="btn btn-primary">Bereits Mitarbeiter?</a>
+		</div>
+
+		<div class="searchBoxComplete">
+			<div class="searchBoxTop">
+				<section class="job-search-config searchBoxTopSmall">
+					<form class="search-form">
+						<section class="keyword-search">
+							<div class="keywordSearch">
+								<label for="keyword_search">Stichwortsuche</label>
+								<div class="loading-spinner" id="performing_keyword_search">
+									<img src="../img/jobsearch/taloom_loader_small.gif" alt="searching"/>
+								</div>
+								<input id="keyword_search" type="text" class="input-xlarge" value="" name="jobSearch:jobSearchContainer:keyword_search"/>
+							</div>
+						</section>
+						<section class="location-search" style="display: none;">
+							<div class="locationSearch search_criterion_box search_criterion_box_location">
+								<div class="resetLink selectAllLinkContainer">
+									<a href="#" onclick="resetLocationSearch();jQuery('.locationSearch .resetLink').hide(); return false;">Zurücksetzen</a>
+								</div>
+								<label for="geoLocation_search">Standortsuche</label>
+
+								<div class="loading-spinner" id="performing_location_search">
+									<img src="../img/jobsearch/taloom_loader_small.gif" alt="searching"/>
+								</div>
+								<div>
+									<input id="geoLocation_search" type="text" class="input-xlarge" value="" name="jobSearch:jobSearchContainer:geoLocation_search_wrapper:geoLocation_search"/>
+									<div id="geoLocation_info">
+
+										<small>
+											Arbeit in
+											<a href="#" onclick="centerMapToSearch();" id="geoLocation_result"> </a>
+											<span class="search-result-no-map"></span>
+											im Umkreis von
+										</small>
+										<div id="geoLocation_radius">
+											<select name="jobSearch:jobSearchContainer:geoLocation_search_wrapper:geoLocationRadius" id="id1">
+<option value="1">1 km</option>
+<option value="5">5 km</option>
+<option value="10">10 km</option>
+<option selected="selected" value="25">25 km</option>
+<option value="50">50 km</option>
+<option value="75">75 km</option>
+<option value="100">100 km</option>
+</select>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+
+						
+	
+	<section class="extended-search">
+		<div class="search-criteria-container">
+			
+				<div class="search_criterion_box" style="display: none">
+	<div class="searchFieldLabel">
+		<div class="selectAllLinkContainer"><a href="javascript:;" id="id2" data-select="#selector_0" class="js-toggle-all-select-options">Zurücksetzen</a></div>
+		<label for="searchFieldId" class="searchCriterionBoxHeader">Zielgruppe</label>
+	</div>
+	<select id="selector_0" multiple="multiple" size="5" class="SearchMultiSelectBox filter-options-select search_criterion_box_audience" aria-label="Zielgruppe oder Jobkategorie auswählen" name="audience[]" data-reset-link="#id2">
+<option  title = "Auszubildende" value="00001">Auszubildende</option>
+<option  title = "Schüler/in" value="3a3ab7987f000002010ad4925ffa0cf4">Schüler/in</option>
+<option  title = "Berufseinsteiger" value="3a3af3667f000002010ad49215c3a5f4">Berufseinsteiger</option>
+<option  title = "Berufserfahrene" value="3a3b1f6e7f000002010ad492e7837dd6">Berufserfahrene</option>
+<option  title = "Student/in" value="6179d1a00a0b0cce01ed3de8643a0e39">Student/in</option>
+</select>
+</div>
+			
+				<div class="search_criterion_box" style="display: none">
+	<div class="searchFieldLabel">
+		<div class="selectAllLinkContainer"><a href="javascript:;" id="id3" data-select="#selector_1" class="js-toggle-all-select-options">Zurücksetzen</a></div>
+		<label for="searchFieldId" class="searchCriterionBoxHeader">Jobkategorie</label>
+	</div>
+	<select id="selector_1" multiple="multiple" size="5" class="SearchMultiSelectBox filter-options-select search_criterion_box_jobcategory" aria-label="Zielgruppe oder Jobkategorie auswählen" name="jobcategory[]" data-reset-link="#id3">
+<option  title = "Administration und Sekretariat" value="sam42_administration">Administration und Sekretariat</option>
+<option  title = "Design, Gestaltung und Architektur" value="sam42_design">Design, Gestaltung und Architektur</option>
+<option  title = "Finanzen" value="sam42_finance">Finanzen</option>
+<option  title = "Führungskräfte" value="sam42_management">Führungskräfte</option>
+<option  title = "IT" value="sam42_it">IT</option>
+<option  title = "Marketing und Kommunikation" value="sam42_marketing">Marketing und Kommunikation</option>
+<option  title = "Personal" value="sam42_hr">Personal</option>
+<option  title = "Recht" value="sam42_law">Recht</option>
+<option  title = "Vertrieb und Verkauf" value="sam42_sales">Vertrieb und Verkauf</option>
+<option  title = "Media Produktion" value="dc1729fb-c017-495c-b8c4-774852298b87">Media Produktion</option>
+</select>
+</div>
+			
+		</div>
+		<div class="hide" id="mobile_placeholder">Bitte wählen</div>
+	</section>
+	
+
+					</form>
+				</section>
+				<section class="job-abo">
+
+					<a href="./vacancies?-1.-jobSearch-jobSearchContainer-jobAboLink" rel="nofollow" class="btn btn-primary">Stellenangebote abonnieren</a>
+
+				</section>
+
+				
+			</div>
+
+			<div id="jobsContainer" class="job-search-results">
+				<div>
+		<div class="job-search-result-panel">
+			<section id="job-search-map" class="jobMapContainer">
+				<div id="map_canvas"></div>
+			</section>
+
+			<section class="results">
+				<form>
+					<div class="result_count_div" id="job-search-result-count-label">
+						<p id="result_count_one" style="display: none;">Zu Ihrer Suchanfrage wurde eine Stellenanzeige gefunden:</p>
+						<p id="result_count_more" style="display: none;">Zu Ihrer Suchanfrage wurden <span id='jobs_result_count'>{0}</span> Stellenanzeigen gefunden:</p>
+						<p id="result_count_none" style="display: none;">Keine Stellenanzeigen gefunden.</p>
+					</div>
+					<div class="matchContainer">
+						<div class="matchElement matchHeadline">
+							<div id="matchValueHeadline1" class="matchValue date" onclick="reorderList(1); return false;">
+								<a href="#" onclick="return false;"><span>Datum</span><b class="caret"></b></a>
+							</div><div id="matchValueHeadline2" class="matchValue title" onclick="reorderList(2); return false;">
+								<a href="#" onclick="return false;"><span>Stellenangebot</span><b class="caret"></b></a>
+							</div>
+						</div>
+						<div class="outputContainer">
+							<div class="matchElement" id="job_id_68116211">
+								<div class="matchValue date">15.10.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/68116211/PRAKTIKANT-IN-TICKETING-REDAKTION-SHOW-m-w-d-?jobDbPVId=287747806&amp;l=de" target="_blank">PRAKTIKANT:IN TICKETING | REDAKTION SHOW (m/w/d)</a>
+		</div>
+							</div><div class="matchElement" id="job_id_64844581">
+								<div class="matchValue date">21.05.26</div><div target="_blank" class="matchValue title">
+			<a href="../job/64844581/JOIN-TEAM-SEAPOINT-m-w-d-?jobDbPVId=273613666&amp;l=de" target="_blank">JOIN TEAM SEAPOINT (m/w/d)</a>
+		</div>
+							</div>
+						</div>
+						<div class="pagination pagination-centered"><ul id="job-search-pagination" class="taloom-pager"></ul></div>
+					</div>
+				</form>
+			</section>
+		</div>
+	</div>
+				
+		<div class="job-search-get-connected" id="job-search-get-connected">
+			<a href="../get-connected?l=de" class="job-search-get-connected-btn btn btn-primary" id="job-search-get-connected-btn">In Kontakt treten</a>
+			<p class="job-search-get-connected-label" id="job-search-get-connected-label">Keinen passenden Job gefunden? Sie sind daran interessiert bei uns zu arbeiten? Treten Sie mit uns in Kontakt, damit wir Sie bei zukünftigen Stellenvergaben berücksichtigen können.</p>
+		</div>
+	
+			</div>
+		</div>
+
+		<div id="sg_modal" hidden="" data-wicket-placeholder=""></div>
+	</div>
+
+		</div>
+	</div>
+		</div>
+	
+	
+					</div>
+
+
+				
+		<footer id="footer">
+			<ul class="inline">
+				<li><a href="./imprint" target="_blank" class="sg_imprint_link">Impressum</a></li>
+				<li><a href="./data-security" target="_blank" class="sg_data_privacy_link">Datenschutzhinweise</a></li>
+				<li class="powered-by-taloom">
+	<span>
+		powered by 
+		<a href="https://softgarden.com" target="_blank">softgarden</a>
+		
+	</span>
+</li>
+			</ul>
+		</footer>
+	
+			</div>
+		</div>
+
+		
+
+		<div id="sg_modal" hidden="" data-wicket-placeholder=""></div>
+
+		
+		<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="de/vacancies";
+/*]]>*/
+</script>
+<script type="text/javascript" src="//static.softgarden.de/thirdparty/chosen/1.8.7/chosen.jquery.min.js"></script>
+<script type="text/javascript" id="id2">
+/*<![CDATA[*/
+$('#id2').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" id="id3">
+/*<![CDATA[*/
+$('#id3').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" id="allJobLocations">
+/*<![CDATA[*/
+SG.allJobLocations = [];SG.allJobLocations.push({markerName: 'PRAKTIKANT:IN\x20TICKETING\x20|\x20REDAKTION\x20SHOW\x20(m\/w\/d)', latitude: 50.937531, longitude: 6.9602786, postingId: 68116211, geoName: 'Köln,\x20Deutschland'});SG.allJobLocations.push({markerName: 'JOIN\x20TEAM\x20SEAPOINT\x20(m\/w\/d)', latitude: 50.937531, longitude: 6.9602786, postingId: 64844581, geoName: 'Köln,\x20Deutschland'});
+/*]]>*/
+</script>
+<script type="text/javascript" id="jobMapInit">
+/*<![CDATA[*/
+window.jQuery('#job-search-map').hide();
+/*]]>*/
+</script>
+<script type="text/javascript" src="https://static.softgarden.de/thirdparty/leaflet/1.9.4/leaflet.js"></script>
+<script type="text/javascript" src="/thirdparty/jquery/query/jquery.query-2.2.3.js"></script>
+<script type="text/javascript" src="../wicket/resource/com.softgarden.staffit.webclient.webfrontend.pages.main.js.JavaScriptReference/jobSearchLive-ver-DF58093895DAE1EA109A34586D3118B6.js"></script>
+<script type="text/javascript" id="frontend-font">
+/*<![CDATA[*/
+WebFont.load({custom:{families:['Open Sans']}});
+/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+Wicket.Ajax.ajax({"u":"./vacancies?-1.0-jobSearch-jobSearchContainer-keyword_search","m":"POST","c":"keyword_search","e":"input change","ch":"keyword_search|d","tr":{"id":"keyword_search","d":10,"p":true}});;
+$('#id1').chosen({width: "100%",disable_search: true,no_results_text: "Kein Eintrag gefunden",placeholder_text_single: "Bitte wählen",placeholder_text_multiple: "Bitte wählen"});requestAnimationFrame(function() {  var $input = $('#id1_chosen .chosen-search input');  if ($input.length && !$input.attr('aria-label')) {    $input.attr('aria-label', 'Search options');  }});;
+Wicket.Event.publish(Wicket.Event.Topic.AJAX_HANDLERS_BOUND);
+;});
+/*]]>*/
+</script>
+
+    </body>
+</html>

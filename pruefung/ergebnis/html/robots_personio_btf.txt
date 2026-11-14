@@ -1,0 +1,3 @@
+<!-- 200 https://btf-gmbh.jobs.personio.de/robots.txt -->
+User-agent: *
+Allow: /

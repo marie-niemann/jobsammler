@@ -1,0 +1,729 @@
+<!-- 200 https://recruitingapp-5154.de.umantis.com/Jobs/All -->
+<!DOCTYPE html><html class="ger Overview" lang="de" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="msapplication-config" content="none"/>
+		<meta name="referrer" content="origin-when-cross-origin"/>
+		<meta name="theme-color" content="#4e616d" />		<meta name="robots" content="all, index">		<meta name="description" content="rbb-Bewerbungsportal Stellenmarkt">
+	 	<meta name="keywords" content="Abacus-Umantis, human resources, hr solutions, Umantis">
+		<meta name="author" content="Abacus-Umantis team">
+		<meta name="ATS" content="Abacus-Umantis">
+	<link rel="stylesheet" href="/assets/vendors/redactor/redactor.css?d0f5e0b2" />
+	<link rel="stylesheet" href="/css/main.ui-2023.min.css?d0f5e0b2" type="text/css" />	
+	<!-- High Contrast CSS for accessibility -->
+	<link rel="stylesheet" href="/css/external2024-hc.min.css?d0f5e0b2" type="text/css" media="(prefers-contrast: high), (-ms-high-contrast: active), (forced-colors: active)" />
+	<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+		// Ensure High Contrast detection function exists
+		if (typeof initializeHighContrast === 'function') {
+			document.addEventListener('DOMContentLoaded', initializeHighContrast);
+		}
+	</script>	<link rel="stylesheet" href="/assets/vendors/workflow/workflow.css?d0f5e0b2" />
+	<link rel="stylesheet" href="/css/fonts/font-umantis.css?d0f5e0b2" type="text/css"/>
+	<link rel="stylesheet" href="/css/tingle.css?d0f5e0b2" type="text/css" /> <!-- Added for "Tingle" modal implementation -->
+    <link rel="stylesheet" href="/css/jquery.orgchart.css?d0f5e0b2" type="text/css" />		<link rel="stylesheet" href="/pubhtml/5154/customer/external2023.css?d0f5e0b2" type="text/css">		<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+			var globalUmantisParams = {
+				PageName: "Overview",
+				OverviewExtendedSearch:  "",
+				CWCActive: "",
+				BrowserLanguage: "de-de",
+				JSMultiSelect: "1",
+				JSRadiosAndChecks: "1",
+				JSActionbarToggle: "1",
+				CatchEdit: "",
+				CrossDomainMessagingPossible: "1",
+				SelfID: "",
+				SessionDurationMS: "28800000",
+				ServerLoadTime: "0.462252",
+				PingB4Submit: "true",
+				SolutionLanguage: "de",
+				DevMode: "",
+				UserTimeZoneInactive: ""
+			};
+		</script>				<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/header-2023.min.js?d0f5e0b2"></script>
+ 	 	<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+			var customerID = '5154';					var pageType = 'Overview';				 		var serializedForm;										var autocomplete_searches = new Array();				var dontfocus = 0;										var AllowedMimeType = ["doc","docx","odt","txt","rtf","ppt","pptx","pps","pdf","xls","xlsx","avi","mpg","mpeg","mov","mp3","m4a","mp4","jpg","jpeg","gif","png","bmp","tif","tiff"];
+						var StandardText = new Object();						   StandardText['DateformatTMJHM_default'] = "Datumsformat: TT.MM.JJJJ @ hh:mm";						   StandardText['errorCVFileUpload'] = "Der Lebenslauf konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut.";						   StandardText['CVParse'] = "Auslesen des Lebenslaufs...";						   StandardText['CalendarWeekDayNames'] = "Mo|Di|Mi|Do|Fr|Sa|So";						   StandardText['VariableFinderClose'] = "Variablen-Finder deaktivieren";						   StandardText['Logout'] = "Ausloggen";						   StandardText['DeepSignTooltip'] = "Dokument mit Deepsign unterzeichnen";						   StandardText['CwcAll'] = "alle";						   StandardText['CheckCalenderDura420'] = "7 Stunden";						   StandardText['CwcTableSettings'] = "Tabelleneinstellungen";						   StandardText['BrowsingPositionToPersons'] = "Interaktive Suche nach geeigneten Bewerbern";						   StandardText['Close'] = "Schliessen";						   StandardText['ApplyingFilter'] = "Filtern";						   StandardText['CwcShowLangIDs'] = "LangIDs anzeigen";						   StandardText['CheckAll'] = "alle";						   StandardText['PDFHoverLabel'] = "Fehlgeschlagene Dateien";						   StandardText['TableNavigateBack'] = "Keine Daten mehr - bitte verwenden Sie die Navigation, um zurückzublättern";						   StandardText['Yes'] = "ja";						   StandardText['SessionPreTimeoutMessage'] = "Ihre Sitzung endet nach dieser Zeit und Sie werden automatisch vom System ausgeloggt. Nicht gespeicherte Änderungen gehen gegebenenfalls verloren. Klicken Sie auf &quot;Sitzungsdauer verlängern&quot;, um die automatische Abmeldung abzubrechen und die Sitzungsdauer zu verlängern.";						   StandardText['OverviewCreatePersonSearchLink'] = "Persönlichen Suchlink erstellen";						   StandardText['Finalization'] = "Bestätigung";						   StandardText['CwcEditMAVisibility'] = "Multiaction-Eintrag ausblenden";						   StandardText['OverviewSearchReset'] = "Suche zurücksetzen";						   StandardText['Answers'] = "Antworten";						   StandardText['ID'] = "ID";						   StandardText['JobDetails'] = "Stellendetails";						   StandardText['CheckCalenderDura240'] = "4 Stunden";						   StandardText['CwcEditOnlyElementDelete'] = "( =&gt; Löschen Sie die oberen spezifischen Umbenennungen, um nach dem Speichern entweder die globalen Umbenennungen oder die Original-Inhalte von umantis zu verwenden.)";						   StandardText['CheckCalenderDateRangeHelp'] = "Bitte reduzieren Sie die Zeitspanne zwischen Startdatum und Enddatum auf maximal 60 Tage.";						   StandardText['MinutesText'] = "Minuten";						   StandardText['CWCTableSortColumn'] = "Standardmässig sortiert nach Spalte";						   StandardText['CwcUnHide'] = "Einblenden";						   StandardText['CwcEdit'] = "Element bearbeiten";						   StandardText['CwcConfigLevelUser'] = "Benutzer";						   StandardText['Main'] = "Startseite";						   StandardText['Finish'] = "Zurück";						   StandardText['CheckCalenderDura120'] = "2 Stunden";						   StandardText['Okay'] = "Okay";						   StandardText['Send'] = "Senden";						   StandardText['DropDownText'] = "Dropdown-Listenfeld";						   StandardText['To'] = "Bis";						   StandardText['OverviewFilterNoResult'] = "&lt;span class=&quot;color-grey-m&quot;&gt;&lt;i&gt;Keine Einträge gefunden. Sie können Folgendes versuchen:&lt;ul&gt;&lt;li&gt;Ihre Filterkriterien ändern&lt;/li&gt;&lt;li&gt;Die Suche zurücksetzen, um Filterkriterien zu löschen&lt;/li&gt;&lt;li&gt;Auf Gross- und Kleinschreibung achten&lt;/li&gt;&lt;li&gt;Die Symbole * als Platzhalter für mehrere und ? für ein Zeichen nutzen.&lt;/li&gt;&lt;/ul&gt;&lt;/i&gt;&lt;/span&gt;";						   StandardText['ShowNoDetails'] = "&lt;i&gt; &lt;span class=&quot;color-grey-m&quot;&gt; Keine Details erfasst&lt;/span&gt;&lt;/i&gt;";						   StandardText['SortDown'] = "Absteigend sortieren";						   StandardText['SkipToActionBar'] = "Springe zur Aktionsleiste";						   StandardText['FontSizeLarge'] = "Grosse Schrift";						   StandardText['LastLinkText'] = "letzte";						   StandardText['FontSizeSmall'] = "Kleine Schrift";						   StandardText['OpenDocument'] = "Dokument öffnen";						   StandardText['BackToTop'] = "Zurück nach oben";						   StandardText['From'] = "Von";						   StandardText['AnswerQuestion'] = "Pflichtfrage: Bitte beantworten Sie Frage";						   StandardText['CwcConfigLevelMandate'] = "Mandant";						   StandardText['CheckCalenderStartDate'] = "Startdatum";						   StandardText['Weak'] = "SCHWACH";						   StandardText['FormCheckInfo'] = "Bitte füllen Sie folgende Felder aus";						   StandardText['ExtendedSearchTitle'] = "Erweiterte Suche";						   StandardText['ProfilePictureText'] = "Profilbild";						   StandardText['DatePickerText'] = "Drücken Sie die Eingabetaste, um die Datumsauswahl zu öffnen.";						   StandardText['NoCountAvailable'] = "Die Anzahl der Einträge kann nicht angezeigt werden. Bitte versuchen Sie es später noch einmal.";						   StandardText['ApplyFilter'] = "Filter anwenden";						   StandardText['OverviewSearchText'] = "Suche nach";						   StandardText['ChangeFontSize'] = "Schriftgrösse";						   StandardText['BrowsingResetCriteriaHelp'] = "Klicken Sie bitte auf diesen Pfeil, um die jeweils links stehende Einschränkung (inkl. untergeordnete Einschränkungen) aufzuheben.";						   StandardText['UploadDocumentText'] = "Drücken Sie die Eingabetaste, um das Dokument hochzuladen";						   StandardText['Print'] = "Druckansicht";						   StandardText['ActionBarTitleSearch'] = "Suche";						   StandardText['WizardPreviousStep'] = "Schritt zurück";						   StandardText['SendMultipleTimes'] = "Ja, jetzt senden";						   StandardText['ResetBrowsing'] = "Interaktive Suche zurücksetzen";						   StandardText['CheckVisibles'] = "angezeigte";						   StandardText['EditText'] = "bearbeiten";						   StandardText['MaxEntriesVisible'] = "Die maximale Anzahl Einträge ist";						   StandardText['WizardHelpStopPlayer'] = "Assistent beenden";						   StandardText['CheckCalenderGreenLegend'] = "Alle Teilnehmer sind verfügbar";						   StandardText['FileAsDownload'] = "Datei als Download aufrufen";						   StandardText['ActionBarTitleAction'] = "Aktionen";						   StandardText['NewNotifications'] = "Neue Benachrichtigungen";						   StandardText['WhatToCheck'] = "auswählen:";						   StandardText['CwcEditTextHelp'] = " ";						   StandardText['errorCVFileType'] = "Der Dateityp entspricht nicht den erlaubten Dateitypen oder überschreitet [allowFileSize] MB.";						   StandardText['CwcEditOnlyElementHelp'] = "Sonst werden alle Elemente mit diesem Original-Inhalt umbenannt.";						   StandardText['WizardNextStep'] = "Schritt vor";						   StandardText['BookmarkMake'] = "Lesezeichen erstellen";						   StandardText['CwcConfigLevelCustomer'] = "Kunde";						   StandardText['Questionnaire'] = "Qualifizierungsfragen";						   StandardText['ShortKeyInfo'] = "Kurzwahl-Taste";						   StandardText['CheckCalenderDuration'] = "Dauer";						   StandardText['CaptchaInput'] = "CAPTCHA - Bitte untenstehenden Text eingeben";						   StandardText['FurtherFilters'] = "Weitere Filter";						   StandardText['Delete'] = "&lt;i class=&quot;icon idelete&quot; title=&quot;Löschen&quot;&gt;&lt;/i&gt;";						   StandardText['Sort'] = "Sortieren:";						   StandardText['Step'] = "Schritt";						   StandardText['CustomizedFooter'] = "Individuelle Fußzeile für externe Seiten";						   StandardText['Selected'] = "ausgewählt";						   StandardText['CwcConfigLevel'] = "Konfigurations-Ebene";						   StandardText['Or'] = "oder";						   StandardText['DeleteAttachment'] = "Sind Sie sicher, dass Sie die Datei löschen möchten? Die Aktion kann nicht rückgängig gemacht werden.";						   StandardText['StatusMessage'] = "Status erfolgreich angepasst";						   StandardText['SearchNext'] = "&lt;i class=&quot;icon itnav_next&quot; title=&quot;nächste&quot;&gt;&lt;/i&gt;";						   StandardText['TimePickerText'] = "Drücken Sie die Eingabetaste, um die Zeitauswahl zu öffnen.";						   StandardText['OverviewDefaultFilter'] = "Meine Standardsuchbegriffe";						   StandardText['CwcSearchHierarchyHelpText'] = "Das Feld übernimmt die Hierachiestruktur während der Suche";						   StandardText['CheckCalenderDura15'] = "15 Minuten";						   StandardText['Filter'] = "Filter";						   StandardText['ConfigurationAndSettings'] = "Konfiguration und Einstellungen";						   StandardText['DateformatTMJ_default'] = "Datumsformat: TT.MM.JJJJ";						   StandardText['errorsFormValidation'] = "Fehler bei der Formularprüfung";						   StandardText['TableSortStringWrong'] = "Die Blätter-Einstellung für diese Tabelle kann den Inhalt nicht mehr abbilden - zurück zu Seite 1";						   StandardText['EeocTextDisability'] = "Please click to view a definition of disability.";						   StandardText['CheckCalenderChoose'] = "Bitte wählen";						   StandardText['OverviewNoEntries'] = "&lt;i&gt; &lt;span class=&quot;color-grey-m&quot;&gt; Es wurden noch keine Einträge erfasst, die hier angezeigt werden könnten.&lt;/span&gt;&lt;/i&gt;";						   StandardText['FontSizeMedium'] = "Normale Schrift";						   StandardText['BrowsingMissingFrom'] = "Kriterium im Anforderungsprofil nicht definiert.";						   StandardText['Browse'] = "Durchsuchen";						   StandardText['CwcOff'] = "aus";						   StandardText['ShowConnectorTableDetailsAndEdit'] = "Details&amp;Ändern";						   StandardText['CheckCalenderDura45'] = "45 Minuten";						   StandardText['CheckAllToCheckSingleWarning'] = "Die Auswahloption „alle“ wird durch Abwählen eines einzelnen Eintrags wieder rückgängig gemacht. Hierdurch sind jetzt nur die Einträge der angezeigten Seite ausgewählt.";						   StandardText['ErrorAccessDenied'] = "&lt;b&gt;Kein Zugriff&lt;/b&gt;";						   StandardText['NoSelection'] = "Keine Angabe";						   StandardText['DateformatMJ_default'] = "";						   StandardText['OverviewFilterResetDefault'] = "Standardsuchbegriffe anwenden";						   StandardText['AllOrBrowsing'] = "Irgendetwas von oben";						   StandardText['CVParseConsentMessage'] = "Ich stimme zu, dass die Daten aus meinem Lebenslauf zur Vervollständigung des vorliegenden Formulars verarbeitet werden. Die Datenschutzerklärung habe ich zur Kenntnis genommen.";						   StandardText['CheckCalenderDura60'] = "1 Stunde";						   StandardText['OverviewSearch'] = "Suche";						   StandardText['HoursText'] = "Stunden";						   StandardText['And'] = "und";						   StandardText['TableMultiactionDo'] = "Ausführen";						   StandardText['LabelCVInput'] = "Laden Sie Ihren Lebenslauf hoch";						   StandardText['CwcSeparationHide'] = "Sichtbarkeit";						   StandardText['ShowConnectorTableRemove'] = "Entfernen";						   StandardText['DropDownChoose'] = "Bitte wählen";						   StandardText['CwcNonSearchHierarchyHelpText'] = "Das Feld übernimmt nicht die Hirarchiestruktur während der Suche";						   StandardText['DeleteButton'] = "Löschen";						   StandardText['AllowedCVFileType'] = "Erlaubte Dateitypen: PDF, DOCX, JPG oder PNG, Dateigrösse max. 50 MB";						   StandardText['VariableFinderInfo'] = "kontextabhängige Variabel(n)";						   StandardText['Login'] = "Benutzername";						   StandardText['CWCSpecialGroupInfoText'] = "(Spezial-Einstellung)";						   StandardText['CwcEditVisibility'] = "Ausblenden";						   StandardText['NavigationLinks'] = "Navigationslinks";						   StandardText['ConfirmDeleteEntry'] = "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?";						   StandardText['BrowsingAll'] = "Alle";						   StandardText['MultiSelectWarning'] = "Möchten Sie den ausgewählten Personalbetreuer zuordnen?";						   StandardText['LoadingContent'] = "Inhalt wird geladen...";						   StandardText['ActiveFilter'] = "Aktive Filter";						   StandardText['SearchPrevious'] = "&lt;i class=&quot;icon itnav_prev&quot; title=&quot;vorherige&quot;&gt;&lt;/i&gt;";						   StandardText['ErrorNoScreen'] = "&lt;b&gt;Die aufgerufene Seite existiert nicht&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Sie befinden sich auf dem umantis-Websystem, die aufgerufene Seite existiert jedoch leider nicht.&lt;br/&gt;&lt;br/&gt;Mögliche Ursachen:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Ein falscher oder alter Link führte auf diese Seite.&lt;/li&gt;&lt;li&gt;Bei der Adresseingabe ist ein Tippfehler unterlaufen.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;Was Sie versuchen können:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Kontrollieren Sie die Adresse.&lt;/li&gt;&lt;li&gt;Geben Sie die Adresse neu ein.&lt;/li&gt;&lt;li&gt;Kehren Sie auf die vorherige Seite zurück.&lt;/li&gt;&lt;/ul&gt;";						   StandardText['ShowPassword'] = "Passwort anzeigen";						   StandardText['CWCFilters'] = "Filter konfigurieren";						   StandardText['UploadCVText'] = "Lebenslauf hochladen";						   StandardText['NewCreateAndConnect'] = "Erstellen und zuweisen";						   StandardText['DateformatJ_default'] = "";						   StandardText['DeletedMsg'] = "Dokument [filename] erfolgreich gelöscht";						   StandardText['NoFileSelect'] = "Keine Datei ausgewählt!";						   StandardText['LoginFailed'] = "&lt;span class=&quot;color-warn&quot;&gt;&lt;b&gt;Benutzername oder Passwort sind nicht korrekt&lt;/b&gt;&lt;/span&gt;Der Benutzername, das Passwort oder die Kombination aus beiden ist nicht korrekt (bitte beachten Sie die Gross-/Kleinschreibung). Bitte wiederholen Sie die Eingabe oder bestellen Sie sich ein neues Passwort mit Hilfe der &quot;Passwort vergessen&quot;-Funktion.";						   StandardText['OverviewSearchNoResultShort'] = "&lt;span class=&quot;color-grey-m&quot;&gt;&lt;i&gt;Keine Einträge gefunden.&lt;/i&gt;&lt;/span&gt;";						   StandardText['CwcShowFields'] = "Felder anzeigen";						   StandardText['CheckCalenderEndDate'] = "Enddatum";						   StandardText['FirstLinkText'] = "erste";						   StandardText['WizardHelpStopRecorder'] = "Aufzeichnung stoppen";						   StandardText['TableMultiactionChoose'] = "Aktion wählen";						   StandardText['CwcEditVisibilityHelp'] = "&amp;nbsp;";						   StandardText['CheckCalenderButton'] = "Verfügbarkeiten prüfen";						   StandardText['SessionTimeoutDialog'] = "Dialog zur Sitzungsdauer";						   StandardText['InputFilePlaceholderText'] = "Dateien zum Anhängen ablegen oder";						   StandardText['SessionTimeout'] = "Ihre Sitzung ist abgelaufen!";						   StandardText['No'] = "nein";						   StandardText['AutoLogoutIn'] = "Automatische Abmeldung in";						   StandardText['Open'] = "Öffnen";						   StandardText['DateformatTMJ_en-us'] = "Datumsformat: MM/TT/JJJJ";						   StandardText['Since'] = "Seit";						   StandardText['SortUp'] = "Aufsteigend sortieren";						   StandardText['CwcHide'] = "Ausblenden";						   StandardText['InfoFormMustFields'] = "Bitte alle Felder mit * ausfüllen";						   StandardText['SkipToSearch'] = "Springe zur Suche";						   StandardText['CookieDisabled'] = "Ihr Browser unterstützt leider keine Cookies. Bitte aktivieren Sie die Cookies in Ihrem Webbrowser für eine vollständige und fehlerfreie Nutzung.";						   StandardText['CWCTableOrderByColumn'] = "Sortieren nach";						   StandardText['NoInternetConnection'] = "Keine Internetverbindung!";						   StandardText['CreateJobPost'] = "Stellenanzeige erstellen";						   StandardText['SearchLast'] = "&lt;i class=&quot;icon itnav_last&quot; title=&quot;letzte&quot;&gt;&lt;/i&gt;";						   StandardText['HidePassword'] = "Passwort ausblenden";						   StandardText['errorCaptchaLoading'] = "Captcha-Bild konnte nicht geladen werden!";						   StandardText['LinkCopied'] = "Verknüpfung kopiert!";						   StandardText['NextLinkText'] = "nächste";						   StandardText['CheckCalenderGrayLegend'] = "Keine Teilnehmer verfügbar";						   StandardText['ConnectRemove'] = "Zuweisung aufheben";						   StandardText['OverviewBookmarkSearch'] = "Lesezeichen";						   StandardText['Add'] = "Hinzufügen";						   StandardText['CwcEditOnlyElement'] = "Spezifische Umbenennung&lt;br&gt;(nur für dieses Element)";						   StandardText['TextBoxText'] = "Textfeld";						   StandardText['CheckCalenderDura360'] = "6 Stunden";						   StandardText['SearchFirst'] = "&lt;i class=&quot;icon itnav_first&quot; title=&quot;erste&quot;&gt;&lt;/i&gt;";						   StandardText['TemporaryDesignActive'] = "Neues Design ist temporär aktiviert";						   StandardText['OverviewDefaultSearch'] = "Meine Standardsuchbegriffe";						   StandardText['CwcSearchHierarchyName'] = "Einstellungen zur Suche";						   StandardText['CwcPanelTitle'] = "Ansicht anpassen";						   StandardText['MultiActionWarning'] = "Möchten Sie die ausgewählten Vorgesetzten zuordnen?";						   StandardText['OverviewSearchResetDefault'] = "Zurücksetzen auf Standardsuchbegriffe";						   StandardText['UserLanguageText'] = "Benutzersprache";						   StandardText['CheckCalenderDura300'] = "5 Stunden";						   StandardText['CheckCalenderRedLegend'] = "Nicht alle Teilnehmer sind verfügbar";						   StandardText['DoNotSendAgain'] = "Nein, jetzt ändern";						   StandardText['DeleteText'] = "löschen";						   StandardText['ErrorNoRights'] = "&lt;b&gt;Keine Zugriffsberechtigung für die aufgerufene Seite&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Sie haben eine Seite aufgerufen, für die ein Zugang mit spezieller Berechtigung erforderlich ist.&lt;br/&gt;&lt;br/&gt;Mögliche Ursachen:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Sie sind einem Link gefolgt, der nicht für Sie bestimmt war.&lt;/li&gt;&lt;li&gt;Sie verwenden einen Benutzernamen, der für diesen Bereich keine Berechtigung hat.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;Was Sie versuchen können, wenn Sie mit einem falschen Benutzernamen eingeloggt sind: &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;?Logout=6&quot;&gt;Neu einloggen&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Auf die vorherige Seite zurückkehren.&lt;/li&gt;&lt;/ul&gt;";						   StandardText['Now'] = "Jetzt";						   StandardText['FormNavigation'] = "Formularnavigation";						   StandardText['EeocTextEthnicity'] = "Please click to view a definition of ethnicity.";						   StandardText['Strong'] = "STARK";						   StandardText['JobsFound'] = "Stellen gefunden";						   StandardText['TableNavEntriesLoading'] = "Die Gesamt-Resultate werden berechnet...";						   StandardText['EeocTextVeteran'] = "Please click to view a definition of veteran.";						   StandardText['YourData'] = "Ihre Daten";						   StandardText['PDFSuccessRate'] = "Erfolgreich konvertiert";						   StandardText['FormNavigationLinks'] = "Navigationslinks";						   StandardText['ActiveStyleTester'] = "Styletester aktiv";						   StandardText['BrowsingAgeFrom'] = "von";						   StandardText['SingleButton'] = "Zurück";						   StandardText['InputFilePlaceholderTextMobile'] = "Datei hochladen";						   StandardText['WizardInfoPageNotAvailable'] = "Diese Seite ist nicht verwendbar für Wizards - bitte navigieren Sie weiter.";						   StandardText['ListJobOverview'] = "Liste Stellenübersicht";						   StandardText['TableDisplayTo'] = "bis";						   StandardText['BrowsingQuestsMoreThan'] = "&amp;nbsp;";						   StandardText['DateRangeErrorMessage'] = "End-Datum sollte nach dem Start-Datum liegen.";						   StandardText['CheckCalenderDura480'] = "8 Stunden";						   StandardText['CwcMainNavEdit'] = "Ansicht anpassen";						   StandardText['BackToBrowsing'] = "Suchkriterien anpassen";						   StandardText['BrowsingChosenCriteria'] = "Aktionen";						   StandardText['PleaseCheck'] = "Bitte bestätigen";						   StandardText['DateformatMJ'] = "Datumsformat: MM.JJJJ";						   StandardText['CustomizedHeader'] = "Individuelle Kopfzeile für externe Seiten";						   StandardText['UncheckAll'] = "keine";						   StandardText['DocumentAttached'] = "Dokument erfolgreich angehängt.";						   StandardText['WelcomeImageText'] = "Herzlich Willkommen";						   StandardText['LeavingDataUnsaved'] = "Sie haben Daten geändert aber nicht gespeichert.";						   StandardText['MultiActionMoreThan1000Selected'] = "Vorsicht! Mehr als 1000 Elemente ausgewählt.";						   StandardText['Cancel'] = "Abbrechen";						   StandardText['CwcEditOriginalValue'] = "Original-Inhalt";						   StandardText['Freak'] = "Bitte &lt;a href='/Administration/Backup/Start'&gt;sichern&lt;/a&gt; Sie Ihre Ansichtskonfiguration bevor Sie Änderungen vornehmen.";						   StandardText['Menu'] = "Menü";						   StandardText['CheckCalenderDura180'] = "3 Stunden";						   StandardText['Password'] = "Passwort";						   StandardText['DateformatJ'] = "Datumsformat: JJJJ";						   StandardText['SessionPostTimeoutMessage'] = "Die aktuelle Sitzung wurde aufgrund von Inaktivität beendet. Sie können dieses Formular jetzt nicht mehr speichern. Speichern Sie Ihre Änderungen vor dem Verlassen der Seite gegebenenfalls lokal ab, um Datenverlust zu vermeiden.";						   StandardText['CheckCalenderDura90'] = "1,5 Stunden";						   StandardText['HomeSearchText'] = "Nach Name oder Stelle";						   StandardText['Extend'] = "Ausklappen";						   StandardText['CheckCalenderHelpText'] = "Um einen der gefundenen Termine zu verwenden, klicken Sie bitte in das jeweilige Feld und wählen Sie die Dauer. Bitte beachten Sie, dass erst nach dem Absenden der Einladungsemail eine Buchung erfolgt.";						   StandardText['SecondsText'] = "Sekunden";						   StandardText['CwcSeparationEditableAttributesGlobalElement'] = "(Folgendes Element ist nur global und nicht individuell anpassbar)";						   StandardText['TableDisplayOf'] = "von";						   StandardText['CwcEditGeneralElement'] = "Allgemeine Umbenennungen:";						   StandardText['SearchExcludedWords'] = "Folgende Suchbegriffe wurden für die Suche nicht berücksichtigt";						   StandardText['TableNoSearch1'] = "Die Einträge wurden &lt;b&gt;ausgeblendet&lt;/b&gt;. Bitte verwenden Sie die Suche, um bestimmte Einträge anzuzeigen.";						   StandardText['CheckBoxText'] = "Auswahlfeld";						   StandardText['SideBarToggle'] = "Seitenleiste umschalten";						   StandardText['ConnectAdd'] = "Zuweisen";						   StandardText['Edit'] = "&lt;i class=&quot;icon iedit&quot; title=&quot;Bearbeiten&quot;&gt;&lt;/i&gt;";						   StandardText['Search'] = "Suchen";						   StandardText['SessionTimeoutExtend'] = "Sitzungsdauer verlängern";						   StandardText['CopyrightExtern'] = "a solution";						   StandardText['BookmarkJS'] = "URL mit Suchparameter kopieren oder Seite als Lesezeichen speichern";						   StandardText['ModalText'] = "Pop-up-Fenster";						   StandardText['Display'] = "Bewerber anzeigen";						   StandardText['ResetRanks'] = "Reihenfolge der Elemente zurücksetzen";						   StandardText['WizardInfoFillup'] = "Bitte füllen Sie die notwendigen Felder für den neuen Schritt aus.";						   StandardText['CalendarMonthNames'] = "Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember";						   StandardText['OrderAsc'] = "aufwärts (a-z)";						   StandardText['Save'] = "Speichern";						   StandardText['Collapse'] = "Einklappen";						   StandardText['OverviewSearchAdvanced'] = "Erweiterte Suche";						   StandardText['BrowsingAgeTo'] = "bis";						   StandardText['AllFilters'] = "Alle Filter";						   StandardText['CwcSeparationEditableAttributes'] = "Bearbeitbare Attribute";						   StandardText['Time'] = "Zeit";						   StandardText['ApplicationProcess'] = "Bewerbungsfortschritt ";						   StandardText['CwcSelectLanguage'] = "Sprache wechseln";						   StandardText['Calendar'] = "Kalender";						   StandardText['BrowsingQuestsPoints'] = "oder mehr Punkte";						   StandardText['WizardRecorderActive'] = "Assistenten-Aufzeichnung aktiv";						   StandardText['WizardSaveLink'] = "&lt;i class=&quot;icon isave&quot;&gt;&lt;/i&gt;";						   StandardText['OverviewFilterReset'] = "Filter zurücksetzen";						   StandardText['ShowHtmlAsPlainTextHeader'] = "Non-HTML Nachricht";						   StandardText['CwcEditMAVisibilityHelp'] = " ";						   StandardText['WizardInfoCloseAfterSave'] = "Nach dem Hinzufügen können Sie dieses Browserfenster/diesen BrowserTab wieder schliessen und an der Stelle mit Aufzeichnen fortfahren, wo Sie vorher waren.";						   StandardText['CheckCalenderDura30'] = "30 Minuten";						   StandardText['CwcActives'] = "nur aktive";						   StandardText['BookmarkNoSupportLink'] = "Klicken Sie auf diesen Link und fügen Sie die Seite nach dem Laden zu Ihren Favoriten hinzu.";						   StandardText['Expand'] = "Ausklappen";						   StandardText['PreviousLinkText'] = "vorherige";						   StandardText['TitleSearch'] = "Suche";						   StandardText['MinValueErrorMessage'] = "Sofern ein Wert im Feld Min. angegeben wird, muss der im Feld Max. angegebene Wert gleich oder höher sein.";						   StandardText['NoInternetConnectionMessage'] = "Bitte stellen Sie eine Verbindung mit dem Internet her, um weiter zu arbeiten.";						   StandardText['NewCreate'] = "Erstellen";						   StandardText['OrderDesc'] = "abwärts (z-a)";						   StandardText['SaveFilterSettings'] = "Filter-Einstellungen speichern";						   StandardText['CwcMainNavShow'] = "Anpassungsmodus schliessen";						   StandardText['SkipToMainContent'] = "Zum Hauptinhalt springen";						   StandardText['OverviewSearchNoResult'] = "&lt;span class=&quot;color-grey-m&quot;&gt;&lt;i&gt;Keine Einträge gefunden. Sie können Folgendes versuchen:&lt;ul&gt;&lt;li&gt;Ihre Suchkriterien ändern&lt;/li&gt;&lt;li&gt;Die Suche zurücksetzen, um Suchkriterien zu löschen&lt;/li&gt;&lt;li&gt;Auf Gross- und Kleinschreibung achten&lt;/li&gt;&lt;li&gt;Die Symbole * als Platzhalter für mehrere und ? für ein Zeichen nutzen.&lt;/li&gt;&lt;/ul&gt;&lt;/i&gt;&lt;/span&gt;";						   StandardText['AddDetailsAndEdit'] = "Details&amp;Ändern";						   StandardText['Settings'] = "Einstellungen";						   StandardText['CwcOn'] = "ein";						   StandardText['DateformatTMJHM_en-us'] = "Datumsformat: MM/TT/JJJJ @ hh:mm TT";			var ErrorHandling = new Object();				ErrorHandling['setCWCFieldsError'] = "Error occurred while attempting to enable/disable CWC Fields.";				ErrorHandling['ErrorMyOnboarding'] = "Die Bewerbung konnte nicht an myOnboarding gesendet werden. [MyOnboardingRestError]";				ErrorHandling['errorCheckNumericRange'] = "In beide Felder („Von“ und „Bis“) müssen gültige Zahlen eingegeben werden.";				ErrorHandling['PermissionDenied'] = "Zugriff verweigert (fehlende Rolle) / Access denied (missing role) / Accès non autorisé (rôle manquant)";				ErrorHandling['TimeZoneGuessFailedLoggedInUser'] = "Leider konnten wir nicht feststellen, in welcher Zeitzone Sie sich befinden und haben Europe/Zurich festgelegt. Sie können Ihre Zeitzone in den Einstellungen für Ihr Profil ändern.";				ErrorHandling['errorTime'] = "Bitte geben Sie eine gültige Zeit an.";				ErrorHandling['ErrorApiTimeout'] = "&lt;span class=&quot;color-warn&quot;&gt;&lt;b&gt;Anbieter konnte nicht erreicht werden. Bitte geben Sie Ihre Daten manuell ein oder versuchen Sie es später erneut.&lt;/span&gt;.";				ErrorHandling['errorViastoProjectArchivingFailedBecauseOfActiveCandidates'] = "Sie können das Videointerview Projekt nicht löschen, weil dafür noch aktive Kandidaten existieren.";				ErrorHandling['removeHtmlTags'] = "Entfernen Sie HTML-Tags aus Texttypelementen";				ErrorHandling['errorSpecificFileName'] = "Datei hat den falschen Namen. Bitte unterhalb des Dokumentenfeldes den richtigen Namen entnehmen.";				ErrorHandling['errorMimeTypeRestriction'] = "&lt;span class=&quot;color-warn&quot;&gt;&lt;b&gt;Der Upload war nicht erfolgreich! Die Datei entspricht nicht den Upload-Kriterien&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;.";				ErrorHandling['errorFileCopyError'] = "Beim Hochladen der Datei ist ein Fehler unterlaufen - bitte wiederholen Sie den Vorgang.";				ErrorHandling['errorMyOnboarding400'] = "Ungültige Anfrage. Falsches Format oder fehlende Daten in der Anfrage.";				ErrorHandling['noFutureDate'] = "Bitte geben Sie ein vergangenes Datum ein.";				ErrorHandling['errorSysadminReadonlyadmin'] = "Personenschlüssel darf nicht &quot;[errorMessageParam]&quot; sein.";				ErrorHandling['errorPasswordResetAttempts'] = "Die Funktion zur Zurücksetzung des Passworts wurde aufgrund zu vieler Versuche vorübergehend gesperrt.&lt;br&gt;Bitte versuchen Sie es nach [errorMessageParam] Stunde(n) erneut.";				ErrorHandling['AutoExportNoConnection'] = "Der Automatische Export aus diesem System kann zurzeit nicht erreicht werden.";				ErrorHandling['errorColorPicker'] = "Der Farbcode sollte aus 3, 6 oder 8 Zeichen bestehen, z. B: #000, #000000, #00000000";				ErrorHandling['errorValidateViastoSettings'] = "Die Basisangaben zur Schnittstelle sind entweder unvollständig oder fehlerhaft.";				ErrorHandling['errorMultiActionHash'] = "Beim Vorbereiten der Action ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es erneut.";				ErrorHandling['errorViastoProjectNotActive'] = "Das entsprechende Videointerview Projekt ist inaktiv. Bewerber können nur zu einem aktiven Videointerview hinzugefügt werden.";				ErrorHandling['LoginFailed'] = "Benutzername oder Passwort nicht korrekt&lt;br/&gt;Der Benutzername, das Passwort oder die Kombination aus beiden ist nicht korrekt (bitte beachten Sie Gross-/Kleinschreibung).";				ErrorHandling['AutoImportNoConnection'] = "Der Automatische Import im Zielsystem kann zurzeit nicht erreicht werden.";				ErrorHandling['MaxSelectionExceeded'] = "Sie haben mehr Einträge als zugelassen gewählt. Bitte reduzieren Sie Ihre Auswahl auf maximal [MaxSelectionEntries].";				ErrorHandling['PeopleDocUnexpectedServerError'] = "Fehler bei der Datenübermittlung.&lt;br/&gt;Unerwarteter PeopleDoc Server Fehler.";				ErrorHandling['errorMyOnboarding403'] = "Nicht authorisiert. Der API Schlüssel ist nicht korrekt.";				ErrorHandling['errorMaliciousUrl'] = "Verdächtige Elemente wurden in der URL entdeckt, die Seitenanfrage wird abgebrochen!";				ErrorHandling['errorMyOnboarding500'] = "Interner Server Fehler. Bitte kontaktieren Sie unser Support Team.";				ErrorHandling['errorViastoCandidateError'] = "Die Bewerber konnten nicht zum Videointerview eingeladen werden.";				ErrorHandling['errorSecureTokenFailed'] = "Formular wurde nicht gespeichert, weil das Sicherheitstoken nicht mitgeschickt wurde. (Das passiert auch, wenn Sie zweimal speichern.)";				ErrorHandling['LoginRejectNone'] = "Ihre Eingaben stimmen, aber Sie werden als Nichtmitglied geführt. Bitte benachrichtigen Sie die Administration, wenn dies irrtümlich geschieht.";				ErrorHandling['errorInteger'] = "Bitte geben Sie einen ganzzahligen, numerischen Betrag als Ziffer an.";				ErrorHandling['errorIntegerPositive'] = "Bitte geben Sie einen ganzzahligen, numerischen Betrag im positiven Bereich an.";				ErrorHandling['errorListNoMultiSelect'] = "Bitte nur einen Wert auswählen";				ErrorHandling['errorViastoWhoAmIFailed'] = "Beim Laden der Daten des aktuellen viasto-Profils ist ein Fehler aufgetreten.";				ErrorHandling['SAPByDesignExportFailed'] = "Die Übermittlung der Daten ist fehlgeschlagen.";				ErrorHandling['errorSendEmail'] = "Der gewünschte E-Mail Versand ist leider fehlgeschlagen. Es konnten keine E-Mails erstellt werden. Bitte wählen Sie die Vorlage erneut aus. ";				ErrorHandling['errorPasswordChange'] = "Das alten und das neue Passwort unterscheiden sich nicht.";				ErrorHandling['must'] = "Bitte angeben.";				ErrorHandling['errorGeneralFileSizeInfo'] = "Datei zu gross. Erlaubt sind maximal:";				ErrorHandling['errorViastoProjectArchivingFailed'] = "Das Videointerview Projekt konnte nicht archiviert werden.";				ErrorHandling['errorUniqueCheck'] = "Der eingegebene Wert ist bereits im System vorhanden.";				ErrorHandling['errorCaptcha'] = "CAPTCHA-Prüfung fehlgeschlagen!";				ErrorHandling['errorPassword'] = "Die geforderte Passwort-Komplexität ist nicht erfüllt: Kleinbuchstabe, Grossbuchstabe, Zahl, Sonderzeichen";				ErrorHandling['LoginRejectNoMember'] = "Ihre Eingaben stimmen, aber die Administration hat Ihren Zugriff noch nicht freigeschaltet. Bitte warten Sie auf den entsprechenden Bescheid.";				ErrorHandling['EditingFromListNotAllowed'] = "Die Bearbeitung dieser dynamischen Liste kann nicht über diese Seite vorgenommen werden!";				ErrorHandling['errorMyOnboarding409'] = "Konflikt. Der Onboardee existiert bereits in Haufe Onboarding";				ErrorHandling['errorViastoCompanyAlreadyMapped'] = "Die CompanyID Ihres viasto-Benutzers ist bereits einer anderen Kundennummer zugewiesen. Bitte überprüfen Sie Ihr Benutzerprofil in viasto.";				ErrorHandling['errorMimeTypeError'] = "Der Typ des Dokumentes stimmt nicht mit der Dateierweiterung überein.";				ErrorHandling['errorCheckDateRangeSense'] = "Sie haben keinen sinnvollen Zeitraum eingegeben, bitte wiederholen sie ihre Eingabe. &lt;br&gt;Die beiden Daten müssen gleiche Elemente enthalten und des Enddatum darf nicht kleiner sein als das Startdatum. &lt;br&gt;(Bsp. 12.12.2010 - 16.12.2010 oder 10.2009 - 09.2010)";				ErrorHandling['errorViastoProjectMissing'] = "Es konnte kein entsprechendes Videointerview Projekt in viasto gefunden werden.";				ErrorHandling['JobRoomCancelError'] = "Die Stelle kann aufgrund des in der RAV Stellenbörse eingestellten Status nicht zurückgezogen werden.";				ErrorHandling['errorNoFile'] = "Der Verweis existiert nicht mehr, bitte kontrollieren Sie den Pfad und speichern Sie diesen nochmals: [errorMessageParam]";				ErrorHandling['errorNoZero'] = "0 als Eingabewert ist nicht gestattet.";				ErrorHandling['errorUseFunction'] = "Die Verwendung der Variable USE ist nicht erlaubt.";				ErrorHandling['errorViastoCredentialsFailed'] = "Benutzername und/oder Passwort zum viasto-Profil fehlen. Bitte überprüfen Sie die viasto-Zugangsdaten in Ihrem Benutzerprofil auf Vollständigkeit.";				ErrorHandling['errorViastoProjectError'] = "Das Videointerview Projekt konnte nicht angelegt werden.";				ErrorHandling['errorMyOnboarding401'] = "Nicht authorisiert. Der API Schlüssel ist nicht korrekt.";				ErrorHandling['emailErrorUniqueCheck'] = "Diese E-Mail-Adresse ist bereits im System registriert. Bitte melden Sie sich an.";				ErrorHandling['PMSExportExceedsMaxSize'] = "Die Übermittlung der Daten ist fehlgeschlagen. Der zu übermittelnde Inhalt überschreitet die zugelassene Maximalgrösse.";				ErrorHandling['errorViastoTokenAuthFailed'] = "Die Authentifizierung zu viasto ist fehlgeschlagen. Bitte überprüfen Sie die viasto-Zugangsdaten in Ihrem Benutzerprofil auf ihre Richtigkeit.";				ErrorHandling['errorViastoAuthorizationFailed'] = "Der Login bei viasto ist fehlgeschlagen. Bitte überprüfen Sie die viasto-Zugangsdaten in Ihrem Benutzerprofil.";				ErrorHandling['errorMinLength'] = "Bitte geben Sie mindestens [errorMessageParam] Zeichen ein.";				ErrorHandling['errorForbiddenFormat'] = "Dieses Dateiformat ist nicht gestattet.";				ErrorHandling['errorMyOnboarding424'] = "Fehlgeschlagen. Haufe Onboarding konnte sich nicht zur Haufe ATS API verbinden.";				ErrorHandling['errorFileFormat'] = "Ungültiges Dateiformat.";				ErrorHandling['ApplicationArchivedInvalidAction'] = "Die Bewerbung ist archiviert. Weiterleitung an Dritte ist nicht mehr möglich.";				ErrorHandling['errorNoSpecialCharacters'] = "Bitte keine Sonderzeichen verswenden.";				ErrorHandling['JobRoomUnknownRestError'] = "Die AVAM-Schnittstelle hat einen Fehler zurückgeliefert.: ";				ErrorHandling['Branch3rdPartyAppraisalForbidden'] = "Für diese Niederlassung ist die Weiterleitung an externe Drittpersonen nicht erlaubt.";				ErrorHandling['errorNoSpace'] = "Bitte keine Leerzeichen verwenden.";				ErrorHandling['errorMinNumber'] = "Die Zahl muss mindestens [errorMessageParam] betragen.";				ErrorHandling['errorFileName'] = "Der Dateiname enthält ungültige Zeichen. Bitte benutzen Sie keine Klammern im Dateinamen.";				ErrorHandling['errorURL'] = "URL fehlerhaft";				ErrorHandling['TokenLoginFailed'] = "&lt;span class=&quot;color-warn&quot;&gt;&lt;b&gt;Der Login war nicht erfolgreich! Bitte versuchen Sie es &lt;a href=&quot;/&quot;&gt;erneut&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;.";				ErrorHandling['ParamMissing'] = "Fehlende Parameter";				ErrorHandling['NoAccessRights'] = "Sie haben keinen Zugriff.";				ErrorHandling['errorUseOwnEmail'] = "Sie haben Ihre eigene E-Mail-Adresse eingegeben. Sind Sie sicher, dass sie Ihre eigene E-Mail-Adresse zur Drittbeurteilung einladen möchten?";				ErrorHandling['errorDecimal'] = "Bitte geben Sie nur Zahlen und den Trennpunkt ein.";				ErrorHandling['errorEmailMultiple'] = "Bitte geben Sie gültige E-Mail-Adresse(n) mit Komma getrennt an.";				ErrorHandling['errorIP'] = "Bitte geben Sie eine gültige IP an. Folgende Formate können verwendet werden: 127.0.0.1 oder 127.0.*.* oder als Bereich: 127.0.0.1-127.0.1.1 oder 127.0.*.*-127.1.*.*";				ErrorHandling['noPastDate'] = "Bitte geben Sie ein in der Zukunft liegendes Datum ein.";				ErrorHandling['errorMaxNumber'] = "Die Zahl darf maximal [errorMessageParam] betragen.";				ErrorHandling['PeopleDocError'] = "PeopleDoc Fehler&lt;br/&gt;";				ErrorHandling['errorUniqueLogin'] = "Dieser Login ist bereits im System vorhanden.";				ErrorHandling['errorFileVirusCheck'] = "Die Datei ist von einem Virus infiziert! Bitte prüfen Sie Ihr System auf Viren.";				ErrorHandling['errorPasswordConfirm'] = "Die Eintragungen unter &quot;Password&quot; und &quot;Confirm Password&quot; sind nicht identisch.";				ErrorHandling['errorGeneralFileSize'] = "Datei zu gross (maximal sind [errorMessageParam] Megabyte erlaubt).";				ErrorHandling['errorUseEmailMultipleTime'] = "Sie haben eine E-Mail-Adresse eingegeben, die bereits zur Drittbeurteilung eingeladen wurde. Sind Sie sicher, dass Sie diese E-Mail-Adresse erneut einladen möchten?";				ErrorHandling['errorViastoProjectAlreadyPublished'] = "Zu der aktuellen Stelle wurde bereites ein Projekt in viasto erstellt.";				ErrorHandling['errorNumericDecimal'] = "Bitte geben Sie einen gültigen nummerischen Wert ein.";				ErrorHandling['errorNoPipe'] = "Bitte verwenden Sie kein Pipe '|' innerhalb Ihres Passwortes.";				ErrorHandling['JsonSchemaError'] = "Fehlgeschlagene Schemaüberprüfung bei hochgeladener JSON-Datei. Bitte vergleichen Sie den Inhalt mit der Standarddatei, ergänzen Sie die fehlenden Elemente und versuchen Sie es erneut.";				ErrorHandling['AddToPosFailed'] = "Die Bewerbung konnte nur teilweise oder gar nicht mit der Stelle verknüpft werden. Deswegen wurde die originale Bewerbung nicht gelöscht. Bitte prüfen Sie auf der Zielstelle ob die neue Bewerbung angelegt und die Daten vollständig übertragen wurden.";				ErrorHandling['errorMaxLength'] = "Sie haben mehr als [errorMessageParam] Zeichen eingegeben.";				ErrorHandling['UnknownErrorInMultiaction'] = "Beim Versuch diese Aktion auszuführen ist ein Fehler aufgetreten. Eventuell ist es notwendig, die Anzahl ausgewählter Einträge zu reduzieren.";				ErrorHandling['errorFileEmpty'] = "Beim der Übermittlung der Datei ist ein Fehler passiert. Bitte senden Sie sie erneut.";				ErrorHandling['errorViastoProjectURIMissing'] = "Es konnte kein Link zu einem Videointerview Projekt gefunden werden.";				ErrorHandling['errorDate'] = "Bitte geben Sie ein gültiges Datum ein.";				ErrorHandling['errorUnallowedContent'] = "Sie haben unerlaubte HTML Tags verwendet.";				ErrorHandling['errorEmail'] = "Bitte geben Sie eine gültige E-Mail-Adresse an.";				ErrorHandling['errorPersonType'] = "PersonType_SysAdmin or PersonType_ReadOnlyAdmin not allowed.";				ErrorHandling['errorNotAllowedSpecialCharacters'] = "Bitte beachten Sie, dass die Namen der Cookies die folgenden Zeichen nicht enthalten dürfen: ()&lt;&gt;'@;:&quot;/[]?={} sowie Leerzeichen.";				ErrorHandling['NoSelection'] = "Sie haben keine Einträge zur Bearbeitung ausgewählt.";				ErrorHandling['TimeZoneGuessFailedAnonymous'] = "Leider konnten wir nicht feststellen, in welcher Zeitzone Sie sich befinden und haben Europe/Zurich festgelegt.";				ErrorHandling['AutoExportMissingConfig'] = "Der Automatische Export ist nicht ausreichend konfiguriert. ";			var PasswordHandling = new Object();				PasswordHandling['AdditionalPwdSecurity'] = "1";				PasswordHandling['PasswordMinLength'] = "8";		</script>
+<style id="antiClickjack"></style>
+			<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+				var domainList;					domainList = $.trim('https://rbb.sharepoint.com/sites/TeamRecruiting/SitePages/Home.aspx');
+				var parentURL = ( (parent !== window) ? document.referrer : document.location) + ''; // Location object -> string type cast
+				// Framebuster should disable the embedding of the frame if it's url and embedder url dont
+				// match or if the embedder url is not in the allowed domainlist of the security settings.
+				// Embedding should work if there is no domain set in the security settings.
+				if ((getDomainName(self.location.href) !== getDomainName(parentURL)) && (self !== top) && (domainList.indexOf(getDomainName(parentURL)) === -1) && domainList) {
+					var antiClickjack = document.getElementById("antiClickjack");
+					antiClickjack.innerHTML  = 'body{display:none !important;}';
+				}
+				function getDomainName(url) {
+					var urlParts1 = url.split(/[/?#]/);
+					var urlParts2 = url.replace('http://','').replace('https://','').split(/[/?#]/);
+					return urlParts1[0] + "//" + urlParts2[0];
+				}
+			</script>		
+		<link rel="shortcut icon" href="/pubhtml/favicon.ico">
+		<title>rbb-Bewerbungsportal Stellenmarkt</title>
+		<!-- After Mac OS update, unable to fetch cookies from browser during cross-site tracking
+		Hence in such cases enable all links to open in parent window. -->
+	</head>	<body class="l-layout--hybrid l-layout__mobile--hybrid l-layout__tablet--hybrid l-layout__desktop--hybrid l-layout__tv--hybrid recruitingapp_1152359"  id="top" ><div class="skip_navigation_links" tabindex="2401">
+		<a href="#maincontent" tabindex="2402">Zum Hauptinhalt springen</a>
+	</div>		<div class="progress" id="progress_wrapper" tabindex="-1">
+			<div class='bar' id='progress_inner'></div>
+		</div>
+		<input type="hidden" id="progress_width" value="0">
+		<div aria-label="Pop-up-Fenster" id="ModalDiv" style="display:none;" tabindex="-1">
+    		<iframe title="Benutzersprache" id="modal" style="width: 100%; height: 0;"></iframe>
+			<div class="form-page-loader static-spinner"><span class="dot-flashing"></span></div>
+		</div><header class="l-layout__header ">		<nav class="l-layout__container u-plr--m"><button id="mobile-sidebar__toggle" class="mobile-sidebar__toggle js-sidebar-toggle " aria-label="Ausklappen" aria-expanded="false" aria-controls="menu-sidebar" tabindex="2403">
+		<i class="icon icon-umantis-icon-460"></i>
+	</button><a class=" nav__logo-extern  u-overflow--hidden" href="/SelfService" title="Startseite" tabindex="2404">Startseite</a>
+<div class="headersearchlink" id="headersearchlink"></div>		<ul class="nav-top nav-top--settings">			<!-- MY PROFILE START -->			&nbsp;			<!-- MY PROFILE END -->
+		</ul>		</nav>
+<!-- 		<div class="hu-header-gradient"></div>
+ -->
+	</header>
+<aside id="menu-sidebar" class="menu-sidebar"><span id="menu-sidebar__close" title="Einklappen" class="menu-sidebar__close js-sidebar-toggle" role="button" tabindex="0" aria-label="Einklappen">
+		<i class="icon icon-close" aria-hidden="true"></i>
+	</span>    </aside><div  class="DefinedWidth">
+	<iframe class="external_iframe resizeHeight"
+		style="margin: 0 0 0 64px;"
+		src="/pubhtml/5154/customer/1/header.html?20261114"
+		name="customized_header"
+		aria-label="Individuelle Kopfzeile für externe Seiten"
+		scrolling="no">
+		<p>Ihr Browser kann leider keine eingebetteten Frames anzeigen</p>
+	</iframe>
+</div>
+<div id="page-wrapper" class=" page-wrapper ">	<main class="l-layout__article" role="main">	<section id="page-specifics" class="l-layout__article page-specifics--external">
+		<div class="l-layout__container l-flex l-flex--justify-end l-flex--row l-flex--nowrap"><nav class="c-breadcrumbs l-flex__item l-flex l-flex__item--grow" role="navigation">
+		<p id="c-breadcrumbs__label" class="u-visibility--sr-only">You are here:</p>
+		<ol id="c-breadcrumbs__list" class="c-breadcrumbs__list c-pipe-list u-x-scroll__item l-flex" aria-labelledby="c-breadcrumbs__label" role="list">			<li class="c-breadcrumbs__item" id="crumble_1"><a  href="/SelfService" title="Startseite" tabindex="2405"><span>Startseite</span><i class="icon icon-chevron-right" aria-hidden="true"></i></a></li>			<li class="c-breadcrumbs__item c-breadcrumbs__item--active" id="crumble_2"><a  href="/Jobs" title="Stellenmarkt" tabindex="2406"><span>Stellenmarkt</a></li>		</ol>
+	</nav>			<!-- SEARCH START --><div id="entity-filter" class="c-dropdown__wrapper c-dropdown__wrapper--to-right c-dropdown__wrapper--has-closing-layer u-vertically-center u-hidden u-ph" data-check-empty-root="true" aria-haspopup="true" >
+		<a href="#" aria-haspopup="true" class="u-vertically-center__child async-init-js-multiselects" tabindex="2407"data-check-empty="true"><i class="icon iFilter" aria-label="Filter" title="Filter" aria-label="Filter" title="Filter" ><span>Filter</span></i></a>
+		<div class="c-dropdown__area c-dropdown__area--transitionFromRight c-panel js-check-empty" aria-hidden="true"><div class="c-dropdown__scroll-wrapper container_actionbar_NoCT">			<h2 class="actionbar_title u-ph--lg" id="actionbartitlefilter_1169464">Filter				<span role="button" class="c-panel__close" aria-label="Schliessen" tabindex="2408"><i class="icon icon-umantis-icon-566"></i></span>
+			</h2>
+		<div class=" c-dropdown__scroll-area actionbar_boundary_search">
+			<div class="actionbar"><form action="/Jobs/All" method="post" enctype="multipart/form-data" class="sticky-submit-button actionbarform" id="actionbarform_1152368">
+		<input type="hidden" name="Search" value="Suchen">
+		<input type="hidden" name="token" value="0">
+		<input type="hidden" name="MultiActionUID" value="">
+		<div class="form">
+		<div class="actionbar_content">
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152509"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152509">														<label class="u-mb actionbar_cell_label" for="input_1152509">Volltextsuche:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152509"><input  aria-label='Volltextsuche'  id="input_1152509"  class="actionbarinputfixedwidth"  type="text" size="55" name="searchFullPositionsConfExtPubAll" value=""  tabindex="2410">											</div>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152510"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152510">														<label class="u-mb actionbar_cell_label" for="input_1152510">Tätigkeitsbezeichnung:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152510"><input aria-describedby="helptext_1152510" aria-label='Tätigkeitsbezeichnung'  id="input_1152510"  class="actionbarinputfixedwidth"  type="text" size="55" name="searchJobTitleExtPub" value=""  tabindex="2412"><div id="input_typehead_1152510" class="autocomplete_counterinfo_boundary">
+			<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+			$(function() {
+				var currentresult = 0;
+				var delay = 200;
+				function split( val ) {
+					return val.split( /,\s*/ );
+				}
+				function extractLast( term ) {
+					return split( term ).pop();
+				}
+				$("#input_1152510").autocomplete(
+					{
+						appendTo: "div#input_typehead_1152510",
+						minLength: 2,
+						delay: delay,
+						source: function(request, response) {
+							var term = extractLast( this.term ); var checkterm = this.term; 							var success = false;
+							while (checkterm.length > 2) {
+								if (autocomplete_searches[1152510] != null && autocomplete_searches[1152510][checkterm] != null) {
+									var jsonObj = JSON.parse(autocomplete_searches[1152510][checkterm]);
+									var result = [];
+									/* grep for new search */
+									for (i = 0; i < jsonObj.length; i++) {
+										var matcher = new RegExp(term.replace('\*', '.'), "gi" );
+										var found = jsonObj[i].value.match(matcher);
+										if (found != null) {
+											result.push({label: __highlight(jsonObj[i].label, term), value: jsonObj[i].value});
+										}
+									}
+									if(response != null) {
+										currentresult = result.length;
+										delay = 1;
+										success = true;
+									}
+									response(result);
+									break;
+								}
+								checkterm = checkterm.substr(0, checkterm.length-1);
+							}
+							term = escape(term);
+							if(!success && term && term.length > 2) {
+								$.ajax( {
+									url: "?gettypeahead_id=1152510" + "&preventIECachingNumber=" + Math.random() + "&term=" + term,
+									// term: this.term,
+									// data: request,
+									method: 'get',
+									success: function(data) {
+										if (data != null && data.length < 1000){
+											if(autocomplete_searches[1152510] == null) {
+												autocomplete_searches[1152510] = new Array();
+											}
+											autocomplete_searches[1152510]["" + term] = JSON.stringify(data);
+											delay = 1;
+										}
+										else {
+											delay = 200;
+										}
+										if (data != null) {
+											currentresult = data.length;
+										}
+										response(data);
+									}
+								} );
+							}
+						},
+						open: function(event, ui) {
+							var msg = currentresult;
+							if(currentresult >= 1000) {
+								msg = "> 1000";
+							}
+							$("#info_input_1152510").html(msg).show();
+						},
+						change: function(event, ui) {
+							if($(this).val().length > 2) {
+								var msg = currentresult;
+								if(currentresult >= 1000) {
+									msg = "> 1000";
+								}
+								if(msg) {
+									$("#info_input_1152510").html(msg).show();
+								}
+							}
+							else {
+								$("#info_input_1152510").hide();
+							}
+						},
+						close: function(event, ui) {
+							$("#info_input_1152510").hide();
+						},
+						focus: function() {
+							return false;
+				        },						select: function(event, ui) {
+						 	$(this).val(ui.item.value);
+						 	$("#info_input_1152510").hide();
+						}
+					}
+				)
+				.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+					return $( "<li></li>" )
+						.data( "item.autocomplete", item )
+						.append( "<a>" + item.label + "</a>" )
+						.appendTo( ul );
+				};
+
+				function __highlight(s, t) {
+				  t = t.replace('*', '.');
+				  var matcher = new RegExp("("+t+")", "ig" );
+				  return s.replace(matcher, "<b>$1</b>");
+				}
+			});
+			</script>
+		</div>											</div>												<small class="actionbar_cell_helptext" id="actionbarelementhelptext_1152510">Verwenden Sie * als Platzhalter.</small>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152512"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152512">														<label class="u-mb actionbar_cell_label" for="input_1152512">Einstiegslevel:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152512"><select class="form_multiselect actionbarinputfixedwidth"  id="input_1152512" name="searchPosition" multiple size="5" tabindex="2414">
+		<option  id="option_15050_1"  value="15050" title="Führungskräfte">Führungskräfte</option>
+		<option  id="option_20000094_2"  value="20000094" title="&amp;rtri; Geschäftsleitung">&rtri; Geschäftsleitung</option>
+		<option  id="option_20000095_3"  value="20000095" title="&amp;rtri; Führungskraft 2. Ebene">&rtri; Führungskraft 2. Ebene</option>
+		<option  id="option_20000096_4"  value="20000096" title="&amp;rtri; Führungskraft">&rtri; Führungskraft</option>
+		<option  id="option_1000001_5"  value="1000001" title="Arbeitnehmer:in">Arbeitnehmer:in</option>
+		<option  id="option_15060_6"  value="15060" title="Freie Mitarbeit">Freie Mitarbeit</option>
+		<option  id="option_15010_7"  value="15010" title="Lernende">Lernende</option>
+		<option  id="option_15040_8"  value="15040" title="&amp;rtri; Trainee">&rtri; Trainee</option>
+		<option  id="option_20000097_9"  value="20000097" title="&amp;rtri; Volontariat">&rtri; Volontariat</option>
+		<option  id="option_20000098_10"  value="20000098" title="&amp;rtri; Berufsausbildung">&rtri; Berufsausbildung</option>
+		<option  id="option_20000099_11"  value="20000099" title="&amp;rtri; Duales Studium">&rtri; Duales Studium</option>
+		<option  id="option_1000943_12"  value="1000943" title="&amp;rtri; Rechtsreferendariat">&rtri; Rechtsreferendariat</option>
+		<option  id="option_20000101_13"  value="20000101" title="&amp;rtri; Praktikum">&rtri; Praktikum</option>
+		<option  id="option_20000100_14"  value="20000100" title="Aushilfen">Aushilfen</option>
+		<option  id="option_15020_15"  value="15020" title="&amp;rtri; Studentische Hilfskraft">&rtri; Studentische Hilfskraft</option>
+		<option  id="option_20000102_16"  value="20000102" title="Schülerbetriebspraktikum">Schülerbetriebspraktikum</option>	</select>											</div>												<small class="actionbar_cell_helptext" id="actionbarelementhelptext_1152512"> </small>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152514"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152514">														<label class="u-mb actionbar_cell_label" for="input_1152514">Befristung:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152514"><select class="form_multiselect actionbarinputfixedwidth"  id="input_1152514" name="searchContractType" multiple size="5" tabindex="2416">
+		<option  id="option_27010_17"  value="27010" title="unbefristet">unbefristet</option>
+		<option  id="option_27020_18"  value="27020" title="befristet">befristet</option>	</select>											</div>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152515"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152515">														<label class="u-mb actionbar_cell_label" for="input_1152515">Tätigkeitsfeld:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152515"><select class="form_multiselect actionbarinputfixedwidth"  id="input_1152515" name="searchFunction" multiple size="5" tabindex="2418">
+		<option  id="option_10010_19"  value="10010" title="Redaktion &amp; Journalismus">Redaktion & Journalismus</option>
+		<option  id="option_10020_20"  value="10020" title="Produktion &amp; Technik">Produktion & Technik</option>
+		<option  id="option_20000027_21"  value="20000027" title="IT &amp; Digitalisierung">IT & Digitalisierung</option>
+		<option  id="option_20000029_22"  value="20000029" title="Kommunikation &amp; Marketing">Kommunikation & Marketing</option>
+		<option  id="option_20000031_23"  value="20000031" title="Verwaltung &amp; Organisation">Verwaltung & Organisation</option>
+		<option  id="option_20000033_24"  value="20000033" title="Design &amp; Gestaltung">Design & Gestaltung</option>
+		<option  id="option_20000035_25"  value="20000035" title="Strategie &amp; Entwicklung">Strategie & Entwicklung</option>	</select>											</div>												<small class="actionbar_cell_helptext" id="actionbarelementhelptext_1152515"> </small>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152516"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152516">														<label class="u-mb actionbar_cell_label" for="input_1152516">Stellenumfang:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152516"><select class="form_multiselect actionbarinputfixedwidth"  id="input_1152516" name="searchEmploymentType" multiple size="5" tabindex="2420">
+		<option  id="option_13010_26"  value="13010" title="Vollzeit">Vollzeit</option>
+		<option  id="option_13020_27"  value="13020" title="Teilzeit">Teilzeit</option>	</select>											</div>									</fieldset>
+									<div class="u-hidden actionbar_separatelinetext u-separation-title-section" data-section-number="0"></div>
+									<fieldset class="actionbar_cell actionbar_cell_1152517"  data-section-number="0">
+<div class="actionbar_cell_content" id="actionbarelementlabel_1152517">														<label class="u-mb actionbar_cell_label" for="input_1152517">Arbeitsort:</label>													</div>											<div class="actionbar_cell_content" id="actionbarelement_1152517"><select class="form_multiselect actionbarinputfixedwidth"  id="input_1152517" name="searchSkill1004" multiple size="5" tabindex="2422">
+		<option  id="option_1000876_28"  value="1000876" title="Berlin">Berlin</option>
+		<option  id="option_1000938_29"  value="1000938" title="Potsdam">Potsdam</option>
+		<option  id="option_1000939_30"  value="1000939" title="Cottbus">Cottbus</option>
+		<option  id="option_1000940_31"  value="1000940" title="Frankfurt (Oder)">Frankfurt (Oder)</option>
+		<option  id="option_20000080_32"  value="20000080" title="Brandenburg an der Havel">Brandenburg an der Havel</option>
+		<option  id="option_20000079_33"  value="20000079" title="Perleberg">Perleberg</option>
+		<option  id="option_20000078_34"  value="20000078" title="Prenzlau">Prenzlau</option>
+		<option  id="option_20000065_35"  value="20000065" title="Frankfurt (Main)">Frankfurt (Main)</option>
+		<option  id="option_20000066_36"  value="20000066" title="Hamburg">Hamburg</option>
+		<option  id="option_20000069_37"  value="20000069" title="Hannover">Hannover</option>
+		<option  id="option_20000064_38"  value="20000064" title="Köln">Köln</option>
+		<option  id="option_20000068_39"  value="20000068" title="Leipzig">Leipzig</option>
+		<option  id="option_20000067_40"  value="20000067" title="München">München</option>	</select>											</div>									</fieldset>					<div class="actionbar_cell actionbar_cell_1152521">
+						<a href="#" class="extended-filter__toggle" tabindex="2423">Weitere Filter</a>
+					</div><a href="?Extended=Search" tabindex="2424">Alle Filter</a>				<div class="actionbar_cell actionbar_cell_1152521"><div class="actionbar_cell_content" id="actionbarbutton_1152520"><button class="ButtonSearch" id="ButtonSearch_1152520" type="submit" name="Search" value="Suchen"  tabindex="2425">Suchen</button></div>				</div>		</div>
+		</div>
+	</form>	<div class="panel-overlay sticky-submit-button" style="display: none;">
+		<h3 class="u-ph--lg">Weitere Filter<span role="button" class="c-panel-overlay__close">&times;</span></h3>
+		<select id="extended-filtering" class="form_multiselect" multiple="multiple" tabindex="2426">			<option id="extended_filter_option_1152509" value="#actionbarelement_1152509"  selected="selected" tabindex="2427">Volltextsuche</option>			<option id="extended_filter_option_1152510" value="#actionbarelement_1152510"  selected="selected" tabindex="2428">Tätigkeitsbezeichnung</option>			<option id="extended_filter_option_1152512" value="#actionbarelement_1152512"  selected="selected" tabindex="2429">Einstiegslevel</option>			<option id="extended_filter_option_1152514" value="#actionbarelement_1152514"  selected="selected" tabindex="2430">Befristung</option>			<option id="extended_filter_option_1152515" value="#actionbarelement_1152515"  selected="selected" tabindex="2431">Tätigkeitsfeld</option>			<option id="extended_filter_option_1152516" value="#actionbarelement_1152516"  selected="selected" tabindex="2432">Stellenumfang</option>			<option id="extended_filter_option_1152517" value="#actionbarelement_1152517"  tabindex="2433">Arbeitsort</option>		</select>
+		<section class="u-text-center">
+			<button class="c-button apply-filter-settings" tabindex="2434">Filter-Einstellungen speichern</button>
+		</section>
+	</div>			</div>
+		</div></div>		</div>
+	</div>			<!-- SEARCH END -->		</div>
+	</section>			<div class="external-layout">			<div class="l-layout__container  "><div class="l-layout__article c-notification__item c-notification__item--"></div>				<section>
+						<div class="l-flex l-flex--justify-start l-flex--row l-flex--nowrap">
+							<div class="l-flex__item l-flex__item--stretch l-flex__item--grow u-overflow--hidden">							</div>
+						</div>
+							<div class="container_content" id="maincontent"><script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+	/*
+	 * Adds controls on found element with id controlID and initializes default state
+	 * important: the given element MUST HAVE a table inside with at least one row
+	 */
+	function addControls(controlID, contentID, infoID, state, jsTabindex, accordianLabel){
+		if (!controlID || !state) {
+            return;
+        }
+		var controlelement = $("#" + controlID);	// element to be extended with icons
+		var contentelement = $("#" + contentID);	// element to be hideable
+		var infoelement    = $("#" + infoID);		// element which is hidden vice-versa the contentelement
+		if(!controlelement || !contentelement)
+			return;
+		// Get number of data available in particular accordion for accessibility
+        var numberofValue = (controlelement.find('.showblock_title_info').html() || '').trim();
+	    //create control-icons
+		var tmp = '<a href="#" id="setStateLinkOpen' + controlID + '" class="exteded-search-arrow" role="link" aria-label="' + StandardText.Open + ' ' + accordianLabel + numberofValue + '" ' + jsTabindex + '><i class="icon ifolding_open"><span class="u-visibility--sr-only">Open</span></i></a>'
+		+ '<a href="#" id="setStateLinkClose' + controlID + '" class="exteded-search-arrow" role="link" aria-label="' + StandardText.Close + ' ' + accordianLabel + numberofValue + '" ' + jsTabindex + '><i class="icon ifolding_close"><span class="u-visibility--sr-only">Close</span></i></a>&nbsp;'
+		;
+		// add new controls to title-html
+		controlelement.prepend(tmp);
+		// set state
+        setState(controlID, contentID, infoID, state, "true");
+        controlelement.find('#setStateLinkOpen' + controlID).on('click', function(event) {
+            event.preventDefault();
+            setState(controlID, contentID, infoID, 'Open', 'false');
+        });
+        controlelement.find('#setStateLinkClose' + controlID).on('click', function(event) {
+            event.preventDefault();
+            setState(controlID, contentID, infoID, 'Closed', 'false');
+        });
+	}
+	function _showLink(control){
+		if(!control )
+			return;
+		$( control ).show();
+	}
+	function _hideLink(control){
+		if(!control)
+			return;
+		$( control ).hide();
+	}
+	function _showBlock(contentID, infoID){
+		if(!contentID)
+			return;
+		var contentcontrol = $("#"+contentID);
+		contentcontrol.show();
+		var infocontrol = $("#"+infoID);
+		if(infocontrol && infocontrol.length > 0)
+			infocontrol.hide();
+	}
+	function _hideBlock(contentID, infoID){
+		if(!contentID)
+			return;
+		var contentcontrol = $("#"+contentID);
+		contentcontrol.hide();
+		var infocontrol = $("#"+infoID);
+		if(infocontrol && infocontrol.length > 0)
+			infocontrol.show();
+	}
+	/*
+	 * control the visibility of block/title and buttons
+	 */
+    function setState(controlID, contentID, infoID, state, respectCookie){
+        if (!controlID || !state) {
+            return;
+        }
+		if(respectCookie == "true"){
+			var cVar = $.cookie(controlID);
+			if(cVar && cVar.length > 0 ) {
+				state = cVar;
+			}
+		}
+        var openLink = $("#setStateLinkOpen" + controlID);
+        var closeLink = $("#setStateLinkClose" + controlID);
+		switch (state) {
+			case "Open":
+					if(respectCookie != "true") {
+						$.cookie(controlID, 'Open', { expires: 30, path: '/', secure: true });
+					}
+					_showBlock(contentID, infoID);
+					// Arrange icons
+					_hideLink(openLink);
+					_showLink(closeLink);
+					break;
+			case "Closed":
+		 			if(respectCookie != "true") {
+						$.cookie(controlID, 'Closed', { expires: 30, path: '/', secure: true });
+					}
+					_hideBlock(contentID, infoID);
+					// Arrange icons
+					_showLink(openLink);
+					_hideLink(closeLink);
+					break;
+			default:
+					break;
+			}
+    }
+</script><form action="/Jobs/All" method="post" enctype="multipart/form-data" class="sticky-submit-button actionbarform jobs-search-form" id="actionbarform_1152368">    <input type="hidden" name="Search" value="Suchen">
+    <input type="hidden" name="token" value="0">
+    <input type="hidden" name="MultiActionUID" value="">
+    <div class="form form_content search-form search-container">        <div class="form_content_row"><div class="search-container__heading" tabindex="2435"><button type="button" class="form_content_heading_button icon-button" aria-label="Suchen" aria-expanded="true"><i class="icon ifolding_close" ></i></button><h4 class="form_content_heading">Suchen</h4></div></div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152510"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152510"><div class="external-search-input"><span><i class="icon iSearch"></i></span>			<input aria-describedby="helptext_1152510" aria-label='Tätigkeitsbezeichnung' placeholder="Tätigkeitsbezeichnung" class="input-search" id="input_1152510_search"  type="text" size="55" name="searchJobTitleExtPub" value=""  tabindex="2437"></div><div id="input_typehead_1152510_search" class="autocomplete_counterinfo_boundary">
+			<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript">
+			$(function() {
+				var currentresult = 0;
+				var delay = 200;
+				function split( val ) {
+					return val.split( /,\s*/ );
+				}
+				function extractLast( term ) {
+					return split( term ).pop();
+				}
+				$("#input_1152510_search").autocomplete(
+					{
+						appendTo: "div#input_typehead_1152510_search",
+						minLength: 2,
+						delay: delay,
+						source: function(request, response) {
+							var term = extractLast( this.term ); var checkterm = this.term; 							var success = false;
+							while (checkterm.length > 2) {
+								if (autocomplete_searches[1152510] != null && autocomplete_searches[1152510][checkterm] != null) {
+									var jsonObj = JSON.parse(autocomplete_searches[1152510][checkterm]);
+									var result = [];
+									/* grep for new search */
+									for (i = 0; i < jsonObj.length; i++) {
+										var matcher = new RegExp(term.replace('\*', '.'), "gi" );
+										var found = jsonObj[i].value.match(matcher);
+										if (found != null) {
+											result.push({label: __highlight(jsonObj[i].label, term), value: jsonObj[i].value});
+										}
+									}
+									if(response != null) {
+										currentresult = result.length;
+										delay = 1;
+										success = true;
+									}
+									response(result);
+									break;
+								}
+								checkterm = checkterm.substr(0, checkterm.length-1);
+							}
+							term = escape(term);
+							if(!success && term && term.length > 2) {
+								$.ajax( {
+									url: "?gettypeahead_id=1152510" + "&preventIECachingNumber=" + Math.random() + "&term=" + term,
+									// term: this.term,
+									// data: request,
+									method: 'get',
+									success: function(data) {
+										if (data != null && data.length < 1000){
+											if(autocomplete_searches[1152510] == null) {
+												autocomplete_searches[1152510] = new Array();
+											}
+											autocomplete_searches[1152510]["" + term] = JSON.stringify(data);
+											delay = 1;
+										}
+										else {
+											delay = 200;
+										}
+										if (data != null) {
+											currentresult = data.length;
+										}
+										response(data);
+									}
+								} );
+							}
+						},
+						open: function(event, ui) {
+							var msg = currentresult;
+							if(currentresult >= 1000) {
+								msg = "> 1000";
+							}
+							$("#info_input_1152510").html(msg).show();
+						},
+						change: function(event, ui) {
+							if($(this).val().length > 2) {
+								var msg = currentresult;
+								if(currentresult >= 1000) {
+									msg = "> 1000";
+								}
+								if(msg) {
+									$("#info_input_1152510").html(msg).show();
+								}
+							}
+							else {
+								$("#info_input_1152510").hide();
+							}
+						},
+						close: function(event, ui) {
+							$("#info_input_1152510").hide();
+						},
+						focus: function() {
+							return false;
+				        },						select: function(event, ui) {
+						 	$(this).val(ui.item.value);
+						 	$("#info_input_1152510").hide();
+						}
+					}
+				)
+				.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+					return $( "<li></li>" )
+						.data( "item.autocomplete", item )
+						.append( "<a>" + item.label + "</a>" )
+						.appendTo( ul );
+				};
+
+				function __highlight(s, t) {
+				  t = t.replace('*', '.');
+				  var matcher = new RegExp("("+t+")", "ig" );
+				  return s.replace(matcher, "<b>$1</b>");
+				}
+			});
+			</script>
+		</div></div>                </fieldset>
+            </div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152512"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152512">                 <div class="select-container">
+                     <div class="select-label" role="combobox" aria-haspopup="true" aria-expanded="false" aria-controls="job-filter" tabindex="2438"><span>Einstiegslevel</span><i class="icon icon-umantis-icon-62"></i></div>
+                     <div class="select-option" role="listbox" id="job-filter"><select class="form_multiselect"  id="input_1152512" name="searchPosition" multiple size="5" tabindex="2440">
+		<option  id="option_15050_1"  value="15050" title="Führungskräfte">Führungskräfte</option>
+		<option  id="option_20000094_2"  value="20000094" title="&amp;rtri; Geschäftsleitung">&rtri; Geschäftsleitung</option>
+		<option  id="option_20000095_3"  value="20000095" title="&amp;rtri; Führungskraft 2. Ebene">&rtri; Führungskraft 2. Ebene</option>
+		<option  id="option_20000096_4"  value="20000096" title="&amp;rtri; Führungskraft">&rtri; Führungskraft</option>
+		<option  id="option_1000001_5"  value="1000001" title="Arbeitnehmer:in">Arbeitnehmer:in</option>
+		<option  id="option_15060_6"  value="15060" title="Freie Mitarbeit">Freie Mitarbeit</option>
+		<option  id="option_15010_7"  value="15010" title="Lernende">Lernende</option>
+		<option  id="option_15040_8"  value="15040" title="&amp;rtri; Trainee">&rtri; Trainee</option>
+		<option  id="option_20000097_9"  value="20000097" title="&amp;rtri; Volontariat">&rtri; Volontariat</option>
+		<option  id="option_20000098_10"  value="20000098" title="&amp;rtri; Berufsausbildung">&rtri; Berufsausbildung</option>
+		<option  id="option_20000099_11"  value="20000099" title="&amp;rtri; Duales Studium">&rtri; Duales Studium</option>
+		<option  id="option_1000943_12"  value="1000943" title="&amp;rtri; Rechtsreferendariat">&rtri; Rechtsreferendariat</option>
+		<option  id="option_20000101_13"  value="20000101" title="&amp;rtri; Praktikum">&rtri; Praktikum</option>
+		<option  id="option_20000100_14"  value="20000100" title="Aushilfen">Aushilfen</option>
+		<option  id="option_15020_15"  value="15020" title="&amp;rtri; Studentische Hilfskraft">&rtri; Studentische Hilfskraft</option>
+		<option  id="option_20000102_16"  value="20000102" title="Schülerbetriebspraktikum">Schülerbetriebspraktikum</option>	</select></div></div></div>                </fieldset>
+            </div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152514"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152514">                 <div class="select-container">
+                     <div class="select-label" role="combobox" aria-haspopup="true" aria-expanded="false" aria-controls="job-filter" tabindex="2441"><span>Befristung</span><i class="icon icon-umantis-icon-62"></i></div>
+                     <div class="select-option" role="listbox" id="job-filter"><select class="form_multiselect"  id="input_1152514" name="searchContractType" multiple size="5" tabindex="2443">
+		<option  id="option_27010_17"  value="27010" title="unbefristet">unbefristet</option>
+		<option  id="option_27020_18"  value="27020" title="befristet">befristet</option>	</select></div></div></div>                </fieldset>
+            </div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152515"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152515">                 <div class="select-container">
+                     <div class="select-label" role="combobox" aria-haspopup="true" aria-expanded="false" aria-controls="job-filter" tabindex="2444"><span>Tätigkeitsfeld</span><i class="icon icon-umantis-icon-62"></i></div>
+                     <div class="select-option" role="listbox" id="job-filter"><select class="form_multiselect"  id="input_1152515" name="searchFunction" multiple size="5" tabindex="2446">
+		<option  id="option_10010_19"  value="10010" title="Redaktion &amp; Journalismus">Redaktion & Journalismus</option>
+		<option  id="option_10020_20"  value="10020" title="Produktion &amp; Technik">Produktion & Technik</option>
+		<option  id="option_20000027_21"  value="20000027" title="IT &amp; Digitalisierung">IT & Digitalisierung</option>
+		<option  id="option_20000029_22"  value="20000029" title="Kommunikation &amp; Marketing">Kommunikation & Marketing</option>
+		<option  id="option_20000031_23"  value="20000031" title="Verwaltung &amp; Organisation">Verwaltung & Organisation</option>
+		<option  id="option_20000033_24"  value="20000033" title="Design &amp; Gestaltung">Design & Gestaltung</option>
+		<option  id="option_20000035_25"  value="20000035" title="Strategie &amp; Entwicklung">Strategie & Entwicklung</option>	</select></div></div></div>                </fieldset>
+            </div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152516"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152516">                 <div class="select-container">
+                     <div class="select-label" role="combobox" aria-haspopup="true" aria-expanded="false" aria-controls="job-filter" tabindex="2447"><span>Stellenumfang</span><i class="icon icon-umantis-icon-62"></i></div>
+                     <div class="select-option" role="listbox" id="job-filter"><select class="form_multiselect"  id="input_1152516" name="searchEmploymentType" multiple size="5" tabindex="2449">
+		<option  id="option_13010_26"  value="13010" title="Vollzeit">Vollzeit</option>
+		<option  id="option_13020_27"  value="13020" title="Teilzeit">Teilzeit</option>	</select></div></div></div>                </fieldset>
+            </div>             <div class="form_content_row">
+                <fieldset class="actionbar_cell actionbar_cell_1152520"  data-section-number="">                        <div class="actionbar_cell_content" id="actionbarelement_1152520"><button class="ButtonSearch" id="ButtonSearch_1152520" type="submit" name="Search" value="Suchen"  tabindex="2451">Suchen</button></div>                             <a href="?Extended=Search" class="js-EditInPopup"tabindex="2452"><span aria-hidden="true"><i class="icon icon-filter-all" title="Alle Filter" aria-label="Alle Filter"></i></span>Alle Filter</a>                </fieldset>
+            </div>    </div>
+</form>			<div class="table-as-list" id="connectortable_1" data-one-item-chunk="10">					<div class="jobs-number" tabindex="2453">
+						<h3 class="jobs-counter">
+							<span class="total-number"></span>
+							<span class="jobs-text">Stellen gefunden</span>
+							<span class="drop-arrow" aria-hidden="true"></span>
+						</h3>
+					</div>
+					<div class="table-as-list__paging-top" id="tablenavigation_boundary_1152481_top">
+						<span class="table-as-list__paging-top" id="tablenavigation_1152481_bottom" data-pagination-next-href="?tc1152481=p2&amp;_search_token1152481=2002338710#connectortable_1152481"							  data-pagination-from="1"
+							  data-pagination-to="10"><script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" src="/css/js/web-components/web-component-utils.min.js"></script>			<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" src="/css/js/web-components/table-navigation.min.js"></script>
+		<div id="async_object_1152481">
+			<table-navigation 
+				async-object-lang-id="1152481" 
+				initial-data-string="{&quot;langID&quot;:&quot;1152481&quot;,&quot;TableFrom&quot;:1,&quot;TableNr&quot;:&quot;1152481&quot;,&quot;TableTo&quot;:10,&quot;NextLink&quot;:{&quot;FieldIsActive&quot;:1,&quot;EnhancedUrl&quot;:&quot;?tc1152481=p2&amp;amp;_search_token1152481=2002338710#connectortable_1152481&quot;,&quot;FieldIsConfigurable&quot;:1,&quot;langID&quot;:&quot;70212&quot;,&quot;TranslatedStandardText&quot;:&quot;&lt;i class=\&quot;icon itnav_next\&quot; title=\&quot;nächste\&quot;&gt;&lt;/i&gt;&quot;},&quot;search_token&quot;:&quot;2002338710&quot;,&quot;token_list_id&quot;:&quot;2851777&quot;,&quot;TableCurrentPage&quot;:1,&quot;TableTotalLines&quot;:null,&quot;TableMaxEntries&quot;:&quot;10&quot;,&quot;EndLink&quot;:{&quot;FieldIsActive&quot;:1,&quot;EnhancedUrl&quot;:&quot;?tc1152481=p0&amp;amp;_search_token1152481=2002338710#connectortable_1152481&quot;,&quot;FieldIsConfigurable&quot;:1,&quot;langID&quot;:&quot;70211&quot;,&quot;TranslatedStandardText&quot;:&quot;&lt;i class=\&quot;icon itnav_last\&quot; title=\&quot;letzte\&quot;&gt;&lt;/i&gt;&quot;}}" 
+				multiaction-lang-id="" 
+				tab-index-count="2454">
+			</table-navigation>
+		</div></span>
+					</div>				<table class="c-box c-table table-as-list" role="table" aria-label="Liste Stellenübersicht">
+					<caption></caption>					<tbody>						
+						<tr class="table-as-list__contentrow1" tabindex="2455" role="row">								<td class="table-as-list__piccell" id="tablecell_4" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2168/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2168/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2168/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2168/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_5" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2456">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2168/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG POSTPRODUKTION UND DESIGN (W/M/D) - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG  " id="link_1152488_1" tabindex="2457">LEITUNG POSTPRODUKTION UND DESIGN (W/M/D) - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG  </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2458" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2459" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2460" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2461" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2168/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_1" tabindex="2462">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow2" tabindex="2463" role="row">								<td class="table-as-list__piccell" id="tablecell_6" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2169/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2169/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2169/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2169/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_7" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2464">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2169/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG PRODUKTIONSBERATUNG, -LEITUNG UND DISPOSITION  – SCHWERPUNKTE BERATUNG UND DISPOSITION (W/M/D) " id="link_1152488_2" tabindex="2465">LEITUNG PRODUKTIONSBERATUNG, -LEITUNG UND DISPOSITION  – SCHWERPUNKTE BERATUNG UND DISPOSITION (W/M/D) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2466" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2467" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2468" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2469" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2169/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_2" tabindex="2470">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow1" tabindex="2471" role="row">								<td class="table-as-list__piccell" id="tablecell_8" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2167/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2167/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2167/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2167/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_9" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2472">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2167/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG AUFNAHME - SCHWERPUNKT EB-KAMERA (W/M/D)" id="link_1152488_3" tabindex="2473">LEITUNG AUFNAHME - SCHWERPUNKT EB-KAMERA (W/M/D)</a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2474" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2475" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2476" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2477" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2167/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_3" tabindex="2478">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow2" tabindex="2479" role="row">								<td class="table-as-list__piccell" id="tablecell_10" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2166/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2166/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2166/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2166/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_11" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2480">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2166/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG AUFNAHME - SCHWERPUNKT E-KAMERA (W/M/D)" id="link_1152488_4" tabindex="2481">LEITUNG AUFNAHME - SCHWERPUNKT E-KAMERA (W/M/D)</a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2482" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2483" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2484" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2485" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2166/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_4" tabindex="2486">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow1" tabindex="2487" role="row">								<td class="table-as-list__piccell" id="tablecell_12" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2162/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2162/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2162/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2162/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_13" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2488">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2162/Description/1" class="HSTableLinkSubTitle" aria-label="Leitung UX + Produktivität (w/m/d) " id="link_1152488_5" tabindex="2489">Leitung UX + Produktivität (w/m/d) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2490" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2491" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2492" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2493" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2162/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_5" tabindex="2494">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow2" tabindex="2495" role="row">								<td class="table-as-list__piccell" id="tablecell_14" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2161/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2161/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2161/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2161/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_15" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2496">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2161/Description/1" class="HSTableLinkSubTitle" aria-label="Leitung Produktionsumgebung (w/m/d)" id="link_1152488_6" tabindex="2497">Leitung Produktionsumgebung (w/m/d)</a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2498" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2499" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2500" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2501" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2161/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_6" tabindex="2502">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow1" tabindex="2503" role="row">								<td class="table-as-list__piccell" id="tablecell_16" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2160/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2160/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2160/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2160/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_17" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2504">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2160/Description/1" class="HSTableLinkSubTitle" aria-label="Leitung Plattformumgebung (w/m/d) " id="link_1152488_7" tabindex="2505">Leitung Plattformumgebung (w/m/d) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2506" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2507" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2508" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2509" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2160/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_7" tabindex="2510">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow2" tabindex="2511" role="row">								<td class="table-as-list__piccell" id="tablecell_18" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2159/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2159/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2159/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2159/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_19" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2512">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2159/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG PLANUNG + STEUERUNG (W/M/D) " id="link_1152488_8" tabindex="2513">LEITUNG PLANUNG + STEUERUNG (W/M/D) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2514" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2515" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2516" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2517" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2159/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_8" tabindex="2518">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow1" tabindex="2519" role="row">								<td class="table-as-list__piccell" id="tablecell_20" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2158/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2158/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2158/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2158/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_21" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2520">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2158/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG DATENUMGEBUNG (W/M/D) " id="link_1152488_9" tabindex="2521">LEITUNG DATENUMGEBUNG (W/M/D) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2522" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2523" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2524" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2525" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2158/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_9" tabindex="2526">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>						
+						<tr class="table-as-list__contentrow2" tabindex="2527" role="row">								<td class="table-as-list__piccell" id="tablecell_22" role="cell">
+									<div>
+										<div class="table-as-list__piccell"><span class='portrait'><img class="image_border lazy" style="display:none; background-image:url(/img/spacer.gif)"  data-original="/Jobs/All/2157/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2157/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" /><noscript><img class="imageborder" src="/Jobs/All/2157/ShowImage/apple-touch-icon-180x180.png?AccessKey=1793884911_861528_1387&amp;ep=/Positions/2157/CustomerDefined/GetActiveLogo/Photo/File&amp;show=medium&docName=apple-touch-icon-180x180.png" alt="apple-touch-icon-180x180.png" title="apple-touch-icon-180x180.png"></noscript></span>										</div>
+									</div>
+								</td>							<td class="table-as-list__cell" id="tablecell_23" role="cell">
+								<div>
+									<div class="table-as-list__cell">										<ul class="table-cell-content" role="list" aria-label="Stellendetails" tabindex="2528">										<!-- added variable for using it in case no paragraph is required for accessibility -->												<li role="listitem"><h3 class="table-as-list__subtitle tableaslist_element_1152488"><a  href="/Vacancies/2157/Description/1" class="HSTableLinkSubTitle" aria-label="LEITUNG BEFÄHIGUNG + SUPPORT (W/M/D) " id="link_1152488_10" tabindex="2529">LEITUNG BEFÄHIGUNG + SUPPORT (W/M/D) </a>										</h3 ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152489" aria-hidden="true" role="listitem">										</li >												<li role="listitem"><p class="table-as-list__subtitle tableaslist_element_1184115"><br /> 										</p ></li>													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184128"tabindex="2530" role="listitem" aria-label="Feste Mitarbeit">														<span class="visually-hidden" id="column_label_1184128"></span><span class="icon-view"><i class="icon icon-umantis-icon-427" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184128">Feste Mitarbeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184117"tabindex="2531" role="listitem"aria-labelledby="column_label_1184117 column_value_1184117" >														<span class="visually-hidden" id="column_label_1184117">Art</span><span class="icon-view" title="Art"><i class="icon icon-umantis-icon-366" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184117">Vollzeit</span><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184118"tabindex="2532" role="listitem"aria-labelledby="column_label_1184118 column_value_1184118" >														<span class="visually-hidden" id="column_label_1184118">Befristung</span><span class="icon-view" title="Befristung"><i class="icon icon-umantis-icon-368" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184118">unbefristet</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184119" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184124"tabindex="2533" role="listitem" aria-label="Berlin">														<span class="visually-hidden" id="column_label_1184124"></span><span class="icon-view"><i class="icon icon-umantis-icon-25" aria-hidden="true"></i></span><span class="column-value" id="column_value_1184124">Berlin</span>										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1184126" aria-hidden="true" role="listitem"><br /> 										</li >													<li class="form_content_paragraph table-as-list__text tableaslist_element_1152500" role="listitem"><a href="/Vacancies/2157/Application/CheckLogin/1" class="HSTableLink" aria-label="Jetzt bewerben" id="link_1152500_10" tabindex="2534">Jetzt bewerben</a>										</li ><br />										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>				</table>				<div class="table-as-list__paging-bottom" id="tablenavigation_boundary_1152481_bottom">
+					<span class="table-as-list__paging-bottom" id="tablenavigation_1152481_bottom" data-pagination-next-href="?tc1152481=p2&amp;_search_token1152481=2002338710#connectortable_1152481"						  data-pagination-from="1"
+						  data-pagination-to="10"><script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" src="/css/js/web-components/web-component-utils.min.js"></script>			<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" src="/css/js/web-components/table-navigation.min.js"></script>
+		<div id="async_object_1152481_bottom">
+			<table-navigation 
+				async-object-lang-id="1152481" 
+				initial-data-string="{&quot;langID&quot;:&quot;1152481&quot;,&quot;TableFrom&quot;:1,&quot;TableNr&quot;:&quot;1152481&quot;,&quot;TableTo&quot;:10,&quot;NextLink&quot;:{&quot;FieldIsActive&quot;:1,&quot;EnhancedUrl&quot;:&quot;?tc1152481=p2&amp;amp;_search_token1152481=2002338710#connectortable_1152481&quot;,&quot;FieldIsConfigurable&quot;:1,&quot;langID&quot;:&quot;70212&quot;,&quot;TranslatedStandardText&quot;:&quot;&lt;i class=\&quot;icon itnav_next\&quot; title=\&quot;nächste\&quot;&gt;&lt;/i&gt;&quot;},&quot;search_token&quot;:&quot;2002338710&quot;,&quot;token_list_id&quot;:&quot;2851777&quot;,&quot;TableCurrentPage&quot;:1,&quot;TableTotalLines&quot;:null,&quot;TableMaxEntries&quot;:&quot;10&quot;,&quot;EndLink&quot;:{&quot;FieldIsActive&quot;:1,&quot;EnhancedUrl&quot;:&quot;?tc1152481=p0&amp;amp;_search_token1152481=2002338710#connectortable_1152481&quot;,&quot;FieldIsConfigurable&quot;:1,&quot;langID&quot;:&quot;70211&quot;,&quot;TranslatedStandardText&quot;:&quot;&lt;i class=\&quot;icon itnav_last\&quot; title=\&quot;letzte\&quot;&gt;&lt;/i&gt;&quot;}}" 
+				multiaction-lang-id="" 
+				tab-index-count="2535">
+			</table-navigation>
+		</div></span>
+				</div>			</div>							</div>
+				</section>
+			</div>			</div>	</mainwizard></div>	<span id="back-top"><a href="#top" role= "button" aria-label="Zurück nach oben" tabindex="2536"><span class="u-visibility--sr-only">Zurück nach oben</span></a></span>	<div class="customized_footer">
+		<iframe class="external_iframe resizeHeight" style="margin: 0 0 0 64px;" src="/pubhtml/5154/customer/1/footer.html?20261114" aria-label="Individuelle Fußzeile für externe Seiten" name="customized_footer" scrolling="no">
+			<p>Ihr Browser kann leider keine eingebetteten Frames anzeigen</p>
+		</iframe>
+	</div>	<footer data-ac="text" class="l-layout__article u-pt--lg">
+		<section class="footer-wrapper"><div class="copy l-flex__item"  title="recruitingapp stable | 2026.34.1 (stable)">				<span class="footertxt">Umantis</span>
+			</div>
+		</section>
+	</footer><!-- Event Calendar --><div id="EventCalenderDiv">
+	<div id="app-cal" >
+		<div class="event-calendar-wrapper" id="event-slots"></div>
+	</div>
+	<div class="event-calendar-index" id="event-index">
+		<span><em class="icon fa-user"></em></span>
+		<span><em class="icon fa-user-times"></em></span>
+		<span><em class="icon fa-user-not-eligible"></em></span>
+	</div>
+</div><script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/page-loader.min.js?d0f5e0b2" rel="preload"></script>
+	<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/footer_UI-2023.min.js?d0f5e0b2"></script>
+	<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/jquery/ui/i18n/jquery.ui.datepicker-ger.js"></script>		<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/jquery/jquery.ba-postmessage.js"></script>		<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/main-2023.min.js?d0f5e0b2" id="umantis2023js"></script>
+        <script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/orgcharts/jquery.orgchart.js"></script>
+		<script nonce="MjQ4NzE4NjA5MTg1OTE2Mjc2OTk3Nzc0NTE1MDY2ODY1NTcyNjgx" type="text/javascript" src="/css/js/jquery.mobile-breadcrumb.min.js"></script>
+	</body>
+</html>
