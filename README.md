@@ -12,6 +12,7 @@ Radio, Castings, Musik, Formatentwicklung und Leitung. Läuft als GitHub Action,
 | [`data/run.json`](data/run.json) | Protokoll des letzten Laufs: wie viele Stellen pro Quelle, Fehler und Hinweise |
 | [`data/protokolle/`](data/protokolle/) | Ein Protokoll pro Lauf (Dateiname = Datum) |
 | [`QUELLEN.md`](QUELLEN.md) | Welche Quellen abgerufen werden, was erlaubt ist und wo du E-Mail-Alerts einrichten solltest |
+| [`initiativ/kontakte.md`](initiativ/kontakte.md) | **Initiativ-Liste:** passende Produktionsfirmen, Sender und Studios mit Formaten und offiziellen Kontakten, zum Abhaken |
 
 **Regel:** Eine Stelle ist offen, solange sie in der Quelle steht. Fehlt sie, wird sie als geschlossen markiert
 und bleibt noch 60 Tage in `jobs.json`.
