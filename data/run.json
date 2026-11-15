@@ -1,23 +1,23 @@
 {
- "datum": "2026-11-14",
- "gestartet": "2026-11-14T14:30:26+01:00",
- "dauerSekunden": 113,
- "offen": 20,
+ "datum": "2026-11-15",
+ "gestartet": "2026-11-15T06:02:19+01:00",
+ "dauerSekunden": 107,
+ "offen": 19,
  "neuHeute": 0,
- "geschlossenHeute": 0,
- "geschlossenInDatei": 4,
+ "geschlossenHeute": 1,
+ "geschlossenInDatei": 5,
  "offenProQuelle": {
   "RADIOSZENE": 6,
   "Arbeitsagentur": 5,
   "DWDL.de": 3,
-  "newsroom.de": 2,
   "BR": 1,
   "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
-  "Deutschlandradio": 1
+  "Deutschlandradio": 1,
+  "newsroom.de": 1
  },
  "offenProRolle": {
-  "host": 11,
+  "host": 10,
   "leitung": 4,
   "format": 2,
   "casting": 2,
@@ -55,12 +55,12 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 19,
+   "stellen": 18,
    "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
-     "passend": 5,
+     "passend": 4,
      "beispiele": [
       "Accountant Kreditoren & Debitoren (m/w/d) | newsroom.de | Ahrensburg",
       "Praktikant/Werkstudent (m/w/d) Marketing-Kommunikation | newsroom.de | Ulm",
@@ -118,7 +118,7 @@
      "beispiele": [
       "Praktikum Team Wirtschaft (01/2027 - 04/2027) | ZDF | Mainz",
       "Werkstudent*in HR Sport (Doku) | ZDF | Mainz",
-      "Medientechniker*in / Bildtechniker*in | ZDF | Mainz"
+      "Senior Accountant Kreditorenbuchhaltung mit Schwerpunkt Lizenzen (w/m/d) | ZDF | Mainz"
      ]
     },
     "ZDF Digital": {
@@ -224,9 +224,9 @@
      "gesamt": 50,
      "passend": 0,
      "beispiele": [
+      "Marketing Manager - Live Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667",
       "Beauty Expert Munich Store (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Beauty Expert & Brow Specialist (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Portfolio Manager - Immobilien (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
+      "Beauty Expert & Brow Specialist (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
      ]
     },
     "RTL Deutschland": {
@@ -289,27 +289,26 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1036,
-    "ausgeschlossen (Titel: praktik)": 184,
-    "ausgeschlossen (Titel: performance marketing)": 13,
+    "titel passt zu keiner rolle": 1038,
+    "ausgeschlossen (Titel: praktik)": 181,
+    "ausgeschlossen (Titel: performance marketing)": 11,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: influencer marketing)": 4,
+    "ausgeschlossen (Titel: volontariat)": 18,
+    "ausgeschlossen (Titel: ausbildung)": 48,
+    "ausgeschlossen (Titel: influencer marketing)": 5,
+    "ausgeschlossen (Titel: social media manager)": 26,
+    "ausgeschlossen (Titel: online marketing)": 25,
     "ausgeschlossen (Titel: volontär)": 18,
     "ausgeschlossen (Titel: werkstudent)": 36,
     "ausgeschlossen (Titel: social media marketing)": 3,
     "ausgeschlossen (Titel: content marketing)": 4,
-    "ausgeschlossen (Titel: ausbildung)": 45,
     "ausgeschlossen (Titel: trainee)": 12,
-    "ausgeschlossen (Titel: online marketing)": 24,
     "ausgeschlossen (Titel: online-marketing)": 13,
-    "ort passt nicht": 15,
-    "ausgeschlossen (Titel: volontariat)": 17,
+    "ort passt nicht": 13,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
-    "ausgeschlossen (Titel: social media manager)": 25,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "ausgeschlossen (Titel: working student)": 1,
-    "ausgeschlossen (Titel: azubi)": 1,
     "älter als 60 Tage": 31,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
@@ -321,10 +320,10 @@
   },
   "arbeitsagentur": {
    "stellen": 5,
-   "gefunden": 802,
+   "gefunden": 803,
    "aufrufe": 76,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 664,
+    "titel passt zu keiner rolle oder ausgeschlossen": 665,
     "ausgeschlossen (Beruf: helfer)": 29,
     "ausgeschlossen (Beruf: ingenieur)": 50,
     "ausgeschlossen (Beruf: schausteller)": 2,
