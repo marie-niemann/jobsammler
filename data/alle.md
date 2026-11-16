@@ -1,10 +1,10 @@
-# Alle offenen Stellen (19)
+# Alle offenen Stellen (18)
 
-Stand: 15.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 16.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (10)](#moderation--host-vor-der-kamera-10) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
+**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
 
-## Moderation & Host vor der Kamera (10)
+## Moderation & Host vor der Kamera (9)
 
 - **[freie/n Moderator/in (m/w/d)](https://www.radioszene.de/218853/radio-paloma-moderator-wochenende.html)**  
   Radio Paloma · Berlin
@@ -30,9 +30,6 @@ Stand: 15.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Morgenmoderator/-Redakteur (m/w/d)](https://www.radioszene.de/219215/antenne-muenster-morgenmoderator-redakteur.html)**  
   ANTENNE MÜNSTER · Ort unbekannt
   <sub>Quelle: RADIOSZENE · veröffentlicht 2026-11-13 · gefunden am 2026-11-14 · ⚠️ Ort prüfen</sub>
-- **[News-Anchor (m/w/d)](https://www.radioszene.de/217427/antenne-thueringen-news-anchor-sept26.html)**  
-  ANTENNE THÜRINGEN · Ort unbekannt
-  <sub>Quelle: RADIOSZENE · veröffentlicht 2026-09-16 · gefunden am 2026-11-14 · ⚠️ Ort prüfen</sub>
 - **[Moderator für Veranstaltungen in weiterführenden Schulen (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002494928-S)**  
   Ulrich & Martin Meyer GmbH & Co. KG · Bielefeld | Gütersloh · freie Mitarbeit / selbständig
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-01-27 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
@@ -41,7 +38,7 @@ Stand: 15.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 
 - **[Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HO4EHC-AMZ-S)**  
   Movie Park Germany GmbH · Bottrop
-  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-01 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
+  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-15 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
 - **[Castingaufruf für Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208599164-S)**  
   Movie Park Germany GmbH Freizeitpark · Bottrop
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-09 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (castingaufruf)</sub>

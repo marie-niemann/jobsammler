@@ -1,4 +1,4 @@
-# Neue Stellen vom 15.11.2026
+# Neue Stellen vom 16.11.2026
 
 Heute sind keine neuen passenden Stellen dazugekommen.
 

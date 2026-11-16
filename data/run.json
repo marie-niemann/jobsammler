@@ -1,13 +1,13 @@
 {
- "datum": "2026-11-15",
- "gestartet": "2026-11-15T06:02:19+01:00",
- "dauerSekunden": 107,
- "offen": 19,
+ "datum": "2026-11-16",
+ "gestartet": "2026-11-16T06:38:52+01:00",
+ "dauerSekunden": 124,
+ "offen": 18,
  "neuHeute": 0,
  "geschlossenHeute": 1,
- "geschlossenInDatei": 5,
+ "geschlossenInDatei": 6,
  "offenProQuelle": {
-  "RADIOSZENE": 6,
+  "RADIOSZENE": 5,
   "Arbeitsagentur": 5,
   "DWDL.de": 3,
   "BR": 1,
@@ -17,7 +17,7 @@
   "newsroom.de": 1
  },
  "offenProRolle": {
-  "host": 10,
+  "host": 9,
   "leitung": 4,
   "format": 2,
   "casting": 2,
@@ -55,7 +55,7 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 18,
+   "stellen": 17,
    "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
@@ -63,13 +63,13 @@
      "passend": 4,
      "beispiele": [
       "Accountant Kreditoren & Debitoren (m/w/d) | newsroom.de | Ahrensburg",
-      "Praktikant/Werkstudent (m/w/d) Marketing-Kommunikation | newsroom.de | Ulm",
-      "Praktikant*in Enterprise Tech-Kommunikation (Pflicht-Praktikum) | newsroom.de | Stuttgart"
+      "Eventmanagerin / Eventmanager (m/w/d) (FH/Bachelor) | newsroom.de | Bergisch Gladbach",
+      "Technischer Redakteur (m/w/d) | newsroom.de | Rosenheim"
      ]
     },
     "RADIOSZENE": {
      "gesamt": 50,
-     "passend": 7,
+     "passend": 6,
      "beispiele": [
       "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | ",
       "Volontär/in (m(w/d) | ahoy radio | ",
@@ -95,7 +95,7 @@
      ]
     },
     "NDR": {
-     "gesamt": 30,
+     "gesamt": 29,
      "passend": 0,
      "beispiele": [
       "Praktikum für Erwachsene im Notenarchiv | NDR | Hamburg",
@@ -221,12 +221,12 @@
      ]
     },
     "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
-     "gesamt": 50,
+     "gesamt": 47,
      "passend": 0,
      "beispiele": [
       "Marketing Manager - Live Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667",
-      "Beauty Expert Munich Store (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Beauty Expert & Brow Specialist (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
+      "Portfolio Manager - Immobilien (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Junior Sales Manager - Podcast (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | "
      ]
     },
     "RTL Deutschland": {
@@ -251,18 +251,18 @@
      "gesamt": 24,
      "passend": 0,
      "beispiele": [
-      "Berufskraftfahrer (m/w/d) Schwerpunkt Nahverkehr | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Sales & Business Development Manager (m/w/d) für TV- und Live-Events | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Finanzbuchhalter (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+      "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Redaktionsassistenz (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Jungredakteur/Redakteur Casting (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
      ]
     },
     "EndemolShine Germany": {
      "gesamt": 4,
      "passend": 0,
      "beispiele": [
-      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln",
-      "Initiativbewerbungen (w/m/d) | EndemolShine Germany | Köln",
-      "Redaktionsassistenz (w/m/d) | EndemolShine Germany | Köln"
+      "Redaktionsassistenz (w/m/d) | EndemolShine Germany | Köln",
+      "Jungredakteur/Redakteur Casting (w/m/d) | EndemolShine Germany | Köln",
+      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln"
      ]
     },
     "Seapoint Productions": {
@@ -289,27 +289,27 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1038,
-    "ausgeschlossen (Titel: praktik)": 181,
-    "ausgeschlossen (Titel: performance marketing)": 11,
+    "titel passt zu keiner rolle": 1034,
+    "ausgeschlossen (Titel: praktik)": 178,
+    "ausgeschlossen (Titel: werkstudent)": 36,
+    "ausgeschlossen (Titel: volontär)": 18,
+    "ausgeschlossen (Titel: online-marketing)": 14,
+    "ausgeschlossen (Titel: online marketing)": 26,
+    "ausgeschlossen (Titel: influencer marketing)": 6,
+    "ausgeschlossen (Titel: social media manager)": 27,
+    "ausgeschlossen (Titel: performance marketing)": 13,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: volontariat)": 18,
     "ausgeschlossen (Titel: ausbildung)": 48,
-    "ausgeschlossen (Titel: influencer marketing)": 5,
-    "ausgeschlossen (Titel: social media manager)": 26,
-    "ausgeschlossen (Titel: online marketing)": 25,
-    "ausgeschlossen (Titel: volontär)": 18,
-    "ausgeschlossen (Titel: werkstudent)": 36,
     "ausgeschlossen (Titel: social media marketing)": 3,
     "ausgeschlossen (Titel: content marketing)": 4,
-    "ausgeschlossen (Titel: trainee)": 12,
-    "ausgeschlossen (Titel: online-marketing)": 13,
+    "ausgeschlossen (Titel: trainee)": 9,
     "ort passt nicht": 13,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "ausgeschlossen (Titel: working student)": 1,
-    "älter als 60 Tage": 31,
+    "älter als 60 Tage": 32,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
     "ausgeschlossen (Titel: referendar)": 4,
@@ -320,19 +320,19 @@
   },
   "arbeitsagentur": {
    "stellen": 5,
-   "gefunden": 803,
+   "gefunden": 799,
    "aufrufe": 76,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 665,
+    "titel passt zu keiner rolle oder ausgeschlossen": 660,
     "ausgeschlossen (Beruf: helfer)": 29,
-    "ausgeschlossen (Beruf: ingenieur)": 50,
+    "ausgeschlossen (Beruf: ingenieur)": 53,
     "ausgeschlossen (Beruf: schausteller)": 2,
     "ausgeschlossen (Beruf: hausmeister)": 4,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
     "ausgeschlossen (Beruf: zugsteward)": 1,
     "minijob": 3,
-    "ausgeschlossen (Beruf: informatiker)": 13,
+    "ausgeschlossen (Beruf: informatiker)": 11,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
     "ausgeschlossen (Beruf: verkäufer)": 16,
