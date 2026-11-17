@@ -1,10 +1,10 @@
-# Alle offenen Stellen (18)
+# Alle offenen Stellen (20)
 
-Stand: 16.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 17.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
+**Rollen:** [Moderation & Host vor der Kamera (10)](#moderation--host-vor-der-kamera-10) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
 
-## Moderation & Host vor der Kamera (9)
+## Moderation & Host vor der Kamera (10)
 
 - **[freie/n Moderator/in (m/w/d)](https://www.radioszene.de/218853/radio-paloma-moderator-wochenende.html)**  
   Radio Paloma · Berlin
@@ -18,6 +18,9 @@ Stand: 16.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Host für „PULS Musikanalyse" (w/m/d) bei BR Puls in freier Mitarbeit](https://jobs.br.de/Vacancies/1423/Description/1)**  
   BR · München · Befristung: befristet
   <sub>Quelle: BR · gefunden am 2026-11-14</sub>
+- **[Delivery Driver /Logistics Specialist /Food (im Bereich Catering) Food Presenter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004022510-S)** 🆕  
+  Hagen Lindemann GbR · Hamburg
+  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-16 · gefunden am 2026-11-17</sub>
 - **[Radio-Moderator*in für die Frühsendung hr1 (freie Mitarbeit)](https://www.hr.de/karriere/alle-angebote/freie-mitarbeit/radio-moderatorin-fuer-die-fruehsendung-hr1-freie-mitarbeit-v1,fruesendung-100.html)**  
   Hessischer Rundfunk · Frankfurt
   <sub>Quelle: Hessischer Rundfunk · veröffentlicht 2026-11-05 · gefunden am 2026-11-14</sub>
@@ -58,7 +61,7 @@ Stand: 16.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
   Novo Film GmbH · Hannover
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-09-20 · gefunden am 2026-11-14</sub>
 
-## Leitung Redaktion / Show (4)
+## Leitung Redaktion / Show (5)
 
 - **[Redaktionsleitung Social Media (m/w/d)](https://deutschlandradio.softgarden.io/job/68625908/Redaktionsleitung-Social-Media-m-w-d-)**  
   Deutschlandradio · Köln | Berlin
@@ -66,6 +69,9 @@ Stand: 16.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Chef*in-vom-Dienst (m/w/d) in Voll- oder Teilzeit](https://www.dwdl.de/jobboerse/43510_floridafactualgmbh.html)**  
   Florida Factual GmbH · Berlin
   <sub>Quelle: DWDL.de · gefunden am 2026-11-14</sub>
+- **[Head of Video (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208674023-S)** 🆕  
+  HelloFresh SE · Berlin
+  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-16 · gefunden am 2026-11-17</sub>
 - **[CHEF*IN VOM DIENST (CVD)](https://www.newsroom.de/jobs/aktuelle-jobs/film-tv-radio-10/chefin-vom-dienst-cvd-570849/)**  
   newsroom.de · Berlin
   <sub>Quelle: newsroom.de · veröffentlicht 2026-10-21 · gefunden am 2026-11-14</sub>

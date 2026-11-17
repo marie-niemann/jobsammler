@@ -1,0 +1,346 @@
+{
+ "datum": "2026-11-17",
+ "gestartet": "2026-11-17T06:07:49+01:00",
+ "dauerSekunden": 110,
+ "offen": 20,
+ "neuHeute": 2,
+ "geschlossenHeute": 0,
+ "geschlossenInDatei": 6,
+ "offenProQuelle": {
+  "Arbeitsagentur": 7,
+  "RADIOSZENE": 5,
+  "DWDL.de": 3,
+  "BR": 1,
+  "Hessischer Rundfunk": 1,
+  "NDR Karriere-Feed": 1,
+  "Deutschlandradio": 1,
+  "newsroom.de": 1
+ },
+ "offenProRolle": {
+  "host": 10,
+  "leitung": 5,
+  "format": 2,
+  "casting": 2,
+  "musik": 1
+ },
+ "zusammengefuehrt": 4,
+ "quellenOk": [
+  "ARD Programmdirektion",
+  "Arbeitsagentur",
+  "BR",
+  "BR Karriere-Feed",
+  "Banijay Germany (mit Brainpool, Good Times)",
+  "DWDL.de",
+  "Deutschlandradio",
+  "EndemolShine Germany",
+  "Hessischer Rundfunk",
+  "ITV Studios Germany",
+  "MDR",
+  "NDR",
+  "NDR Karriere-Feed",
+  "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)",
+  "RADIOSZENE",
+  "RTL Deutschland",
+  "Radio Bremen",
+  "SWR und funk",
+  "Saarländischer Rundfunk",
+  "Seapoint Productions",
+  "UFA (mit UFA Show & Factual)",
+  "ZDF",
+  "ZDF Digital",
+  "ZDF Karriere-Feed",
+  "btf (bildundtonfabrik)",
+  "newsroom.de",
+  "rbb"
+ ],
+ "quellen": {
+  "firmen_und_feeds": {
+   "stellen": 17,
+   "aufrufe": 69,
+   "pro_quelle": {
+    "newsroom.de": {
+     "gesamt": 1000,
+     "passend": 4,
+     "beispiele": [
+      "Junior Project Manager - Internal Communications & Social Media (m/w/d) | Steinbeis-Masterstudium (Heidenheim, BW (DE)) | newsroom.de | Heidenheim",
+      "Praktikum im Bereich Digital Analytics & Business Intelligence | newsroom.de | Ulm",
+      "Werkstudententätigkeit/Praktikum Digitales Produktmanagement | newsroom.de | Ulm"
+     ]
+    },
+    "RADIOSZENE": {
+     "gesamt": 50,
+     "passend": 6,
+     "beispiele": [
+      "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | ",
+      "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | ",
+      "Volontär/in (m(w/d) | ahoy radio | "
+     ]
+    },
+    "DWDL.de": {
+     "gesamt": 110,
+     "passend": 3,
+     "beispiele": [
+      "Mediendokumentar / Content Koordinator (m/w/d) | SAT.1 NRW | Dortmund",
+      "Executive Producer:in Development (m/w/d) | FILMREIF TV GmbH | Hamburg",
+      "Head of IT und Media Technology (m/w/d) | Home Shopping Europe GmbH | Ismaning bei München"
+     ]
+    },
+    "rbb": {
+     "gesamt": 44,
+     "passend": 0,
+     "beispiele": [
+      "PROJEKTPORTFOLIOMANAGER*IN | rbb | IVZ ARD",
+      "SOLUTION ARCHITECT / ENGINEER FÜR EVENT-DRIVEN ARCHITECTURE UND HUB-SERVICES (M/W/D) | rbb | IVZ ARD",
+      "LEITUNG POSTPRODUKTION UND DESIGN (W/M/D) - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG | rbb | Berlin"
+     ]
+    },
+    "NDR": {
+     "gesamt": 31,
+     "passend": 0,
+     "beispiele": [
+      "Archivar*in | NDR | Hannover",
+      "Abteilungsleiter*in Digitales | NDR | Hannover",
+      "Praktikum für Erwachsene im Notenarchiv | NDR | Hamburg"
+     ]
+    },
+    "BR": {
+     "gesamt": 37,
+     "passend": 1,
+     "beispiele": [
+      "Broadcast & Automation Engineer / Specialist (w/m/d) - Medien, KI und Remote-Workflows | BR | München - Freimann",
+      "Werkstudent (w/m/d) Softwareentwicklung für Hochfrequenz-Messsysteme | BR | Ismaning",
+      "Sachbearbeitung (w/m/d) im Vergabemanagement | BR | München - Freimann"
+     ]
+    },
+    "ZDF": {
+     "gesamt": 30,
+     "passend": 0,
+     "beispiele": [
+      "Praktikant*in Redaktion Terra X Web (07/2027 - 09/2027) | ZDF | Mainz",
+      "Praktikant*in Redaktion Zeitgeschichte (03/2027 - 12/2027) | ZDF | Mainz",
+      "Data Analyst (m/w/d) | ZDF | Mainz"
+     ]
+    },
+    "ZDF Digital": {
+     "gesamt": 11,
+     "passend": 0,
+     "beispiele": [
+      "(Senior) Software Developer (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office",
+      "DevOps Engineer (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office",
+      "Erste*r Motion Designer*in Social Media (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office"
+     ]
+    },
+    "Hessischer Rundfunk": {
+     "gesamt": 14,
+     "passend": 1,
+     "beispiele": [
+      "Volontariat Aufnahmeleiter*in | Hessischer Rundfunk | Frankfurt am Main",
+      "Schulpraktika | Hessischer Rundfunk | Frankfurt am Main",
+      "Audio-Producer*in Medienproduktion (Schwerpunkt Synchronstudio) | Hessischer Rundfunk | Frankfurt am Main"
+     ]
+    },
+    "Deutschlandradio": {
+     "gesamt": 3,
+     "passend": 1,
+     "beispiele": [
+      "Redaktionsleitung Social Media (m/w/d) | Deutschlandradio | Köln,, Berlin",
+      "Praktikant/in (m/w/d) in der Abteilung Dokumentation und Archive | Deutschlandradio | Berlin,, Köln",
+      "Aushilfen (m/w/d) Redaktions-Assistenz, Sekretariat oder Sachbearbeitung - Funkhaus Köln oder Berlin | Deutschlandradio | Berlin,, Köln"
+     ]
+    },
+    "Radio Bremen": {
+     "gesamt": 3,
+     "passend": 0,
+     "beispiele": [
+      "Journalistisches Volontariat | Radio Bremen | Bremen,, Bremerhaven",
+      "Volontariat Data & Information Specialist (m/w/d) - Master-of-Advanced-Studies | Radio Bremen | Bremen",
+      "Initiativbewerbung | Radio Bremen | Bremen,, Bremerhaven"
+     ]
+    },
+    "Saarländischer Rundfunk": {
+     "gesamt": 4,
+     "passend": 0,
+     "beispiele": [
+      "Medientechniker/in (m/w/d) im Abspielzentrum | Saarländischer Rundfunk | Saarbrücken",
+      "Social-Journalist/in (m/w/d) für \"caracho\" | Saarländischer Rundfunk | Saarbrücken",
+      "Musikjournalist/in (m/w/d) für den Programmbereich Kultur | Saarländischer Rundfunk | Saarbrücken"
+     ]
+    },
+    "NDR Karriere-Feed": {
+     "gesamt": 12,
+     "passend": 1,
+     "beispiele": [
+      "Wir machen Medien. Gemeinsam mit dir. | NDR Karriere-Feed | Hamburg",
+      "Der NDR als Arbeitgeber | NDR Karriere-Feed | Hamburg",
+      "Unsere Benefits | NDR Karriere-Feed | Hamburg"
+     ]
+    },
+    "ZDF Karriere-Feed": {
+     "gesamt": 18,
+     "passend": 0,
+     "beispiele": [
+      "Trainee \"Medienrecherche\" oder \"Sport\" | ZDF Karriere-Feed | ",
+      "Schülerpraktika | ZDF Karriere-Feed | ",
+      "Ein ZDF für alle | ZDF Karriere-Feed | "
+     ]
+    },
+    "SWR und funk": {
+     "gesamt": 13,
+     "passend": 0,
+     "beispiele": [
+      "Betriebswirtschaft | Administration | SWR und funk | ",
+      "Handwerk | Medienproduktion | SWR und funk | ",
+      "IT | Technik | SWR und funk | "
+     ]
+    },
+    "MDR": {
+     "gesamt": 13,
+     "passend": 0,
+     "beispiele": [
+      "Das bietet der MDR als Arbeitgeber seinen Mitarbeitenden | MDR | Leipzig",
+      "Stellenangebote | MDR | Leipzig",
+      "Beschäftigungsangebote und Minijobs für Studierende und Aushilfen | MDR | Leipzig"
+     ]
+    },
+    "BR Karriere-Feed": {
+     "gesamt": 14,
+     "passend": 0,
+     "beispiele": [
+      "BR als Arbeitgeber: Aus Überzeugung beim BR | BR Karriere-Feed | München",
+      "Das bieten wir: Die Benefits des Bayerischen Rundfunks | BR Karriere-Feed | München",
+      "Der BR in Zahlen: Programme, Finanzen, Mitarbeitende und mehr | BR Karriere-Feed | München"
+     ]
+    },
+    "ARD Programmdirektion": {
+     "gesamt": 5,
+     "passend": 0,
+     "beispiele": [
+      "Freie Stellen in der ARD-Programmdirektion | ARD Programmdirektion | München",
+      "Karriere in der ARD – Ausbildungs-, Job- und Stellenangebote | ARD Programmdirektion | München",
+      "Kontakt zur ARD-Programmdirektion | ARD Programmdirektion | München"
+     ]
+    },
+    "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
+     "gesamt": 47,
+     "passend": 0,
+     "beispiele": [
+      "Werkstudent Customer Relationship Management (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Praktikum Marketing - Licensing & Commerce (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Marketing Manager - Live Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667"
+     ]
+    },
+    "RTL Deutschland": {
+     "gesamt": 40,
+     "passend": 0,
+     "beispiele": [
+      "Events and public relations internship – 6 months (m/f/d) | RTL Deutschland | Neuilly sur Seine, 157 Avenue Charles de Gaulle, France",
+      "Werkstudent Advertising Research (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Werkstudent Video Living (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
+     ]
+    },
+    "UFA (mit UFA Show & Factual)": {
+     "gesamt": 10,
+     "passend": 0,
+     "beispiele": [
+      "Ausbildung Mediengestaltende Bild & Ton (all genders) | UFA Serial Drama | Potsdam",
+      "Castingredakteur:in (all genders) | UFA Show & Factual | Köln",
+      "Datentypist:in / Logger:in (all genders) / Köln | UFA Show & Factual | Köln"
+     ]
+    },
+    "Banijay Germany (mit Brainpool, Good Times)": {
+     "gesamt": 24,
+     "passend": 0,
+     "beispiele": [
+      "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Redaktionsassistenz (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Jungredakteur/Redakteur Casting (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+     ]
+    },
+    "EndemolShine Germany": {
+     "gesamt": 4,
+     "passend": 0,
+     "beispiele": [
+      "Redaktionsassistenz (w/m/d) | EndemolShine Germany | Köln",
+      "Jungredakteur/Redakteur Casting (w/m/d) | EndemolShine Germany | Köln",
+      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln"
+     ]
+    },
+    "Seapoint Productions": {
+     "gesamt": 2,
+     "passend": 0,
+     "beispiele": [
+      "PRAKTIKANT:IN TICKETING | REDAKTION SHOW (m/w/d) | Seapoint Productions | Köln",
+      "JOIN TEAM SEAPOINT (m/w/d) | Seapoint Productions | Köln"
+     ]
+    },
+    "btf (bildundtonfabrik)": {
+     "gesamt": 1,
+     "passend": 0,
+     "beispiele": [
+      "Praktikant:in Produktion Show (all gender) | btf (bildundtonfabrik) | Köln"
+     ]
+    },
+    "ITV Studios Germany": {
+     "gesamt": 1,
+     "passend": 0,
+     "beispiele": [
+      "Initiativbewerbung | ITV Studios Germany | Köln, Berlin Genthiner Str., Berlin Adlershof"
+     ]
+    }
+   },
+   "aussortiert": {
+    "titel passt zu keiner rolle": 1049,
+    "ausgeschlossen (Titel: praktik)": 171,
+    "ausgeschlossen (Titel: influencer marketing)": 7,
+    "ausgeschlossen (Titel: social media manager)": 27,
+    "ort passt nicht": 12,
+    "ausgeschlossen (Titel: volontariat)": 19,
+    "ausgeschlossen (Titel: volontär)": 20,
+    "ausgeschlossen (Titel: werkstudent)": 42,
+    "ausgeschlossen (Titel: online-marketing)": 11,
+    "ausgeschlossen (Titel: online marketing)": 20,
+    "ausgeschlossen (Titel: performance marketing)": 12,
+    "ausgeschlossen (Titel: content-marketing)": 1,
+    "ausgeschlossen (Titel: ausbildung)": 48,
+    "ausgeschlossen (Titel: social media marketing)": 3,
+    "ausgeschlossen (Titel: content marketing)": 3,
+    "ausgeschlossen (Titel: trainee)": 8,
+    "ausgeschlossen (Titel: studentische)": 9,
+    "ausgeschlossen (Titel: auszubildende)": 5,
+    "ausgeschlossen (Titel: social-media-manager)": 1,
+    "ausgeschlossen (Titel: working student)": 1,
+    "älter als 60 Tage": 31,
+    "ausgeschlossen (Titel: wahlstation)": 7,
+    "ausgeschlossen (Titel: initiativbewerbung)": 8,
+    "ausgeschlossen (Titel: referendar)": 4,
+    "ausgeschlossen (Titel: aushilfe)": 1,
+    "ausgeschlossen (Titel: duales studium)": 3,
+    "ausgeschlossen (Titel: minijob)": 1
+   }
+  },
+  "arbeitsagentur": {
+   "stellen": 7,
+   "gefunden": 795,
+   "aufrufe": 78,
+   "aussortiert": {
+    "titel passt zu keiner rolle oder ausgeschlossen": 662,
+    "ausgeschlossen (Beruf: helfer)": 30,
+    "ausgeschlossen (Beruf: ingenieur)": 50,
+    "ausgeschlossen (Beruf: schausteller)": 2,
+    "ausgeschlossen (Beruf: hausmeister)": 3,
+    "ausgeschlossen (Beruf: animateur)": 3,
+    "ausgeschlossen (Beruf: barmeister)": 1,
+    "ausgeschlossen (Beruf: zugsteward)": 1,
+    "minijob": 3,
+    "ausgeschlossen (Beruf: hostess)": 1,
+    "ausgeschlossen (Beruf: fmea)": 1,
+    "ausgeschlossen (Beruf: verkäufer)": 13,
+    "ausgeschlossen (Beruf: informatiker)": 8,
+    "ausgeschlossen (Beruf: fremdenführer)": 1,
+    "ort passt nicht": 4,
+    "ausgeschlossen (Beruf: kundendienstberater)": 5
+   }
+  }
+ },
+ "fehler": []
+}
