@@ -1,6 +1,6 @@
 # Alle offenen Stellen (20)
 
-Stand: 17.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 18.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
 **Rollen:** [Moderation & Host vor der Kamera (10)](#moderation--host-vor-der-kamera-10) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
 
@@ -18,7 +18,7 @@ Stand: 17.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Host für „PULS Musikanalyse" (w/m/d) bei BR Puls in freier Mitarbeit](https://jobs.br.de/Vacancies/1423/Description/1)**  
   BR · München · Befristung: befristet
   <sub>Quelle: BR · gefunden am 2026-11-14</sub>
-- **[Delivery Driver /Logistics Specialist /Food (im Bereich Catering) Food Presenter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004022510-S)** 🆕  
+- **[Delivery Driver /Logistics Specialist /Food (im Bereich Catering) Food Presenter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004022510-S)**  
   Hagen Lindemann GbR · Hamburg
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-16 · gefunden am 2026-11-17</sub>
 - **[Radio-Moderator*in für die Frühsendung hr1 (freie Mitarbeit)](https://www.hr.de/karriere/alle-angebote/freie-mitarbeit/radio-moderatorin-fuer-die-fruehsendung-hr1-freie-mitarbeit-v1,fruesendung-100.html)**  
@@ -39,9 +39,9 @@ Stand: 17.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 
 ## Castings, Werbung & Model (2)
 
-- **[Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HO4EHC-AMZ-S)**  
+- **[Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HO4EHC-X2J-S)** 🆕  
   Movie Park Germany GmbH · Bottrop
-  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-15 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
+  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-17 · gefunden am 2026-11-18 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
 - **[Castingaufruf für Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208599164-S)**  
   Movie Park Germany GmbH Freizeitpark · Bottrop
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-09 · gefunden am 2026-11-14 · ⚠️ anderer Ort, evtl. kurzer Einsatz (castingaufruf)</sub>
@@ -69,7 +69,7 @@ Stand: 17.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Chef*in-vom-Dienst (m/w/d) in Voll- oder Teilzeit](https://www.dwdl.de/jobboerse/43510_floridafactualgmbh.html)**  
   Florida Factual GmbH · Berlin
   <sub>Quelle: DWDL.de · gefunden am 2026-11-14</sub>
-- **[Head of Video (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208674023-S)** 🆕  
+- **[Head of Video (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208674023-S)**  
   HelloFresh SE · Berlin
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-16 · gefunden am 2026-11-17</sub>
 - **[CHEF*IN VOM DIENST (CVD)](https://www.newsroom.de/jobs/aktuelle-jobs/film-tv-radio-10/chefin-vom-dienst-cvd-570849/)**  

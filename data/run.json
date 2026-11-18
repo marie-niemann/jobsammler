@@ -1,11 +1,11 @@
 {
- "datum": "2026-11-17",
- "gestartet": "2026-11-17T06:07:49+01:00",
- "dauerSekunden": 110,
+ "datum": "2026-11-18",
+ "gestartet": "2026-11-18T06:11:57+01:00",
+ "dauerSekunden": 112,
  "offen": 20,
- "neuHeute": 2,
- "geschlossenHeute": 0,
- "geschlossenInDatei": 6,
+ "neuHeute": 1,
+ "geschlossenHeute": 1,
+ "geschlossenInDatei": 7,
  "offenProQuelle": {
   "Arbeitsagentur": 7,
   "RADIOSZENE": 5,
@@ -19,11 +19,11 @@
  "offenProRolle": {
   "host": 10,
   "leitung": 5,
-  "format": 2,
   "casting": 2,
+  "format": 2,
   "musik": 1
  },
- "zusammengefuehrt": 4,
+ "zusammengefuehrt": 3,
  "quellenOk": [
   "ARD Programmdirektion",
   "Arbeitsagentur",
@@ -55,16 +55,16 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 17,
+   "stellen": 16,
    "aufrufe": 69,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
-     "passend": 4,
+     "passend": 3,
      "beispiele": [
-      "Junior Project Manager - Internal Communications & Social Media (m/w/d) | Steinbeis-Masterstudium (Heidenheim, BW (DE)) | newsroom.de | Heidenheim",
-      "Praktikum im Bereich Digital Analytics & Business Intelligence | newsroom.de | Ulm",
-      "Werkstudententätigkeit/Praktikum Digitales Produktmanagement | newsroom.de | Ulm"
+      "Specialist Eventmanagement (m/w/d) - befristet auf ein Jahr | newsroom.de | Berlin, Frankfurt, Hamburg, München",
+      "Praktikant*in Marketing Vans, Team Market & Customer Intelligence (Pflicht-Praktikum) | newsroom.de | Stuttgart",
+      "Praktikant*in Wirtschaftskommunikation (Pflicht-Praktikum) | newsroom.de | Stuttgart"
      ]
     },
     "RADIOSZENE": {
@@ -73,16 +73,16 @@
      "beispiele": [
       "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | ",
       "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | ",
-      "Volontär/in (m(w/d) | ahoy radio | "
+      "Volontär/in und Junior Radioredakteur/in (m/w/d) | ahoy radio | "
      ]
     },
     "DWDL.de": {
-     "gesamt": 110,
+     "gesamt": 104,
      "passend": 3,
      "beispiele": [
-      "Mediendokumentar / Content Koordinator (m/w/d) | SAT.1 NRW | Dortmund",
-      "Executive Producer:in Development (m/w/d) | FILMREIF TV GmbH | Hamburg",
-      "Head of IT und Media Technology (m/w/d) | Home Shopping Europe GmbH | Ismaning bei München"
+      "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
+      "Senior Channel Manager & Channel Sales (m/w/d) | ARD Plus GmbH | Köln",
+      "Mediendokumentar / Content Koordinator (m/w/d) | SAT.1 NRW | Dortmund"
      ]
     },
     "rbb": {
@@ -91,11 +91,11 @@
      "beispiele": [
       "PROJEKTPORTFOLIOMANAGER*IN | rbb | IVZ ARD",
       "SOLUTION ARCHITECT / ENGINEER FÜR EVENT-DRIVEN ARCHITECTURE UND HUB-SERVICES (M/W/D) | rbb | IVZ ARD",
-      "LEITUNG POSTPRODUKTION UND DESIGN (W/M/D) - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG | rbb | Berlin"
+      "LEITUNG POSTPRODUKTION UND DESIGN - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG (W/M/D) | rbb | Berlin"
      ]
     },
     "NDR": {
-     "gesamt": 31,
+     "gesamt": 30,
      "passend": 0,
      "beispiele": [
       "Archivar*in | NDR | Hannover",
@@ -104,21 +104,21 @@
      ]
     },
     "BR": {
-     "gesamt": 37,
+     "gesamt": 41,
      "passend": 1,
      "beispiele": [
-      "Broadcast & Automation Engineer / Specialist (w/m/d) - Medien, KI und Remote-Workflows | BR | München - Freimann",
-      "Werkstudent (w/m/d) Softwareentwicklung für Hochfrequenz-Messsysteme | BR | Ismaning",
-      "Sachbearbeitung (w/m/d) im Vergabemanagement | BR | München - Freimann"
+      "(Junior) Marketing Manager (w/m/d) Corporate Marketing | BR | München - Freimann",
+      "Teamassistenz (w/m/d) in der Redaktion Journalistische Unterhaltung | BR | München - Freimann",
+      "Projektmanager (w/m/d) für die Angebotsfamilie BR Heimat in freier Mitarbeit | BR | München - Freimann"
      ]
     },
     "ZDF": {
      "gesamt": 30,
      "passend": 0,
      "beispiele": [
-      "Praktikant*in Redaktion Terra X Web (07/2027 - 09/2027) | ZDF | Mainz",
-      "Praktikant*in Redaktion Zeitgeschichte (03/2027 - 12/2027) | ZDF | Mainz",
-      "Data Analyst (m/w/d) | ZDF | Mainz"
+      "Praktikum Landesstudio Baden-Württemberg (01/2027 - 06/2027) | ZDF | Stuttgart",
+      "Werkstudent*in (FEY-Paid Media) | ZDF | Mainz",
+      "Praktikant*in Redaktion Terra X Web (07/2027 - 09/2027) | ZDF | Mainz"
      ]
     },
     "ZDF Digital": {
@@ -224,36 +224,36 @@
      "gesamt": 47,
      "passend": 0,
      "beispiele": [
-      "Werkstudent Customer Relationship Management (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Praktikum Marketing - Licensing & Commerce (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Marketing Manager - Live Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667"
+      "Junior Grafiker (m/w/d) Teilzeit | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Grafiker (m/w/d) Teilzeit | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Volontariat PR-Team - Content Communications (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 40,
+     "gesamt": 42,
      "passend": 0,
      "beispiele": [
-      "Events and public relations internship – 6 months (m/f/d) | RTL Deutschland | Neuilly sur Seine, 157 Avenue Charles de Gaulle, France",
-      "Werkstudent Advertising Research (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Werkstudent Video Living (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
+      "Praktikum Content Management VOD | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Senior Product Owner (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Werkstudent Content Management Sport (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
-     "gesamt": 10,
+     "gesamt": 9,
      "passend": 0,
      "beispiele": [
       "Ausbildung Mediengestaltende Bild & Ton (all genders) | UFA Serial Drama | Potsdam",
-      "Castingredakteur:in (all genders) | UFA Show & Factual | Köln",
-      "Datentypist:in / Logger:in (all genders) / Köln | UFA Show & Factual | Köln"
+      "Datentypist:in / Logger:in (all genders) / Köln | UFA Show & Factual | Köln",
+      "Group Head of Communication (all genders) | UFA | Berlin"
      ]
     },
     "Banijay Germany (mit Brainpool, Good Times)": {
-     "gesamt": 24,
+     "gesamt": 23,
      "passend": 0,
      "beispiele": [
+      "Mitarbeiter Lagerlogistik in der Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
       "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Redaktionsassistenz (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Jungredakteur/Redakteur Casting (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+      "Redaktionsassistenz (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
      ]
     },
     "EndemolShine Germany": {
@@ -289,27 +289,27 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1049,
-    "ausgeschlossen (Titel: praktik)": 171,
+    "titel passt zu keiner rolle": 1043,
+    "ausgeschlossen (Titel: praktik)": 176,
+    "ausgeschlossen (Titel: social media marketing)": 4,
+    "ausgeschlossen (Titel: online marketing)": 21,
+    "ausgeschlossen (Titel: performance marketing)": 13,
     "ausgeschlossen (Titel: influencer marketing)": 7,
-    "ausgeschlossen (Titel: social media manager)": 27,
-    "ort passt nicht": 12,
-    "ausgeschlossen (Titel: volontariat)": 19,
-    "ausgeschlossen (Titel: volontär)": 20,
-    "ausgeschlossen (Titel: werkstudent)": 42,
+    "ausgeschlossen (Titel: social media manager)": 24,
+    "ort passt nicht": 10,
+    "ausgeschlossen (Titel: volontariat)": 20,
+    "ausgeschlossen (Titel: volontär)": 19,
+    "ausgeschlossen (Titel: werkstudent)": 41,
     "ausgeschlossen (Titel: online-marketing)": 11,
-    "ausgeschlossen (Titel: online marketing)": 20,
-    "ausgeschlossen (Titel: performance marketing)": 12,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: ausbildung)": 48,
-    "ausgeschlossen (Titel: social media marketing)": 3,
+    "ausgeschlossen (Titel: ausbildung)": 49,
     "ausgeschlossen (Titel: content marketing)": 3,
     "ausgeschlossen (Titel: trainee)": 8,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "ausgeschlossen (Titel: working student)": 1,
-    "älter als 60 Tage": 31,
+    "älter als 60 Tage": 32,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
     "ausgeschlossen (Titel: referendar)": 4,
@@ -320,12 +320,12 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 795,
-   "aufrufe": 78,
+   "gefunden": 794,
+   "aufrufe": 77,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 662,
-    "ausgeschlossen (Beruf: helfer)": 30,
-    "ausgeschlossen (Beruf: ingenieur)": 50,
+    "titel passt zu keiner rolle oder ausgeschlossen": 658,
+    "ausgeschlossen (Beruf: helfer)": 29,
+    "ausgeschlossen (Beruf: ingenieur)": 53,
     "ausgeschlossen (Beruf: schausteller)": 2,
     "ausgeschlossen (Beruf: hausmeister)": 3,
     "ausgeschlossen (Beruf: animateur)": 3,
@@ -335,10 +335,10 @@
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
     "ausgeschlossen (Beruf: verkäufer)": 13,
-    "ausgeschlossen (Beruf: informatiker)": 8,
+    "ausgeschlossen (Beruf: informatiker)": 10,
     "ausgeschlossen (Beruf: fremdenführer)": 1,
     "ort passt nicht": 4,
-    "ausgeschlossen (Beruf: kundendienstberater)": 5
+    "ausgeschlossen (Beruf: kundendienstberater)": 4
    }
   }
  },
