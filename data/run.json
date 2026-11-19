@@ -1,10 +1,10 @@
 {
- "datum": "2026-11-18",
- "gestartet": "2026-11-18T06:11:57+01:00",
- "dauerSekunden": 112,
+ "datum": "2026-11-19",
+ "gestartet": "2026-11-19T06:16:00+01:00",
+ "dauerSekunden": 109,
  "offen": 20,
- "neuHeute": 1,
- "geschlossenHeute": 1,
+ "neuHeute": 0,
+ "geschlossenHeute": 0,
  "geschlossenInDatei": 7,
  "offenProQuelle": {
   "Arbeitsagentur": 7,
@@ -56,28 +56,28 @@
  "quellen": {
   "firmen_und_feeds": {
    "stellen": 16,
-   "aufrufe": 69,
+   "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
      "passend": 3,
      "beispiele": [
       "Specialist Eventmanagement (m/w/d) - befristet auf ein Jahr | newsroom.de | Berlin, Frankfurt, Hamburg, München",
-      "Praktikant*in Marketing Vans, Team Market & Customer Intelligence (Pflicht-Praktikum) | newsroom.de | Stuttgart",
-      "Praktikant*in Wirtschaftskommunikation (Pflicht-Praktikum) | newsroom.de | Stuttgart"
+      "Praktikum Online Marketing & Cooperations (m/w/d) | newsroom.de | München",
+      "Online Marketing Consultant (m/w/d) | newsroom.de | Neuss"
      ]
     },
     "RADIOSZENE": {
      "gesamt": 50,
      "passend": 6,
      "beispiele": [
+      "Radio 8 und Radio Galaxy Mittelfranken suchen Volontär*in (m/w/d) | RADIOSZENE | ",
       "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | ",
-      "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | ",
-      "Volontär/in und Junior Radioredakteur/in (m/w/d) | ahoy radio | "
+      "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | "
      ]
     },
     "DWDL.de": {
-     "gesamt": 104,
+     "gesamt": 101,
      "passend": 3,
      "beispiele": [
       "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
@@ -86,12 +86,12 @@
      ]
     },
     "rbb": {
-     "gesamt": 44,
+     "gesamt": 45,
      "passend": 0,
      "beispiele": [
+      "LEITER*IN ORGANISATION, GOVERNANCE & TRANSFORMATION | rbb | IVZ ARD",
       "PROJEKTPORTFOLIOMANAGER*IN | rbb | IVZ ARD",
-      "SOLUTION ARCHITECT / ENGINEER FÜR EVENT-DRIVEN ARCHITECTURE UND HUB-SERVICES (M/W/D) | rbb | IVZ ARD",
-      "LEITUNG POSTPRODUKTION UND DESIGN - SCHWERPUNKTE SOCIAL VIDEO EDITING & CROSSMEDIALE GESTALTUNG (W/M/D) | rbb | Berlin"
+      "SOLUTION ARCHITECT / ENGINEER FÜR EVENT-DRIVEN ARCHITECTURE UND HUB-SERVICES (M/W/D) | rbb | IVZ ARD"
      ]
     },
     "NDR": {
@@ -104,16 +104,16 @@
      ]
     },
     "BR": {
-     "gesamt": 41,
+     "gesamt": 38,
      "passend": 1,
      "beispiele": [
       "(Junior) Marketing Manager (w/m/d) Corporate Marketing | BR | München - Freimann",
       "Teamassistenz (w/m/d) in der Redaktion Journalistische Unterhaltung | BR | München - Freimann",
-      "Projektmanager (w/m/d) für die Angebotsfamilie BR Heimat in freier Mitarbeit | BR | München - Freimann"
+      "Projektmanager (w/m/d) für die Angebotsfamilie Heimat in freier Mitarbeit | BR | München - Freimann"
      ]
     },
     "ZDF": {
-     "gesamt": 30,
+     "gesamt": 29,
      "passend": 0,
      "beispiele": [
       "Praktikum Landesstudio Baden-Württemberg (01/2027 - 06/2027) | ZDF | Stuttgart",
@@ -131,7 +131,7 @@
      ]
     },
     "Hessischer Rundfunk": {
-     "gesamt": 14,
+     "gesamt": 13,
      "passend": 1,
      "beispiele": [
       "Volontariat Aufnahmeleiter*in | Hessischer Rundfunk | Frankfurt am Main",
@@ -221,21 +221,21 @@
      ]
     },
     "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
-     "gesamt": 47,
+     "gesamt": 45,
      "passend": 0,
      "beispiele": [
+      "Backend Developer - Java/Spring & SQL (m/f/d) 1 1 1 1 1 1 1 | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Porto, Portugal, PT",
       "Junior Grafiker (m/w/d) Teilzeit | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Grafiker (m/w/d) Teilzeit | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Volontariat PR-Team - Content Communications (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
+      "Grafiker (m/w/d) Teilzeit | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 42,
+     "gesamt": 43,
      "passend": 0,
      "beispiele": [
       "Praktikum Content Management VOD | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Senior Product Owner (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Werkstudent Content Management Sport (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
+      "Content Operációs Igazgató | RTL Deutschland | Budapest, Dózsa György út 84/A, Hungary",
+      "Praktikum Marketing Media | RTL Deutschland | Köln, Picassoplatz 1, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
@@ -248,12 +248,12 @@
      ]
     },
     "Banijay Germany (mit Brainpool, Good Times)": {
-     "gesamt": 23,
+     "gesamt": 24,
      "passend": 0,
      "beispiele": [
+      "Leitung Werkstatt Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
       "Mitarbeiter Lagerlogistik in der Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Redaktionsassistenz (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+      "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
      ]
     },
     "EndemolShine Germany": {
@@ -289,27 +289,27 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1043,
-    "ausgeschlossen (Titel: praktik)": 176,
+    "titel passt zu keiner rolle": 1041,
+    "ausgeschlossen (Titel: online marketing)": 24,
+    "ausgeschlossen (Titel: praktik)": 174,
     "ausgeschlossen (Titel: social media marketing)": 4,
-    "ausgeschlossen (Titel: online marketing)": 21,
     "ausgeschlossen (Titel: performance marketing)": 13,
     "ausgeschlossen (Titel: influencer marketing)": 7,
-    "ausgeschlossen (Titel: social media manager)": 24,
+    "ausgeschlossen (Titel: social media manager)": 21,
     "ort passt nicht": 10,
-    "ausgeschlossen (Titel: volontariat)": 20,
-    "ausgeschlossen (Titel: volontär)": 19,
-    "ausgeschlossen (Titel: werkstudent)": 41,
+    "ausgeschlossen (Titel: volontariat)": 19,
+    "ausgeschlossen (Titel: volontär)": 20,
+    "ausgeschlossen (Titel: werkstudent)": 40,
     "ausgeschlossen (Titel: online-marketing)": 11,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: ausbildung)": 49,
     "ausgeschlossen (Titel: content marketing)": 3,
-    "ausgeschlossen (Titel: trainee)": 8,
+    "ausgeschlossen (Titel: trainee)": 7,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "ausgeschlossen (Titel: working student)": 1,
-    "älter als 60 Tage": 32,
+    "älter als 60 Tage": 31,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
     "ausgeschlossen (Titel: referendar)": 4,
@@ -320,14 +320,14 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 794,
-   "aufrufe": 77,
+   "gefunden": 796,
+   "aufrufe": 76,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 658,
+    "titel passt zu keiner rolle oder ausgeschlossen": 654,
     "ausgeschlossen (Beruf: helfer)": 29,
-    "ausgeschlossen (Beruf: ingenieur)": 53,
+    "ausgeschlossen (Beruf: ingenieur)": 56,
     "ausgeschlossen (Beruf: schausteller)": 2,
-    "ausgeschlossen (Beruf: hausmeister)": 3,
+    "ausgeschlossen (Beruf: hausmeister)": 2,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
     "ausgeschlossen (Beruf: zugsteward)": 1,
@@ -335,7 +335,7 @@
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
     "ausgeschlossen (Beruf: verkäufer)": 13,
-    "ausgeschlossen (Beruf: informatiker)": 10,
+    "ausgeschlossen (Beruf: informatiker)": 14,
     "ausgeschlossen (Beruf: fremdenführer)": 1,
     "ort passt nicht": 4,
     "ausgeschlossen (Beruf: kundendienstberater)": 4

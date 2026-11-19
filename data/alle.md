@@ -1,6 +1,6 @@
 # Alle offenen Stellen (20)
 
-Stand: 18.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 19.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
 **Rollen:** [Moderation & Host vor der Kamera (10)](#moderation--host-vor-der-kamera-10) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
 
@@ -39,7 +39,7 @@ Stand: 18.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 
 ## Castings, Werbung & Model (2)
 
-- **[Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HO4EHC-X2J-S)** 🆕  
+- **[Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HO4EHC-X2J-S)**  
   Movie Park Germany GmbH · Bottrop
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-17 · gefunden am 2026-11-18 · ⚠️ anderer Ort, evtl. kurzer Einsatz (event)</sub>
 - **[Castingaufruf für Künstler/Darsteller (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208599164-S)**  
