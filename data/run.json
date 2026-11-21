@@ -1,7 +1,7 @@
 {
- "datum": "2026-11-20",
- "gestartet": "2026-11-20T06:11:46+01:00",
- "dauerSekunden": 113,
+ "datum": "2026-11-21",
+ "gestartet": "2026-11-21T06:04:05+01:00",
+ "dauerSekunden": 106,
  "offen": 20,
  "neuHeute": 0,
  "geschlossenHeute": 0,
@@ -64,20 +64,20 @@
      "beispiele": [
       "Content Specialist Communications & Marketing - Content & Brand (w/m/d) | newsroom.de | Ulm",
       "Specialist Eventmanagement (m/w/d) - befristet auf ein Jahr | newsroom.de | Berlin, Frankfurt, Hamburg, München",
-      "Praktikum Online Marketing & Cooperations (m/w/d) | newsroom.de | München"
+      "Pflichtpraktikant Digitales Marketing & Content Design (m/w/d) | newsroom.de | Berlin"
      ]
     },
     "RADIOSZENE": {
      "gesamt": 50,
      "passend": 6,
      "beispiele": [
+      "Freie/r Radiojournalist/in (m/w/d) für Thüringen: langfristiger Auftrag | RADIOSZENE | ",
       "Radio 8 und Radio Galaxy Mittelfranken suchen Volontär*in (m/w/d) | RADIOSZENE | ",
-      "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | ",
-      "Morgenmoderator/-Redakteur (m/w/d) | ANTENNE MÜNSTER | "
+      "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | "
      ]
     },
     "DWDL.de": {
-     "gesamt": 100,
+     "gesamt": 96,
      "passend": 3,
      "beispiele": [
       "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
@@ -86,16 +86,16 @@
      ]
     },
     "rbb": {
-     "gesamt": 44,
+     "gesamt": 45,
      "passend": 0,
      "beispiele": [
+      "REDAKTIONSASSISTENT*IN | rbb | Frankfurt (Oder)",
       "LEITER*IN ORGANISATION, GOVERNANCE & TRANSFORMATION | rbb | IVZ ARD",
-      "PROJEKTPORTFOLIOMANAGER*IN | rbb | IVZ ARD",
-      "SOLUTION ARCHITECT / ENGINEER FÜR EVENT-DRIVEN ARCHITECTURE UND HUB-SERVICES (M/W/D) | rbb | IVZ ARD"
+      "PROJEKTPORTFOLIOMANAGER*IN | rbb | IVZ ARD"
      ]
     },
     "NDR": {
-     "gesamt": 29,
+     "gesamt": 28,
      "passend": 0,
      "beispiele": [
       "Archivar*in | NDR | Hannover",
@@ -107,18 +107,18 @@
      "gesamt": 38,
      "passend": 1,
      "beispiele": [
+      "Praktikum (w/m/d) in der Redaktion Klassik aktuell und Magazine (BR-Klassik) | BR | München - Funkhaus",
       "Werkstudent (w/m/d) in der Untertitelung | BR | München - Freimann",
-      "Designer (w/m/d) für Motion Design & Grafikdesign in freier Mitarbeit | BR | München",
-      "(Junior) Marketing Manager (w/m/d) Corporate Marketing | BR | München - Freimann"
+      "Designer (w/m/d) für Motion Design & Grafikdesign in freier Mitarbeit | BR | München"
      ]
     },
     "ZDF": {
      "gesamt": 31,
      "passend": 0,
      "beispiele": [
+      "News-Redakteur*in mit Schwerpunkt Datenjournalismus | ZDF | Mainz",
       "Duale Studium Data Science & KI (B.Sc.) | ZDF | Mainz",
-      "Praktikant*in Redaktion logo! TV (04/2027 - 07/2027) | ZDF | Mainz",
-      "Praktikum Studio Rio de Janeiro (02/2027 - 07/2027) | ZDF | Rio de Janeiro"
+      "Praktikant*in Redaktion logo! TV (04/2027 - 07/2027) | ZDF | Mainz"
      ]
     },
     "ZDF Digital": {
@@ -131,11 +131,11 @@
      ]
     },
     "Hessischer Rundfunk": {
-     "gesamt": 13,
+     "gesamt": 12,
      "passend": 1,
      "beispiele": [
-      "Volontariat Aufnahmeleiter*in | Hessischer Rundfunk | Frankfurt am Main",
       "Schulpraktika | Hessischer Rundfunk | Frankfurt am Main",
+      "Volontariat Aufnahmeleiter*in | Hessischer Rundfunk | Frankfurt am Main",
       "Audio-Producer*in Medienproduktion (Schwerpunkt Synchronstudio) | Hessischer Rundfunk | Frankfurt am Main"
      ]
     },
@@ -158,9 +158,10 @@
      ]
     },
     "Saarländischer Rundfunk": {
-     "gesamt": 2,
+     "gesamt": 3,
      "passend": 0,
      "beispiele": [
+      "Audioengineer (m/w/d) in der Außenübertragung | Saarländischer Rundfunk | Saarbrücken",
       "Medientechniker/in (m/w/d) im Abspielzentrum | Saarländischer Rundfunk | Saarbrücken",
       "Verwaltungsstation/Wahlstation Rechtsanwaltsstation II für Rechtsreferendarinnen/Rechtsreferendare (m/w/d) | Saarländischer Rundfunk | Saarbrücken"
      ]
@@ -225,20 +226,20 @@
      "beispiele": [
       "Praktikum Group Internal Communications (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
       "Praktikum Redaktion Factual & Factual Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Backend Developer - Java/Spring & SQL (m/f/d) 1 1 1 1 1 1 1 | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Porto, Portugal, PT"
+      "Praktikum Corporate Finance & Group Treasury (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 43,
+     "gesamt": 41,
      "passend": 0,
      "beispiele": [
-      "Praktikum Native Advertising | RTL Deutschland | Hamburg, Koreastrasse 7, Germany",
+      "Internship in Information Security Services | RTL Deutschland | Luxembourg, 43, Boulevard Pierre Frieden, Luxembourg",
       "Senior Accountant (m/w/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Werkstudent SEO (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
+      "Praktikum Native Advertising | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
-     "gesamt": 9,
+     "gesamt": 8,
      "passend": 0,
      "beispiele": [
       "Ausbildung Mediengestaltende Bild & Ton (all genders) | UFA Serial Drama | Potsdam",
@@ -247,7 +248,7 @@
      ]
     },
     "Banijay Germany (mit Brainpool, Good Times)": {
-     "gesamt": 24,
+     "gesamt": 22,
      "passend": 0,
      "beispiele": [
       "Leitung Werkstatt Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
@@ -256,19 +257,18 @@
      ]
     },
     "EndemolShine Germany": {
-     "gesamt": 4,
+     "gesamt": 2,
      "passend": 0,
      "beispiele": [
-      "Redaktionsassistenz (w/m/d) | EndemolShine Germany | Köln",
-      "Jungredakteur/Redakteur Casting (w/m/d) | EndemolShine Germany | Köln",
-      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln"
+      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln",
+      "Initiativbewerbungen (w/m/d) | EndemolShine Germany | Köln"
      ]
     },
     "Seapoint Productions": {
      "gesamt": 2,
      "passend": 0,
      "beispiele": [
-      "PRAKTIKANT:IN TICKETING | REDAKTION SHOW (m/w/d) | Seapoint Productions | Köln",
+      "PRAKTIKANT:IN POSTPRODUKTION SHOW (m/w/d) | Seapoint Productions | Köln",
       "JOIN TEAM SEAPOINT (m/w/d) | Seapoint Productions | Köln"
      ]
     },
@@ -288,17 +288,18 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1034,
-    "ausgeschlossen (Titel: online marketing)": 24,
-    "ausgeschlossen (Titel: praktik)": 173,
+    "titel passt zu keiner rolle": 1024,
+    "ausgeschlossen (Titel: praktik)": 176,
+    "ausgeschlossen (Titel: working student)": 2,
+    "ausgeschlossen (Titel: online marketing)": 26,
+    "ort passt nicht": 11,
     "ausgeschlossen (Titel: social media marketing)": 4,
-    "ausgeschlossen (Titel: performance marketing)": 13,
+    "ausgeschlossen (Titel: performance marketing)": 11,
     "ausgeschlossen (Titel: influencer marketing)": 7,
-    "ausgeschlossen (Titel: social media manager)": 21,
-    "ort passt nicht": 10,
-    "ausgeschlossen (Titel: volontariat)": 18,
+    "ausgeschlossen (Titel: social media manager)": 18,
+    "ausgeschlossen (Titel: volontariat)": 17,
     "ausgeschlossen (Titel: volontär)": 20,
-    "ausgeschlossen (Titel: werkstudent)": 44,
+    "ausgeschlossen (Titel: werkstudent)": 42,
     "ausgeschlossen (Titel: online-marketing)": 11,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: ausbildung)": 49,
@@ -307,7 +308,6 @@
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
-    "ausgeschlossen (Titel: working student)": 1,
     "älter als 60 Tage": 32,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
@@ -319,12 +319,12 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 794,
-   "aufrufe": 76,
+   "gefunden": 806,
+   "aufrufe": 75,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 648,
-    "ausgeschlossen (Beruf: helfer)": 33,
-    "ausgeschlossen (Beruf: ingenieur)": 57,
+    "titel passt zu keiner rolle oder ausgeschlossen": 662,
+    "ausgeschlossen (Beruf: helfer)": 32,
+    "ausgeschlossen (Beruf: ingenieur)": 56,
     "ausgeschlossen (Beruf: schausteller)": 2,
     "ausgeschlossen (Beruf: hausmeister)": 1,
     "ausgeschlossen (Beruf: animateur)": 3,
@@ -333,10 +333,10 @@
     "minijob": 3,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
-    "ausgeschlossen (Beruf: verkäufer)": 13,
+    "ausgeschlossen (Beruf: verkäufer)": 14,
     "ausgeschlossen (Beruf: informatiker)": 14,
     "ausgeschlossen (Beruf: fremdenführer)": 1,
-    "ort passt nicht": 4,
+    "ort passt nicht": 3,
     "ausgeschlossen (Beruf: kundendienstberater)": 4
    }
   }
