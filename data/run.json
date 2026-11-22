@@ -1,7 +1,7 @@
 {
- "datum": "2026-11-21",
- "gestartet": "2026-11-21T06:04:05+01:00",
- "dauerSekunden": 106,
+ "datum": "2026-11-22",
+ "gestartet": "2026-11-22T06:07:06+01:00",
+ "dauerSekunden": 107,
  "offen": 20,
  "neuHeute": 0,
  "geschlossenHeute": 0,
@@ -63,8 +63,8 @@
      "passend": 3,
      "beispiele": [
       "Content Specialist Communications & Marketing - Content & Brand (w/m/d) | newsroom.de | Ulm",
-      "Specialist Eventmanagement (m/w/d) - befristet auf ein Jahr | newsroom.de | Berlin, Frankfurt, Hamburg, München",
-      "Pflichtpraktikant Digitales Marketing & Content Design (m/w/d) | newsroom.de | Berlin"
+      "Praktikant*in Wettbewerbsanalyse | newsroom.de | Sindelfingen",
+      "(Senior) Produktmanager (m/w/d) Anti-Financial Crime | newsroom.de | Frankfurt am Main"
      ]
     },
     "RADIOSZENE": {
@@ -224,8 +224,8 @@
      "gesamt": 42,
      "passend": 0,
      "beispiele": [
-      "Praktikum Group Internal Communications (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
       "Praktikum Redaktion Factual & Factual Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Praktikum Group Internal Communications (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
       "Praktikum Corporate Finance & Group Treasury (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
      ]
     },
@@ -288,27 +288,27 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1024,
-    "ausgeschlossen (Titel: praktik)": 176,
+    "titel passt zu keiner rolle": 1033,
+    "ausgeschlossen (Titel: praktik)": 175,
+    "ausgeschlossen (Titel: performance marketing)": 11,
+    "ausgeschlossen (Titel: social media manager)": 17,
+    "ausgeschlossen (Titel: online marketing)": 24,
     "ausgeschlossen (Titel: working student)": 2,
-    "ausgeschlossen (Titel: online marketing)": 26,
     "ort passt nicht": 11,
     "ausgeschlossen (Titel: social media marketing)": 4,
-    "ausgeschlossen (Titel: performance marketing)": 11,
     "ausgeschlossen (Titel: influencer marketing)": 7,
-    "ausgeschlossen (Titel: social media manager)": 18,
     "ausgeschlossen (Titel: volontariat)": 17,
-    "ausgeschlossen (Titel: volontär)": 20,
+    "ausgeschlossen (Titel: volontär)": 19,
     "ausgeschlossen (Titel: werkstudent)": 42,
-    "ausgeschlossen (Titel: online-marketing)": 11,
+    "ausgeschlossen (Titel: online-marketing)": 8,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: ausbildung)": 49,
+    "ausgeschlossen (Titel: ausbildung)": 47,
     "ausgeschlossen (Titel: content marketing)": 3,
     "ausgeschlossen (Titel: trainee)": 7,
     "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
-    "älter als 60 Tage": 32,
+    "älter als 60 Tage": 33,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 8,
     "ausgeschlossen (Titel: referendar)": 4,
@@ -319,14 +319,14 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 806,
+   "gefunden": 809,
    "aufrufe": 75,
    "aussortiert": {
     "titel passt zu keiner rolle oder ausgeschlossen": 662,
-    "ausgeschlossen (Beruf: helfer)": 32,
-    "ausgeschlossen (Beruf: ingenieur)": 56,
+    "ausgeschlossen (Beruf: helfer)": 33,
+    "ausgeschlossen (Beruf: ingenieur)": 57,
     "ausgeschlossen (Beruf: schausteller)": 2,
-    "ausgeschlossen (Beruf: hausmeister)": 1,
+    "ausgeschlossen (Beruf: hausmeister)": 2,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
     "ausgeschlossen (Beruf: zugsteward)": 1,
