@@ -1,6 +1,12 @@
-# Neue Stellen vom 22.11.2026
+# Neue Stellen vom 23.11.2026
 
-Heute sind keine neuen passenden Stellen dazugekommen.
+**1 neue Stelle** (insgesamt 20 offene Stellen in [alle.md](alle.md)).
+
+## Leitung Redaktion / Show (1)
+
+- **[Head of Social Media & Content (m/w/d)](https://www.newsroom.de/jobs/aktuelle-jobs/online-social-media-27/head-of-social-media-content-mwd-571960/)**  
+  newsroom.de · Hannover
+  <sub>Quelle: newsroom.de · veröffentlicht 2026-11-18 · gefunden am 2026-11-23</sub>
 
 ---
 

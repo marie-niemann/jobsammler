@@ -1,20 +1,20 @@
 {
- "datum": "2026-11-22",
- "gestartet": "2026-11-22T06:07:06+01:00",
+ "datum": "2026-11-23",
+ "gestartet": "2026-11-23T06:28:20+01:00",
  "dauerSekunden": 107,
  "offen": 20,
- "neuHeute": 0,
- "geschlossenHeute": 0,
- "geschlossenInDatei": 7,
+ "neuHeute": 1,
+ "geschlossenHeute": 1,
+ "geschlossenInDatei": 8,
  "offenProQuelle": {
   "Arbeitsagentur": 7,
   "RADIOSZENE": 5,
   "DWDL.de": 3,
+  "newsroom.de": 1,
   "BR": 1,
   "Hessischer Rundfunk": 1,
   "NDR Karriere-Feed": 1,
-  "Deutschlandradio": 1,
-  "newsroom.de": 1
+  "Deutschlandradio": 1
  },
  "offenProRolle": {
   "host": 10,
@@ -63,8 +63,8 @@
      "passend": 3,
      "beispiele": [
       "Content Specialist Communications & Marketing - Content & Brand (w/m/d) | newsroom.de | Ulm",
-      "Praktikant*in Wettbewerbsanalyse | newsroom.de | Sindelfingen",
-      "(Senior) Produktmanager (m/w/d) Anti-Financial Crime | newsroom.de | Frankfurt am Main"
+      "Praktikant*in Interne Kommunikation bei Mercedes-Benz Vans (Pflicht-Praktikum) | newsroom.de | Stuttgart",
+      "Senior Eventmanager - Corporate Events / International (m/w/d) | newsroom.de | Feldkirchen"
      ]
     },
     "RADIOSZENE": {
@@ -77,7 +77,7 @@
      ]
     },
     "DWDL.de": {
-     "gesamt": 96,
+     "gesamt": 95,
      "passend": 3,
      "beispiele": [
       "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
@@ -104,7 +104,7 @@
      ]
     },
     "BR": {
-     "gesamt": 38,
+     "gesamt": 37,
      "passend": 1,
      "beispiele": [
       "Praktikum (w/m/d) in der Redaktion Klassik aktuell und Magazine (BR-Klassik) | BR | München - Funkhaus",
@@ -113,7 +113,7 @@
      ]
     },
     "ZDF": {
-     "gesamt": 31,
+     "gesamt": 30,
      "passend": 0,
      "beispiele": [
       "News-Redakteur*in mit Schwerpunkt Datenjournalismus | ZDF | Mainz",
@@ -131,7 +131,7 @@
      ]
     },
     "Hessischer Rundfunk": {
-     "gesamt": 12,
+     "gesamt": 11,
      "passend": 1,
      "beispiele": [
       "Schulpraktika | Hessischer Rundfunk | Frankfurt am Main",
@@ -149,11 +149,10 @@
      ]
     },
     "Radio Bremen": {
-     "gesamt": 3,
+     "gesamt": 2,
      "passend": 0,
      "beispiele": [
       "Journalistisches Volontariat | Radio Bremen | Bremen,, Bremerhaven",
-      "Volontariat Data & Information Specialist (m/w/d) - Master-of-Advanced-Studies | Radio Bremen | Bremen",
       "Initiativbewerbung | Radio Bremen | Bremen,, Bremerhaven"
      ]
     },
@@ -233,9 +232,9 @@
      "gesamt": 41,
      "passend": 0,
      "beispiele": [
-      "Internship in Information Security Services | RTL Deutschland | Luxembourg, 43, Boulevard Pierre Frieden, Luxembourg",
-      "Senior Accountant (m/w/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Praktikum Native Advertising | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
+      "Senior Backend Developer (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany",
+      "Senior Controller for Corporate Centre (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Associate Group Controlling and Reporting (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
@@ -288,25 +287,25 @@
     }
    },
    "aussortiert": {
-    "titel passt zu keiner rolle": 1033,
-    "ausgeschlossen (Titel: praktik)": 175,
+    "titel passt zu keiner rolle": 1022,
+    "ausgeschlossen (Titel: praktik)": 179,
+    "ausgeschlossen (Titel: ausbildung)": 50,
+    "ausgeschlossen (Titel: werkstudent)": 42,
+    "ausgeschlossen (Titel: volontär)": 19,
+    "ausgeschlossen (Titel: online marketing)": 25,
+    "ausgeschlossen (Titel: social media manager)": 19,
+    "ausgeschlossen (Titel: influencer marketing)": 8,
     "ausgeschlossen (Titel: performance marketing)": 11,
-    "ausgeschlossen (Titel: social media manager)": 17,
-    "ausgeschlossen (Titel: online marketing)": 24,
     "ausgeschlossen (Titel: working student)": 2,
     "ort passt nicht": 11,
     "ausgeschlossen (Titel: social media marketing)": 4,
-    "ausgeschlossen (Titel: influencer marketing)": 7,
-    "ausgeschlossen (Titel: volontariat)": 17,
-    "ausgeschlossen (Titel: volontär)": 19,
-    "ausgeschlossen (Titel: werkstudent)": 42,
-    "ausgeschlossen (Titel: online-marketing)": 8,
+    "ausgeschlossen (Titel: volontariat)": 14,
+    "ausgeschlossen (Titel: online-marketing)": 7,
     "ausgeschlossen (Titel: content-marketing)": 1,
-    "ausgeschlossen (Titel: ausbildung)": 47,
     "ausgeschlossen (Titel: content marketing)": 3,
     "ausgeschlossen (Titel: trainee)": 7,
     "ausgeschlossen (Titel: studentische)": 9,
-    "ausgeschlossen (Titel: auszubildende)": 5,
+    "ausgeschlossen (Titel: auszubildende)": 4,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "älter als 60 Tage": 33,
     "ausgeschlossen (Titel: wahlstation)": 7,
@@ -319,25 +318,25 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 809,
+   "gefunden": 808,
    "aufrufe": 75,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 662,
+    "titel passt zu keiner rolle oder ausgeschlossen": 661,
     "ausgeschlossen (Beruf: helfer)": 33,
-    "ausgeschlossen (Beruf: ingenieur)": 57,
+    "ausgeschlossen (Beruf: ingenieur)": 56,
     "ausgeschlossen (Beruf: schausteller)": 2,
-    "ausgeschlossen (Beruf: hausmeister)": 2,
+    "ausgeschlossen (Beruf: hausmeister)": 3,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
     "ausgeschlossen (Beruf: zugsteward)": 1,
     "minijob": 3,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
-    "ausgeschlossen (Beruf: verkäufer)": 14,
+    "ausgeschlossen (Beruf: verkäufer)": 13,
     "ausgeschlossen (Beruf: informatiker)": 14,
     "ausgeschlossen (Beruf: fremdenführer)": 1,
     "ort passt nicht": 3,
-    "ausgeschlossen (Beruf: kundendienstberater)": 4
+    "ausgeschlossen (Beruf: kundendienstberater)": 5
    }
   }
  },
