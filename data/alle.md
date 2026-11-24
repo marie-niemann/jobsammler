@@ -1,14 +1,11 @@
-# Alle offenen Stellen (20)
+# Alle offenen Stellen (19)
 
-Stand: 23.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 24.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (10)](#moderation--host-vor-der-kamera-10) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
+**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
 
-## Moderation & Host vor der Kamera (10)
+## Moderation & Host vor der Kamera (9)
 
-- **[freie/n Moderator/in (m/w/d)](https://www.radioszene.de/218853/radio-paloma-moderator-wochenende.html)**  
-  Radio Paloma · Berlin
-  <sub>Quelle: RADIOSZENE · veröffentlicht 2026-10-30 · gefunden am 2026-11-14 · ⚠️ Ort aus dem Anzeigentext</sub>
 - **[Redakteur / Moderator / Video Content Creator (m/w/d)](https://www.radioszene.de/217913/sunshine-live-redakteur-moderator-video-content-creator.html)**  
   SUNSHINE LIVE · Berlin
   <sub>Quelle: RADIOSZENE · veröffentlicht 2026-10-07 · gefunden am 2026-11-14 · ⚠️ Ort aus dem Anzeigentext</sub>
@@ -72,7 +69,7 @@ Stand: 23.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Head of Video (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208674023-S)**  
   HelloFresh SE · Berlin
   <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-11-16 · gefunden am 2026-11-17</sub>
-- **[Head of Social Media & Content (m/w/d)](https://www.newsroom.de/jobs/aktuelle-jobs/online-social-media-27/head-of-social-media-content-mwd-571960/)** 🆕  
+- **[Head of Social Media & Content (m/w/d)](https://www.newsroom.de/jobs/aktuelle-jobs/online-social-media-27/head-of-social-media-content-mwd-571960/)**  
   newsroom.de · Hannover
   <sub>Quelle: newsroom.de · veröffentlicht 2026-11-18 · gefunden am 2026-11-23</sub>
 - **[Chef vom Dienst (USA) (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-966646323-S)**  
