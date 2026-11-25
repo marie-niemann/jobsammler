@@ -1,10 +1,10 @@
 {
- "datum": "2026-11-24",
- "gestartet": "2026-11-24T06:18:12+01:00",
- "dauerSekunden": 107,
+ "datum": "2026-11-25",
+ "gestartet": "2026-11-25T06:20:14+01:00",
+ "dauerSekunden": 322,
  "offen": 19,
  "neuHeute": 0,
- "geschlossenHeute": 1,
+ "geschlossenHeute": 0,
  "geschlossenInDatei": 9,
  "offenProQuelle": {
   "Arbeitsagentur": 7,
@@ -30,7 +30,6 @@
   "BR",
   "BR Karriere-Feed",
   "Banijay Germany (mit Brainpool, Good Times)",
-  "DWDL.de",
   "Deutschlandradio",
   "EndemolShine Germany",
   "Hessischer Rundfunk",
@@ -55,16 +54,16 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 14,
-   "aufrufe": 68,
+   "stellen": 11,
+   "aufrufe": 72,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
      "passend": 3,
      "beispiele": [
-      "Praktikant*in Projektmanagement Procurement Analytics & AI | newsroom.de | Sindelfingen",
-      "Praktikant*in Unternehmenskommunikation Nachhaltigkeit & Corporate Social Responsibility (Pflicht-Praktikum) | newsroom.de | Stuttgart",
-      "Praktikant*in Communication Strategy & Steering (Pflicht-Praktikum) | newsroom.de | Stuttgart"
+      "Digitalmanager/in (w/m/d) im Hauptamt | newsroom.de | Ravensburg",
+      "CEO (m/w/d) Automobilzulieferer | newsroom.de | Bundesweit,bundesweit",
+      "Spezialist/-in Kommunikation & Design (m/w/d) | newsroom.de | Würzburg"
      ]
     },
     "RADIOSZENE": {
@@ -77,48 +76,42 @@
      ]
     },
     "DWDL.de": {
-     "gesamt": 93,
-     "passend": 3,
-     "beispiele": [
-      "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
-      "Senior Channel Manager & Channel Sales (m/w/d) | ARD Plus GmbH | Köln",
-      "Mediendokumentar / Content Koordinator (m/w/d) | SAT.1 NRW | Dortmund"
-     ]
+     "status": "Fehler"
     },
     "rbb": {
-     "gesamt": 45,
+     "gesamt": 44,
      "passend": 0,
      "beispiele": [
+      "ELEKTROINGENIEUR*IN IN DER GEBÄUDETECHNIK | rbb | Berlin",
       "Studentische Aushilfe in freier Mitarbeit | rbb | Berlin",
-      "REDAKTIONSASSISTENT*IN | rbb | Frankfurt (Oder)",
-      "LEITER*IN ORGANISATION, GOVERNANCE & TRANSFORMATION | rbb | IVZ ARD"
+      "REDAKTIONSASSISTENT*IN | rbb | Frankfurt (Oder)"
      ]
     },
     "NDR": {
-     "gesamt": 28,
+     "gesamt": 24,
      "passend": 0,
      "beispiele": [
       "Archivar*in | NDR | Hannover",
       "Abteilungsleiter*in Digitales | NDR | Hannover",
-      "Praktikum für Erwachsene im Notenarchiv | NDR | Hamburg"
+      "Redakteur*in (Schwerpunkt No-Hate) | NDR | Hamburg, hybrides Arbeiten möglich"
      ]
     },
     "BR": {
-     "gesamt": 38,
+     "gesamt": 39,
      "passend": 1,
      "beispiele": [
-      "Event- und Marketingmanager (w/m/d) bei BR Puls in freier Mitarbeit | BR | München - Funkhaus , München - Freimann",
-      "Werkstudent (w/m/d) Unterstützung der Assistenz bei Radio Bayern 2 | BR | München - Freimann",
-      "Praktikum (w/m/d) in der Redaktion Klassik aktuell und Magazine (BR-Klassik) | BR | München - Funkhaus"
+      "Mediengestalter (w/m/d) mit Fokus Audio | BR | Nürnberg",
+      "Rechtsanwaltsfachangestellter/ Rechtsfachwirt (w/m/d) für Kanzlei- und Vertragsmanagement | BR | München - Funkhaus",
+      "Event- und Marketingmanager (w/m/d) bei BR Puls in freier Mitarbeit | BR | München - Funkhaus , München - Freimann"
      ]
     },
     "ZDF": {
-     "gesamt": 29,
+     "gesamt": 28,
      "passend": 0,
      "beispiele": [
+      "Techniker*in / Bildtechniker*in | ZDF | Berlin",
       "Praktikum Landesstudio Hessen (04/2027 - 05/2027) | ZDF | Wiesbaden",
-      "News-Redakteur*in mit Schwerpunkt Datenjournalismus | ZDF | Mainz",
-      "Duale Studium Data Science & KI (B.Sc.) | ZDF | Mainz"
+      "News-Redakteur*in mit Schwerpunkt Datenjournalismus | ZDF | Mainz"
      ]
     },
     "ZDF Digital": {
@@ -149,9 +142,10 @@
      ]
     },
     "Radio Bremen": {
-     "gesamt": 2,
+     "gesamt": 3,
      "passend": 0,
      "beispiele": [
+      "Compliance-Beauftragte:r | Radio Bremen | Bremen",
       "Journalistisches Volontariat | Radio Bremen | Bremen,, Bremerhaven",
       "Initiativbewerbung | Radio Bremen | Bremen,, Bremerhaven"
      ]
@@ -220,21 +214,21 @@
      ]
     },
     "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
-     "gesamt": 42,
+     "gesamt": 39,
      "passend": 0,
      "beispiele": [
       "Senior Manager Tax Reporting (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Casting-Redakteur (m/w/d) & Redakteur (m/w/d) für die Sozialreportage „Armes Deutschland\" | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667",
-      "Praktikum Redaktion Factual & Factual Entertainment (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
+      "Praktikum Digital-Redaktion (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Casting-Redakteur (m/w/d) & Redakteur (m/w/d) für die Sozialreportage „Armes Deutschland\" | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 42,
+     "gesamt": 39,
      "passend": 0,
      "beispiele": [
+      "Director AI Transformation (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
       "Werkstudent Talent Acquisition/ Recruiting (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Senior Controller for Corporate Centre (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Associate Group Controlling and Reporting (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
+      "Senior Backend Developer (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
@@ -247,12 +241,12 @@
      ]
     },
     "Banijay Germany (mit Brainpool, Good Times)": {
-     "gesamt": 19,
+     "gesamt": 21,
      "passend": 0,
      "beispiele": [
-      "Leitung Werkstatt Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Mitarbeiter Lagerlogistik in der Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Fachkraft für Veranstaltungstechnik für Service- und Lagertätigkeiten (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+      "Mitarbeiter Lagerlogistik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "(Senior) Manager Sales & Client Partnerships (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Leitung Werkstatt Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
      ]
     },
     "EndemolShine Germany": {
@@ -285,24 +279,24 @@
     }
    },
    "aussortiert": {
-    "ausgeschlossen (Titel: praktik)": 174,
-    "titel passt zu keiner rolle": 1023,
-    "ausgeschlossen (Titel: performance marketing)": 12,
-    "ort passt nicht": 10,
-    "ausgeschlossen (Titel: werkstudent)": 38,
-    "ausgeschlossen (Titel: working student)": 3,
-    "ausgeschlossen (Titel: trainee)": 8,
-    "ausgeschlossen (Titel: ausbildung)": 51,
-    "ausgeschlossen (Titel: volontär)": 18,
+    "titel passt zu keiner rolle": 950,
+    "ausgeschlossen (Titel: ausbildung)": 55,
+    "ausgeschlossen (Titel: praktik)": 161,
     "ausgeschlossen (Titel: online marketing)": 24,
+    "ausgeschlossen (Titel: performance marketing)": 12,
+    "ort passt nicht": 9,
+    "ausgeschlossen (Titel: werkstudent)": 30,
+    "ausgeschlossen (Titel: working student)": 3,
+    "ausgeschlossen (Titel: trainee)": 7,
+    "ausgeschlossen (Titel: volontär)": 15,
     "ausgeschlossen (Titel: social media manager)": 18,
     "ausgeschlossen (Titel: influencer marketing)": 8,
     "ausgeschlossen (Titel: social media marketing)": 4,
     "ausgeschlossen (Titel: volontariat)": 14,
-    "ausgeschlossen (Titel: online-marketing)": 7,
+    "ausgeschlossen (Titel: online-marketing)": 5,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: content marketing)": 2,
-    "ausgeschlossen (Titel: studentische)": 10,
+    "ausgeschlossen (Titel: studentische)": 9,
     "ausgeschlossen (Titel: auszubildende)": 4,
     "ausgeschlossen (Titel: social-media-manager)": 1,
     "älter als 60 Tage": 35,
@@ -316,28 +310,29 @@
   },
   "arbeitsagentur": {
    "stellen": 7,
-   "gefunden": 804,
+   "gefunden": 808,
    "aufrufe": 75,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 660,
-    "ausgeschlossen (Beruf: helfer)": 32,
-    "ausgeschlossen (Beruf: ingenieur)": 59,
+    "titel passt zu keiner rolle oder ausgeschlossen": 664,
+    "ausgeschlossen (Beruf: helfer)": 31,
+    "ausgeschlossen (Beruf: ingenieur)": 57,
     "ausgeschlossen (Beruf: schausteller)": 2,
-    "ausgeschlossen (Beruf: hausmeister)": 3,
+    "ausgeschlossen (Beruf: hausmeister)": 2,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
     "ausgeschlossen (Beruf: zugsteward)": 1,
     "minijob": 3,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
-    "ausgeschlossen (Beruf: verkäufer)": 13,
-    "ausgeschlossen (Beruf: informatiker)": 13,
+    "ausgeschlossen (Beruf: verkäufer)": 19,
+    "ausgeschlossen (Beruf: informatiker)": 11,
     "ort passt nicht": 3,
     "ausgeschlossen (Beruf: kundendienstberater)": 2
    }
   }
  },
  "fehler": [
+  "DWDL.de: Abruf fehlgeschlagen: HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /jobboerse/alle-anzeigen.html?typ=alle (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7e29c46398b0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
   "btf (bildundtonfabrik): keine einzige Stelle gelesen – Seite geändert? Bitte prüfen."
  ]
 }

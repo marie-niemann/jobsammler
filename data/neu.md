@@ -1,10 +1,10 @@
-# Neue Stellen vom 24.11.2026
+# Neue Stellen vom 25.11.2026
 
 Heute sind keine neuen passenden Stellen dazugekommen.
 
 ---
 
-ℹ️ Beim Abruf gab es 1 Hinweis(e), Details in [run.json](run.json).
+ℹ️ Beim Abruf gab es 2 Hinweis(e), Details in [run.json](run.json).
 
 ---
 

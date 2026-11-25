@@ -1,0 +1,338 @@
+{
+ "datum": "2026-11-25",
+ "gestartet": "2026-11-25T06:20:14+01:00",
+ "dauerSekunden": 322,
+ "offen": 19,
+ "neuHeute": 0,
+ "geschlossenHeute": 0,
+ "geschlossenInDatei": 9,
+ "offenProQuelle": {
+  "Arbeitsagentur": 7,
+  "RADIOSZENE": 4,
+  "DWDL.de": 3,
+  "newsroom.de": 1,
+  "BR": 1,
+  "Hessischer Rundfunk": 1,
+  "NDR Karriere-Feed": 1,
+  "Deutschlandradio": 1
+ },
+ "offenProRolle": {
+  "host": 9,
+  "leitung": 5,
+  "casting": 2,
+  "format": 2,
+  "musik": 1
+ },
+ "zusammengefuehrt": 2,
+ "quellenOk": [
+  "ARD Programmdirektion",
+  "Arbeitsagentur",
+  "BR",
+  "BR Karriere-Feed",
+  "Banijay Germany (mit Brainpool, Good Times)",
+  "Deutschlandradio",
+  "EndemolShine Germany",
+  "Hessischer Rundfunk",
+  "ITV Studios Germany",
+  "MDR",
+  "NDR",
+  "NDR Karriere-Feed",
+  "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)",
+  "RADIOSZENE",
+  "RTL Deutschland",
+  "Radio Bremen",
+  "SWR und funk",
+  "Saarländischer Rundfunk",
+  "Seapoint Productions",
+  "UFA (mit UFA Show & Factual)",
+  "ZDF",
+  "ZDF Digital",
+  "ZDF Karriere-Feed",
+  "btf (bildundtonfabrik)",
+  "newsroom.de",
+  "rbb"
+ ],
+ "quellen": {
+  "firmen_und_feeds": {
+   "stellen": 11,
+   "aufrufe": 72,
+   "pro_quelle": {
+    "newsroom.de": {
+     "gesamt": 1000,
+     "passend": 3,
+     "beispiele": [
+      "Digitalmanager/in (w/m/d) im Hauptamt | newsroom.de | Ravensburg",
+      "CEO (m/w/d) Automobilzulieferer | newsroom.de | Bundesweit,bundesweit",
+      "Spezialist/-in Kommunikation & Design (m/w/d) | newsroom.de | Würzburg"
+     ]
+    },
+    "RADIOSZENE": {
+     "gesamt": 50,
+     "passend": 4,
+     "beispiele": [
+      "Freie/r Radiojournalist/in (m/w/d) für Thüringen: langfristiger Auftrag | RADIOSZENE | ",
+      "Radio 8 und Radio Galaxy Mittelfranken suchen Volontär*in (m/w/d) | RADIOSZENE | ",
+      "Volontär*in (m/w/d) ab Januar 2027 in Stuttgart | ENERGY | "
+     ]
+    },
+    "DWDL.de": {
+     "status": "Fehler"
+    },
+    "rbb": {
+     "gesamt": 44,
+     "passend": 0,
+     "beispiele": [
+      "ELEKTROINGENIEUR*IN IN DER GEBÄUDETECHNIK | rbb | Berlin",
+      "Studentische Aushilfe in freier Mitarbeit | rbb | Berlin",
+      "REDAKTIONSASSISTENT*IN | rbb | Frankfurt (Oder)"
+     ]
+    },
+    "NDR": {
+     "gesamt": 24,
+     "passend": 0,
+     "beispiele": [
+      "Archivar*in | NDR | Hannover",
+      "Abteilungsleiter*in Digitales | NDR | Hannover",
+      "Redakteur*in (Schwerpunkt No-Hate) | NDR | Hamburg, hybrides Arbeiten möglich"
+     ]
+    },
+    "BR": {
+     "gesamt": 39,
+     "passend": 1,
+     "beispiele": [
+      "Mediengestalter (w/m/d) mit Fokus Audio | BR | Nürnberg",
+      "Rechtsanwaltsfachangestellter/ Rechtsfachwirt (w/m/d) für Kanzlei- und Vertragsmanagement | BR | München - Funkhaus",
+      "Event- und Marketingmanager (w/m/d) bei BR Puls in freier Mitarbeit | BR | München - Funkhaus , München - Freimann"
+     ]
+    },
+    "ZDF": {
+     "gesamt": 28,
+     "passend": 0,
+     "beispiele": [
+      "Techniker*in / Bildtechniker*in | ZDF | Berlin",
+      "Praktikum Landesstudio Hessen (04/2027 - 05/2027) | ZDF | Wiesbaden",
+      "News-Redakteur*in mit Schwerpunkt Datenjournalismus | ZDF | Mainz"
+     ]
+    },
+    "ZDF Digital": {
+     "gesamt": 10,
+     "passend": 0,
+     "beispiele": [
+      "(Senior) Software Developer (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office",
+      "Community Manager*in News (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office",
+      "Erste*r Motion Designer*in Social Media (m/w/d) | ZDF Digital | Mainz oder Berlin, Mobile Office"
+     ]
+    },
+    "Hessischer Rundfunk": {
+     "gesamt": 11,
+     "passend": 1,
+     "beispiele": [
+      "Schulpraktika | Hessischer Rundfunk | Frankfurt am Main",
+      "Volontariat Aufnahmeleiter*in | Hessischer Rundfunk | Frankfurt am Main",
+      "Audio-Producer*in Medienproduktion (Schwerpunkt Synchronstudio) | Hessischer Rundfunk | Frankfurt am Main"
+     ]
+    },
+    "Deutschlandradio": {
+     "gesamt": 3,
+     "passend": 1,
+     "beispiele": [
+      "Redaktionsleitung Social Media (m/w/d) | Deutschlandradio | Köln,, Berlin",
+      "Praktikant/in (m/w/d) in der Abteilung Dokumentation und Archive | Deutschlandradio | Berlin,, Köln",
+      "Aushilfen (m/w/d) Redaktions-Assistenz, Sekretariat oder Sachbearbeitung - Funkhaus Köln oder Berlin | Deutschlandradio | Berlin,, Köln"
+     ]
+    },
+    "Radio Bremen": {
+     "gesamt": 3,
+     "passend": 0,
+     "beispiele": [
+      "Compliance-Beauftragte:r | Radio Bremen | Bremen",
+      "Journalistisches Volontariat | Radio Bremen | Bremen,, Bremerhaven",
+      "Initiativbewerbung | Radio Bremen | Bremen,, Bremerhaven"
+     ]
+    },
+    "Saarländischer Rundfunk": {
+     "gesamt": 3,
+     "passend": 0,
+     "beispiele": [
+      "Audioengineer (m/w/d) in der Außenübertragung | Saarländischer Rundfunk | Saarbrücken",
+      "Medientechniker/in (m/w/d) im Abspielzentrum | Saarländischer Rundfunk | Saarbrücken",
+      "Verwaltungsstation/Wahlstation Rechtsanwaltsstation II für Rechtsreferendarinnen/Rechtsreferendare (m/w/d) | Saarländischer Rundfunk | Saarbrücken"
+     ]
+    },
+    "NDR Karriere-Feed": {
+     "gesamt": 12,
+     "passend": 1,
+     "beispiele": [
+      "Wir machen Medien. Gemeinsam mit dir. | NDR Karriere-Feed | Hamburg",
+      "Der NDR als Arbeitgeber | NDR Karriere-Feed | Hamburg",
+      "Unsere Benefits | NDR Karriere-Feed | Hamburg"
+     ]
+    },
+    "ZDF Karriere-Feed": {
+     "gesamt": 18,
+     "passend": 0,
+     "beispiele": [
+      "Trainee \"Medienrecherche\" oder \"Sport\" | ZDF Karriere-Feed | ",
+      "Schülerpraktika | ZDF Karriere-Feed | ",
+      "Ein ZDF für alle | ZDF Karriere-Feed | "
+     ]
+    },
+    "SWR und funk": {
+     "gesamt": 13,
+     "passend": 0,
+     "beispiele": [
+      "Betriebswirtschaft | Administration | SWR und funk | ",
+      "Handwerk | Medienproduktion | SWR und funk | ",
+      "IT | Technik | SWR und funk | "
+     ]
+    },
+    "MDR": {
+     "gesamt": 13,
+     "passend": 0,
+     "beispiele": [
+      "Das bietet der MDR als Arbeitgeber seinen Mitarbeitenden | MDR | Leipzig",
+      "Stellenangebote | MDR | Leipzig",
+      "Beschäftigungsangebote und Minijobs für Studierende und Aushilfen | MDR | Leipzig"
+     ]
+    },
+    "BR Karriere-Feed": {
+     "gesamt": 14,
+     "passend": 0,
+     "beispiele": [
+      "BR als Arbeitgeber: Aus Überzeugung beim BR | BR Karriere-Feed | München",
+      "Das bieten wir: Die Benefits des Bayerischen Rundfunks | BR Karriere-Feed | München",
+      "Der BR in Zahlen: Programme, Finanzen, Mitarbeitende und mehr | BR Karriere-Feed | München"
+     ]
+    },
+    "ARD Programmdirektion": {
+     "gesamt": 5,
+     "passend": 0,
+     "beispiele": [
+      "Freie Stellen in der ARD-Programmdirektion | ARD Programmdirektion | München",
+      "Karriere in der ARD – Ausbildungs-, Job- und Stellenangebote | ARD Programmdirektion | München",
+      "Kontakt zur ARD-Programmdirektion | ARD Programmdirektion | München"
+     ]
+    },
+    "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
+     "gesamt": 39,
+     "passend": 0,
+     "beispiele": [
+      "Senior Manager Tax Reporting (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Praktikum Digital-Redaktion (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
+      "Casting-Redakteur (m/w/d) & Redakteur (m/w/d) für die Sozialreportage „Armes Deutschland\" | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667"
+     ]
+    },
+    "RTL Deutschland": {
+     "gesamt": 39,
+     "passend": 0,
+     "beispiele": [
+      "Director AI Transformation (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Werkstudent Talent Acquisition/ Recruiting (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany",
+      "Senior Backend Developer (w/m/d) | RTL Deutschland | Hamburg, Koreastrasse 7, Germany"
+     ]
+    },
+    "UFA (mit UFA Show & Factual)": {
+     "gesamt": 8,
+     "passend": 0,
+     "beispiele": [
+      "Ausbildung Mediengestaltende Bild & Ton (all genders) | UFA Serial Drama | Potsdam",
+      "Datentypist:in / Logger:in (all genders) / Köln | UFA Show & Factual | Köln",
+      "Group Head of Communication (all genders) | UFA | Berlin"
+     ]
+    },
+    "Banijay Germany (mit Brainpool, Good Times)": {
+     "gesamt": 21,
+     "passend": 0,
+     "beispiele": [
+      "Mitarbeiter Lagerlogistik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "(Senior) Manager Sales & Client Partnerships (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Leitung Werkstatt Veranstaltungstechnik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+     ]
+    },
+    "EndemolShine Germany": {
+     "gesamt": 2,
+     "passend": 0,
+     "beispiele": [
+      "Initiativbewerbungen (w/m/d) | EndemolShine Germany | Köln",
+      "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln"
+     ]
+    },
+    "Seapoint Productions": {
+     "gesamt": 2,
+     "passend": 0,
+     "beispiele": [
+      "PRAKTIKANT:IN POSTPRODUKTION SHOW (m/w/d) | Seapoint Productions | Köln",
+      "JOIN TEAM SEAPOINT (m/w/d) | Seapoint Productions | Köln"
+     ]
+    },
+    "btf (bildundtonfabrik)": {
+     "gesamt": 0,
+     "passend": 0,
+     "beispiele": []
+    },
+    "ITV Studios Germany": {
+     "gesamt": 1,
+     "passend": 0,
+     "beispiele": [
+      "Initiativbewerbung | ITV Studios Germany | Köln, Berlin Genthiner Str., Berlin Adlershof"
+     ]
+    }
+   },
+   "aussortiert": {
+    "titel passt zu keiner rolle": 950,
+    "ausgeschlossen (Titel: ausbildung)": 55,
+    "ausgeschlossen (Titel: praktik)": 161,
+    "ausgeschlossen (Titel: online marketing)": 24,
+    "ausgeschlossen (Titel: performance marketing)": 12,
+    "ort passt nicht": 9,
+    "ausgeschlossen (Titel: werkstudent)": 30,
+    "ausgeschlossen (Titel: working student)": 3,
+    "ausgeschlossen (Titel: trainee)": 7,
+    "ausgeschlossen (Titel: volontär)": 15,
+    "ausgeschlossen (Titel: social media manager)": 18,
+    "ausgeschlossen (Titel: influencer marketing)": 8,
+    "ausgeschlossen (Titel: social media marketing)": 4,
+    "ausgeschlossen (Titel: volontariat)": 14,
+    "ausgeschlossen (Titel: online-marketing)": 5,
+    "ausgeschlossen (Titel: content-marketing)": 1,
+    "ausgeschlossen (Titel: content marketing)": 2,
+    "ausgeschlossen (Titel: studentische)": 9,
+    "ausgeschlossen (Titel: auszubildende)": 4,
+    "ausgeschlossen (Titel: social-media-manager)": 1,
+    "älter als 60 Tage": 35,
+    "ausgeschlossen (Titel: wahlstation)": 7,
+    "ausgeschlossen (Titel: initiativbewerbung)": 8,
+    "ausgeschlossen (Titel: referendar)": 4,
+    "ausgeschlossen (Titel: aushilfe)": 1,
+    "ausgeschlossen (Titel: duales studium)": 3,
+    "ausgeschlossen (Titel: minijob)": 1
+   }
+  },
+  "arbeitsagentur": {
+   "stellen": 7,
+   "gefunden": 808,
+   "aufrufe": 75,
+   "aussortiert": {
+    "titel passt zu keiner rolle oder ausgeschlossen": 664,
+    "ausgeschlossen (Beruf: helfer)": 31,
+    "ausgeschlossen (Beruf: ingenieur)": 57,
+    "ausgeschlossen (Beruf: schausteller)": 2,
+    "ausgeschlossen (Beruf: hausmeister)": 2,
+    "ausgeschlossen (Beruf: animateur)": 3,
+    "ausgeschlossen (Beruf: barmeister)": 1,
+    "ausgeschlossen (Beruf: zugsteward)": 1,
+    "minijob": 3,
+    "ausgeschlossen (Beruf: hostess)": 1,
+    "ausgeschlossen (Beruf: fmea)": 1,
+    "ausgeschlossen (Beruf: verkäufer)": 19,
+    "ausgeschlossen (Beruf: informatiker)": 11,
+    "ort passt nicht": 3,
+    "ausgeschlossen (Beruf: kundendienstberater)": 2
+   }
+  }
+ },
+ "fehler": [
+  "DWDL.de: Abruf fehlgeschlagen: HTTPSConnectionPool(host='www.dwdl.de', port=443): Max retries exceeded with url: /jobboerse/alle-anzeigen.html?typ=alle (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dwdl.de', port=443) at 0x7e29c46398b0>, 'Connection to www.dwdl.de timed out. (connect timeout=30)'))",
+  "btf (bildundtonfabrik): keine einzige Stelle gelesen – Seite geändert? Bitte prüfen."
+ ]
+}

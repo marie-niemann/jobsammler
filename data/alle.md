@@ -1,6 +1,6 @@
 # Alle offenen Stellen (19)
 
-Stand: 24.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 25.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
 **Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
 
