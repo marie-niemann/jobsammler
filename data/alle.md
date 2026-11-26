@@ -1,8 +1,8 @@
-# Alle offenen Stellen (19)
+# Alle offenen Stellen (18)
 
-Stand: 25.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 26.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (5)](#leitung-redaktion--show-5)
+**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
 
 ## Moderation & Host vor der Kamera (9)
 
@@ -51,14 +51,14 @@ Stand: 25.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 
 ## Shows & Formate entwickeln (2)
 
+- **[Development Producer (m/w/d)](https://www.dwdl.de/jobboerse/43602_nordpolarisgmbh.html)** 🆕  
+  NORDPOLARIS GmbH · München
+  <sub>Quelle: DWDL.de · gefunden am 2026-11-26</sub>
 - **[Executive Producer:in Development (m/w/d)](https://www.dwdl.de/jobboerse/43499_filmreiftvgmbh.html)**  
   FILMREIF TV GmbH · Hamburg
   <sub>Quelle: DWDL.de · gefunden am 2026-11-14</sub>
-- **[TV-Autor/in - Realisator/in (m/w/d) | Reportage, Dokumentation & Formatentwicklung](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003733811-S)**  
-  Novo Film GmbH · Hannover
-  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-09-20 · gefunden am 2026-11-14</sub>
 
-## Leitung Redaktion / Show (5)
+## Leitung Redaktion / Show (4)
 
 - **[Redaktionsleitung Social Media (m/w/d)](https://deutschlandradio.softgarden.io/job/68625908/Redaktionsleitung-Social-Media-m-w-d-)**  
   Deutschlandradio · Köln | Berlin
@@ -72,6 +72,3 @@ Stand: 25.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Head of Social Media & Content (m/w/d)](https://www.newsroom.de/jobs/aktuelle-jobs/online-social-media-27/head-of-social-media-content-mwd-571960/)**  
   newsroom.de · Hannover
   <sub>Quelle: newsroom.de · veröffentlicht 2026-11-18 · gefunden am 2026-11-23</sub>
-- **[Chef vom Dienst (USA) (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-966646323-S)**  
-  RTL Deutschland GmbH · Ort unbekannt
-  <sub>Quelle: Arbeitsagentur · veröffentlicht 2026-08-27 · gefunden am 2026-11-14 · ⚠️ Ort prüfen</sub>
