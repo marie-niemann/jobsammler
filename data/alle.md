@@ -1,10 +1,10 @@
-# Alle offenen Stellen (18)
+# Alle offenen Stellen (17)
 
-Stand: 26.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
+Stand: 27.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.md)
 
-**Rollen:** [Moderation & Host vor der Kamera (9)](#moderation--host-vor-der-kamera-9) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
+**Rollen:** [Moderation & Host vor der Kamera (8)](#moderation--host-vor-der-kamera-8) · [Castings, Werbung & Model (2)](#castings-werbung--model-2) · [Musik & Performance (1)](#musik--performance-1) · [Shows & Formate entwickeln (2)](#shows--formate-entwickeln-2) · [Leitung Redaktion / Show (4)](#leitung-redaktion--show-4)
 
-## Moderation & Host vor der Kamera (9)
+## Moderation & Host vor der Kamera (8)
 
 - **[Redakteur / Moderator / Video Content Creator (m/w/d)](https://www.radioszene.de/217913/sunshine-live-redakteur-moderator-video-content-creator.html)**  
   SUNSHINE LIVE · Berlin
@@ -24,9 +24,6 @@ Stand: 26.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 - **[Radio-Moderator*in für Frühsendung](https://www.radioszene.de/218828/hr1-radio-moderatorin-fruehsendung.html)**  
   hr1 · Frankfurt
   <sub>Quelle: RADIOSZENE · veröffentlicht 2026-10-29 · gefunden am 2026-11-14 · ⚠️ Ort aus dem Anzeigentext</sub>
-- **[Radio-Moderator*in in freier Mitarbeit für unsere Frühsendung](https://www.dwdl.de/jobboerse/43493_hr1.html)**  
-  hr1 · Frankfurt
-  <sub>Quelle: DWDL.de · gefunden am 2026-11-14</sub>
 - **[Morgenmoderator/-Redakteur (m/w/d)](https://www.radioszene.de/219215/antenne-muenster-morgenmoderator-redakteur.html)**  
   ANTENNE MÜNSTER · Ort unbekannt
   <sub>Quelle: RADIOSZENE · veröffentlicht 2026-11-13 · gefunden am 2026-11-14 · ⚠️ Ort prüfen</sub>
@@ -51,7 +48,7 @@ Stand: 26.11.2026 · 🆕 = heute neu · Nur die neuen des Tages: [neu.md](neu.m
 
 ## Shows & Formate entwickeln (2)
 
-- **[Development Producer (m/w/d)](https://www.dwdl.de/jobboerse/43602_nordpolarisgmbh.html)** 🆕  
+- **[Development Producer (m/w/d)](https://www.dwdl.de/jobboerse/43602_nordpolarisgmbh.html)**  
   NORDPOLARIS GmbH · München
   <sub>Quelle: DWDL.de · gefunden am 2026-11-26</sub>
 - **[Executive Producer:in Development (m/w/d)](https://www.dwdl.de/jobboerse/43499_filmreiftvgmbh.html)**  

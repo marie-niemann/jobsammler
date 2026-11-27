@@ -1,15 +1,15 @@
 {
- "datum": "2026-11-26",
- "gestartet": "2026-11-26T06:22:07+01:00",
+ "datum": "2026-11-27",
+ "gestartet": "2026-11-27T06:20:52+01:00",
  "dauerSekunden": 107,
- "offen": 18,
- "neuHeute": 1,
- "geschlossenHeute": 2,
- "geschlossenInDatei": 11,
+ "offen": 17,
+ "neuHeute": 0,
+ "geschlossenHeute": 1,
+ "geschlossenInDatei": 12,
  "offenProQuelle": {
   "Arbeitsagentur": 5,
-  "DWDL.de": 4,
   "RADIOSZENE": 4,
+  "DWDL.de": 3,
   "newsroom.de": 1,
   "BR": 1,
   "Hessischer Rundfunk": 1,
@@ -17,7 +17,7 @@
   "Deutschlandradio": 1
  },
  "offenProRolle": {
-  "host": 9,
+  "host": 8,
   "leitung": 4,
   "format": 2,
   "casting": 2,
@@ -55,16 +55,16 @@
  ],
  "quellen": {
   "firmen_und_feeds": {
-   "stellen": 15,
-   "aufrufe": 68,
+   "stellen": 14,
+   "aufrufe": 69,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
      "passend": 3,
      "beispiele": [
-      "Pflichtpraktikum als Marketing-Manager im B2B (m/w/d) | newsroom.de | Bochum",
-      "Praktikum Marketing (m/w/d) | newsroom.de | 72070 Tübingen",
-      "Product Management Lead (m/w/d) | newsroom.de | Künzell"
+      "Praktikum - Online Marketing / Social Media / Kommunikation - Nachhaltigkeits Start-Up | newsroom.de | 10829 Berlin",
+      "Praktikum für Studierende: Junior Consultant Marketing (m,w,d) | newsroom.de | 72072 Tübingen",
+      "Pflichtpraktikum als Marketing-Manager im B2B (m/w/d) | newsroom.de | Bochum"
      ]
     },
     "RADIOSZENE": {
@@ -78,7 +78,7 @@
     },
     "DWDL.de": {
      "gesamt": 96,
-     "passend": 4,
+     "passend": 3,
      "beispiele": [
       "Business Development Manager Brands & Content Creator (m/w/d) | AlwaysOn Production GmbH | Hamburg",
       "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
@@ -86,39 +86,39 @@
      ]
     },
     "rbb": {
-     "gesamt": 44,
+     "gesamt": 45,
      "passend": 0,
      "beispiele": [
+      "DISTRIBUTIONSMANAGER*IN IM PODCAST-TEAM | rbb | Berlin",
       "ELEKTROINGENIEUR*IN IN DER GEBÄUDETECHNIK | rbb | Berlin",
-      "Studentische Aushilfe in freier Mitarbeit | rbb | Berlin",
-      "REDAKTIONSASSISTENT*IN | rbb | Frankfurt (Oder)"
+      "Studentische Aushilfe in freier Mitarbeit | rbb | Berlin"
      ]
     },
     "NDR": {
-     "gesamt": 23,
+     "gesamt": 24,
      "passend": 0,
      "beispiele": [
-      "Archivar*in | NDR | Hannover",
-      "Abteilungsleiter*in Digitales | NDR | Hannover",
-      "Redakteur*in (Schwerpunkt No-Hate) | NDR | Hamburg, hybrides Arbeiten möglich"
+      "Talent Acquisition Specialist (m/w/d) | NDR | w",
+      "Initiativbewerbung für ein Praktikum im Landesfunkhaus Niedersachsen / Hannover | NDR | Hannover",
+      "Archivar*in | NDR | Hannover"
      ]
     },
     "BR": {
-     "gesamt": 39,
+     "gesamt": 41,
      "passend": 1,
      "beispiele": [
-      "Redakteur (m/w/d) in der Redaktion Dokumentationen | BR | München - Freimann",
-      "Mediengestalter (w/m/d) mit Fokus Audio | BR | Nürnberg",
-      "Rechtsanwaltsfachangestellter/ Rechtsfachwirt (w/m/d) für Kanzlei- und Vertragsmanagement | BR | München - Funkhaus"
+      "Assistenz (m/w/d) in der Redaktion Digitales und Dialog (Elternzeitvertretung) | BR | München - Freimann",
+      "Programmassistenz (m/w/d) im Internationalen Programmaustausch (Elternzeitvertretung) | BR | München - Funkhaus",
+      "Redakteur (m/w/d) in der Redaktion Dokumentationen | BR | München - Freimann"
      ]
     },
     "ZDF": {
      "gesamt": 26,
      "passend": 0,
      "beispiele": [
-      "Praktikant*in Red. Comedy & Kabarett (02/2027 - 10/2027) | ZDF | Mainz",
-      "Techniker*in / Bildtechniker*in | ZDF | Berlin",
-      "Praktikum Landesstudio Hessen (04/2027 - 05/2027) | ZDF | Wiesbaden"
+      "SAP Softwareentwickler*in FI / ABAP | ZDF | Mainz",
+      "Werkstudent*in (Kabelhilfe) | ZDF | Mainz",
+      "Revisor*in / Auditor*in (Schwerpunkt: Fernsehproduktions- und Medientechnik) | ZDF | Mainz"
      ]
     },
     "ZDF Digital": {
@@ -224,13 +224,13 @@
      "gesamt": 39,
      "passend": 0,
      "beispiele": [
-      "Projekt-Koordinator (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Köln, DE, 50667",
-      "Senior Manager Tax Reporting (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802",
-      "Praktikum Digital-Redaktion (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | München, DE, 80802"
+      "Director Account Management (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117",
+      "Senior Warehouse Technology Specialist (m/f/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117",
+      "Senior Business Automation Developer (m/f/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 40,
+     "gesamt": 39,
      "passend": 0,
      "beispiele": [
       "Ausbildung Kaufleute für Marketingkommunikation | RTL Deutschland | Köln, Picassoplatz 1, Germany",
@@ -248,18 +248,19 @@
      ]
     },
     "Banijay Germany (mit Brainpool, Good Times)": {
-     "gesamt": 22,
+     "gesamt": 24,
      "passend": 0,
      "beispiele": [
-      "Initiativbewerbung (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "Mitarbeiter Lagerlogistik (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln",
-      "(Senior) Manager Sales & Client Partnerships (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
+      "Praktikum (w/m/d) Requisite | Banijay Germany (mit Brainpool, Good Times) | Köln",
+      "Assistant Artist Manager (m/w/d) | Banijay Germany (mit Brainpool, Good Times) | Münster",
+      "Initiativbewerbung (w/m/d) | Banijay Germany (mit Brainpool, Good Times) | Köln"
      ]
     },
     "EndemolShine Germany": {
-     "gesamt": 2,
+     "gesamt": 3,
      "passend": 0,
      "beispiele": [
+      "Praktikum (w/m/d) Requisite | EndemolShine Germany | Köln",
       "Initiativbewerbungen (w/m/d) | EndemolShine Germany | Köln",
       "Pflicht/-Orientierungspraktikant Redaktion (w/m/d) | EndemolShine Germany | Köln"
      ]
@@ -273,9 +274,11 @@
      ]
     },
     "btf (bildundtonfabrik)": {
-     "gesamt": 0,
+     "gesamt": 1,
      "passend": 0,
-     "beispiele": []
+     "beispiele": [
+      "Praktikant:in Szenenbild (all gender) | btf (bildundtonfabrik) | Köln"
+     ]
     },
     "ITV Studios Germany": {
      "gesamt": 1,
@@ -286,13 +289,14 @@
     }
    },
    "aussortiert": {
-    "ausgeschlossen (Titel: praktik)": 172,
-    "titel passt zu keiner rolle": 1023,
+    "ausgeschlossen (Titel: online marketing)": 24,
+    "ausgeschlossen (Titel: praktik)": 176,
+    "titel passt zu keiner rolle": 1026,
+    "ausgeschlossen (Titel: online-marketing)": 6,
     "ausgeschlossen (Titel: ausbildung)": 55,
-    "ausgeschlossen (Titel: online marketing)": 23,
     "ausgeschlossen (Titel: performance marketing)": 11,
     "ort passt nicht": 10,
-    "ausgeschlossen (Titel: werkstudent)": 35,
+    "ausgeschlossen (Titel: werkstudent)": 34,
     "ausgeschlossen (Titel: working student)": 3,
     "ausgeschlossen (Titel: trainee)": 8,
     "ausgeschlossen (Titel: volontär)": 18,
@@ -300,7 +304,6 @@
     "ausgeschlossen (Titel: influencer marketing)": 8,
     "ausgeschlossen (Titel: social media marketing)": 4,
     "ausgeschlossen (Titel: volontariat)": 14,
-    "ausgeschlossen (Titel: online-marketing)": 5,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: content marketing)": 2,
     "ausgeschlossen (Titel: studentische)": 9,
@@ -317,28 +320,25 @@
   },
   "arbeitsagentur": {
    "stellen": 5,
-   "gefunden": 804,
+   "gefunden": 801,
    "aufrufe": 75,
    "aussortiert": {
     "titel passt zu keiner rolle oder ausgeschlossen": 661,
-    "ausgeschlossen (Beruf: helfer)": 31,
-    "ausgeschlossen (Beruf: ingenieur)": 57,
-    "ausgeschlossen (Beruf: schausteller)": 2,
+    "ausgeschlossen (Beruf: helfer)": 28,
+    "ausgeschlossen (Beruf: ingenieur)": 59,
+    "ausgeschlossen (Beruf: schausteller)": 1,
     "ausgeschlossen (Beruf: hausmeister)": 2,
     "ausgeschlossen (Beruf: animateur)": 3,
     "ausgeschlossen (Beruf: barmeister)": 1,
-    "ausgeschlossen (Beruf: zugsteward)": 1,
     "minijob": 3,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
-    "ausgeschlossen (Beruf: verkäufer)": 19,
-    "ausgeschlossen (Beruf: informatiker)": 12,
+    "ausgeschlossen (Beruf: verkäufer)": 18,
+    "ausgeschlossen (Beruf: informatiker)": 13,
     "ort passt nicht": 3,
     "ausgeschlossen (Beruf: kundendienstberater)": 2
    }
   }
  },
- "fehler": [
-  "btf (bildundtonfabrik): keine einzige Stelle gelesen – Seite geändert? Bitte prüfen."
- ]
+ "fehler": []
 }
