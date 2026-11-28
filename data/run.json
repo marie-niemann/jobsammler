@@ -1,10 +1,10 @@
 {
- "datum": "2026-11-27",
- "gestartet": "2026-11-27T06:20:52+01:00",
- "dauerSekunden": 107,
+ "datum": "2026-11-28",
+ "gestartet": "2026-11-28T06:11:28+01:00",
+ "dauerSekunden": 109,
  "offen": 17,
  "neuHeute": 0,
- "geschlossenHeute": 1,
+ "geschlossenHeute": 0,
  "geschlossenInDatei": 12,
  "offenProQuelle": {
   "Arbeitsagentur": 5,
@@ -56,15 +56,15 @@
  "quellen": {
   "firmen_und_feeds": {
    "stellen": 14,
-   "aufrufe": 69,
+   "aufrufe": 68,
    "pro_quelle": {
     "newsroom.de": {
      "gesamt": 1000,
      "passend": 3,
      "beispiele": [
-      "Praktikum - Online Marketing / Social Media / Kommunikation - Nachhaltigkeits Start-Up | newsroom.de | 10829 Berlin",
-      "Praktikum für Studierende: Junior Consultant Marketing (m,w,d) | newsroom.de | 72072 Tübingen",
-      "Pflichtpraktikum als Marketing-Manager im B2B (m/w/d) | newsroom.de | Bochum"
+      "Praktikant Marktforschung - Business Intelligence & Analytics (w/m/d) | newsroom.de | Frankfurt am Main",
+      "Praktikant:in Marktforschung (m/w/d) | newsroom.de | Stuttgart",
+      "Leitung Marketing & Kommunikation (m/w/d) – Achern | newsroom.de | Achern"
      ]
     },
     "RADIOSZENE": {
@@ -77,16 +77,16 @@
      ]
     },
     "DWDL.de": {
-     "gesamt": 96,
+     "gesamt": 99,
      "passend": 3,
      "beispiele": [
+      "Programmliche Referent:in der Geschäftsführung (m/w/d) | ARD Degeto Film GmbH | Frankfurt am Main",
       "Business Development Manager Brands & Content Creator (m/w/d) | AlwaysOn Production GmbH | Hamburg",
-      "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln",
-      "Senior Channel Manager & Channel Sales (m/w/d) | ARD Plus GmbH | Köln"
+      "Senior Sales Manager VoD (m/w/d) | ARD Plus GmbH | Köln"
      ]
     },
     "rbb": {
-     "gesamt": 45,
+     "gesamt": 37,
      "passend": 0,
      "beispiele": [
       "DISTRIBUTIONSMANAGER*IN IM PODCAST-TEAM | rbb | Berlin",
@@ -95,12 +95,12 @@
      ]
     },
     "NDR": {
-     "gesamt": 24,
+     "gesamt": 23,
      "passend": 0,
      "beispiele": [
+      "Praktikum für Erwachsene in der Redaktion Visite/ARD Gesund | NDR | Hamburg",
       "Talent Acquisition Specialist (m/w/d) | NDR | w",
-      "Initiativbewerbung für ein Praktikum im Landesfunkhaus Niedersachsen / Hannover | NDR | Hannover",
-      "Archivar*in | NDR | Hannover"
+      "Initiativbewerbung für ein Praktikum im Landesfunkhaus Niedersachsen / Hannover | NDR | Hannover"
      ]
     },
     "BR": {
@@ -116,9 +116,9 @@
      "gesamt": 26,
      "passend": 0,
      "beispiele": [
+      "Praktikum Redaktion Das kleine Fernsehspiel (03/2027-04/2027) | ZDF | Mainz",
       "SAP Softwareentwickler*in FI / ABAP | ZDF | Mainz",
-      "Werkstudent*in (Kabelhilfe) | ZDF | Mainz",
-      "Revisor*in / Auditor*in (Schwerpunkt: Fernsehproduktions- und Medientechnik) | ZDF | Mainz"
+      "Werkstudent*in Ereignisred (Bonn) | ZDF | Bonn"
      ]
     },
     "ZDF Digital": {
@@ -131,7 +131,7 @@
      ]
     },
     "Hessischer Rundfunk": {
-     "gesamt": 12,
+     "gesamt": 11,
      "passend": 1,
      "beispiele": [
       "Redaktionspraktikum zum Wettbewerb \"Meine Ausbildung\" | Hessischer Rundfunk | Frankfurt am Main",
@@ -140,12 +140,12 @@
      ]
     },
     "Deutschlandradio": {
-     "gesamt": 4,
+     "gesamt": 5,
      "passend": 1,
      "beispiele": [
+      "Studentische Hilfskraft (m/w/d) - Freienvertretung | Deutschlandradio | Köln",
       "Redakteur/in (m/w/d) | Deutschlandradio | Köln",
-      "Redaktionsleitung Social Media (m/w/d) | Deutschlandradio | Köln,, Berlin",
-      "Praktikant/in (m/w/d) in der Abteilung Dokumentation und Archive | Deutschlandradio | Berlin,, Köln"
+      "Redaktionsleitung Social Media (m/w/d) | Deutschlandradio | Köln,, Berlin"
      ]
     },
     "Radio Bremen": {
@@ -221,21 +221,21 @@
      ]
     },
     "ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven)": {
-     "gesamt": 39,
+     "gesamt": 41,
      "passend": 0,
      "beispiele": [
-      "Director Account Management (m/w/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117",
+      "IT Support Specialist (w/m/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Freiburg im Breisgau, DE, 79100",
       "Senior Warehouse Technology Specialist (m/f/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117",
-      "Senior Business Automation Developer (m/f/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117"
+      "Business Automation Developer (m/f/d) | ProSiebenSat.1 (mit Joyn, Seven.One, Studio71, Redseven) | Berlin, DE, 10117"
      ]
     },
     "RTL Deutschland": {
-     "gesamt": 39,
+     "gesamt": 40,
      "passend": 0,
      "beispiele": [
-      "Ausbildung Kaufleute für Marketingkommunikation | RTL Deutschland | Köln, Picassoplatz 1, Germany",
-      "Ausbildung Kaufleute für Büromanagement (w/m/d) | RTL Deutschland | Hamburg, Strassenbahnring 18, Germany",
-      "Director AI Transformation (m/f/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
+      "Digital Pricing Specialist | RTL Deutschland | Budapest, Dózsa György út 84/A, Hungary",
+      "Solution Consultant (m/f/d) | RTL Deutschland | Milan, Viale Luigi Majno, 17, Italy",
+      "Personaldisponent (w/m/d) | RTL Deutschland | Köln, Picassoplatz 1, Germany"
      ]
     },
     "UFA (mit UFA Show & Factual)": {
@@ -274,10 +274,11 @@
      ]
     },
     "btf (bildundtonfabrik)": {
-     "gesamt": 1,
+     "gesamt": 2,
      "passend": 0,
      "beispiele": [
-      "Praktikant:in Szenenbild (all gender) | btf (bildundtonfabrik) | Köln"
+      "Praktikant:in Szenenbild (all gender) | btf (bildundtonfabrik) | Köln",
+      "Ausbildung Mediengestalter:in Bild und Ton (all gender) | btf (bildundtonfabrik) | Köln"
      ]
     },
     "ITV Studios Germany": {
@@ -289,27 +290,27 @@
     }
    },
    "aussortiert": {
+    "ausgeschlossen (Titel: praktik)": 177,
+    "titel passt zu keiner rolle": 1019,
+    "ausgeschlossen (Titel: ausbildung)": 58,
+    "ausgeschlossen (Titel: social media manager)": 18,
     "ausgeschlossen (Titel: online marketing)": 24,
-    "ausgeschlossen (Titel: praktik)": 176,
-    "titel passt zu keiner rolle": 1026,
-    "ausgeschlossen (Titel: online-marketing)": 6,
-    "ausgeschlossen (Titel: ausbildung)": 55,
-    "ausgeschlossen (Titel: performance marketing)": 11,
+    "ausgeschlossen (Titel: online-marketing)": 5,
+    "ausgeschlossen (Titel: performance marketing)": 9,
     "ort passt nicht": 10,
-    "ausgeschlossen (Titel: werkstudent)": 34,
+    "ausgeschlossen (Titel: werkstudent)": 35,
     "ausgeschlossen (Titel: working student)": 3,
     "ausgeschlossen (Titel: trainee)": 8,
     "ausgeschlossen (Titel: volontär)": 18,
-    "ausgeschlossen (Titel: social media manager)": 18,
     "ausgeschlossen (Titel: influencer marketing)": 8,
     "ausgeschlossen (Titel: social media marketing)": 4,
     "ausgeschlossen (Titel: volontariat)": 14,
     "ausgeschlossen (Titel: content-marketing)": 1,
     "ausgeschlossen (Titel: content marketing)": 2,
-    "ausgeschlossen (Titel: studentische)": 9,
-    "ausgeschlossen (Titel: auszubildende)": 4,
+    "ausgeschlossen (Titel: studentische)": 10,
+    "ausgeschlossen (Titel: auszubildende)": 5,
     "ausgeschlossen (Titel: social-media-manager)": 1,
-    "älter als 60 Tage": 35,
+    "älter als 60 Tage": 36,
     "ausgeschlossen (Titel: wahlstation)": 7,
     "ausgeschlossen (Titel: initiativbewerbung)": 9,
     "ausgeschlossen (Titel: referendar)": 4,
@@ -320,23 +321,22 @@
   },
   "arbeitsagentur": {
    "stellen": 5,
-   "gefunden": 801,
+   "gefunden": 804,
    "aufrufe": 75,
    "aussortiert": {
-    "titel passt zu keiner rolle oder ausgeschlossen": 661,
+    "titel passt zu keiner rolle oder ausgeschlossen": 665,
     "ausgeschlossen (Beruf: helfer)": 28,
     "ausgeschlossen (Beruf: ingenieur)": 59,
     "ausgeschlossen (Beruf: schausteller)": 1,
-    "ausgeschlossen (Beruf: hausmeister)": 2,
+    "ausgeschlossen (Beruf: hausmeister)": 1,
     "ausgeschlossen (Beruf: animateur)": 3,
-    "ausgeschlossen (Beruf: barmeister)": 1,
     "minijob": 3,
     "ausgeschlossen (Beruf: hostess)": 1,
     "ausgeschlossen (Beruf: fmea)": 1,
-    "ausgeschlossen (Beruf: verkäufer)": 18,
-    "ausgeschlossen (Beruf: informatiker)": 13,
+    "ausgeschlossen (Beruf: verkäufer)": 21,
+    "ausgeschlossen (Beruf: informatiker)": 12,
     "ort passt nicht": 3,
-    "ausgeschlossen (Beruf: kundendienstberater)": 2
+    "ausgeschlossen (Beruf: kundendienstberater)": 1
    }
   }
  },
